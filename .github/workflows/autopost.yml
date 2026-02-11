@@ -1,3 +1,4 @@
+name: Autopost SaaS CI + Engine Run
 name: WordPress Auto Post
 
 on:
@@ -6,6 +7,7 @@ on:
     - cron: "0 */6 * * *"
 
 jobs:
+  platform-and-engine:
   autopost:
     runs-on: ubuntu-latest
 
@@ -23,6 +25,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Validate syntax
+        run: |
+          python -m py_compile autopost.py
+          python -m py_compile app/main.py app/worker.py app/core/*.py app/routes/*.py app/services/*.py engine/*.py
+
+      - name: Optional autonomous engine execution
       - name: Run autonomous content engine
       - name: Run autopost engine
         env:
@@ -32,6 +40,12 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          if [ -n "$WP_URL" ] && [ -n "$WP_USER" ] && [ -n "$WP_APP_PASSWORD" ] && [ -n "$OPENAI_API_KEY" ]; then
+            python autopost.py
+          else
+            echo "Skipping engine run: required secrets not configured."
+          fi
 
           POSTS_PER_RUN: ${{ secrets.POSTS_PER_RUN }}
           POST_STATUS: ${{ secrets.POST_STATUS }}
