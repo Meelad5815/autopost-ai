@@ -23,6 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Run autonomous content engine
       - name: Run autopost engine
         env:
           WP_URL: ${{ secrets.WP_URL }}
@@ -31,6 +32,35 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+
+          POSTS_PER_RUN: ${{ secrets.POSTS_PER_RUN }}
+          POST_STATUS: ${{ secrets.POST_STATUS }}
+          SCHEDULE_INTERVAL_MINUTES: ${{ secrets.SCHEDULE_INTERVAL_MINUTES }}
+          REQUEST_TIMEOUT: ${{ secrets.REQUEST_TIMEOUT }}
+          MAX_PUBLISH_RETRIES: ${{ secrets.MAX_PUBLISH_RETRIES }}
+
+          NICHES_PER_RUN: ${{ secrets.NICHES_PER_RUN }}
+          CALENDAR_DAYS: ${{ secrets.CALENDAR_DAYS }}
+          REFRESH_AGE_DAYS: ${{ secrets.REFRESH_AGE_DAYS }}
+
+          ENABLE_NICHE_INTELLIGENCE: ${{ secrets.ENABLE_NICHE_INTELLIGENCE }}
+          ENABLE_COMPETITOR_ANALYSIS: ${{ secrets.ENABLE_COMPETITOR_ANALYSIS }}
+          ENABLE_SERP_SIMULATION: ${{ secrets.ENABLE_SERP_SIMULATION }}
+          ENABLE_CONTENT_CALENDAR: ${{ secrets.ENABLE_CONTENT_CALENDAR }}
+          ENABLE_TOPIC_CLUSTERING: ${{ secrets.ENABLE_TOPIC_CLUSTERING }}
+          ENABLE_CONTENT_REFRESH: ${{ secrets.ENABLE_CONTENT_REFRESH }}
+          ENABLE_AFFILIATE_AUTOMATION: ${{ secrets.ENABLE_AFFILIATE_AUTOMATION }}
+          ENABLE_LEAD_GEN: ${{ secrets.ENABLE_LEAD_GEN }}
+          ENABLE_CONVERSION_OPTIMIZATION: ${{ secrets.ENABLE_CONVERSION_OPTIMIZATION }}
+          ENABLE_SOCIAL_SYNDICATION: ${{ secrets.ENABLE_SOCIAL_SYNDICATION }}
+          ENABLE_SHORT_CONTENT: ${{ secrets.ENABLE_SHORT_CONTENT }}
+          ENABLE_PERFORMANCE_TRACKING: ${{ secrets.ENABLE_PERFORMANCE_TRACKING }}
+          ENABLE_LEARNING_LOOP: ${{ secrets.ENABLE_LEARNING_LOOP }}
+
+          AFFILIATE_URL: ${{ secrets.AFFILIATE_URL }}
+          AFFILIATE_ANCHOR: ${{ secrets.AFFILIATE_ANCHOR }}
+          EMAIL_OPTIN_URL: ${{ secrets.EMAIL_OPTIN_URL }}
+          LEAD_MAGNET_TITLE: ${{ secrets.LEAD_MAGNET_TITLE }}
           POST_TOPIC: ${{ secrets.POST_TOPIC }}
           POSTS_PER_RUN: ${{ secrets.POSTS_PER_RUN }}
           POST_STATUS: ${{ secrets.POST_STATUS }}
