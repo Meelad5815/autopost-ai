@@ -24,6 +24,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run autonomous content engine
+      - name: Run autopost engine
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_USER: ${{ secrets.WP_USER }}
@@ -60,4 +61,18 @@ jobs:
           AFFILIATE_ANCHOR: ${{ secrets.AFFILIATE_ANCHOR }}
           EMAIL_OPTIN_URL: ${{ secrets.EMAIL_OPTIN_URL }}
           LEAD_MAGNET_TITLE: ${{ secrets.LEAD_MAGNET_TITLE }}
+          POST_TOPIC: ${{ secrets.POST_TOPIC }}
+          POSTS_PER_RUN: ${{ secrets.POSTS_PER_RUN }}
+          POST_STATUS: ${{ secrets.POST_STATUS }}
+          SCHEDULE_INTERVAL_MINUTES: ${{ secrets.SCHEDULE_INTERVAL_MINUTES }}
+          TRENDS_GEO: ${{ secrets.TRENDS_GEO }}
+          ENABLE_AFFILIATE_LINKS: ${{ secrets.ENABLE_AFFILIATE_LINKS }}
+          AFFILIATE_URL: ${{ secrets.AFFILIATE_URL }}
+          AFFILIATE_ANCHOR: ${{ secrets.AFFILIATE_ANCHOR }}
+          ENABLE_CTA_BLOCK: ${{ secrets.ENABLE_CTA_BLOCK }}
+          ENABLE_AUTHOR_BOX: ${{ secrets.ENABLE_AUTHOR_BOX }}
+          ENABLE_TABLE_OF_CONTENTS: ${{ secrets.ENABLE_TABLE_OF_CONTENTS }}
+          ENABLE_AUTO_INTERLINK_FUTURE: ${{ secrets.ENABLE_AUTO_INTERLINK_FUTURE }}
+          AUTHOR_NAME: ${{ secrets.AUTHOR_NAME }}
+          AUTHOR_BIO: ${{ secrets.AUTHOR_BIO }}
         run: python autopost.py
