@@ -1,4 +1,6 @@
 name: autopost-ci
+name: Autopost SaaS CI + Engine Run
+name: WordPress Auto Post
 
 on:
   workflow_dispatch:
@@ -14,6 +16,21 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+    - cron: "0 */6 * * *"
+
+jobs:
+  platform-and-engine:
+  autopost:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -26,6 +43,9 @@ jobs:
           python -m py_compile app/main.py app/worker.py app/core/*.py app/routes/*.py app/services/*.py engine/*.py
 
       - name: Optional engine run
+      - name: Optional autonomous engine execution
+      - name: Run autonomous content engine
+      - name: Run autopost engine
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_USER: ${{ secrets.WP_USER }}
@@ -39,3 +59,49 @@ jobs:
           else
             echo "Skipping engine run: missing required secrets."
           fi
+            echo "Skipping engine run: required secrets not configured."
+          fi
+
+          POSTS_PER_RUN: ${{ secrets.POSTS_PER_RUN }}
+          POST_STATUS: ${{ secrets.POST_STATUS }}
+          SCHEDULE_INTERVAL_MINUTES: ${{ secrets.SCHEDULE_INTERVAL_MINUTES }}
+          REQUEST_TIMEOUT: ${{ secrets.REQUEST_TIMEOUT }}
+          MAX_PUBLISH_RETRIES: ${{ secrets.MAX_PUBLISH_RETRIES }}
+
+          NICHES_PER_RUN: ${{ secrets.NICHES_PER_RUN }}
+          CALENDAR_DAYS: ${{ secrets.CALENDAR_DAYS }}
+          REFRESH_AGE_DAYS: ${{ secrets.REFRESH_AGE_DAYS }}
+
+          ENABLE_NICHE_INTELLIGENCE: ${{ secrets.ENABLE_NICHE_INTELLIGENCE }}
+          ENABLE_COMPETITOR_ANALYSIS: ${{ secrets.ENABLE_COMPETITOR_ANALYSIS }}
+          ENABLE_SERP_SIMULATION: ${{ secrets.ENABLE_SERP_SIMULATION }}
+          ENABLE_CONTENT_CALENDAR: ${{ secrets.ENABLE_CONTENT_CALENDAR }}
+          ENABLE_TOPIC_CLUSTERING: ${{ secrets.ENABLE_TOPIC_CLUSTERING }}
+          ENABLE_CONTENT_REFRESH: ${{ secrets.ENABLE_CONTENT_REFRESH }}
+          ENABLE_AFFILIATE_AUTOMATION: ${{ secrets.ENABLE_AFFILIATE_AUTOMATION }}
+          ENABLE_LEAD_GEN: ${{ secrets.ENABLE_LEAD_GEN }}
+          ENABLE_CONVERSION_OPTIMIZATION: ${{ secrets.ENABLE_CONVERSION_OPTIMIZATION }}
+          ENABLE_SOCIAL_SYNDICATION: ${{ secrets.ENABLE_SOCIAL_SYNDICATION }}
+          ENABLE_SHORT_CONTENT: ${{ secrets.ENABLE_SHORT_CONTENT }}
+          ENABLE_PERFORMANCE_TRACKING: ${{ secrets.ENABLE_PERFORMANCE_TRACKING }}
+          ENABLE_LEARNING_LOOP: ${{ secrets.ENABLE_LEARNING_LOOP }}
+
+          AFFILIATE_URL: ${{ secrets.AFFILIATE_URL }}
+          AFFILIATE_ANCHOR: ${{ secrets.AFFILIATE_ANCHOR }}
+          EMAIL_OPTIN_URL: ${{ secrets.EMAIL_OPTIN_URL }}
+          LEAD_MAGNET_TITLE: ${{ secrets.LEAD_MAGNET_TITLE }}
+          POST_TOPIC: ${{ secrets.POST_TOPIC }}
+          POSTS_PER_RUN: ${{ secrets.POSTS_PER_RUN }}
+          POST_STATUS: ${{ secrets.POST_STATUS }}
+          SCHEDULE_INTERVAL_MINUTES: ${{ secrets.SCHEDULE_INTERVAL_MINUTES }}
+          TRENDS_GEO: ${{ secrets.TRENDS_GEO }}
+          ENABLE_AFFILIATE_LINKS: ${{ secrets.ENABLE_AFFILIATE_LINKS }}
+          AFFILIATE_URL: ${{ secrets.AFFILIATE_URL }}
+          AFFILIATE_ANCHOR: ${{ secrets.AFFILIATE_ANCHOR }}
+          ENABLE_CTA_BLOCK: ${{ secrets.ENABLE_CTA_BLOCK }}
+          ENABLE_AUTHOR_BOX: ${{ secrets.ENABLE_AUTHOR_BOX }}
+          ENABLE_TABLE_OF_CONTENTS: ${{ secrets.ENABLE_TABLE_OF_CONTENTS }}
+          ENABLE_AUTO_INTERLINK_FUTURE: ${{ secrets.ENABLE_AUTO_INTERLINK_FUTURE }}
+          AUTHOR_NAME: ${{ secrets.AUTHOR_NAME }}
+          AUTHOR_BIO: ${{ secrets.AUTHOR_BIO }}
+        run: python autopost.py
