@@ -1,9 +1,21 @@
+name: autopost-ci
 name: Autopost SaaS CI + Engine Run
 name: WordPress Auto Post
 
 on:
   workflow_dispatch:
   schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
     - cron: "0 */6 * * *"
 
 jobs:
@@ -30,6 +42,7 @@ jobs:
           python -m py_compile autopost.py
           python -m py_compile app/main.py app/worker.py app/core/*.py app/routes/*.py app/services/*.py engine/*.py
 
+      - name: Optional engine run
       - name: Optional autonomous engine execution
       - name: Run autonomous content engine
       - name: Run autopost engine
@@ -44,6 +57,8 @@ jobs:
           if [ -n "$WP_URL" ] && [ -n "$WP_USER" ] && [ -n "$WP_APP_PASSWORD" ] && [ -n "$OPENAI_API_KEY" ]; then
             python autopost.py
           else
+            echo "Skipping engine run: missing required secrets."
+          fi
             echo "Skipping engine run: required secrets not configured."
           fi
 
