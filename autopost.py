@@ -75,6 +75,27 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s",
     handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler("autopost.log", encoding="utf-8")],
+import requests
+
+from engine.ai import openai_json
+from engine.config import ConfigError, load_config
+from engine.distribution import create_web_story_snippet, social_captions
+from engine.feedback import choose_best_topics, record_post_performance
+from engine.intelligence import (
+    competitor_analysis,
+    detect_profitable_niches,
+    serp_difficulty_simulation,
+)
+from engine.monetization import cta_ab_variant, engagement_score, insert_affiliate_links, insert_lead_gen_block
+from engine.storage import CALENDAR_FILE, KEYWORD_FILE, NICHE_FILE, load_json, save_json, save_run_report, ensure_dirs
+from engine.strategy import detect_old_posts_for_refresh, generate_calendar, select_today_topics
+from engine.wp_client import clean_title, ensure_term, get_posts, near_duplicate, publish_with_retry, schedule_iso
+
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+    handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler("autopost.log", encoding="utf-8")],
 import json
 import logging
 import os
