@@ -1,0 +1,41 @@
+name: autopost-ci
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate syntax
+        run: |
+          python -m py_compile autopost.py
+          python -m py_compile app/main.py app/worker.py app/core/*.py app/routes/*.py app/services/*.py engine/*.py
+
+      - name: Optional engine run
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          if [ -n "$WP_URL" ] && [ -n "$WP_USER" ] && [ -n "$WP_APP_PASSWORD" ] && [ -n "$OPENAI_API_KEY" ]; then
+            python autopost.py
+          else
+            echo "Skipping engine run: missing required secrets."
+          fi
