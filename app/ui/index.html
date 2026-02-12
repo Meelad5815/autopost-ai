@@ -188,6 +188,34 @@
       </div>
 
       <div class="card">
+        <h2>First User Setup</h2>
+        <label>Admin Email</label>
+        <input id="setupEmail" placeholder="you@example.com" />
+        <label>Admin Password</label>
+        <input id="setupPassword" type="password" />
+        <label>Site Name</label>
+        <input id="setupSiteName" placeholder="Primary Site" />
+        <label>WP URL</label>
+        <input id="setupWpUrl" placeholder="https://example.com" />
+        <div class="row">
+          <div>
+            <label>WP User</label>
+            <input id="setupWpUser" />
+          </div>
+          <div>
+            <label>WP App Password</label>
+            <input id="setupWpPass" />
+          </div>
+        </div>
+        <label>Niche</label>
+        <input id="setupNiche" placeholder="Automation, SEO, Tech" />
+        <label>Frequency Hours</label>
+        <input id="setupFreq" value="24" />
+        <button onclick="firstSetup()">Create Admin + Site</button>
+        <div class="status" id="setupStatus"></div>
+      </div>
+
+      <div class="card">
         <h2>Sites</h2>
         <button class="secondary" onclick="loadSites()">Load Sites</button>
         <div class="list" id="sitesList">No data</div>
@@ -376,6 +404,22 @@
         };
         const res = await apiFetch("/sites", { method: "POST", body: JSON.stringify(payload) });
         setStatus("siteStatus", JSON.stringify(res.data));
+      };
+      const firstSetup = async () => {
+        const payload = {
+          email: setupEmail.value,
+          password: setupPassword.value,
+          site: {
+            name: setupSiteName.value,
+            wp_url: setupWpUrl.value,
+            wp_user: setupWpUser.value,
+            wp_app_password: setupWpPass.value,
+            niche: setupNiche.value,
+            frequency_hours: parseInt(setupFreq.value || "24", 10)
+          }
+        };
+        const res = await apiFetch("/ui/first-setup", { method: "POST", body: JSON.stringify(payload) });
+        setStatus("setupStatus", JSON.stringify(res.data));
       };
 
       const loadSites = async () => {
