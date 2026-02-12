@@ -75,6 +75,7 @@
       button.secondary { background: #24364c; color: var(--text); }
       button.danger { background: var(--danger); color: #fff; }
       .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      .row-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
       .list {
         max-height: 260px;
         overflow: auto;
@@ -190,6 +191,9 @@
         <h2>Sites</h2>
         <button class="secondary" onclick="loadSites()">Load Sites</button>
         <div class="list" id="sitesList">No data</div>
+        <label>Pick Site For Actions</label>
+        <select id="siteSelect"></select>
+        <div class="status" id="sitePickStatus"></div>
       </div>
 
       <div class="card">
@@ -220,6 +224,40 @@
         <h2>Published Posts</h2>
         <button class="secondary" onclick="loadPosts()">Load Posts</button>
         <div class="list" id="postsList">No data</div>
+      </div>
+
+      <div class="card">
+        <h2>Health</h2>
+        <div class="row">
+          <button class="secondary" onclick="loadHealth()">Healthz</button>
+          <button class="secondary" onclick="loadAdminHealth()">Admin Health</button>
+        </div>
+        <div class="list" id="healthStatus">No data</div>
+      </div>
+
+      <div class="card">
+        <h2>Billing & Usage</h2>
+        <button class="secondary" onclick="loadUsage()">Load Usage</button>
+        <div class="list" id="usageStatus">No data</div>
+        <label>Change Plan (free/pro/agency)</label>
+        <input id="planName" placeholder="pro" />
+        <button class="secondary" onclick="changePlan()">Change Plan</button>
+        <div class="status" id="planStatus"></div>
+      </div>
+
+      <div class="card">
+        <h2>Admin Controls</h2>
+        <button class="secondary" onclick="loadUsers()">Load Users</button>
+        <div class="list" id="usersList">No data</div>
+        <label>User ID</label>
+        <input id="adminUserId" placeholder="1" />
+        <div class="row">
+          <button class="danger" onclick="suspendUser()">Suspend</button>
+          <button class="secondary" onclick="setLimit()">Set Limit</button>
+        </div>
+        <label>Limit</label>
+        <input id="adminLimit" placeholder="100" />
+        <div class="status" id="adminStatus"></div>
       </div>
 
       <div class="card">
@@ -343,6 +381,21 @@
       const loadSites = async () => {
         const res = await apiFetch("/sites");
         sitesList.textContent = JSON.stringify(res.data, null, 2);
+        const select = document.getElementById("siteSelect");
+        if (!select) return;
+        select.innerHTML = "";
+        (res.data || []).forEach(site => {
+          const opt = document.createElement("option");
+          opt.value = site.id;
+          opt.textContent = `${site.id} - ${site.name}`;
+          select.appendChild(opt);
+        });
+        if ((res.data || []).length) {
+          runSiteId.value = res.data[0].id;
+          setStatus("sitePickStatus", "Site selected");
+        } else {
+          setStatus("sitePickStatus", "No sites available");
+        }
       };
 
       const runNow = async () => {
@@ -368,6 +421,38 @@
       const runUpdateOnly = async () => {
         const res = await apiFetch(`/ui/update-only`, { method: "POST" });
         setStatus("runStatus", JSON.stringify(res.data));
+      };
+      const loadHealth = async () => {
+        const res = await apiFetch("/healthz");
+        healthStatus.textContent = JSON.stringify(res.data, null, 2);
+      };
+      const loadAdminHealth = async () => {
+        const res = await apiFetch("/admin/health");
+        healthStatus.textContent = JSON.stringify(res.data, null, 2);
+      };
+      const loadUsage = async () => {
+        const res = await apiFetch("/billing/usage");
+        usageStatus.textContent = JSON.stringify(res.data, null, 2);
+      };
+      const changePlan = async () => {
+        const plan = planName.value.trim();
+        const res = await apiFetch(`/billing/change-plan/${plan}`, { method: "POST" });
+        setStatus("planStatus", JSON.stringify(res.data));
+      };
+      const loadUsers = async () => {
+        const res = await apiFetch("/admin/users");
+        usersList.textContent = JSON.stringify(res.data, null, 2);
+      };
+      const suspendUser = async () => {
+        const id = adminUserId.value.trim();
+        const res = await apiFetch(`/admin/users/${id}/suspend`, { method: "POST" });
+        setStatus("adminStatus", JSON.stringify(res.data));
+      };
+      const setLimit = async () => {
+        const id = adminUserId.value.trim();
+        const limit = adminLimit.value.trim();
+        const res = await apiFetch(`/admin/users/${id}/limits/${limit}`, { method: "POST" });
+        setStatus("adminStatus", JSON.stringify(res.data));
       };
       const loadJobs = async () => {
         const res = await apiFetch("/automation/jobs");
