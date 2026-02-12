@@ -295,7 +295,20 @@ def main() -> int:
                 posted = publish_with_retry(payload, cfg.wp_url, cfg.wp_user, cfg.wp_app_password, cfg.request_timeout, cfg.max_publish_retries)
                 post_id = int(posted.get("id"))
                 post_url = posted.get("link", "")
-                record_history(history, title, topic, os.getenv("LOCAL_AI_LANGUAGE", "en"), post_url, intent, topic_meta.get("pillar_topic", ""), topic_meta.get("cluster_topic", ""), categories[0] if categories else "", word_count(content_html), "fresh")
+                record_history(
+                    history,
+                    title,
+                    topic,
+                    os.getenv("LOCAL_AI_LANGUAGE", "en"),
+                    post_url,
+                    intent,
+                    topic_meta.get("pillar_topic", ""),
+                    topic_meta.get("cluster_topic", ""),
+                    categories[0] if categories else "",
+                    word_count(content_html),
+                    "fresh",
+                    datetime.now(timezone.utc).isoformat(),
+                )
 
                 record_post_performance(post_id, title, {
                     "topic": topic,

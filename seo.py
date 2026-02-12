@@ -67,6 +67,7 @@ def record_history(
     category: str = "",
     word_count_val: int = 0,
     status: str = "fresh",
+    published_at: str = "",
 ) -> None:
     history.setdefault("titles", []).append(
         {"title": title, "topic": topic, "language": language, "url": url, "intent": intent, "pillar": pillar, "cluster": cluster}
@@ -84,6 +85,7 @@ def record_history(
             "category": category,
             "word_count": word_count_val,
             "status": status,
+            "published_at": published_at,
         }
     )
     history["titles"] = history["titles"][-800:]

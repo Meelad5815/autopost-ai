@@ -10,7 +10,7 @@ Design goals:
 from fastapi import FastAPI
 
 from app.db import Base, engine
-from app.routes import admin, auth, automation, billing, health, sites
+from app.routes import admin, auth, automation, billing, health, sites, ui
 
 
 Base.metadata.create_all(bind=engine)
@@ -23,3 +23,4 @@ app.include_router(sites.router)
 app.include_router(automation.router)
 app.include_router(billing.router)
 app.include_router(admin.router)
+app.include_router(ui.router)

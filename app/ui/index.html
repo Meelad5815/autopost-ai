@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Autopost Control Panel</title>
+    <style>
+      :root {
+        --bg: #0c1219;
+        --panel: #111a24;
+        --panel-2: #152234;
+        --text: #e9f0f6;
+        --muted: #9fb3c8;
+        --accent: #39d98a;
+        --danger: #ff5d5d;
+        --warning: #f6c35e;
+        --border: #1f2e42;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: radial-gradient(1200px 600px at 10% 10%, #16263a 0%, #0c1219 60%, #0c1219 100%);
+        color: var(--text);
+        font-family: "IBM Plex Sans", "Segoe UI", Tahoma, sans-serif;
+      }
+      header {
+        padding: 24px 32px;
+        border-bottom: 1px solid var(--border);
+        display: flex;
+        gap: 16px;
+        align-items: center;
+        justify-content: space-between;
+      }
+      h1 {
+        font-size: 20px;
+        letter-spacing: 0.4px;
+        margin: 0;
+      }
+      .container {
+        padding: 24px 32px 64px;
+        display: grid;
+        gap: 20px;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      }
+      .card {
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 16px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+      }
+      .card h2 {
+        margin: 0 0 12px;
+        font-size: 16px;
+      }
+      label { display: block; font-size: 12px; color: var(--muted); margin: 8px 0 4px; }
+      input, textarea, select {
+        width: 100%;
+        padding: 10px 12px;
+        background: var(--panel-2);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        color: var(--text);
+      }
+      button {
+        margin-top: 10px;
+        padding: 10px 14px;
+        border: none;
+        border-radius: 8px;
+        background: var(--accent);
+        color: #0c1219;
+        font-weight: 600;
+        cursor: pointer;
+      }
+      button.secondary { background: #24364c; color: var(--text); }
+      button.danger { background: var(--danger); color: #fff; }
+      .row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      .list {
+        max-height: 260px;
+        overflow: auto;
+        font-size: 13px;
+        color: var(--muted);
+        border: 1px dashed var(--border);
+        padding: 10px;
+        border-radius: 8px;
+        background: #0d1622;
+      }
+      .status {
+        font-size: 12px;
+        color: var(--muted);
+        margin-top: 6px;
+      }
+      .pill {
+        display: inline-block;
+        padding: 4px 8px;
+        border-radius: 999px;
+        background: #24364c;
+        color: var(--text);
+        font-size: 11px;
+        margin-right: 6px;
+      }
+      .badge { padding: 4px 8px; border-radius: 6px; font-size: 11px; }
+      .badge.ok { background: #1f7a4f; color: #dff7ea; }
+      .badge.warn { background: #7a5a1f; color: #fff0d5; }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 10px;
+      }
+      .mini {
+        background: #0d1622;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 10px;
+      }
+      .chart {
+        height: 60px;
+        width: 100%;
+        display: block;
+        background: linear-gradient(180deg, #1c2d44 0%, #0d1622 100%);
+        border-radius: 8px;
+        margin-top: 6px;
+      }
+      .list code { color: #c4d8ef; }
+      .split { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      .log {
+        max-height: 220px;
+        overflow: auto;
+        font-family: Consolas, "SFMono-Regular", monospace;
+        font-size: 11px;
+        background: #0b141f;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        padding: 8px;
+        color: #b9cbe0;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Autopost Control Panel</h1>
+      <div>
+        <span class="pill" id="authState">Not Authenticated</span>
+        <button class="secondary" onclick="loadAll()">Refresh</button>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="card">
+        <h2>Authentication</h2>
+        <label>Email</label>
+        <input id="email" placeholder="you@example.com" />
+        <label>Password</label>
+        <input id="password" type="password" />
+        <div class="row">
+          <button onclick="register()">Register</button>
+          <button class="secondary" onclick="login()">Login</button>
+        </div>
+        <label>Token (auto-saved)</label>
+        <textarea id="token" rows="3"></textarea>
+        <button class="secondary" onclick="saveToken()">Save Token</button>
+        <div class="status" id="authStatus"></div>
+      </div>
+
+      <div class="card">
+        <h2>Create Site</h2>
+        <label>Name</label>
+        <input id="siteName" placeholder="My Site" />
+        <label>WP URL</label>
+        <input id="siteUrl" placeholder="https://example.com" />
+        <div class="row">
+          <div>
+            <label>WP User</label>
+            <input id="siteUser" />
+          </div>
+          <div>
+            <label>WP App Password</label>
+            <input id="sitePass" />
+          </div>
+        </div>
+        <label>Niche</label>
+        <input id="siteNiche" placeholder="Automation, SEO, Tech" />
+        <label>Frequency Hours</label>
+        <input id="siteFreq" value="24" />
+        <button onclick="createSite()">Create Site</button>
+        <div class="status" id="siteStatus"></div>
+      </div>
+
+      <div class="card">
+        <h2>Sites</h2>
+        <button class="secondary" onclick="loadSites()">Load Sites</button>
+        <div class="list" id="sitesList">No data</div>
+      </div>
+
+      <div class="card">
+        <h2>Automation</h2>
+        <label>Site ID</label>
+        <input id="runSiteId" placeholder="1" />
+        <div class="row">
+          <button onclick="runNow()">Run Now</button>
+          <button class="secondary" onclick="startSite()">Start</button>
+          <button class="secondary" onclick="stopSite()">Stop</button>
+        </div>
+        <div class="status" id="runStatus"></div>
+        <label>Manual Slot Time (HH:MM)</label>
+        <input id="slotTime" placeholder="10:00" />
+        <div class="row">
+          <button class="secondary" onclick="runSlot()">Run Slot</button>
+          <button class="secondary" onclick="runUpdateOnly()">Update Only</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Jobs</h2>
+        <button class="secondary" onclick="loadJobs()">Load Jobs</button>
+        <div class="list" id="jobsList">No data</div>
+      </div>
+
+      <div class="card">
+        <h2>Published Posts</h2>
+        <button class="secondary" onclick="loadPosts()">Load Posts</button>
+        <div class="list" id="postsList">No data</div>
+      </div>
+
+      <div class="card">
+        <h2>Schedule & Topics</h2>
+        <div class="grid">
+          <div class="mini">
+            <label>Timezone</label>
+            <input id="scheduleTz" placeholder="Asia/Karachi" />
+          </div>
+          <div class="mini">
+            <label>Slots (HH:MM, comma)</label>
+            <input id="scheduleSlots" placeholder="10:00,12:00,14:00,16:00,18:00" />
+          </div>
+        </div>
+        <label>Topics (one per line)</label>
+        <textarea id="scheduleTopics" rows="10"></textarea>
+        <div class="row">
+          <button onclick="loadSchedule()">Load</button>
+          <button onclick="saveSchedule()">Save</button>
+        </div>
+        <div class="status" id="scheduleStatus"></div>
+      </div>
+
+      <div class="card">
+        <h2>SEO Intelligence</h2>
+        <button class="secondary" onclick="loadSEO()">Load trends/keywords/history</button>
+        <div class="grid" id="seoGrid">
+          <div class="mini"><div class="badge ok">Trends</div><div class="list" id="trendsList">No data</div></div>
+          <div class="mini"><div class="badge ok">Top Keywords</div><div class="list" id="keywordsList">No data</div></div>
+          <div class="mini"><div class="badge warn">History</div><div class="list" id="historyList">No data</div></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Performance Snapshot</h2>
+        <button class="secondary" onclick="loadMetrics()">Load Metrics</button>
+        <div class="grid">
+          <div class="mini">
+            <div>Posts (last 20)</div>
+            <canvas id="impressionsChart" class="chart"></canvas>
+          </div>
+          <div class="mini">
+            <div>Clicks (last 20)</div>
+            <canvas id="clicksChart" class="chart"></canvas>
+          </div>
+        </div>
+        <div class="list" id="metricsList">No data</div>
+      </div>
+
+      <div class="card">
+        <h2>Performance Dashboard</h2>
+        <div class="row">
+          <button class="secondary" onclick="loadSchedulerStatus()">Scheduler Status</button>
+          <button class="secondary" onclick="loadRunReports()">Run Reports</button>
+        </div>
+        <div class="grid">
+          <div class="mini">
+            <div class="badge ok">Last Slot</div>
+            <div id="lastSlot" class="status">No data</div>
+            <div class="list" id="lastActions">No data</div>
+          </div>
+          <div class="mini">
+            <div class="badge warn">Scheduler Log (tail)</div>
+            <div id="logTail" class="log">No data</div>
+          </div>
+        </div>
+        <label>Recent Run Reports</label>
+        <div class="list" id="runReports">No data</div>
+      </div>
+    </div>
+
+    <script>
+      const tokenKey = "autopost_token";
+      const setStatus = (id, msg) => (document.getElementById(id).textContent = msg);
+      const getToken = () => localStorage.getItem(tokenKey) || "";
+      const setToken = (t) => { localStorage.setItem(tokenKey, t); document.getElementById("token").value = t; updateAuthState(); };
+      const updateAuthState = () => {
+        document.getElementById("authState").textContent = getToken() ? "Authenticated" : "Not Authenticated";
+      };
+
+      const apiFetch = async (path, options = {}) => {
+        const headers = options.headers || {};
+        const token = getToken();
+        if (token) headers["Authorization"] = `Bearer ${token}`;
+        if (!headers["Content-Type"]) headers["Content-Type"] = "application/json";
+        const res = await fetch(path, { ...options, headers });
+        const text = await res.text();
+        try { return { ok: res.ok, status: res.status, data: JSON.parse(text) }; }
+        catch { return { ok: res.ok, status: res.status, data: text }; }
+      };
+
+      const register = async () => {
+        const payload = { email: email.value, password: password.value };
+        const res = await apiFetch("/auth/register", { method: "POST", body: JSON.stringify(payload) });
+        setStatus("authStatus", JSON.stringify(res.data));
+      };
+
+      const login = async () => {
+        const payload = { email: email.value, password: password.value };
+        const res = await apiFetch("/auth/login", { method: "POST", body: JSON.stringify(payload) });
+        if (res.ok && res.data.access_token) setToken(res.data.access_token);
+        setStatus("authStatus", JSON.stringify(res.data));
+      };
+
+      const saveToken = () => setToken(document.getElementById("token").value.trim());
+
+      const createSite = async () => {
+        const payload = {
+          name: siteName.value,
+          wp_url: siteUrl.value,
+          wp_user: siteUser.value,
+          wp_app_password: sitePass.value,
+          openai_api_key: "",
+          niche: siteNiche.value,
+          frequency_hours: parseInt(siteFreq.value || "24", 10)
+        };
+        const res = await apiFetch("/sites", { method: "POST", body: JSON.stringify(payload) });
+        setStatus("siteStatus", JSON.stringify(res.data));
+      };
+
+      const loadSites = async () => {
+        const res = await apiFetch("/sites");
+        sitesList.textContent = JSON.stringify(res.data, null, 2);
+      };
+
+      const runNow = async () => {
+        const id = runSiteId.value.trim();
+        const res = await apiFetch(`/automation/${id}/run-now`, { method: "POST" });
+        setStatus("runStatus", JSON.stringify(res.data));
+      };
+      const startSite = async () => {
+        const id = runSiteId.value.trim();
+        const res = await apiFetch(`/sites/${id}/start`, { method: "POST" });
+        setStatus("runStatus", JSON.stringify(res.data));
+      };
+      const stopSite = async () => {
+        const id = runSiteId.value.trim();
+        const res = await apiFetch(`/sites/${id}/stop`, { method: "POST" });
+        setStatus("runStatus", JSON.stringify(res.data));
+      };
+      const runSlot = async () => {
+        const slot = slotTime.value.trim();
+        const res = await apiFetch(`/ui/run-slot`, { method: "POST", body: JSON.stringify({ slot_time: slot }) });
+        setStatus("runStatus", JSON.stringify(res.data));
+      };
+      const runUpdateOnly = async () => {
+        const res = await apiFetch(`/ui/update-only`, { method: "POST" });
+        setStatus("runStatus", JSON.stringify(res.data));
+      };
+      const loadJobs = async () => {
+        const res = await apiFetch("/automation/jobs");
+        jobsList.textContent = JSON.stringify(res.data, null, 2);
+      };
+      const loadPosts = async () => {
+        const res = await apiFetch("/automation/posts");
+        postsList.textContent = JSON.stringify(res.data, null, 2);
+      };
+      const loadSchedule = async () => {
+        const res = await apiFetch("/ui/schedule");
+        if (!res.ok) { setStatus("scheduleStatus", "Failed"); return; }
+        scheduleTz.value = res.data.timezone || "Asia/Karachi";
+        scheduleSlots.value = (res.data.slots || []).map(s => s.time).join(",");
+        scheduleTopics.value = (res.data.topics || []).join("\\n");
+        setStatus("scheduleStatus", "Loaded");
+      };
+      const saveSchedule = async () => {
+        const slots = scheduleSlots.value.split(",").map(s => s.trim()).filter(Boolean).map(t => ({ time: t }));
+        if (!slots.length) { setStatus("scheduleStatus", "Slots required"); return; }
+        const topics = scheduleTopics.value.split("\\n").map(t => t.trim()).filter(Boolean);
+        if (!topics.length) { setStatus("scheduleStatus", "Topics required"); return; }
+        const payload = { timezone: scheduleTz.value || "Asia/Karachi", slots, topics };
+        const res = await apiFetch("/ui/schedule", { method: "POST", body: JSON.stringify(payload) });
+        setStatus("scheduleStatus", res.ok ? "Saved" : "Failed");
+      };
+      const loadSEO = async () => {
+        const res = await apiFetch("/ui/seo");
+        if (!res.ok) return;
+        const trends = res.data["trends.json"]?.trends || [];
+        const keywords = res.data["keywords.json"]?.keywords || [];
+        const history = res.data["history.json"]?.articles || [];
+        trendsList.textContent = trends.slice(0, 10).join("\\n");
+        keywordsList.textContent = keywords.slice(0, 10).map(k => `${k.keyword} (${k.ranking_probability})`).join("\\n");
+        historyList.textContent = history.slice(-10).map(h => `${h.title} | ${h.status}`).join("\\n");
+      };
+      const loadMetrics = async () => {
+        const res = await apiFetch("/ui/metrics");
+        if (!res.ok) return;
+        const perf = res.data.performance || [];
+        metricsList.textContent = JSON.stringify(res.data.articles || [], null, 2);
+        renderChart("impressionsChart", perf.map(p => p.impressions || 0));
+        renderChart("clicksChart", perf.map(p => p.clicks || 0));
+      };
+      const loadSchedulerStatus = async () => {
+        const res = await apiFetch("/ui/scheduler-status");
+        if (!res.ok) return;
+        lastSlot.textContent = res.data.last_slot || "No data";
+        lastActions.textContent = JSON.stringify(res.data.last_actions || [], null, 2);
+        logTail.textContent = (res.data.log_tail || []).join("\\n");
+      };
+      const loadRunReports = async () => {
+        const res = await apiFetch("/ui/run-reports");
+        if (!res.ok) return;
+        const rows = (res.data.reports || []).map(r => `${r.file} | ${r.mtime}\\n${JSON.stringify(r.summary)}`).join("\\n\\n");
+        runReports.textContent = rows || "No data";
+      };
+
+      const renderChart = (id, points) => {
+        const canvas = document.getElementById(id);
+        if (!canvas) return;
+        const ctx = canvas.getContext("2d");
+        const w = canvas.width = canvas.clientWidth;
+        const h = canvas.height = canvas.clientHeight;
+        ctx.clearRect(0, 0, w, h);
+        ctx.strokeStyle = "#39d98a";
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        const max = Math.max(1, ...points);
+        points.forEach((v, i) => {
+          const x = (i / Math.max(1, points.length - 1)) * (w - 10) + 5;
+          const y = h - ((v / max) * (h - 10) + 5);
+          if (i === 0) ctx.moveTo(x, y);
+          else ctx.lineTo(x, y);
+        });
+        ctx.stroke();
+      };
+      const loadAll = async () => {
+        updateAuthState();
+        await loadSites();
+        await loadJobs();
+        await loadPosts();
+        await loadSchedule();
+        await loadSEO();
+        await loadMetrics();
+        await loadSchedulerStatus();
+        await loadRunReports();
+      };
+
+      document.getElementById("token").value = getToken();
+      updateAuthState();
+    </script>
+  </body>
+</html>
