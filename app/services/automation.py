@@ -57,6 +57,8 @@ def run_job(db: Session, job: AutomationJob) -> AutomationJob:
     env['WP_URL'] = site.wp_url
     env['WP_USER'] = site.wp_user
     env['WP_APP_PASSWORD'] = decrypt_secret(site.wp_app_password_enc)
+    env['LOCAL_AI_KEY'] = decrypt_secret(site.openai_api_key_enc)
+    env['GEMINI_API_KEY'] = decrypt_secret(site.openai_api_key_enc)
     env['OPENAI_API_KEY'] = decrypt_secret(site.openai_api_key_enc)
     env['POSTS_PER_RUN'] = '1'
     env['POST_STATUS'] = 'publish'

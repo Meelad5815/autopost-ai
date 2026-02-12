@@ -1,5 +1,6 @@
 import os
 from dataclasses import dataclass
+from pathlib import Path
 
 
 class ConfigError(Exception):
@@ -10,11 +11,42 @@ def env_bool(name: str, default: str = "false") -> bool:
     return os.getenv(name, default).strip().lower() == "true"
 
 
+def load_dotenv_if_present(path: str = ".env") -> None:
+    env_file = Path(path)
+    if not env_file.exists():
+        return
+    for raw in env_file.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
+
+
 def require_env(name: str) -> str:
     value = os.getenv(name, "").strip()
     if not value:
         raise ConfigError(f"Missing required environment variable: {name}")
     return value
+
+
+def require_env_any(*names: str) -> str:
+    for name in names:
+        value = os.getenv(name, "").strip()
+        if value:
+            return value
+    raise ConfigError(f"Missing required environment variable: {' or '.join(names)}")
+
+
+def env_any(default: str, *names: str) -> str:
+    for name in names:
+        value = os.getenv(name, "").strip()
+        if value:
+            return value
+    return default
 
 
 @dataclass
@@ -52,12 +84,13 @@ class Config:
 
 
 def load_config() -> Config:
+    load_dotenv_if_present()
     return Config(
-        wp_url=require_env("WP_URL"),
-        wp_user=require_env("WP_USER"),
-        wp_app_password=require_env("WP_APP_PASSWORD"),
-        openai_api_key=require_env("OPENAI_API_KEY"),
-        openai_model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+        wp_url=require_env_any("WP_URL", "AUTOSCRIPT_WP_URL"),
+        wp_user=require_env_any("WP_USER", "AUTOSCRIPT_WP_USER"),
+        wp_app_password=require_env_any("WP_APP_PASSWORD", "AUTOSCRIPT_WP_APP_PASSWORD"),
+        openai_api_key=env_any("", "LOCAL_AI_KEY", "GEMINI_API_KEY", "AUTOSCRIPT_GEMINI_API_KEY", "OPENAI_API_KEY"),
+        openai_model=env_any("local-deterministic-v1", "LOCAL_AI_MODEL", "GEMINI_MODEL", "AUTOSCRIPT_GEMINI_MODEL", "OPENAI_MODEL"),
         request_timeout=int(os.getenv("REQUEST_TIMEOUT", "60")),
         max_publish_retries=int(os.getenv("MAX_PUBLISH_RETRIES", "3")),
         posts_per_run=max(1, int(os.getenv("POSTS_PER_RUN", "1"))),

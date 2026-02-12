@@ -77,6 +77,19 @@ def publish_with_retry(
     raise RuntimeError("WordPress publish failed after retries")
 
 
+def update_post(
+    post_id: int,
+    payload: Dict[str, Any],
+    base_url: str,
+    user: str,
+    app_password: str,
+    timeout: int,
+) -> Dict[str, Any]:
+    resp = request("POST", base_url, f"posts/{post_id}", user, app_password, timeout, json=payload)
+    resp.raise_for_status()
+    return resp.json()
+
+
 def schedule_iso(index: int, mode: str, interval_minutes: int) -> Optional[str]:
     if mode != "future":
         return None

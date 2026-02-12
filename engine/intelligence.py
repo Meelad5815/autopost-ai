@@ -1,4 +1,7 @@
+import json
 import re
+from collections import defaultdict
+from pathlib import Path
 from typing import Any, Dict, List
 
 import requests
@@ -51,6 +54,82 @@ def detect_profitable_niches(timeout: int, niches_per_run: int) -> List[Dict[str
         scored.append({"keyword": kw, **s})
     scored.sort(key=lambda x: x["profitability"], reverse=True)
     return scored[:niches_per_run]
+
+
+def _intent_strength(keyword: str) -> float:
+    k = keyword.lower()
+    score = 0.0
+    for term in ["best", "top", "vs", "review", "buy", "how to", "guide", "pricing", "tools", "tips"]:
+        if term in k:
+            score += 1.5
+    return score
+
+
+def _competition_estimate(keyword: str) -> float:
+    words = keyword.split()
+    return max(10.0, 90.0 - len(words) * 10.0)
+
+
+def _demand_estimate(keyword: str) -> float:
+    words = keyword.split()
+    base = 40.0 + min(5, len(words)) * 6.0
+    return min(100.0, base + _intent_strength(keyword) * 8.0)
+
+
+def _ranking_probability(demand: float, competition: float) -> float:
+    return max(1.0, min(99.0, (demand * 0.7) + ((100 - competition) * 0.3)))
+
+
+def discover_trends_and_keywords(timeout: int, topics: List[str]) -> Dict[str, Any]:
+    trends = fetch_trends("US", timeout)[:20]
+    keywords: List[Dict[str, Any]] = []
+    seeds = topics + trends[:5]
+    seen = set()
+    for seed in seeds:
+        for kw in fetch_suggestions(seed, timeout)[:20]:
+            k = kw.strip()
+            if not k or k.lower() in seen:
+                continue
+            seen.add(k.lower())
+            demand = _demand_estimate(k)
+            competition = _competition_estimate(k)
+            ranking = _ranking_probability(demand, competition)
+            intent = "commercial" if any(x in k.lower() for x in ["buy", "pricing", "review", "best"]) else "informational"
+            keywords.append(
+                {
+                    "keyword": k,
+                    "intent": intent,
+                    "demand": round(demand, 2),
+                    "competition": round(competition, 2),
+                    "ranking_probability": round(ranking, 2),
+                }
+            )
+
+    keywords.sort(key=lambda x: (x["ranking_probability"], x["demand"]), reverse=True)
+    return {"trends": trends, "keywords": keywords[:200]}
+
+
+def cluster_keywords(keywords: List[Dict[str, Any]]) -> Dict[str, Any]:
+    clusters: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    for item in keywords:
+        k = item["keyword"]
+        head = k.split()[0].lower() if k.split() else k.lower()
+        clusters[head].append(item)
+
+    cluster_list = []
+    for head, items in clusters.items():
+        items_sorted = sorted(items, key=lambda x: x["ranking_probability"], reverse=True)
+        pillar = items_sorted[0]["keyword"]
+        cluster_list.append({"pillar": pillar, "cluster": items_sorted})
+
+    cluster_list.sort(key=lambda x: x["cluster"][0]["ranking_probability"], reverse=True)
+    return {"clusters": cluster_list}
+
+
+def save_trends_keywords(trends: List[str], keywords: List[Dict[str, Any]], clusters: Dict[str, Any]) -> None:
+    Path("trends.json").write_text(json.dumps({"trends": trends}, ensure_ascii=False, indent=2), encoding="utf-8")
+    payload = {"keywords": keywords, "clusters": clusters.get("clusters", [])}
+    Path("keywords.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def competitor_analysis(api_key: str, model: str, timeout: int, topic: str) -> Dict[str, Any]:

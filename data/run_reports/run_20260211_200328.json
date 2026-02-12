@@ -1,0 +1,20 @@
+{
+  "started_at": "2026-02-11T20:03:28.015129+00:00",
+  "settings": {
+    "posts_per_run": 1,
+    "status_mode": "publish"
+  },
+  "summary": {
+    "success": 0,
+    "failed": 0,
+    "skipped": 1
+  },
+  "results": [
+    {
+      "status": "skipped",
+      "reason": "near_duplicate",
+      "topic": "ai automation course in lahore playbook 2026",
+      "title": "ai automation course in lahore playbook 2026 Strategy Guide (2026"
+    }
+  ]
+}

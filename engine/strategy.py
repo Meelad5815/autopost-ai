@@ -34,6 +34,8 @@ def detect_old_posts_for_refresh(existing_posts: List[Dict[str, Any]], refresh_a
     for p in existing_posts:
         try:
             dt = datetime.fromisoformat(p.get("date", "").replace("Z", "+00:00"))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
         except Exception:
             continue
         if dt < cutoff:

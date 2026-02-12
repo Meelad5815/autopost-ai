@@ -1,0 +1,27 @@
+{
+  "timezone": "Asia/Karachi",
+  "slots": [
+    {
+      "time": "10:00"
+    },
+    {
+      "time": "12:00"
+    },
+    {
+      "time": "14:00"
+    },
+    {
+      "time": "16:00"
+    },
+    {
+      "time": "18:00"
+    }
+  ],
+  "topics": [
+    "Web Development Trends 2026 (AI in coding, WordPress updates)",
+    "Tech News in Urdu (Pakistan and global tech updates)",
+    "Freelancing Tips (finding clients, Upwork/Fiverr strategies)",
+    "Islamic Tech Insights (positive tech use and Islamic teachings)",
+    "UI/UX Case Studies (modern design methods)"
+  ]
+}

@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.*.local
+autopost.log
+saas.db
+__pycache__/
+*.pyc
+app/__pycache__/
+app/core/__pycache__/
+app/routes/__pycache__/
+app/services/__pycache__/
+engine/__pycache__/
