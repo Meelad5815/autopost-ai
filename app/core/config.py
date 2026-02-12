@@ -1,3 +1,5 @@
+import os
+
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -24,4 +26,13 @@ class Settings(BaseSettings):
     agency_posts_limit: int = 2000
 
 
-settings = Settings()
+def _resolve_database_url() -> str:
+    explicit = os.getenv("DATABASE_URL", "").strip()
+    if explicit:
+        return explicit
+    if os.getenv("VERCEL"):
+        return "sqlite:////tmp/saas.db"
+    return "sqlite:///./saas.db"
+
+
+settings = Settings(database_url=_resolve_database_url())

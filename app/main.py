@@ -8,12 +8,11 @@ Design goals:
 """
 
 from fastapi import FastAPI
+from sqlalchemy.exc import OperationalError
 
 from app.db import Base, engine
 from app.routes import admin, auth, automation, billing, health, sites, ui
 
-
-Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title='Autopost SaaS Platform', version='1.0.0')
 
@@ -24,3 +23,11 @@ app.include_router(automation.router)
 app.include_router(billing.router)
 app.include_router(admin.router)
 app.include_router(ui.router)
+
+
+@app.on_event("startup")
+def init_db() -> None:
+    try:
+        Base.metadata.create_all(bind=engine)
+    except OperationalError as exc:
+        print(f"DB init failed: {exc}")
