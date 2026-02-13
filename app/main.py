@@ -8,6 +8,7 @@ Design goals:
 """
 
 from fastapi import FastAPI
+from sqlalchemy import inspect, text
 from sqlalchemy.exc import OperationalError
 
 from app.db import Base, engine
@@ -29,5 +30,11 @@ app.include_router(ui.router)
 def init_db() -> None:
     try:
         Base.metadata.create_all(bind=engine)
+        with engine.begin() as conn:
+            inspector = inspect(conn)
+            user_columns = {col["name"] for col in inspector.get_columns("users")}
+            if "provider" not in user_columns:
+                conn.execute(text("ALTER TABLE users ADD COLUMN provider VARCHAR(20) DEFAULT 'local'"))
+            conn.execute(text("UPDATE users SET provider = 'local' WHERE provider IS NULL OR provider = ''"))
     except OperationalError as exc:
         print(f"DB init failed: {exc}")

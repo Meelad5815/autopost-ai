@@ -1,10 +1,10 @@
 from datetime import datetime
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, Field
 
 
 class RegisterRequest(BaseModel):
     email: EmailStr
-    password: str
+    password: str = Field(min_length=8)
 
 
 class LoginRequest(BaseModel):
@@ -15,6 +15,14 @@ class LoginRequest(BaseModel):
 class TokenResponse(BaseModel):
     access_token: str
     token_type: str = 'bearer'
+
+
+class UserMeResponse(BaseModel):
+    id: int
+    email: EmailStr
+    role: str
+    provider: str
+    is_active: bool
 
 
 class SiteCreateRequest(BaseModel):

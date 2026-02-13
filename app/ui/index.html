@@ -157,6 +157,7 @@
           <button onclick="register()">Register</button>
           <button class="secondary" onclick="login()">Login</button>
         </div>
+        <button class="secondary" onclick="googleLogin()">Login with Google</button>
         <label>Token (auto-saved)</label>
         <textarea id="token" rows="3"></textarea>
         <button class="secondary" onclick="saveToken()">Save Token</button>
@@ -389,6 +390,9 @@
         if (res.ok && res.data.access_token) setToken(res.data.access_token);
         setStatus("authStatus", JSON.stringify(res.data));
       };
+      const googleLogin = () => {
+        window.location.href = "/auth/google/login";
+      };
 
       const saveToken = () => setToken(document.getElementById("token").value.trim());
 
@@ -589,7 +593,19 @@
         await loadRunReports();
       };
 
+      const bootFromCallback = () => {
+        const params = new URLSearchParams(window.location.search);
+        const callbackToken = params.get("access_token");
+        if (callbackToken) {
+          setToken(callbackToken);
+          params.delete("access_token");
+          const clean = `${window.location.pathname}${params.toString() ? "?" + params.toString() : ""}`;
+          window.history.replaceState({}, "", clean);
+        }
+      };
+
       document.getElementById("token").value = getToken();
+      bootFromCallback();
       updateAuthState();
     </script>
   </body>

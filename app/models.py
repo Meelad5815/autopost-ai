@@ -19,6 +19,7 @@ class User(Base, TimestampMixin):
     id: Mapped[int] = mapped_column(Integer, primary_key=True)
     email: Mapped[str] = mapped_column(String(255), unique=True, index=True)
     password_hash: Mapped[str] = mapped_column(String(255))
+    provider: Mapped[str] = mapped_column(String(20), default='local')  # local/google
     role: Mapped[str] = mapped_column(String(20), default='user')  # admin/user
     is_active: Mapped[bool] = mapped_column(Boolean, default=True)
 
