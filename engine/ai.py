@@ -241,7 +241,7 @@ def openai_json(api_key: str, model: str, prompt: str, timeout: int, temperature
         return _gen_serp_simulation(prompt)
     if "key calendar" in prompt:
         return _gen_calendar(prompt)
-    if "keys:\n- title\n- meta_description" in prompt:
+    if ("keys:\n- title\n- meta_description" in prompt) or ("Return strict JSON with keys:" in prompt and "- meta_description" in prompt):
         return _gen_article(prompt)
     if "alt_text, caption" in prompt:
         return _gen_image_meta(prompt)

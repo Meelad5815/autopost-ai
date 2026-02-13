@@ -30,6 +30,7 @@ from engine.intelligence import (
 )
 from engine.storage import CALENDAR_FILE, KEYWORD_FILE, NICHE_FILE, load_json, save_json, save_run_report, ensure_dirs
 from engine.strategy import detect_old_posts_for_refresh, generate_calendar, select_today_topics
+from engine.prompt_framework import build_article_prompt, select_generation_profile
 from engine.wp_client import clean_title, ensure_term, get_posts, near_duplicate, publish_with_retry, schedule_iso, update_post
 from media import fetch_royalty_free_image, upload_media
 from seo import (
@@ -95,33 +96,19 @@ def build_article(
     outline = comp.get("superior_outline", [])
     gaps = comp.get("content_gaps", [])
     target_words = int(serp.get("recommended_word_count", 1400))
-
-    prompt = f"""
-Return strict JSON with keys:
-- title
-- meta_description
-- excerpt
-- content_html
-- tags
-- categories
-- image_query
-- faq_items
-- related_keywords
-
-Topic: {topic}
-Target word count: at least {max(1200, target_words)} words
-Competitor gaps to exploit: {gaps}
-Better outline to follow: {outline}
-Refresh context (if any): {refresh_context}
-
-Requirements:
-- human, authoritative tone
-- include H2/H3, bullet lists, practical examples, FAQ section, CTA
-- include placeholder [INTERNAL_LINK:related-article]
-- no markdown/code fences
-""".strip()
-
-    article = openai_json(api_key, model, prompt, timeout, temperature=0.7)
+    language = os.getenv("LOCAL_AI_LANGUAGE", "en").strip().lower()
+    profile = select_generation_profile(topic, language)
+    prompt = build_article_prompt(
+        topic=topic,
+        target_words=target_words,
+        gaps=gaps,
+        outline=outline,
+        refresh_context=refresh_context,
+        language=language,
+        profile=profile,
+    )
+    temperature = float(os.getenv("CONTENT_TEMPERATURE", "0.75"))
+    article = openai_json(api_key, model, prompt, timeout, temperature=temperature)
     required = ["title", "meta_description", "excerpt", "content_html", "tags", "categories", "image_query", "faq_items"]
     missing = [k for k in required if not article.get(k)]
     if missing:
