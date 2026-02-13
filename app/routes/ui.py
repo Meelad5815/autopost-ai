@@ -14,6 +14,7 @@ from app.services.billing import plan_limit
 
 
 router = APIRouter(tags=["ui"])
+CONTENT_SETTINGS_PATH = Path("config/content_settings.json")
 
 
 @router.get("/", response_class=HTMLResponse)
@@ -75,6 +76,37 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
     return lines[-limit:]
 
 
+def default_content_settings() -> dict:
+    return {
+        "content_temperature": 0.75,
+        "content_similarity_max": 0.90,
+        "content_rewrite_attempts": 2,
+        "content_source_urls": [],
+    }
+
+
+def load_content_settings() -> dict:
+    if not CONTENT_SETTINGS_PATH.exists():
+        return default_content_settings()
+    try:
+        data = json.loads(CONTENT_SETTINGS_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return default_content_settings()
+    defaults = default_content_settings()
+    defaults.update({k: data.get(k, v) for k, v in defaults.items()})
+    if isinstance(defaults.get("content_source_urls"), str):
+        defaults["content_source_urls"] = [x.strip() for x in defaults["content_source_urls"].split(",") if x.strip()]
+    return defaults
+
+
+def apply_content_env(env: dict) -> None:
+    settings = load_content_settings()
+    env["CONTENT_TEMPERATURE"] = str(settings.get("content_temperature", 0.75))
+    env["CONTENT_SIMILARITY_MAX"] = str(settings.get("content_similarity_max", 0.90))
+    env["CONTENT_REWRITE_ATTEMPTS"] = str(settings.get("content_rewrite_attempts", 2))
+    env["CONTENT_SOURCE_URLS"] = ",".join(settings.get("content_source_urls", []))
+
+
 @router.get("/ui/scheduler-status")
 def get_scheduler_status(user: User = Depends(get_current_user)):
     _ = user
@@ -111,6 +143,60 @@ def get_run_reports(user: User = Depends(get_current_user)):
     return JSONResponse({"reports": reports})
 
 
+@router.get("/ui/content-settings")
+def get_content_settings(user: User = Depends(get_current_user)):
+    _ = user
+    return JSONResponse(load_content_settings())
+
+
+@router.post("/ui/content-settings")
+def save_content_settings(payload: dict, user: User = Depends(get_current_user)):
+    _ = user
+    data = default_content_settings()
+    data["content_temperature"] = float(payload.get("content_temperature", data["content_temperature"]))
+    data["content_similarity_max"] = float(payload.get("content_similarity_max", data["content_similarity_max"]))
+    data["content_rewrite_attempts"] = int(payload.get("content_rewrite_attempts", data["content_rewrite_attempts"]))
+    urls = payload.get("content_source_urls", data["content_source_urls"])
+    if isinstance(urls, str):
+        urls = [x.strip() for x in urls.split(",") if x.strip()]
+    data["content_source_urls"] = [str(x).strip() for x in urls if str(x).strip()]
+    CONTENT_SETTINGS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CONTENT_SETTINGS_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    return {"status": "ok", "settings": data}
+
+
+@router.get("/ui/uniqueness")
+def get_uniqueness_metrics(user: User = Depends(get_current_user)):
+    _ = user
+    reports_dir = Path("data/run_reports")
+    if not reports_dir.exists():
+        return JSONResponse({"items": [], "avg_uniqueness": 0, "avg_similarity": 0})
+
+    items = []
+    for p in sorted(reports_dir.glob("run_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)[:40]:
+        try:
+            data = json.loads(p.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        for result in data.get("results", []):
+            if result.get("action") != "created":
+                continue
+            items.append(
+                {
+                    "file": p.name,
+                    "title": result.get("title", ""),
+                    "url": result.get("url", ""),
+                    "uniqueness_score": int(result.get("uniqueness_score", 0) or 0),
+                    "semantic_similarity": float(result.get("semantic_similarity", 0.0) or 0.0),
+                }
+            )
+    if not items:
+        return JSONResponse({"items": [], "avg_uniqueness": 0, "avg_similarity": 0})
+    avg_u = round(sum(x["uniqueness_score"] for x in items) / len(items), 2)
+    avg_s = round(sum(x["semantic_similarity"] for x in items) / len(items), 4)
+    return JSONResponse({"items": items[:20], "avg_uniqueness": avg_u, "avg_similarity": avg_s})
+
+
 @router.post("/ui/run-slot")
 def run_slot(payload: dict, user: User = Depends(get_current_user)):
     _ = user
@@ -122,6 +208,7 @@ def run_slot(payload: dict, user: User = Depends(get_current_user)):
     env = os.environ.copy()
     env["RUN_ONCE"] = "1"
     env["SLOT_TIME"] = slot_time
+    apply_content_env(env)
     proc = subprocess.run(["python", "scheduler.py"], env=env, check=False)
     return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode}
 
@@ -135,6 +222,7 @@ def run_update_only(user: User = Depends(get_current_user)):
     env["UPDATE_ONLY"] = "1"
     env["UPDATE_LOOP"] = "1"
     env["POSTS_PER_RUN"] = "1"
+    apply_content_env(env)
     proc = subprocess.run(["python", "autopost.py"], env=env, check=False)
     return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode}
 
