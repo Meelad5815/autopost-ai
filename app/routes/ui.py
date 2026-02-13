@@ -8,8 +8,9 @@ from sqlalchemy.orm import Session
 
 from app.db import get_db
 from app.deps import get_current_user
-from app.models import Site, User
-from app.security import get_password_hash
+from app.core.security import create_access_token, hash_password, verify_password
+from app.models import Site, Subscription, User
+from app.services.billing import plan_limit
 
 
 router = APIRouter(tags=["ui"])
@@ -151,13 +152,18 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
     if not user:
         user = User(
             email=email,
-            hashed_password=get_password_hash(password),
+            password_hash=hash_password(password),
             is_active=True,
-            is_admin=True,
+            role="admin",
         )
         db.add(user)
         db.commit()
         db.refresh(user)
+        db.add(Subscription(user_id=user.id, plan="free", monthly_post_limit=plan_limit("free")))
+        db.commit()
+    else:
+        if not verify_password(password, user.password_hash):
+            raise HTTPException(status_code=401, detail="Invalid credentials for existing user")
 
     created_site = None
     if site:
@@ -193,4 +199,6 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
         "status": "ok",
         "user_id": user.id,
         "site_id": created_site.id if created_site else None,
+        "access_token": create_access_token(str(user.id)),
+        "token_type": "bearer",
     }

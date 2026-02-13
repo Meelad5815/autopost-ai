@@ -419,6 +419,9 @@
           }
         };
         const res = await apiFetch("/ui/first-setup", { method: "POST", body: JSON.stringify(payload) });
+        if (res.ok && res.data.access_token) {
+          setToken(res.data.access_token);
+        }
         setStatus("setupStatus", JSON.stringify(res.data));
       };
 
