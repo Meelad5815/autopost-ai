@@ -20,6 +20,7 @@ class User(Base, TimestampMixin):
     email: Mapped[str] = mapped_column(String(255), unique=True, index=True)
     password_hash: Mapped[str] = mapped_column(String(255))
     provider: Mapped[str] = mapped_column(String(20), default='local')  # local/google
+    email_verified: Mapped[bool] = mapped_column(Boolean, default=False)
     role: Mapped[str] = mapped_column(String(20), default='user')  # admin/user
     is_active: Mapped[bool] = mapped_column(Boolean, default=True)
 
@@ -93,3 +94,14 @@ class UsageCounter(Base):
     user_id: Mapped[int] = mapped_column(ForeignKey('users.id'), index=True)
     year_month: Mapped[str] = mapped_column(String(7), index=True)  # YYYY-MM
     posts_generated: Mapped[int] = mapped_column(Integer, default=0)
+
+
+class AuthToken(Base, TimestampMixin):
+    __tablename__ = 'auth_tokens'
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey('users.id'), index=True)
+    token_hash: Mapped[str] = mapped_column(String(128), index=True)
+    token_type: Mapped[str] = mapped_column(String(30), index=True)  # refresh/password_reset/email_verify
+    expires_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), index=True)
+    used_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), nullable=True)

@@ -14,6 +14,7 @@ class LoginRequest(BaseModel):
 
 class TokenResponse(BaseModel):
     access_token: str
+    refresh_token: str | None = None
     token_type: str = 'bearer'
 
 
@@ -22,7 +23,29 @@ class UserMeResponse(BaseModel):
     email: EmailStr
     role: str
     provider: str
+    email_verified: bool
     is_active: bool
+
+
+class RefreshTokenRequest(BaseModel):
+    refresh_token: str
+
+
+class ForgotPasswordRequest(BaseModel):
+    email: EmailStr
+
+
+class ResetPasswordRequest(BaseModel):
+    token: str
+    new_password: str = Field(min_length=8)
+
+
+class VerifyEmailRequest(BaseModel):
+    email: EmailStr
+
+
+class VerifyEmailConfirmRequest(BaseModel):
+    token: str
 
 
 class SiteCreateRequest(BaseModel):

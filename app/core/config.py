@@ -14,9 +14,13 @@ class Settings(BaseSettings):
     jwt_secret_key: str = 'change-me'
     jwt_algorithm: str = 'HS256'
     jwt_expire_minutes: int = 60 * 24
+    jwt_refresh_expire_minutes: int = 60 * 24 * 30
     google_client_id: str = ''
     google_client_secret: str = ''
     auth_frontend_success_url: str = ''
+    auth_base_url: str = ''
+    password_reset_expire_minutes: int = 30
+    email_verify_expire_minutes: int = 60 * 24
 
     worker_poll_seconds: int = 15
 

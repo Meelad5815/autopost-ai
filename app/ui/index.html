@@ -360,8 +360,10 @@
 
     <script>
       const tokenKey = "autopost_token";
+      const refreshTokenKey = "autopost_refresh_token";
       const setStatus = (id, msg) => (document.getElementById(id).textContent = msg);
       const getToken = () => localStorage.getItem(tokenKey) || "";
+      const setRefreshToken = (t) => localStorage.setItem(refreshTokenKey, t || "");
       const setToken = (t) => { localStorage.setItem(tokenKey, t); document.getElementById("token").value = t; updateAuthState(); };
       const updateAuthState = () => {
         document.getElementById("authState").textContent = getToken() ? "Authenticated" : "Not Authenticated";
@@ -381,6 +383,8 @@
       const register = async () => {
         const payload = { email: email.value, password: password.value };
         const res = await apiFetch("/auth/register", { method: "POST", body: JSON.stringify(payload) });
+        if (res.ok && res.data.access_token) setToken(res.data.access_token);
+        if (res.ok && res.data.refresh_token) setRefreshToken(res.data.refresh_token);
         setStatus("authStatus", JSON.stringify(res.data));
       };
 
@@ -388,6 +392,7 @@
         const payload = { email: email.value, password: password.value };
         const res = await apiFetch("/auth/login", { method: "POST", body: JSON.stringify(payload) });
         if (res.ok && res.data.access_token) setToken(res.data.access_token);
+        if (res.ok && res.data.refresh_token) setRefreshToken(res.data.refresh_token);
         setStatus("authStatus", JSON.stringify(res.data));
       };
       const googleLogin = () => {
@@ -425,6 +430,9 @@
         const res = await apiFetch("/ui/first-setup", { method: "POST", body: JSON.stringify(payload) });
         if (res.ok && res.data.access_token) {
           setToken(res.data.access_token);
+        }
+        if (res.ok && res.data.refresh_token) {
+          setRefreshToken(res.data.refresh_token);
         }
         setStatus("setupStatus", JSON.stringify(res.data));
       };
@@ -596,9 +604,16 @@
       const bootFromCallback = () => {
         const params = new URLSearchParams(window.location.search);
         const callbackToken = params.get("access_token");
+        const callbackRefreshToken = params.get("refresh_token");
         if (callbackToken) {
           setToken(callbackToken);
+        }
+        if (callbackRefreshToken) {
+          setRefreshToken(callbackRefreshToken);
+        }
+        if (callbackToken || callbackRefreshToken) {
           params.delete("access_token");
+          params.delete("refresh_token");
           const clean = `${window.location.pathname}${params.toString() ? "?" + params.toString() : ""}`;
           window.history.replaceState({}, "", clean);
         }
