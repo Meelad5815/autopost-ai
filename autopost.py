@@ -63,6 +63,26 @@ def slugify(text: str) -> str:
     return re.sub(r"[\s_-]+", "-", text).strip("-")[:70]
 
 
+def uniquify_title(base_title: str, topic: str, existing_titles: List[str], history: Dict[str, Any]) -> str:
+    base_title = base_title.strip()
+    if not (near_duplicate(base_title, existing_titles) or is_duplicate_title(base_title, existing_titles, history)):
+        return base_title[:120]
+
+    stamp = datetime.now().strftime("%Y-%m-%d")
+    candidates = [
+        f"{base_title} | {stamp}",
+        f"{base_title} - Action Plan",
+        f"{base_title} - Updated Guide",
+        f"{topic} Practical Checklist {datetime.now().year}",
+        f"{topic} Advanced Workflow {datetime.now().year}",
+    ]
+    for candidate in candidates:
+        candidate = candidate.strip()
+        if not (near_duplicate(candidate, existing_titles) or is_duplicate_title(candidate, existing_titles, history)):
+            return candidate[:120]
+    return f"{topic} Field Notes {stamp}"[:120]
+
+
 def build_article(
     api_key: str,
     model: str,
@@ -227,7 +247,8 @@ def main() -> int:
                 serp = serp_difficulty_simulation(cfg.openai_api_key, cfg.openai_model, cfg.request_timeout, topic, niche_profit) if cfg.enable_serp_simulation else {"recommended_word_count": 1400}
 
                 article = build_article(cfg.openai_api_key, cfg.openai_model, cfg.request_timeout, topic, comp, serp, refresh_context)
-                title = str(article["title"]).strip()[:65]
+                title = str(article["title"]).strip()
+                title = uniquify_title(title, topic, existing_titles, history)
 
                 if is_cannibalization(topic, intent, history):
                     logger.warning("Skipping cannibalized intent: %s", topic)

@@ -50,7 +50,7 @@ def ensure_term(base_url: str, user: str, app_password: str, timeout: int, taxon
     return int(create_resp.json()["id"])
 
 
-def near_duplicate(title: str, existing_titles: List[str], threshold: float = 0.84) -> bool:
+def near_duplicate(title: str, existing_titles: List[str], threshold: float = 0.95) -> bool:
     for existing in existing_titles:
         if SequenceMatcher(a=title.lower().strip(), b=existing.lower().strip()).ratio() >= threshold:
             return True
