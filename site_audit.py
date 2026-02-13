@@ -10,7 +10,7 @@ from typing import Any, Dict, List
 import requests
 
 from engine.config import ConfigError, load_config
-from engine.wp_client import get_posts, request
+from engine.wp_client import request
 
 
 AUDIT_DIR = Path("data/audits")
@@ -98,7 +98,17 @@ def content_checks(
     issues: List[Dict[str, str]],
     checks: Dict[str, Any],
 ) -> None:
-    posts = get_posts(base_url, wp_user, wp_app_password, timeout, per_page=50)
+    resp = request(
+        "GET",
+        base_url,
+        "posts",
+        wp_user,
+        wp_app_password,
+        timeout,
+        params={"per_page": 50, "_fields": "id,date,link,slug,title,content,categories,tags,featured_media"},
+    )
+    resp.raise_for_status()
+    posts = resp.json()
     checks["published_posts_count"] = len(posts)
     if len(posts) == 0:
         add_issue(
