@@ -107,6 +107,36 @@ def apply_content_env(env: dict) -> None:
     env["CONTENT_SOURCE_URLS"] = ",".join(settings.get("content_source_urls", []))
 
 
+@router.post("/ui/run-site-audit")
+def run_site_audit(user: User = Depends(get_current_user)):
+    _ = user
+    import subprocess
+
+    proc = subprocess.run(["python", "site_audit.py"], capture_output=True, text=True, encoding="utf-8", errors="ignore", check=False)
+    output = (proc.stdout or "").strip().splitlines()
+    last_line = output[-1] if output else ""
+    data = {}
+    try:
+        data = json.loads(last_line) if last_line else {}
+    except json.JSONDecodeError:
+        data = {"raw_output": last_line}
+    return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode, "result": data}
+
+
+@router.get("/ui/site-audit")
+def get_site_audit(user: User = Depends(get_current_user)):
+    _ = user
+    audit_dir = Path("data/audits")
+    if not audit_dir.exists():
+        return JSONResponse({"latest": None, "reports": []})
+    files = sorted(audit_dir.glob("audit_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)
+    if not files:
+        return JSONResponse({"latest": None, "reports": []})
+    latest_file = files[0]
+    latest = json.loads(latest_file.read_text(encoding="utf-8"))
+    return JSONResponse({"latest": latest, "reports": [f.name for f in files[:10]]})
+
+
 @router.get("/ui/scheduler-status")
 def get_scheduler_status(user: User = Depends(get_current_user)):
     _ = user

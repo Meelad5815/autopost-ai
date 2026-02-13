@@ -417,6 +417,17 @@
         </div>
         <div class="list" id="factCheckList">No data</div>
       </div>
+
+      <div class="card">
+        <h2>Site Audit</h2>
+        <div class="row">
+          <button onclick="runSiteAudit()">Run Full Audit</button>
+          <button class="secondary" onclick="loadSiteAudit()">Load Latest Audit</button>
+        </div>
+        <div class="status" id="siteAuditStatus"></div>
+        <div class="list" id="siteAuditSummary">No data</div>
+        <div class="list" id="siteAuditIssues">No data</div>
+      </div>
     </div>
 
     <script>
@@ -666,6 +677,24 @@
         const rows = (res.data.items || []).map(i => `${i.conflict_label} | ${i.fact_check_status} | ${i.title}`).join("\\n");
         factCheckList.textContent = rows || "No data";
       };
+      const runSiteAudit = async () => {
+        const res = await apiFetch("/ui/run-site-audit", { method: "POST" });
+        setStatus("siteAuditStatus", JSON.stringify(res.data));
+        await loadSiteAudit();
+      };
+      const loadSiteAudit = async () => {
+        const res = await apiFetch("/ui/site-audit");
+        if (!res.ok || !res.data.latest) {
+          siteAuditSummary.textContent = "No audit reports";
+          siteAuditIssues.textContent = "No data";
+          return;
+        }
+        const latest = res.data.latest;
+        siteAuditSummary.textContent = JSON.stringify(latest.summary || {}, null, 2);
+        const issues = latest.issues || [];
+        const rows = issues.map(i => `[${i.severity}] ${i.code}: ${i.message} | Fix: ${i.recommended_fix}`).join("\\n");
+        siteAuditIssues.textContent = rows || "No issues detected";
+      };
 
       const renderChart = (id, points) => {
         const canvas = document.getElementById(id);
@@ -699,6 +728,7 @@
         await loadRunReports();
         await loadUniqueness();
         await loadFactCheck();
+        await loadSiteAudit();
       };
 
       const bootFromCallback = () => {
