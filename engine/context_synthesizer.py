@@ -61,11 +61,15 @@ Return strict JSON with keys:
 - pakistan_context
 - expert_verdict
 - keyword_hints
+- contradictory_claims
+- conflict_label
+- fact_check_status
 
 Rules:
 - Do not copy source sentence structure.
 - Preserve important facts and specs.
 - Add Pakistan/local market framing where relevant.
+- If sources disagree on a key claim, mark conflict_label as "controversial".
 """.strip()
 
     data = openai_json(api_key, model, prompt, timeout, temperature=0.4)
@@ -77,4 +81,7 @@ Rules:
         "pakistan_context": data.get("pakistan_context", []) if isinstance(data.get("pakistan_context"), list) else [],
         "expert_verdict": str(data.get("expert_verdict", "")),
         "keyword_hints": data.get("keyword_hints", []) if isinstance(data.get("keyword_hints"), list) else [],
+        "contradictory_claims": data.get("contradictory_claims", []) if isinstance(data.get("contradictory_claims"), list) else [],
+        "conflict_label": str(data.get("conflict_label", "clear")).strip().lower() or "clear",
+        "fact_check_status": str(data.get("fact_check_status", "triangulated")).strip().lower() or "triangulated",
     }

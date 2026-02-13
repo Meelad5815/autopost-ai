@@ -249,6 +249,9 @@ def _gen_synthesis_brief(prompt: str) -> Dict[str, Any]:
         ],
         "expert_verdict": "Worth adopting with a phased rollout and clear KPI tracking.",
         "keyword_hints": [topic, f"{topic} Pakistan", f"{topic} practical guide"],
+        "contradictory_claims": [],
+        "conflict_label": "clear",
+        "fact_check_status": "triangulated",
     }
 
 
@@ -262,7 +265,7 @@ def openai_json(api_key: str, model: str, prompt: str, timeout: int, temperature
         return _gen_calendar(prompt)
     if ("keys:\n- title\n- meta_description" in prompt) or ("Return strict JSON with keys:" in prompt and "- meta_description" in prompt):
         return _gen_article(prompt)
-    if "Return strict JSON with keys:\n- core_news\n- technical_specs\n- pakistan_context\n- expert_verdict\n- keyword_hints" in prompt:
+    if "Return strict JSON with keys:\n- core_news\n- technical_specs\n- pakistan_context\n- expert_verdict\n- keyword_hints\n- contradictory_claims\n- conflict_label\n- fact_check_status" in prompt:
         return _gen_synthesis_brief(prompt)
     if "alt_text, caption" in prompt:
         return _gen_image_meta(prompt)

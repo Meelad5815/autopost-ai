@@ -345,6 +345,11 @@ def main() -> int:
                     entities=[t for t in tags],
                     links=links,
                 )
+                brief["fact_check"] = {
+                    "status": synthesis_brief.get("fact_check_status", "triangulated"),
+                    "conflict_label": synthesis_brief.get("conflict_label", "clear"),
+                    "contradictory_claims": synthesis_brief.get("contradictory_claims", []),
+                }
 
                 payload = {
                     "title": title,
@@ -364,6 +369,8 @@ def main() -> int:
                         "intent_type": topic_meta.get("intent_type", "informational"),
                         "uniqueness_score": str(uniq),
                         "semantic_similarity": str(sim),
+                        "fact_check_status": str(synthesis_brief.get("fact_check_status", "triangulated")),
+                        "conflict_label": str(synthesis_brief.get("conflict_label", "clear")),
                     },
                 }
 
@@ -402,6 +409,8 @@ def main() -> int:
                         "action": "created",
                         "uniqueness_score": uniq,
                         "semantic_similarity": sim,
+                        "fact_check_status": synthesis_brief.get("fact_check_status", "triangulated"),
+                        "conflict_label": synthesis_brief.get("conflict_label", "clear"),
                     }
                 )
                 print(f"Post URL: {post_url}")

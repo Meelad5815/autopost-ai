@@ -81,6 +81,9 @@ Technical facts/specs to preserve: {brief.get("technical_specs", [])}
 Pakistan-specific impact notes: {brief.get("pakistan_context", [])}
 Expert verdict hints: {brief.get("expert_verdict", "")}
 SEO keyword hints: {brief.get("keyword_hints", [])}
+Contradictory claims to address explicitly: {brief.get("contradictory_claims", [])}
+Fact-check status: {brief.get("fact_check_status", "triangulated")}
+Conflict label: {brief.get("conflict_label", "clear")}
 
 Return strict JSON with keys:
 - title
