@@ -28,6 +28,7 @@ from engine.intelligence import (
     cluster_keywords,
     save_trends_keywords,
 )
+from engine.context_synthesizer import build_synthesis_brief, fetch_sources
 from engine.storage import CALENDAR_FILE, KEYWORD_FILE, NICHE_FILE, load_json, save_json, save_run_report, ensure_dirs
 from engine.strategy import detect_old_posts_for_refresh, generate_calendar, select_today_topics
 from engine.prompt_framework import build_article_prompt, select_generation_profile
@@ -43,10 +44,12 @@ from seo import (
     is_cannibalization,
     is_duplicate_title,
     load_history,
+    max_similarity_to_posts,
     must_have_author,
     record_history,
     schema_suggestions,
     select_internal_links,
+    uniqueness_score,
     word_count,
 )
 
@@ -92,6 +95,7 @@ def build_article(
     comp: Dict[str, Any],
     serp: Dict[str, Any],
     refresh_context: str = "",
+    synthesis_brief: Dict[str, Any] | None = None,
 ) -> Dict[str, Any]:
     outline = comp.get("superior_outline", [])
     gaps = comp.get("content_gaps", [])
@@ -106,6 +110,7 @@ def build_article(
         refresh_context=refresh_context,
         language=language,
         profile=profile,
+        synthesis_brief=synthesis_brief,
     )
     temperature = float(os.getenv("CONTENT_TEMPERATURE", "0.75"))
     article = openai_json(api_key, model, prompt, timeout, temperature=temperature)
@@ -176,6 +181,13 @@ def choose_topic_from_clusters(clusters: Dict[str, Any], history: Dict[str, Any]
     return {"topic": "seo automation", "intent_type": "informational"}
 
 
+def source_urls_from_env() -> List[str]:
+    raw = os.getenv("CONTENT_SOURCE_URLS", "").strip()
+    if not raw:
+        return []
+    return [x.strip() for x in raw.split(",") if x.strip()]
+
+
 def select_update_candidate(existing_posts: List[Dict[str, Any]]) -> Dict[str, Any] | None:
     if not existing_posts:
         return None
@@ -232,8 +244,26 @@ def main() -> int:
                 comp = competitor_analysis(cfg.openai_api_key, cfg.openai_model, cfg.request_timeout, topic) if cfg.enable_competitor_analysis else {"content_gaps": [], "superior_outline": []}
                 niche_profit = niches[(idx - 1) % len(niches)]["profitability"] if niches else 50.0
                 serp = serp_difficulty_simulation(cfg.openai_api_key, cfg.openai_model, cfg.request_timeout, topic, niche_profit) if cfg.enable_serp_simulation else {"recommended_word_count": 1400}
+                source_payloads = fetch_sources(source_urls_from_env(), cfg.request_timeout)
+                synthesis_brief = build_synthesis_brief(
+                    cfg.openai_api_key,
+                    cfg.openai_model,
+                    cfg.request_timeout,
+                    topic,
+                    os.getenv("LOCAL_AI_LANGUAGE", "en"),
+                    source_payloads,
+                )
 
-                article = build_article(cfg.openai_api_key, cfg.openai_model, cfg.request_timeout, topic, comp, serp, refresh_context)
+                article = build_article(
+                    cfg.openai_api_key,
+                    cfg.openai_model,
+                    cfg.request_timeout,
+                    topic,
+                    comp,
+                    serp,
+                    refresh_context,
+                    synthesis_brief=synthesis_brief,
+                )
                 title = str(article["title"]).strip()
                 title = uniquify_title(title, topic, existing_titles, history)
 
@@ -256,6 +286,41 @@ def main() -> int:
 
                 if os.getenv("LOCAL_AI_LANGUAGE", "en").lower().startswith("en"):
                     content_html = pad_english(content_html, 600)
+
+                default_similarity = "0.90"
+                similarity_max = float(os.getenv("CONTENT_SIMILARITY_MAX", default_similarity))
+                rewrite_attempts = int(os.getenv("CONTENT_REWRITE_ATTEMPTS", "2"))
+                sim = max_similarity_to_posts(content_html, existing_posts)
+                attempts = 0
+                while sim > similarity_max and attempts < rewrite_attempts:
+                    attempts += 1
+                    article = build_article(
+                        cfg.openai_api_key,
+                        cfg.openai_model,
+                        cfg.request_timeout,
+                        topic,
+                        comp,
+                        serp,
+                        refresh_context + f" Rewrite attempt {attempts}: enforce stronger semantic variation and new examples.",
+                        synthesis_brief=synthesis_brief,
+                    )
+                    title = uniquify_title(str(article["title"]).strip(), topic, existing_titles, history)
+                    content_html = str(article["content_html"])
+                    links = select_internal_links(content_html, existing_posts, max_links=2)
+                    content_html = insert_internal_links(content_html, links)
+                    content_html += faq_schema(article.get("faq_items", []))
+                    content_html = ensure_author_signature(content_html, os.getenv("AUTHOR_NAME", "Hafiz Muhammad Meelad Raza Attari"))
+                    must_have_author(content_html, os.getenv("AUTHOR_NAME", "Hafiz Muhammad Meelad Raza Attari"))
+                    if os.getenv("LOCAL_AI_LANGUAGE", "en").lower().startswith("en"):
+                        content_html = pad_english(content_html, 600)
+                    sim = max_similarity_to_posts(content_html, existing_posts)
+
+                if sim > similarity_max:
+                    logger.warning("Skipping high-similarity draft: %.4f topic=%s", sim, topic)
+                    run_results.append({"status": "skipped", "reason": "similarity_gate", "topic": topic, "title": title, "similarity": sim})
+                    continue
+
+                uniq = uniqueness_score(content_html, existing_posts)
 
                 image = fetch_royalty_free_image(str(article.get("image_query", topic)), cfg.request_timeout)
                 image_meta = synthesize_image_meta(cfg.openai_api_key, cfg.openai_model, cfg.request_timeout, title, str(article.get("image_query", topic)))
@@ -297,6 +362,8 @@ def main() -> int:
                         "content_brief": json.dumps(brief, ensure_ascii=False),
                         "topic_cluster": topic_meta.get("pillar_topic", ""),
                         "intent_type": topic_meta.get("intent_type", "informational"),
+                        "uniqueness_score": str(uniq),
+                        "semantic_similarity": str(sim),
                     },
                 }
 
@@ -333,6 +400,8 @@ def main() -> int:
                         "topic": topic,
                         "url": post_url,
                         "action": "created",
+                        "uniqueness_score": uniq,
+                        "semantic_similarity": sim,
                     }
                 )
                 print(f"Post URL: {post_url}")

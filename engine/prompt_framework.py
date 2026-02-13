@@ -50,7 +50,9 @@ def build_article_prompt(
     refresh_context: str,
     language: str,
     profile: Dict[str, str],
+    synthesis_brief: Dict[str, Any] | None = None,
 ) -> str:
+    brief = synthesis_brief or {}
     return f"""
 Role: You are a Senior Tech Journalist and Localization Expert specializing in 2026 technology trends.
 Task: Create a highly original, expert-level article in language={language}.
@@ -74,6 +76,11 @@ Target word count: at least {max(1200, target_words)} words
 Competitor gaps to exploit: {gaps}
 Better outline to follow: {outline}
 Refresh context (if any): {refresh_context}
+Triangulated core news: {brief.get("core_news", "")}
+Technical facts/specs to preserve: {brief.get("technical_specs", [])}
+Pakistan-specific impact notes: {brief.get("pakistan_context", [])}
+Expert verdict hints: {brief.get("expert_verdict", "")}
+SEO keyword hints: {brief.get("keyword_hints", [])}
 
 Return strict JSON with keys:
 - title

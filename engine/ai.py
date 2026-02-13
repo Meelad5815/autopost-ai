@@ -233,6 +233,25 @@ def _gen_image_meta(prompt: str) -> Dict[str, Any]:
     }
 
 
+def _gen_synthesis_brief(prompt: str) -> Dict[str, Any]:
+    topic = _topic_from_prompt(prompt, "technology update")
+    return {
+        "core_news": f"{topic} is evolving quickly with practical implications for users and businesses.",
+        "technical_specs": [
+            "Performance and efficiency updates are central to this cycle.",
+            "Integration and compatibility details affect adoption speed.",
+            "Security and reliability remain key buying/use criteria.",
+        ],
+        "pakistan_context": [
+            "Local pricing and PTA/compliance context can influence rollout.",
+            "Availability through local channels impacts adoption timelines.",
+            "SME and freelancer use-cases are strong early opportunities.",
+        ],
+        "expert_verdict": "Worth adopting with a phased rollout and clear KPI tracking.",
+        "keyword_hints": [topic, f"{topic} Pakistan", f"{topic} practical guide"],
+    }
+
+
 def openai_json(api_key: str, model: str, prompt: str, timeout: int, temperature: float = 0.6) -> Dict[str, Any]:
     _ = (api_key, model, timeout, temperature)
     if "keys: competitors, content_gaps, superior_outline" in prompt:
@@ -243,6 +262,8 @@ def openai_json(api_key: str, model: str, prompt: str, timeout: int, temperature
         return _gen_calendar(prompt)
     if ("keys:\n- title\n- meta_description" in prompt) or ("Return strict JSON with keys:" in prompt and "- meta_description" in prompt):
         return _gen_article(prompt)
+    if "Return strict JSON with keys:\n- core_news\n- technical_specs\n- pakistan_context\n- expert_verdict\n- keyword_hints" in prompt:
+        return _gen_synthesis_brief(prompt)
     if "alt_text, caption" in prompt:
         return _gen_image_meta(prompt)
     return {"result": "ok"}

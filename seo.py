@@ -11,9 +11,40 @@ def _normalize(text: str) -> str:
     return re.sub(r"\s+", " ", re.sub(r"[^a-zA-Z0-9\s-]", "", text.lower())).strip()
 
 
+def _token_set(text: str) -> set[str]:
+    return {w for w in re.findall(r"[a-zA-Z0-9]+", _normalize(text)) if len(w) > 2}
+
+
 def word_count(text: str) -> int:
     plain = re.sub(r"<[^>]+>", " ", text)
     return len(re.findall(r"\b\w+\b", plain))
+
+
+def semantic_similarity(text_a: str, text_b: str) -> float:
+    a = _token_set(text_a)
+    b = _token_set(text_b)
+    if not a or not b:
+        return 0.0
+    inter = len(a & b)
+    union = max(1, len(a | b))
+    return inter / union
+
+
+def max_similarity_to_posts(content_html: str, existing_posts: List[Dict[str, Any]]) -> float:
+    current = re.sub(r"<[^>]+>", " ", content_html)
+    best = 0.0
+    for post in existing_posts:
+        title = re.sub(r"<[^>]+>", " ", post.get("title", {}).get("rendered", ""))
+        body = re.sub(r"<[^>]+>", " ", post.get("content", {}).get("rendered", ""))
+        score = semantic_similarity(current, f"{title} {body}")
+        if score > best:
+            best = score
+    return round(best, 4)
+
+
+def uniqueness_score(content_html: str, existing_posts: List[Dict[str, Any]]) -> int:
+    max_sim = max_similarity_to_posts(content_html, existing_posts)
+    return max(0, int(round((1.0 - max_sim) * 100)))
 
 
 def build_meta_description(meta: str, excerpt: str, max_len: int = 160) -> str:
