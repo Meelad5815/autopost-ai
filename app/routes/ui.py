@@ -197,6 +197,55 @@ def get_uniqueness_metrics(user: User = Depends(get_current_user)):
     return JSONResponse({"items": items[:20], "avg_uniqueness": avg_u, "avg_similarity": avg_s})
 
 
+@router.get("/ui/fact-check")
+def get_fact_check_metrics(user: User = Depends(get_current_user)):
+    _ = user
+    reports_dir = Path("data/run_reports")
+    if not reports_dir.exists():
+        return JSONResponse(
+            {
+                "total_created": 0,
+                "clear_count": 0,
+                "controversial_count": 0,
+                "triangulated_count": 0,
+                "items": [],
+            }
+        )
+
+    items = []
+    for p in sorted(reports_dir.glob("run_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)[:50]:
+        try:
+            data = json.loads(p.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        for result in data.get("results", []):
+            if result.get("action") != "created":
+                continue
+            label = str(result.get("conflict_label", "clear")).strip().lower()
+            status = str(result.get("fact_check_status", "triangulated")).strip().lower()
+            items.append(
+                {
+                    "file": p.name,
+                    "title": result.get("title", ""),
+                    "url": result.get("url", ""),
+                    "conflict_label": label or "clear",
+                    "fact_check_status": status or "triangulated",
+                }
+            )
+    clear_count = sum(1 for x in items if x["conflict_label"] == "clear")
+    controversial_count = sum(1 for x in items if x["conflict_label"] == "controversial")
+    triangulated_count = sum(1 for x in items if x["fact_check_status"] == "triangulated")
+    return JSONResponse(
+        {
+            "total_created": len(items),
+            "clear_count": clear_count,
+            "controversial_count": controversial_count,
+            "triangulated_count": triangulated_count,
+            "items": items[:20],
+        }
+    )
+
+
 @router.post("/ui/run-slot")
 def run_slot(payload: dict, user: User = Depends(get_current_user)):
     _ = user

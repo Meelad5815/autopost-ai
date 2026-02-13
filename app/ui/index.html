@@ -397,6 +397,26 @@
         </div>
         <div class="list" id="uniquenessList">No data</div>
       </div>
+
+      <div class="card">
+        <h2>Fact-Check Dashboard</h2>
+        <button class="secondary" onclick="loadFactCheck()">Load Fact-Check Metrics</button>
+        <div class="grid">
+          <div class="mini">
+            <div class="badge ok">Triangulated</div>
+            <div id="factTriangulated" class="status">No data</div>
+          </div>
+          <div class="mini">
+            <div class="badge ok">Clear</div>
+            <div id="factClear" class="status">No data</div>
+          </div>
+          <div class="mini">
+            <div class="badge warn">Controversial</div>
+            <div id="factControversial" class="status">No data</div>
+          </div>
+        </div>
+        <div class="list" id="factCheckList">No data</div>
+      </div>
     </div>
 
     <script>
@@ -637,6 +657,15 @@
         const rows = (res.data.items || []).map(i => `${i.uniqueness_score}% | sim=${i.semantic_similarity} | ${i.title}`).join("\\n");
         uniquenessList.textContent = rows || "No data";
       };
+      const loadFactCheck = async () => {
+        const res = await apiFetch("/ui/fact-check");
+        if (!res.ok) return;
+        factTriangulated.textContent = `${res.data.triangulated_count ?? 0} / ${res.data.total_created ?? 0}`;
+        factClear.textContent = String(res.data.clear_count ?? 0);
+        factControversial.textContent = String(res.data.controversial_count ?? 0);
+        const rows = (res.data.items || []).map(i => `${i.conflict_label} | ${i.fact_check_status} | ${i.title}`).join("\\n");
+        factCheckList.textContent = rows || "No data";
+      };
 
       const renderChart = (id, points) => {
         const canvas = document.getElementById(id);
@@ -669,6 +698,7 @@
         await loadSchedulerStatus();
         await loadRunReports();
         await loadUniqueness();
+        await loadFactCheck();
       };
 
       const bootFromCallback = () => {
