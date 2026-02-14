@@ -365,6 +365,7 @@
         <h2>Performance Dashboard</h2>
         <div class="row">
           <button class="secondary" onclick="loadSchedulerStatus()">Scheduler Status</button>
+          <button class="secondary" onclick="loadSchedulerProfile()">Scheduler Profile</button>
           <button class="secondary" onclick="loadRunReports()">Run Reports</button>
         </div>
         <div class="grid">
@@ -422,10 +423,17 @@
         <h2>Site Audit</h2>
         <div class="row">
           <button onclick="runSiteAudit()">Run Full Audit</button>
+          <button class="secondary" onclick="runRemediation()">Run Auto Fix</button>
+        </div>
+        <div class="row">
           <button class="secondary" onclick="loadSiteAudit()">Load Latest Audit</button>
         </div>
         <div class="status" id="siteAuditStatus"></div>
         <div class="list" id="siteAuditSummary">No data</div>
+        <div class="row">
+          <button class="secondary" onclick="runSEONormalize()">Run SEO Normalize</button>
+          <button class="secondary" onclick="runQuickCycle()">Run Quick Cycle</button>
+        </div>
         <div class="list" id="siteAuditIssues">No data</div>
       </div>
     </div>
@@ -654,6 +662,13 @@
         lastActions.textContent = JSON.stringify(res.data.last_actions || [], null, 2);
         logTail.textContent = (res.data.log_tail || []).join("\\n");
       };
+      const loadSchedulerProfile = async () => {
+        const res = await apiFetch("/ui/scheduler-profile");
+        if (!res.ok) return;
+        const s = res.data.summary || {};
+        const fail = (res.data.recent_failures || []).join("\\n");
+        logTail.textContent = `success_rate=${s.success_rate || 0}% | post_ok=${s.post_ok || 0} | post_fail=${s.post_fail || 0}\\n\\n${fail || "No recent failures"}`;
+      };
       const loadRunReports = async () => {
         const res = await apiFetch("/ui/run-reports");
         if (!res.ok) return;
@@ -681,6 +696,21 @@
         const res = await apiFetch("/ui/run-site-audit", { method: "POST" });
         setStatus("siteAuditStatus", JSON.stringify(res.data));
         await loadSiteAudit();
+      };
+      const runRemediation = async () => {
+        const res = await apiFetch("/ui/run-remediation", { method: "POST" });
+        setStatus("siteAuditStatus", JSON.stringify(res.data));
+        await loadSiteAudit();
+      };
+      const runSEONormalize = async () => {
+        const res = await apiFetch("/ui/run-seo-normalize", { method: "POST", body: JSON.stringify({ limit: 12 }) });
+        setStatus("siteAuditStatus", JSON.stringify(res.data));
+      };
+      const runQuickCycle = async () => {
+        const slot = slotTime.value.trim();
+        const res = await apiFetch("/ui/run-quick-cycle", { method: "POST", body: JSON.stringify({ slot_time: slot }) });
+        setStatus("siteAuditStatus", JSON.stringify(res.data));
+        await loadSchedulerProfile();
       };
       const loadSiteAudit = async () => {
         const res = await apiFetch("/ui/site-audit");
@@ -725,6 +755,7 @@
         await loadContentSettings();
         await loadMetrics();
         await loadSchedulerStatus();
+        await loadSchedulerProfile();
         await loadRunReports();
         await loadUniqueness();
         await loadFactCheck();

@@ -123,6 +123,72 @@ def run_site_audit(user: User = Depends(get_current_user)):
     return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode, "result": data}
 
 
+@router.post("/ui/run-remediation")
+def run_remediation(user: User = Depends(get_current_user)):
+    _ = user
+    import subprocess
+
+    proc = subprocess.run(["python", "remediate_site.py"], capture_output=True, text=True, encoding="utf-8", errors="ignore", check=False)
+    output = (proc.stdout or "").strip().splitlines()
+    last_line = output[-1] if output else ""
+    data = {}
+    try:
+        data = json.loads(last_line) if last_line else {}
+    except json.JSONDecodeError:
+        data = {"raw_output": last_line}
+    return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode, "result": data}
+
+
+@router.post("/ui/run-seo-normalize")
+def run_seo_normalize(payload: dict | None = None, user: User = Depends(get_current_user)):
+    _ = user
+    import os
+    import subprocess
+
+    payload = payload or {}
+    limit = int(payload.get("limit", 12) or 12)
+    limit = max(1, min(limit, 50))
+    env = os.environ.copy()
+    env["MAX_SEO_FIX_POSTS"] = str(limit)
+    proc = subprocess.run(
+        ["python", "seo_normalize.py"],
+        env=env,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="ignore",
+        check=False,
+    )
+    output = (proc.stdout or "").strip().splitlines()
+    last_line = output[-1] if output else ""
+    data = {}
+    try:
+        data = json.loads(last_line) if last_line else {}
+    except json.JSONDecodeError:
+        data = {"raw_output": last_line}
+    return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode, "result": data}
+
+
+@router.post("/ui/run-quick-cycle")
+def run_quick_cycle(payload: dict | None = None, user: User = Depends(get_current_user)):
+    _ = user
+    import os
+    import subprocess
+
+    payload = payload or {}
+    slot_time = str(payload.get("slot_time", "")).strip()
+    env = os.environ.copy()
+    env["QUICK_MODE"] = "1"
+    env["POSTS_PER_RUN"] = "1"
+    env["MAX_PUBLISH_RETRIES"] = "1"
+    env["REQUEST_TIMEOUT"] = "35"
+    if slot_time:
+        env["SLOT_TIME"] = slot_time
+    apply_content_env(env)
+    proc = subprocess.run(["python", "run_batch.py"], env=env, check=False)
+    return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode}
+
+
 @router.get("/ui/site-audit")
 def get_site_audit(user: User = Depends(get_current_user)):
     _ = user
@@ -135,6 +201,36 @@ def get_site_audit(user: User = Depends(get_current_user)):
     latest_file = files[0]
     latest = json.loads(latest_file.read_text(encoding="utf-8"))
     return JSONResponse({"latest": latest, "reports": [f.name for f in files[:10]]})
+
+
+@router.get("/ui/scheduler-profile")
+def get_scheduler_profile(user: User = Depends(get_current_user)):
+    _ = user
+    path = Path("scheduler.log")
+    if not path.exists():
+        return JSONResponse({"status": "no_log", "summary": {}, "recent_failures": []})
+    lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()[-400:]
+    run_attempts = [ln for ln in lines if "Run post attempt=" in ln]
+    post_ok = [ln for ln in lines if "post_result ok=True" in ln]
+    post_fail = [ln for ln in lines if "post_result ok=False" in ln]
+    update_ok = [ln for ln in lines if "update_result ok=True" in ln]
+    update_fail = [ln for ln in lines if "update_result ok=False" in ln]
+    failures = [ln for ln in lines if "ok=False" in ln or "error" in ln.lower()][-20:]
+    return JSONResponse(
+        {
+            "status": "ok",
+            "summary": {
+                "samples": len(lines),
+                "run_attempts": len(run_attempts),
+                "post_ok": len(post_ok),
+                "post_fail": len(post_fail),
+                "update_ok": len(update_ok),
+                "update_fail": len(update_fail),
+                "success_rate": round((len(post_ok) / max(1, len(post_ok) + len(post_fail))) * 100, 2),
+            },
+            "recent_failures": failures,
+        }
+    )
 
 
 @router.get("/ui/scheduler-status")

@@ -63,6 +63,8 @@ def main() -> int:
     if not languages:
         print("No languages configured for slot")
         return 1
+    if os.getenv("QUICK_MODE", "0") == "1":
+        languages = languages[:1]
 
     # Deterministic topic rotation per slot/day
     seed = int(now.strftime("%Y%m%d")) + int(slot.get("time", "00:00")[:2])
