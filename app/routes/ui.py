@@ -1,4 +1,5 @@
 import json
+import math
 from pathlib import Path
 from datetime import datetime
 
@@ -11,6 +12,8 @@ from app.deps import get_current_user
 from app.core.security import create_access_token, hash_password, verify_password
 from app.models import Site, Subscription, User
 from app.services.billing import plan_limit
+from engine.config import load_config
+from engine.wp_client import get_posts
 
 
 router = APIRouter(tags=["ui"])
@@ -52,6 +55,93 @@ def get_seo_state(user: User = Depends(get_current_user)):
     return JSONResponse(out)
 
 
+@router.get("/ui/posting-stats")
+def get_posting_stats(user: User = Depends(get_current_user)):
+    _ = user
+    wp_count = None
+    wp_error = None
+    try:
+        cfg = load_config()
+        wp_count = len(get_posts(cfg.wp_url, cfg.wp_user, cfg.wp_app_password, cfg.request_timeout, per_page=100))
+    except Exception as exc:  # noqa: BLE001
+        wp_error = str(exc)
+
+    history_path = Path("history.json")
+    history = json.loads(history_path.read_text(encoding="utf-8")) if history_path.exists() else {}
+    actions = history.get("actions", [])
+    created_actions = sum(
+        1 for item in actions for act in item.get("actions", []) if act.get("action") == "created" and act.get("ok") is True
+    )
+
+    reports_dir = Path("data/run_reports")
+    created_reports = 0
+    if reports_dir.exists():
+        for p in sorted(reports_dir.glob("run_*.json"), key=lambda x: x.stat().st_mtime, reverse=True)[:120]:
+            try:
+                data = json.loads(p.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                continue
+            for result in data.get("results", []):
+                if result.get("action") == "created":
+                    created_reports += 1
+
+    return JSONResponse(
+        {
+            "wordpress_published_posts": wp_count,
+            "history_created_actions": created_actions,
+            "run_reports_created_posts": created_reports,
+            "wp_error": wp_error,
+            "generated_at": datetime.utcnow().isoformat() + "Z",
+        }
+    )
+
+
+@router.post("/ui/publish-now-bulk")
+def publish_now_bulk(payload: dict | None = None, user: User = Depends(get_current_user)):
+    _ = user
+    import os
+    import subprocess
+
+    payload = payload or {}
+    count = max(1, min(int(payload.get("count", 10) or 10), 30))
+    language = str(payload.get("language", "en")).strip().lower() or "en"
+    env = os.environ.copy()
+    env["POSTS_PER_RUN"] = str(count)
+    env["LOCAL_AI_LANGUAGE"] = language
+    env["UPDATE_ONLY"] = "0"
+    env["UPDATE_LOOP"] = "0"
+    env["MAX_PUBLISH_RETRIES"] = "1"
+    apply_content_env(env)
+    proc = subprocess.run(["python", "autopost.py"], env=env, check=False)
+    return {"status": "ok" if proc.returncode == 0 else "failed", "code": proc.returncode, "count": count, "language": language}
+
+
+@router.post("/ui/apply-high-frequency-plan")
+def apply_high_frequency_plan(payload: dict | None = None, user: User = Depends(get_current_user)):
+    _ = user
+    payload = payload or {}
+    timezone = str(payload.get("timezone", "Asia/Karachi")).strip() or "Asia/Karachi"
+    start_time = str(payload.get("start_time", "08:00")).strip() or "08:00"
+    end_time = str(payload.get("end_time", "20:00")).strip() or "20:00"
+    posts_per_half_day = max(1, min(int(payload.get("posts_per_half_day", 20) or 20), 30))
+    slots = _build_even_slots(start_time, end_time, posts_per_half_day)
+
+    path = Path("config/schedule.json")
+    if path.exists():
+        data = json.loads(path.read_text(encoding="utf-8"))
+    else:
+        data = {"timezone": timezone, "slots": [], "topics": []}
+    data["timezone"] = timezone
+    data["slots"] = slots
+    if payload.get("topics"):
+        topics = [str(x).strip() for x in payload.get("topics", []) if str(x).strip()]
+        if topics:
+            data["topics"] = topics
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    return {"status": "ok", "timezone": timezone, "slots_count": len(slots), "slots": slots}
+
+
 @router.get("/ui/metrics")
 def get_metrics(db: Session = Depends(get_db), user: User = Depends(get_current_user)):
     sites = db.query(Site).filter(Site.user_id == user.id).count()
@@ -74,6 +164,29 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
         return []
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
     return lines[-limit:]
+
+
+def _hhmm_to_minutes(value: str) -> int:
+    hh, mm = value.split(":")
+    return int(hh) * 60 + int(mm)
+
+
+def _minutes_to_hhmm(value: int) -> str:
+    value = value % (24 * 60)
+    hh = value // 60
+    mm = value % 60
+    return f"{hh:02d}:{mm:02d}"
+
+
+def _build_even_slots(start_hhmm: str, end_hhmm: str, count: int) -> list[dict]:
+    start = _hhmm_to_minutes(start_hhmm)
+    end = _hhmm_to_minutes(end_hhmm)
+    if end <= start:
+        end += 24 * 60
+    window = end - start
+    count = max(1, count)
+    step = max(1, math.floor(window / count))
+    return [{"time": _minutes_to_hhmm(start + i * step)} for i in range(count)]
 
 
 def default_content_settings() -> dict:

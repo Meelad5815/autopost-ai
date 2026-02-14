@@ -181,6 +181,32 @@ def choose_topic_from_clusters(clusters: Dict[str, Any], history: Dict[str, Any]
     return {"topic": "seo automation", "intent_type": "informational"}
 
 
+def dedupe_topic_candidates(candidates: List[Dict[str, Any]], fallback_topics: List[str], required: int) -> List[Dict[str, Any]]:
+    unique: List[Dict[str, Any]] = []
+    seen = set()
+    for item in candidates:
+        topic = str(item.get("topic", "")).strip()
+        if not topic:
+            continue
+        key = topic.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(item)
+    for topic in fallback_topics:
+        t = str(topic).strip()
+        if not t:
+            continue
+        key = t.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append({"topic": t, "intent_type": "informational"})
+        if len(unique) >= required:
+            break
+    return unique
+
+
 def source_urls_from_env() -> List[str]:
     raw = os.getenv("CONTENT_SOURCE_URLS", "").strip()
     if not raw:
@@ -220,8 +246,11 @@ def main() -> int:
         if not topic_candidates:
             topic_candidates = [choose_topic_from_clusters(clusters, history)]
 
+        topic_candidates = dedupe_topic_candidates(topic_candidates, schedule_topics, max(cfg.posts_per_run, 20))
+
         if cfg.enable_learning_loop:
-            topic_candidates = [{"topic": t, "intent_type": "optimized"} for t in choose_best_topics([x["topic"] for x in topic_candidates])] or topic_candidates
+            optimized = [{"topic": t, "intent_type": "optimized"} for t in choose_best_topics([x["topic"] for x in topic_candidates])]
+            topic_candidates = dedupe_topic_candidates(optimized, schedule_topics, max(cfg.posts_per_run, 20)) or topic_candidates
 
         existing_posts = get_posts(cfg.wp_url, cfg.wp_user, cfg.wp_app_password, cfg.request_timeout, per_page=20)
         existing_titles = [clean_title(p.get("title", {}).get("rendered", "")) for p in existing_posts]

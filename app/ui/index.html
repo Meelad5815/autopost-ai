@@ -436,6 +436,22 @@
         </div>
         <div class="list" id="siteAuditIssues">No data</div>
       </div>
+
+      <div class="card">
+        <h2>Auto Publishing Control</h2>
+        <div class="row">
+          <button class="secondary" onclick="loadPostingStats()">Posting Stats</button>
+          <button onclick="publishTenNow()">Publish 10 Now</button>
+        </div>
+        <label>Half-day Plan Posts</label>
+        <input id="planHalfDayPosts" type="number" min="1" max="30" value="20" />
+        <div class="row">
+          <button class="secondary" onclick="applyHighPlan()">Apply High-Frequency Plan</button>
+          <button class="secondary" onclick="runQuickCycle()">Run First Cycle</button>
+        </div>
+        <div class="status" id="postingControlStatus"></div>
+        <div class="list" id="postingStatsList">No data</div>
+      </div>
     </div>
 
     <script>
@@ -725,6 +741,33 @@
         const rows = issues.map(i => `[${i.severity}] ${i.code}: ${i.message} | Fix: ${i.recommended_fix}`).join("\\n");
         siteAuditIssues.textContent = rows || "No issues detected";
       };
+      const loadPostingStats = async () => {
+        const res = await apiFetch("/ui/posting-stats");
+        if (!res.ok) {
+          setStatus("postingControlStatus", JSON.stringify(res.data));
+          return;
+        }
+        postingStatsList.textContent = JSON.stringify(res.data, null, 2);
+        setStatus("postingControlStatus", "Posting stats loaded");
+      };
+      const publishTenNow = async () => {
+        setStatus("postingControlStatus", "Publishing 10 posts... please wait");
+        const res = await apiFetch("/ui/publish-now-bulk", { method: "POST", body: JSON.stringify({ count: 10, language: "en" }) });
+        setStatus("postingControlStatus", JSON.stringify(res.data));
+        await loadPostingStats();
+      };
+      const applyHighPlan = async () => {
+        const halfDay = parseInt(planHalfDayPosts.value || "20", 10);
+        const payload = {
+          timezone: scheduleTz.value || "Asia/Karachi",
+          start_time: "08:00",
+          end_time: "20:00",
+          posts_per_half_day: halfDay
+        };
+        const res = await apiFetch("/ui/apply-high-frequency-plan", { method: "POST", body: JSON.stringify(payload) });
+        setStatus("postingControlStatus", JSON.stringify(res.data));
+        await loadSchedule();
+      };
 
       const renderChart = (id, points) => {
         const canvas = document.getElementById(id);
@@ -760,6 +803,7 @@
         await loadUniqueness();
         await loadFactCheck();
         await loadSiteAudit();
+        await loadPostingStats();
       };
 
       const bootFromCallback = () => {
