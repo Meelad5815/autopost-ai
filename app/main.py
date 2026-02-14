@@ -41,3 +41,5 @@ def init_db() -> None:
             conn.execute(text("UPDATE users SET email_verified = 0 WHERE email_verified IS NULL"))
     except OperationalError as exc:
         print(f"DB init failed: {exc}")
+    except Exception as exc:  # noqa: BLE001
+        print(f"Unexpected DB init failure: {exc}")

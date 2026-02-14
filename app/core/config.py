@@ -35,9 +35,16 @@ class Settings(BaseSettings):
 
 def _resolve_database_url() -> str:
     explicit = os.getenv("DATABASE_URL", "").strip()
+    is_serverless = any(
+        os.getenv(k, "").strip()
+        for k in ["VERCEL", "VERCEL_ENV", "AWS_REGION", "NOW_REGION"]
+    )
     if explicit:
+        # In serverless runtimes, relative sqlite paths are read-only.
+        if is_serverless and explicit.startswith("sqlite:///./"):
+            return "sqlite:////tmp/saas.db"
         return explicit
-    if os.getenv("VERCEL"):
+    if is_serverless:
         return "sqlite:////tmp/saas.db"
     return "sqlite:///./saas.db"
 
