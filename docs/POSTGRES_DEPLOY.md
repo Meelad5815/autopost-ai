@@ -29,3 +29,7 @@ Expected response:
 - Check firewall/network allow-list.
 - Ensure `sslmode=require` in `DATABASE_URL`.
 - Confirm username/password/database name.
+
+## 5) Migrations
+- App startup now runs versioned migrations automatically via `app/db_migrations.py`.
+- Add future schema changes as new migration entries in `MIGRATIONS`.
