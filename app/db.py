@@ -20,7 +20,10 @@ def _prepare_sqlite_path(database_url: str) -> None:
 
 _prepare_sqlite_path(settings.database_url)
 connect_args = {"check_same_thread": False} if settings.database_url.startswith("sqlite") else {}
-engine = create_engine(settings.database_url, future=True, connect_args=connect_args)
+engine_kwargs = {"future": True, "connect_args": connect_args, "pool_pre_ping": True}
+if settings.database_url.startswith("postgresql"):
+    engine_kwargs["pool_recycle"] = 1800
+engine = create_engine(settings.database_url, **engine_kwargs)
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False, future=True)
 Base = declarative_base()
 
