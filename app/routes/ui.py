@@ -10,7 +10,7 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from sqlalchemy.orm import Session
 
 from app.db import get_db
-from app.deps import get_current_user
+from app.deps import get_current_user, require_admin
 from app.core.security import create_access_token, hash_password, verify_password
 from app.models import Site, Subscription, User
 from app.services.billing import plan_limit
@@ -169,7 +169,7 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
 
 
 @router.post("/ui/cloud-terminal/exec")
-def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(get_current_user)):
+def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
     payload = payload or {}
 
@@ -178,7 +178,12 @@ def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(get_cu
         raise HTTPException(status_code=400, detail="command is required")
 
     requested_cwd = str(payload.get("cwd", ".")).strip() or "."
-    timeout_seconds = max(1, min(int(payload.get("timeout_seconds", 20) or 20), 120))
+    raw_timeout = payload.get("timeout_seconds", 20)
+    try:
+        timeout_seconds = int(raw_timeout)
+    except (TypeError, ValueError):
+        raise HTTPException(status_code=400, detail="timeout_seconds must be an integer") from None
+    timeout_seconds = max(1, min(timeout_seconds, 120))
 
     base_dir = Path(".").resolve()
     target_dir = (base_dir / requested_cwd).resolve() if not Path(requested_cwd).is_absolute() else Path(requested_cwd).resolve()
