@@ -135,6 +135,10 @@
         padding: 8px;
         color: #b9cbe0;
       }
+      .terminal-output {
+        min-height: 220px;
+        white-space: pre-wrap;
+      }
     </style>
   </head>
   <body>
@@ -452,6 +456,20 @@
         <div class="status" id="postingControlStatus"></div>
         <div class="list" id="postingStatsList">No data</div>
       </div>
+
+      <div class="card">
+        <h2>Cloud Terminal</h2>
+        <label>Working Directory (repo relative)</label>
+        <input id="terminalCwd" value="." placeholder=".">
+        <label>Command</label>
+        <input id="terminalCommand" placeholder="python --version">
+        <div class="row">
+          <button onclick="runTerminalCommand()">Run Command</button>
+          <button class="secondary" onclick="clearTerminalOutput()">Clear</button>
+        </div>
+        <div class="status" id="terminalStatus">Ready</div>
+        <div class="log terminal-output" id="terminalOutput">No output yet</div>
+      </div>
     </div>
 
     <script>
@@ -767,6 +785,41 @@
         const res = await apiFetch("/ui/apply-high-frequency-plan", { method: "POST", body: JSON.stringify(payload) });
         setStatus("postingControlStatus", JSON.stringify(res.data));
         await loadSchedule();
+      };
+      const clearTerminalOutput = () => {
+        terminalOutput.textContent = "No output yet";
+        setStatus("terminalStatus", "Cleared");
+      };
+      const runTerminalCommand = async () => {
+        const command = terminalCommand.value.trim();
+        if (!command) {
+          setStatus("terminalStatus", "Command required");
+          return;
+        }
+        const cwd = terminalCwd.value.trim() || ".";
+        setStatus("terminalStatus", "Running...");
+        terminalOutput.textContent = "Executing command...";
+        const res = await apiFetch("/ui/cloud-terminal/exec", {
+          method: "POST",
+          body: JSON.stringify({ command, cwd, timeout_seconds: 45 })
+        });
+        if (!res.ok) {
+          terminalOutput.textContent = JSON.stringify(res.data, null, 2);
+          setStatus("terminalStatus", "Failed to execute command");
+          return;
+        }
+
+        const data = res.data || {};
+        const head = [
+          `$ ${data.command || command}`,
+          `cwd: ${data.cwd || cwd}`,
+          `status: ${data.status || "unknown"}`,
+          data.returncode !== undefined ? `return code: ${data.returncode}` : ""
+        ].filter(Boolean).join("\n");
+        const stdout = (data.stdout || "").trim();
+        const stderr = (data.stderr || "").trim();
+        terminalOutput.textContent = `${head}\n\n--- stdout ---\n${stdout || "(empty)"}\n\n--- stderr ---\n${stderr || "(empty)"}`;
+        setStatus("terminalStatus", data.status === "ok" ? "Command finished" : "Command completed with issues");
       };
 
       const renderChart = (id, points) => {

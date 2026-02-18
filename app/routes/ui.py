@@ -1,5 +1,7 @@
 import json
 import math
+import os
+import subprocess
 from pathlib import Path
 from datetime import datetime
 
@@ -164,6 +166,58 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
         return []
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
     return lines[-limit:]
+
+
+@router.post("/ui/cloud-terminal/exec")
+def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(get_current_user)):
+    _ = user
+    payload = payload or {}
+
+    command = str(payload.get("command", "")).strip()
+    if not command:
+        raise HTTPException(status_code=400, detail="command is required")
+
+    requested_cwd = str(payload.get("cwd", ".")).strip() or "."
+    timeout_seconds = max(1, min(int(payload.get("timeout_seconds", 20) or 20), 120))
+
+    base_dir = Path(".").resolve()
+    target_dir = (base_dir / requested_cwd).resolve() if not Path(requested_cwd).is_absolute() else Path(requested_cwd).resolve()
+    if os.path.commonpath([str(base_dir), str(target_dir)]) != str(base_dir):
+        raise HTTPException(status_code=400, detail="cwd must stay inside repository")
+    if not target_dir.exists() or not target_dir.is_dir():
+        raise HTTPException(status_code=400, detail="cwd does not exist")
+
+    try:
+        proc = subprocess.run(
+            command,
+            cwd=str(target_dir),
+            shell=True,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="ignore",
+            timeout=timeout_seconds,
+            check=False,
+        )
+    except subprocess.TimeoutExpired as exc:
+        return {
+            "status": "timeout",
+            "command": command,
+            "cwd": str(target_dir.relative_to(base_dir)),
+            "timeout_seconds": timeout_seconds,
+            "stdout": (exc.stdout or "")[-8000:],
+            "stderr": (exc.stderr or "")[-8000:],
+        }
+
+    return {
+        "status": "ok" if proc.returncode == 0 else "failed",
+        "command": command,
+        "cwd": str(target_dir.relative_to(base_dir)),
+        "timeout_seconds": timeout_seconds,
+        "returncode": proc.returncode,
+        "stdout": (proc.stdout or "")[-12000:],
+        "stderr": (proc.stderr or "")[-12000:],
+    }
 
 
 def _hhmm_to_minutes(value: str) -> int:
