@@ -374,6 +374,7 @@
           <button onclick="startSchedulerDaemon()">Start Auto Scheduler</button>
           <button class="secondary" onclick="stopSchedulerDaemon()">Stop Auto Scheduler</button>
           <button class="secondary" onclick="loadSchedulerDaemonStatus()">Daemon Status</button>
+          <button class="secondary" onclick="loadKaliEnvStatus()">Kali Env Status</button>
         </div>
         <div class="grid">
           <div class="mini">
@@ -387,6 +388,7 @@
           </div>
         </div>
         <div class="status" id="schedulerDaemonStatus">Daemon: unknown</div>
+        <div class="status" id="kaliEnvStatus">Kali: unknown</div>
         <label>Recent Run Reports</label>
         <div class="list" id="runReports">No data</div>
       </div>
@@ -721,6 +723,16 @@
         const res = await apiFetch("/ui/scheduler-daemon/stop", { method: "POST" });
         schedulerDaemonStatus.textContent = res.ok ? formatDaemonState(res.data) : "Failed to stop daemon";
       };
+      const loadKaliEnvStatus = async () => {
+        const res = await apiFetch("/ui/kali-env/status");
+        if (!res.ok) {
+          kaliEnvStatus.textContent = "Kali: status unavailable";
+          return;
+        }
+        const d = res.data || {};
+        const state = d.container_running ? "running" : "stopped";
+        kaliEnvStatus.textContent = `Kali: ${state} | docker=${d.docker_installed ? "yes" : "no"} | compose=${d.configured ? "yes" : "no"}`;
+      };
       const loadSchedulerProfile = async () => {
         const res = await apiFetch("/ui/scheduler-profile");
         if (!res.ok) return;
@@ -877,6 +889,7 @@
         await loadMetrics();
         await loadSchedulerStatus();
         await loadSchedulerDaemonStatus();
+        await loadKaliEnvStatus();
         await loadSchedulerProfile();
         await loadRunReports();
         await loadUniqueness();

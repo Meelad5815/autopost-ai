@@ -2,6 +2,7 @@ import json
 import math
 import os
 import subprocess
+import shutil
 from pathlib import Path
 from datetime import datetime
 
@@ -440,6 +441,47 @@ def stop_scheduler_daemon_route(user: User = Depends(require_admin)):
     _ = user
     return JSONResponse(stop_scheduler_daemon())
 
+
+
+
+@router.get("/ui/kali-env/status")
+def get_kali_env_status(user: User = Depends(require_admin)):
+    _ = user
+    compose_path = Path("docker-compose.kali.yml")
+    docker_bin = shutil.which("docker")
+    status = {
+        "configured": compose_path.exists(),
+        "compose_file": str(compose_path),
+        "docker_installed": bool(docker_bin),
+        "docker_bin": docker_bin,
+        "container_running": False,
+        "container_name": "autopost-kali",
+        "detail": "",
+    }
+
+    if not compose_path.exists():
+        status["detail"] = "docker-compose.kali.yml not found"
+        return JSONResponse(status)
+
+    if not docker_bin:
+        status["detail"] = "Docker CLI not found on host"
+        return JSONResponse(status)
+
+    try:
+        proc = subprocess.run(
+            [docker_bin, "ps", "--filter", "name=autopost-kali", "--format", "{{.Names}}"],
+            capture_output=True,
+            text=True,
+            check=False,
+            timeout=6,
+        )
+        names = [line.strip() for line in (proc.stdout or "").splitlines() if line.strip()]
+        status["container_running"] = "autopost-kali" in names
+        status["detail"] = "running" if status["container_running"] else "stopped"
+    except Exception as exc:  # noqa: BLE001
+        status["detail"] = f"docker check failed: {exc}"
+
+    return JSONResponse(status)
 
 @router.get("/ui/run-reports")
 def get_run_reports(user: User = Depends(get_current_user)):

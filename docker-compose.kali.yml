@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  kali:
+    image: kalilinux/kali-rolling:latest
+    container_name: autopost-kali
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+    command: ["bash", "-lc", "tail -f /dev/null"]
+    working_dir: /workspace
+    volumes:
+      - ./:/workspace
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    cap_add:
+      - NET_RAW
+    mem_limit: 2g
+    cpus: "1.5"
