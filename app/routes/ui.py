@@ -14,6 +14,7 @@ from app.deps import get_current_user, require_admin
 from app.core.security import create_access_token, hash_password, verify_password
 from app.models import Site, Subscription, User
 from app.services.billing import plan_limit
+from app.services.scheduler_daemon import scheduler_state, start_scheduler_daemon, stop_scheduler_daemon
 from engine.config import load_config
 from engine.wp_client import get_posts
 
@@ -417,8 +418,27 @@ def get_scheduler_status(user: User = Depends(get_current_user)):
         "last_slot": last_action.get("slot"),
         "last_actions": last_action.get("actions", []),
         "log_tail": log_lines,
+        "daemon": scheduler_state(),
         "updated_at": datetime.utcnow().isoformat() + "Z",
     })
+
+
+@router.get("/ui/scheduler-daemon")
+def get_scheduler_daemon(user: User = Depends(require_admin)):
+    _ = user
+    return JSONResponse(scheduler_state())
+
+
+@router.post("/ui/scheduler-daemon/start")
+def start_scheduler_daemon_route(user: User = Depends(require_admin)):
+    _ = user
+    return JSONResponse(start_scheduler_daemon())
+
+
+@router.post("/ui/scheduler-daemon/stop")
+def stop_scheduler_daemon_route(user: User = Depends(require_admin)):
+    _ = user
+    return JSONResponse(stop_scheduler_daemon())
 
 
 @router.get("/ui/run-reports")

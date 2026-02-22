@@ -371,6 +371,9 @@
           <button class="secondary" onclick="loadSchedulerStatus()">Scheduler Status</button>
           <button class="secondary" onclick="loadSchedulerProfile()">Scheduler Profile</button>
           <button class="secondary" onclick="loadRunReports()">Run Reports</button>
+          <button onclick="startSchedulerDaemon()">Start Auto Scheduler</button>
+          <button class="secondary" onclick="stopSchedulerDaemon()">Stop Auto Scheduler</button>
+          <button class="secondary" onclick="loadSchedulerDaemonStatus()">Daemon Status</button>
         </div>
         <div class="grid">
           <div class="mini">
@@ -383,6 +386,7 @@
             <div id="logTail" class="log">No data</div>
           </div>
         </div>
+        <div class="status" id="schedulerDaemonStatus">Daemon: unknown</div>
         <label>Recent Run Reports</label>
         <div class="list" id="runReports">No data</div>
       </div>
@@ -689,12 +693,33 @@
         renderChart("impressionsChart", perf.map(p => p.impressions || 0));
         renderChart("clicksChart", perf.map(p => p.clicks || 0));
       };
+      const formatDaemonState = (state) => {
+        if (!state) return "Daemon: unknown";
+        return state.running ? `Daemon: running (pid ${state.pid})` : "Daemon: stopped";
+      };
       const loadSchedulerStatus = async () => {
         const res = await apiFetch("/ui/scheduler-status");
         if (!res.ok) return;
         lastSlot.textContent = res.data.last_slot || "No data";
         lastActions.textContent = JSON.stringify(res.data.last_actions || [], null, 2);
         logTail.textContent = (res.data.log_tail || []).join("\\n");
+        schedulerDaemonStatus.textContent = formatDaemonState(res.data.daemon);
+      };
+      const loadSchedulerDaemonStatus = async () => {
+        const res = await apiFetch("/ui/scheduler-daemon");
+        if (!res.ok) {
+          schedulerDaemonStatus.textContent = "Daemon status unavailable";
+          return;
+        }
+        schedulerDaemonStatus.textContent = formatDaemonState(res.data);
+      };
+      const startSchedulerDaemon = async () => {
+        const res = await apiFetch("/ui/scheduler-daemon/start", { method: "POST" });
+        schedulerDaemonStatus.textContent = res.ok ? formatDaemonState(res.data) : "Failed to start daemon";
+      };
+      const stopSchedulerDaemon = async () => {
+        const res = await apiFetch("/ui/scheduler-daemon/stop", { method: "POST" });
+        schedulerDaemonStatus.textContent = res.ok ? formatDaemonState(res.data) : "Failed to stop daemon";
       };
       const loadSchedulerProfile = async () => {
         const res = await apiFetch("/ui/scheduler-profile");
@@ -851,6 +876,7 @@
         await loadContentSettings();
         await loadMetrics();
         await loadSchedulerStatus();
+        await loadSchedulerDaemonStatus();
         await loadSchedulerProfile();
         await loadRunReports();
         await loadUniqueness();
