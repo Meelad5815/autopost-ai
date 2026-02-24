@@ -135,6 +135,10 @@
         padding: 8px;
         color: #b9cbe0;
       }
+      .terminal-output {
+        min-height: 220px;
+        white-space: pre-wrap;
+      }
     </style>
   </head>
   <body>
@@ -367,6 +371,10 @@
           <button class="secondary" onclick="loadSchedulerStatus()">Scheduler Status</button>
           <button class="secondary" onclick="loadSchedulerProfile()">Scheduler Profile</button>
           <button class="secondary" onclick="loadRunReports()">Run Reports</button>
+          <button onclick="startSchedulerDaemon()">Start Auto Scheduler</button>
+          <button class="secondary" onclick="stopSchedulerDaemon()">Stop Auto Scheduler</button>
+          <button class="secondary" onclick="loadSchedulerDaemonStatus()">Daemon Status</button>
+          <button class="secondary" onclick="loadKaliEnvStatus()">Kali Env Status</button>
         </div>
         <div class="grid">
           <div class="mini">
@@ -379,6 +387,8 @@
             <div id="logTail" class="log">No data</div>
           </div>
         </div>
+        <div class="status" id="schedulerDaemonStatus">Daemon: unknown</div>
+        <div class="status" id="kaliEnvStatus">Kali: unknown</div>
         <label>Recent Run Reports</label>
         <div class="list" id="runReports">No data</div>
       </div>
@@ -451,6 +461,35 @@
         </div>
         <div class="status" id="postingControlStatus"></div>
         <div class="list" id="postingStatsList">No data</div>
+      </div>
+
+
+
+      <div class="card">
+        <h2>Kali Linux Terminal</h2>
+        <label>Kali Command</label>
+        <input id="kaliCommand" placeholder="whoami && uname -a">
+        <div class="row">
+          <button onclick="runKaliCommand()">Run in Kali</button>
+          <button class="secondary" onclick="clearKaliOutput()">Clear</button>
+          <button class="secondary" onclick="loadKaliEnvStatus()">Refresh Kali Status</button>
+        </div>
+        <div class="status" id="kaliTerminalStatus">Ready</div>
+        <div class="log terminal-output" id="kaliTerminalOutput">No output yet</div>
+      </div>
+
+      <div class="card">
+        <h2>Cloud Terminal</h2>
+        <label>Working Directory (repo relative)</label>
+        <input id="terminalCwd" value="." placeholder=".">
+        <label>Command</label>
+        <input id="terminalCommand" placeholder="python --version">
+        <div class="row">
+          <button onclick="runTerminalCommand()">Run Command</button>
+          <button class="secondary" onclick="clearTerminalOutput()">Clear</button>
+        </div>
+        <div class="status" id="terminalStatus">Ready</div>
+        <div class="log terminal-output" id="terminalOutput">No output yet</div>
       </div>
     </div>
 
@@ -671,12 +710,43 @@
         renderChart("impressionsChart", perf.map(p => p.impressions || 0));
         renderChart("clicksChart", perf.map(p => p.clicks || 0));
       };
+      const formatDaemonState = (state) => {
+        if (!state) return "Daemon: unknown";
+        return state.running ? `Daemon: running (pid ${state.pid})` : "Daemon: stopped";
+      };
       const loadSchedulerStatus = async () => {
         const res = await apiFetch("/ui/scheduler-status");
         if (!res.ok) return;
         lastSlot.textContent = res.data.last_slot || "No data";
         lastActions.textContent = JSON.stringify(res.data.last_actions || [], null, 2);
         logTail.textContent = (res.data.log_tail || []).join("\\n");
+        schedulerDaemonStatus.textContent = formatDaemonState(res.data.daemon);
+      };
+      const loadSchedulerDaemonStatus = async () => {
+        const res = await apiFetch("/ui/scheduler-daemon");
+        if (!res.ok) {
+          schedulerDaemonStatus.textContent = "Daemon status unavailable";
+          return;
+        }
+        schedulerDaemonStatus.textContent = formatDaemonState(res.data);
+      };
+      const startSchedulerDaemon = async () => {
+        const res = await apiFetch("/ui/scheduler-daemon/start", { method: "POST" });
+        schedulerDaemonStatus.textContent = res.ok ? formatDaemonState(res.data) : "Failed to start daemon";
+      };
+      const stopSchedulerDaemon = async () => {
+        const res = await apiFetch("/ui/scheduler-daemon/stop", { method: "POST" });
+        schedulerDaemonStatus.textContent = res.ok ? formatDaemonState(res.data) : "Failed to stop daemon";
+      };
+      const loadKaliEnvStatus = async () => {
+        const res = await apiFetch("/ui/kali-env/status");
+        if (!res.ok) {
+          kaliEnvStatus.textContent = "Kali: status unavailable";
+          return;
+        }
+        const d = res.data || {};
+        const state = d.container_running ? "running" : "stopped";
+        kaliEnvStatus.textContent = `Kali: ${state} | docker=${d.docker_installed ? "yes" : "no"} | compose=${d.configured ? "yes" : "no"}`;
       };
       const loadSchedulerProfile = async () => {
         const res = await apiFetch("/ui/scheduler-profile");
@@ -769,6 +839,83 @@
         await loadSchedule();
       };
 
+      const clearKaliOutput = () => {
+        kaliTerminalOutput.textContent = "No output yet";
+        setStatus("kaliTerminalStatus", "Cleared");
+      };
+      const runKaliCommand = async () => {
+        const command = kaliCommand.value.trim();
+        if (!command) {
+          setStatus("kaliTerminalStatus", "Command required");
+          return;
+        }
+        setStatus("kaliTerminalStatus", "Running in Kali...");
+        kaliTerminalOutput.textContent = "Executing command inside autopost-kali...";
+        const res = await apiFetch("/ui/kali-terminal/exec", {
+          method: "POST",
+          body: JSON.stringify({ command, timeout_seconds: 90 })
+        });
+        if (!res.ok) {
+          kaliTerminalOutput.textContent = JSON.stringify(res.data, null, 2);
+          setStatus("kaliTerminalStatus", "Failed to execute Kali command");
+          return;
+        }
+
+        const data = res.data || {};
+        const head = [
+          `$ ${data.command || command}`,
+          `container: ${data.container || "autopost-kali"}`,
+          `status: ${data.status || "unknown"}`,
+          data.returncode !== undefined ? `return code: ${data.returncode}` : ""
+        ].filter(Boolean).join("\n");
+        const stdout = (data.stdout || "").trim();
+        const stderr = (data.stderr || "").trim();
+        kaliTerminalOutput.textContent = `${head}
+
+--- stdout ---
+${stdout || "(empty)"}
+
+--- stderr ---
+${stderr || "(empty)"}`;
+        setStatus("kaliTerminalStatus", data.status === "ok" ? "Kali command finished" : "Kali command completed with issues");
+      };
+
+      const clearTerminalOutput = () => {
+        terminalOutput.textContent = "No output yet";
+        setStatus("terminalStatus", "Cleared");
+      };
+      const runTerminalCommand = async () => {
+        const command = terminalCommand.value.trim();
+        if (!command) {
+          setStatus("terminalStatus", "Command required");
+          return;
+        }
+        const cwd = terminalCwd.value.trim() || ".";
+        setStatus("terminalStatus", "Running...");
+        terminalOutput.textContent = "Executing command...";
+        const res = await apiFetch("/ui/cloud-terminal/exec", {
+          method: "POST",
+          body: JSON.stringify({ command, cwd, timeout_seconds: 45 })
+        });
+        if (!res.ok) {
+          terminalOutput.textContent = JSON.stringify(res.data, null, 2);
+          setStatus("terminalStatus", "Failed to execute command");
+          return;
+        }
+
+        const data = res.data || {};
+        const head = [
+          `$ ${data.command || command}`,
+          `cwd: ${data.cwd || cwd}`,
+          `status: ${data.status || "unknown"}`,
+          data.returncode !== undefined ? `return code: ${data.returncode}` : ""
+        ].filter(Boolean).join("\n");
+        const stdout = (data.stdout || "").trim();
+        const stderr = (data.stderr || "").trim();
+        terminalOutput.textContent = `${head}\n\n--- stdout ---\n${stdout || "(empty)"}\n\n--- stderr ---\n${stderr || "(empty)"}`;
+        setStatus("terminalStatus", data.status === "ok" ? "Command finished" : "Command completed with issues");
+      };
+
       const renderChart = (id, points) => {
         const canvas = document.getElementById(id);
         if (!canvas) return;
@@ -798,6 +945,8 @@
         await loadContentSettings();
         await loadMetrics();
         await loadSchedulerStatus();
+        await loadSchedulerDaemonStatus();
+        await loadKaliEnvStatus();
         await loadSchedulerProfile();
         await loadRunReports();
         await loadUniqueness();
