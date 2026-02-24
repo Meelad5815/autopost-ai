@@ -8,7 +8,6 @@ from app.models import User
 
 
 bearer_scheme = HTTPBearer(auto_error=True)
-bearer_scheme_optional = HTTPBearer(auto_error=False)
 
 
 def get_current_user(
@@ -27,19 +26,4 @@ def get_current_user(
 def require_admin(user: User = Depends(get_current_user)) -> User:
     if user.role != 'admin':
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail='Admin access required')
-    return user
-
-
-def get_current_user_optional(
-    credentials: HTTPAuthorizationCredentials | None = Depends(bearer_scheme_optional),
-    db: Session = Depends(get_db),
-) -> User | None:
-    if not credentials:
-        return None
-    user_id = decode_token(credentials.credentials)
-    if not user_id:
-        return None
-    user = db.query(User).filter(User.id == int(user_id)).first()
-    if not user or not user.is_active:
-        return None
     return user

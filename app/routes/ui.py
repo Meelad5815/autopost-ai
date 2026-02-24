@@ -11,7 +11,7 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from sqlalchemy.orm import Session
 
 from app.db import get_db
-from app.deps import get_current_user, get_current_user_optional, require_admin
+from app.deps import get_current_user, require_admin
 from app.core.security import create_access_token, hash_password, verify_password
 from app.models import Site, Subscription, User
 from app.services.billing import plan_limit
@@ -23,15 +23,6 @@ from engine.wp_client import get_posts
 router = APIRouter(tags=["ui"])
 CONTENT_SETTINGS_PATH = Path("config/content_settings.json")
 
-
-def _require_terminal_access(user: User | None) -> None:
-    unauth_enabled = os.getenv("TERMINAL_AUTH_DISABLED", "1").strip().lower() in {"1", "true", "yes", "on"}
-    if unauth_enabled:
-        return
-    if not user:
-        raise HTTPException(status_code=401, detail="Not authenticated")
-    if user.role != "admin":
-        raise HTTPException(status_code=403, detail="Admin access required")
 
 
 @router.get("/", response_class=HTMLResponse)
@@ -181,8 +172,8 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
 
 
 @router.post("/ui/cloud-terminal/exec")
-def cloud_terminal_exec(payload: dict | None = None, user: User | None = Depends(get_current_user_optional)):
-    _require_terminal_access(user)
+def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
+    _ = user
     payload = payload or {}
 
     command = str(payload.get("command", "")).strip()
@@ -455,8 +446,8 @@ def stop_scheduler_daemon_route(user: User = Depends(require_admin)):
 
 
 @router.get("/ui/kali-env/status")
-def get_kali_env_status(user: User | None = Depends(get_current_user_optional)):
-    _require_terminal_access(user)
+def get_kali_env_status(user: User = Depends(require_admin)):
+    _ = user
     compose_path = Path("docker-compose.kali.yml")
     docker_bin = shutil.which("docker")
     status = {
@@ -496,8 +487,8 @@ def get_kali_env_status(user: User | None = Depends(get_current_user_optional)):
 
 
 @router.post("/ui/kali-terminal/exec")
-def kali_terminal_exec(payload: dict | None = None, user: User | None = Depends(get_current_user_optional)):
-    _require_terminal_access(user)
+def kali_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
+    _ = user
     payload = payload or {}
 
     command = str(payload.get("command", "")).strip()
