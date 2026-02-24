@@ -483,6 +483,70 @@ def get_kali_env_status(user: User = Depends(require_admin)):
 
     return JSONResponse(status)
 
+
+
+@router.post("/ui/kali-terminal/exec")
+def kali_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
+    _ = user
+    payload = payload or {}
+
+    command = str(payload.get("command", "")).strip()
+    if not command:
+        raise HTTPException(status_code=400, detail="command is required")
+
+    raw_timeout = payload.get("timeout_seconds", 45)
+    try:
+        timeout_seconds = int(raw_timeout)
+    except (TypeError, ValueError):
+        raise HTTPException(status_code=400, detail="timeout_seconds must be an integer") from None
+    timeout_seconds = max(1, min(timeout_seconds, 300))
+
+    docker_bin = shutil.which("docker")
+    if not docker_bin:
+        raise HTTPException(status_code=400, detail="Docker CLI not found on host")
+
+    check = subprocess.run(
+        [docker_bin, "ps", "--filter", "name=autopost-kali", "--format", "{{.Names}}"],
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=8,
+    )
+    names = [line.strip() for line in (check.stdout or "").splitlines() if line.strip()]
+    if "autopost-kali" not in names:
+        raise HTTPException(status_code=400, detail="autopost-kali is not running; start it with docker compose -f docker-compose.kali.yml up -d kali")
+
+    try:
+        proc = subprocess.run(
+            [docker_bin, "exec", "autopost-kali", "bash", "-lc", command],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="ignore",
+            timeout=timeout_seconds,
+            check=False,
+        )
+    except subprocess.TimeoutExpired as exc:
+        return {
+            "status": "timeout",
+            "command": command,
+            "container": "autopost-kali",
+            "timeout_seconds": timeout_seconds,
+            "stdout": (exc.stdout or "")[-12000:],
+            "stderr": (exc.stderr or "")[-12000:],
+        }
+
+    return {
+        "status": "ok" if proc.returncode == 0 else "failed",
+        "command": command,
+        "container": "autopost-kali",
+        "timeout_seconds": timeout_seconds,
+        "returncode": proc.returncode,
+        "stdout": (proc.stdout or "")[-16000:],
+        "stderr": (proc.stderr or "")[-16000:],
+    }
+
+
 @router.get("/ui/run-reports")
 def get_run_reports(user: User = Depends(get_current_user)):
     _ = user

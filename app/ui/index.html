@@ -463,6 +463,21 @@
         <div class="list" id="postingStatsList">No data</div>
       </div>
 
+
+
+      <div class="card">
+        <h2>Kali Linux Terminal</h2>
+        <label>Kali Command</label>
+        <input id="kaliCommand" placeholder="whoami && uname -a">
+        <div class="row">
+          <button onclick="runKaliCommand()">Run in Kali</button>
+          <button class="secondary" onclick="clearKaliOutput()">Clear</button>
+          <button class="secondary" onclick="loadKaliEnvStatus()">Refresh Kali Status</button>
+        </div>
+        <div class="status" id="kaliTerminalStatus">Ready</div>
+        <div class="log terminal-output" id="kaliTerminalOutput">No output yet</div>
+      </div>
+
       <div class="card">
         <h2>Cloud Terminal</h2>
         <label>Working Directory (repo relative)</label>
@@ -823,6 +838,48 @@
         setStatus("postingControlStatus", JSON.stringify(res.data));
         await loadSchedule();
       };
+
+      const clearKaliOutput = () => {
+        kaliTerminalOutput.textContent = "No output yet";
+        setStatus("kaliTerminalStatus", "Cleared");
+      };
+      const runKaliCommand = async () => {
+        const command = kaliCommand.value.trim();
+        if (!command) {
+          setStatus("kaliTerminalStatus", "Command required");
+          return;
+        }
+        setStatus("kaliTerminalStatus", "Running in Kali...");
+        kaliTerminalOutput.textContent = "Executing command inside autopost-kali...";
+        const res = await apiFetch("/ui/kali-terminal/exec", {
+          method: "POST",
+          body: JSON.stringify({ command, timeout_seconds: 90 })
+        });
+        if (!res.ok) {
+          kaliTerminalOutput.textContent = JSON.stringify(res.data, null, 2);
+          setStatus("kaliTerminalStatus", "Failed to execute Kali command");
+          return;
+        }
+
+        const data = res.data || {};
+        const head = [
+          `$ ${data.command || command}`,
+          `container: ${data.container || "autopost-kali"}`,
+          `status: ${data.status || "unknown"}`,
+          data.returncode !== undefined ? `return code: ${data.returncode}` : ""
+        ].filter(Boolean).join("\n");
+        const stdout = (data.stdout || "").trim();
+        const stderr = (data.stderr || "").trim();
+        kaliTerminalOutput.textContent = `${head}
+
+--- stdout ---
+${stdout || "(empty)"}
+
+--- stderr ---
+${stderr || "(empty)"}`;
+        setStatus("kaliTerminalStatus", data.status === "ok" ? "Kali command finished" : "Kali command completed with issues");
+      };
+
       const clearTerminalOutput = () => {
         terminalOutput.textContent = "No output yet";
         setStatus("terminalStatus", "Cleared");
