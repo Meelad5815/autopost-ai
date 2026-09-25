@@ -1,0 +1,35 @@
+{
+  "services": [
+    {
+      "id": "web-development",
+      "label": "WordPress / Website Development",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "shopify",
+      "label": "Shopify Store Development",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "graphic-design",
+      "label": "Graphic Design",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "plc-arduino",
+      "label": "PLC / Arduino Automation",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "id": "mobile-laptop",
+      "label": "Mobile / Laptop Software Services",
+      "url": "",
+      "enabled": true
+    }
+  ],
+  "notes": "Add only real destination URLs that you control or are authorized to use. Empty URLs are ignored."
+}
