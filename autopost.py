@@ -375,7 +375,10 @@ def main() -> int:
                     run_results.append({"status": "skipped", "reason": "similarity_gate", "topic": topic, "title": title, "similarity": sim})
                     continue
 
-                conversion = inject_conversion_blocks(content_html, topic, os.getenv("LOCAL_AI_LANGUAGE", "en"))\n                content_html = conversion["content_html"]\n\n                quality_ok, quality_reasons = content_quality_gate(
+                conversion = inject_conversion_blocks(content_html, topic, os.getenv("LOCAL_AI_LANGUAGE", "en"))
+                content_html = conversion["content_html"]
+
+                quality_ok, quality_reasons = content_quality_gate(
                     title,
                     str(article.get("meta_description", "")),
                     content_html,
@@ -442,14 +445,23 @@ def main() -> int:
                         "uniqueness_score": str(uniq),
                         "semantic_similarity": str(sim),
                         "fact_check_status": str(synthesis_brief.get("fact_check_status", "triangulated")),
-                        "conflict_label": str(synthesis_brief.get("conflict_label", "clear")),\n                        "conversion_placements": json.dumps(conversion.get("placements", []), ensure_ascii=False),
+                        "conflict_label": str(synthesis_brief.get("conflict_label", "clear")),
+                        "conversion_placements": json.dumps(conversion.get("placements", []), ensure_ascii=False),
                     },
                 }
 
                 posted = publish_with_retry(payload, cfg.wp_url, cfg.wp_user, cfg.wp_app_password, cfg.request_timeout, cfg.max_publish_retries)
                 post_id = int(posted.get("id"))
                 post_url = posted.get("link", "")
-                social_count = enqueue_social_posts(\n                    post_id=post_id,\n                    title=title,\n                    excerpt=str(article.get("excerpt", "")),\n                    post_url=post_url,\n                    topic=topic,\n                    language=os.getenv("LOCAL_AI_LANGUAGE", "en"),\n                )\n                record_history(
+                social_count = enqueue_social_posts(
+                    post_id=post_id,
+                    title=title,
+                    excerpt=str(article.get("excerpt", "")),
+                    post_url=post_url,
+                    topic=topic,
+                    language=os.getenv("LOCAL_AI_LANGUAGE", "en"),
+                )
+                record_history(
                     history,
                     title,
                     topic,
@@ -481,7 +493,10 @@ def main() -> int:
                         "title": title,
                         "topic": topic,
                         "url": post_url,
-                        "action": "created",\n                        "social_queue_items": social_count,\n                        "conversion_placements": conversion.get("placements", []),\n                        "uniqueness_score": uniq,
+                        "action": "created",
+                        "social_queue_items": social_count,
+                        "conversion_placements": conversion.get("placements", []),
+                        "uniqueness_score": uniq,
                         "semantic_similarity": sim,
                         "fact_check_status": synthesis_brief.get("fact_check_status", "triangulated"),
                         "conflict_label": synthesis_brief.get("conflict_label", "clear"),
