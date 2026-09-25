@@ -220,3 +220,33 @@ def schema_suggestions(topic: str, has_faq: bool = True) -> List[str]:
     if "review" in topic.lower() or "best" in topic.lower():
         items.append("ItemList")
     return items
+
+
+def technical_seo_signals(html: str, url: str = "") -> Dict[str, Any]:
+    """Extract deterministic on-page SEO signals from rendered HTML."""
+    html = html or ""
+    title_match = re.search(r"<title[^>]*>(.*?)</title>", html, re.I | re.S)
+    meta_match = re.search(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']*)', html, re.I)
+    canonical_match = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)', html, re.I)
+    h1_count = len(re.findall(r"<h1\b", html, re.I))
+    images = re.findall(r"<img\b[^>]*>", html, re.I)
+    images_without_alt = sum(1 for img in images if not re.search(r'\balt=["\'][^"\']*["\']', img, re.I))
+    links = re.findall(r'<a\b[^>]+href=["\']([^"\']+)["\']', html, re.I)
+    internal = sum(1 for link in links if link.startswith("/") or (url and link.startswith(url.rstrip("/"))))
+    external = sum(1 for link in links if link.startswith("http") and not (url and link.startswith(url.rstrip("/"))))
+    return {"title_present": bool(title_match and title_match.group(1).strip()), "meta_description_present": bool(meta_match and meta_match.group(1).strip()), "canonical_present": bool(canonical_match and canonical_match.group(1).strip()), "h1_count": h1_count, "image_count": len(images), "images_without_alt": images_without_alt, "internal_link_count": internal, "external_link_count": external}
+
+
+def seo_health_score(signals: Dict[str, Any]) -> int:
+    """Explainable 0-100 technical/on-page score; not a search ranking prediction."""
+    checks = [bool(signals.get("title_present")), bool(signals.get("meta_description_present")), bool(signals.get("canonical_present")), signals.get("h1_count") == 1, signals.get("images_without_alt", 0) == 0, signals.get("internal_link_count", 0) >= 2]
+    return int(round(sum(checks) / len(checks) * 100))
+
+
+def build_article_schema(title: str, url: str, description: str = "", author_name: str = "") -> str:
+    data = {"@context": "https://schema.org", "@type": "Article", "headline": title[:110], "mainEntityOfPage": {"@type": "WebPage", "@id": url}}
+    if description:
+        data["description"] = description[:300]
+    if author_name:
+        data["author"] = {"@type": "Person", "name": author_name}
+    return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False) + "</script>"
