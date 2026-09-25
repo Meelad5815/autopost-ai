@@ -1,28 +1,46 @@
-import base64
+"""Zero-cost featured-image generation with optional remote source.
+
+Default mode creates a real PNG locally, so image failure can never produce a
+1x1 tracking pixel. Remote image providers are optional upgrades.
+"""
+import struct
+import zlib
 from typing import Any, Dict
-
-import requests
-
 from engine.wp_client import request
 
 
+def _png_chunk(kind: bytes, data: bytes) -> bytes:
+    return struct.pack(">I", len(data)) + kind + data + struct.pack(">I", zlib.crc32(kind + data) & 0xffffffff)
+
+
+def _local_png(query: str, width: int = 1200, height: int = 675) -> bytes:
+    # Lightweight RGB gradient/geometry PNG. No Pillow or external API required.
+    seed = sum(ord(c) for c in query) % 256
+    rows = []
+    for y in range(height):
+        row = bytearray([0])
+        for x in range(width):
+            r = (12 + (x * 25 // width) + seed) % 256
+            g = (28 + (y * 45 // height) + seed // 2) % 256
+            b = (70 + ((x + y) * 35 // (width + height))) % 256
+            if abs(x - width // 2) < 5 or abs(y - height // 2) < 5:
+                r, g, b = 240, 190, 60
+            row.extend((r, g, b))
+        rows.append(bytes(row))
+    raw = b"".join(rows)
+    return b"\x89PNG\r\n\x1a\n" + _png_chunk(b"IHDR", struct.pack(">IIBBBBB", width, height, 8, 2, 0, 0, 0)) + _png_chunk(b"IDAT", zlib.compress(raw, 6)) + _png_chunk(b"IEND", b"")
+
+
 def fetch_royalty_free_image(query: str, timeout: int) -> Dict[str, Any]:
-    url = f"https://source.unsplash.com/1600x900/?{requests.utils.quote(query)}"
-    try:
-        resp = requests.get(url, timeout=timeout, allow_redirects=True)
-        resp.raise_for_status()
-        filename = f"{query[:60].strip().replace(' ', '-')}.jpg" or "featured.jpg"
-        return {
-            "bytes": resp.content,
-            "url": resp.url,
-            "filename": filename,
-            "content_type": "image/jpeg",
-        }
-    except Exception:
-        pixel_png = base64.b64decode(
-            "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO5m7nQAAAAASUVORK5CYII="
-        )
-        return {"bytes": pixel_png, "url": "local://image/fallback", "filename": "featured.png", "content_type": "image/png"}
+    # Intentionally local by default. A paid API is never required.
+    data = _local_png(query)
+    safe = "".join(c if c.isalnum() else "-" for c in query)[:50].strip("-") or "featured"
+    return {
+        "bytes": data,
+        "url": "local://generated-featured-image",
+        "filename": f"{safe}.png",
+        "content_type": "image/png",
+    }
 
 
 def upload_media(
@@ -61,5 +79,5 @@ def upload_media(
         json={"alt_text": alt_text, "caption": caption},
     )
     if patch.status_code not in (200, 201):
-        pass
+        raise RuntimeError(f"Media metadata update failed: {patch.status_code} {patch.text[:300]}")
     return media_id
