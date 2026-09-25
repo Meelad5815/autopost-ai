@@ -1,50 +1,74 @@
 {
-  "generated_at": "2026-09-25T15:45:34.621154+00:00",
+  "generated_at": "2026-09-25T19:54:37.925946+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 158,
   "items": [
     {
-      "title": "pardon",
+      "title": "american eagle",
       "source": "google_trends_us"
     },
     {
-      "title": "microsoft stock",
+      "title": "orioles vs yankees",
       "source": "google_trends_us"
     },
     {
-      "title": "nintendo switch news",
+      "title": "army vs temple",
       "source": "google_trends_us"
     },
     {
-      "title": "gillette stadium",
+      "title": "bridget maeve zeigler",
       "source": "google_trends_us"
     },
     {
-      "title": "cruise ship",
+      "title": "rotten tomatoes",
       "source": "google_trends_us"
     },
     {
-      "title": "nick bosa injury",
+      "title": "macklin celebrini",
       "source": "google_trends_us"
     },
     {
-      "title": "nigeria vs madagascar",
+      "title": "algeria vs zambia",
       "source": "google_trends_us"
     },
     {
-      "title": "ace combat 8",
+      "title": "marruecos - gabón",
       "source": "google_trends_us"
     },
     {
-      "title": "westbury high school",
+      "title": "mali vs cabo verde",
       "source": "google_trends_us"
+    },
+    {
+      "title": "turquie – france",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "morocco vs gabon",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "france vs turkey",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "egypt vs angola",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "türkiye vs france",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "italy vs belgium",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "islamabad high court",
+      "source": "google_trends_pk"
     },
     {
       "title": "india vs panama",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "gold price in pakistan today",
       "source": "google_trends_pk"
     },
     {
@@ -53,34 +77,6 @@
     },
     {
       "title": "mozambique vs senegal",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "australia vs brazil",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "iran news live",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "iran news",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "rockstar games gta vi",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "south africa cricket",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "the paradise movie",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "aasif sheikh",
       "source": "google_trends_pk"
     },
     {
@@ -164,11 +160,11 @@
       "source": "google_developers"
     },
     {
-      "title": "AI expert reveals the jobs most likely to survive automation - Yahoo Finance",
+      "title": "AT&amp;T Is Automating Away Jobs—and Its Old Telecom Empire - WIRED",
       "source": "google_news_ai"
     },
     {
-      "title": "AT&amp;T Is Automating Away Jobs—and Its Old Telecom Empire - WIRED",
+      "title": "Rockwell Automation pairs AI with decades of shop floor know-how so workers can solve glitches faster - Microsoft Source",
       "source": "google_news_ai"
     },
     {
@@ -176,11 +172,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "A framework for determining when AI can make decisions - MIT Sloan",
+      "title": "AI expert reveals the jobs most likely to survive automation - finance.yahoo.com",
       "source": "google_news_ai"
     },
     {
       "title": "Beyond Automation: How AI Is Changing Management - INSEAD Knowledge",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Siemens and TSMC Advance AI-Powered Semiconductor Design Automation - HPCwire",
       "source": "google_news_ai"
     },
     {
@@ -204,15 +204,11 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Optigo Networks launches AI Assistant to address building automation network expertise gap - Industrial Cyber",
+      "source": "google_news_ai"
+    },
+    {
       "title": "5 ways AI shifts organizational workflows - No Jitter",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Optigo Networks launches AI Assistant to address building automation network expertise gap - industrialcyber.co",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI Automation Market to Reach USD 2,041.82 Billion by 2035, - GlobeNewswire",
       "source": "google_news_ai"
     },
     {
@@ -220,7 +216,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI-based supply chain automation growing slowly - Modern Materials Handling",
+      "title": "AI Automation Market to Reach USD 2,041.82 Billion by 2035, - GlobeNewswire",
       "source": "google_news_ai"
     },
     {
@@ -228,7 +224,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Rockwell Automation pairs AI with decades of shop floor know-how so workers can solve glitches faster - Microsoft Source",
+      "title": "AI-based supply chain automation growing slowly - Modern Materials Handling",
       "source": "google_news_ai"
     },
     {
@@ -240,7 +236,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "73 Strings buys Callisto to build up private markets automation - Alternatives Watch",
+      "title": "Can WDAY's Introduction of Total Benefits Boost Its Growth Prospects? - The Globe and Mail",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "SoftBank Invests $225M In Industrial Autonomous Vehicle Firm - Bisnow",
       "source": "google_news_ai"
     },
     {
@@ -248,19 +248,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "AI in cybersecurity: Balancing automation and talent development - msspalert.com",
+      "source": "google_news_ai"
+    },
+    {
       "title": "AI plays a role in weak labor market for college graduates - Federal Reserve Bank of Dallas",
       "source": "google_news_ai"
     },
     {
-      "title": "AI in cybersecurity: Balancing automation and talent development - MSSP Alert",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Devolutions Launches Devolutions Ventures to Invest in the Next Generation of IT Technology - AiThority",
-      "source": "google_news_ai"
-    },
-    {
       "title": "What happens when the AI guardrails fail? - No Jitter",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Charles River Laboratories targets $300M in savings through AI tools, automation - The Business Journals",
       "source": "google_news_ai"
     },
     {
@@ -272,27 +272,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Accountable intelligence - how a UiPath customer is using agentic automation to process 100,000 medical billing cases a week - diginomica",
+      "title": "73 Strings buys Callisto to build up private markets automation - Alternatives Watch",
       "source": "google_news_ai"
     },
     {
-      "title": "PPC Advertising Strategies: AI, Automation and Performance Growth - nerdbot",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "From AI pilots to autonomous AMS: The enterprise readiness test for SAP - IBM",
+      "title": "Devolutions Launches Devolutions Ventures to Invest in the Next Generation of IT Technology - AiThority",
       "source": "google_news_ai"
     },
     {
       "title": "Google Rolls Out September 2026 Spam Update Globally - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Multimodal Search Type Filter In Google Search Console Performance Report - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Clients Want GEO, Freelancers Still Bet On SEO: Fiverr Survey - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -304,15 +292,23 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Clients Want GEO, Freelancers Still Bet On SEO: Fiverr Survey - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Maps SEO: How to Rank in the Local Map Pack - Carroll County Mirror-Democrat",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "I think Google has a bit of an SEO problem with ‘Googlebooks.’ - The Verge",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Ads adds IP address and timestamp matching to Customer Match - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "AISEOgic Launches Free AI SEO Audit Platform for Google and AI Search - The Columbus Dispatch",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google expands AI Brief and adds deeper AI Max reporting - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "London SEO Consultant Integrates AI Search Into Standard Services, Warns Ecommerce Brands Against Standalone GEO Agencies - The Manila Times",
       "source": "google_news_seo"
     },
     {
@@ -324,7 +320,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Analytics adds hostname allowlists to fight spam traffic - Search Engine Land",
+      "title": "Google expands AI Brief and adds deeper AI Max reporting - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -332,11 +328,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google expands its list of local advertising codes - Search Engine Land",
+      "title": "Google Analytics adds hostname allowlists to fight spam traffic - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads reframes Smart Bidding learning around 50 conversions - Search Engine Land",
+      "title": "Google expands its list of local advertising codes - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -344,7 +340,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google AI Overviews Have More Links, But Not All Reach The Web - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Search Console Uses Block Flattening For AIOs, Forget Position &amp; Focus On Outcomes - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Ads reframes Smart Bidding learning around 50 conversions - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "London SEO Consultant Integrates AI Search Into Standard Services, Warns Ecommerce Brands Against Standalone GEO Agencies - manilatimes.net",
       "source": "google_news_seo"
     },
     {
@@ -352,7 +360,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "ChatGPT Search vs. Google Search: What Marketers Need to Understand About User Intent - Rebellion Research",
+      "title": "Multimodal Search Type Filter In Google Search Console Performance Report - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -361,6 +369,14 @@
     },
     {
       "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "ChatGPT Search vs. Google Search: What Marketers Need to Understand About User Intent - Rebellion Research",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "What Is Video SEO 2.0 – And Why Does It Matter Now? - TechRound",
       "source": "google_news_seo"
     },
     {
@@ -384,26 +400,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Daily Search Forum Recap: September 24, 2026 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "How can I get to the top of search pages? 10 ways to rank better in 2026 - Hostinger",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Video Schema Gets Creator Property &amp; Updated interactionStatistic - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "SEO Tweaks That Matter: How We Ranked #1 on Google for a Niche Technical Search Term - Startup Stash",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Viral SEO Launches AI Assistant for Google Search Console Insights - Yahoo Finance",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
       "source": "google_news_wordpress"
     },
@@ -416,7 +412,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "FBI assignments leak, WordPress exploit, Pentagon cyber demand - CISO Series",
+      "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902) - Help Net Security",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data - bleepingcomputer.com",
       "source": "google_news_wordpress"
     },
     {
@@ -428,7 +428,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers are targeting a critical WordPress flaw, so be on your guard - TechRadar",
+      "title": "WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution - TechRepublic",
       "source": "google_news_wordpress"
     },
     {
@@ -436,19 +436,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server - bleepingcomputer.com",
       "source": "google_news_wordpress"
     },
     {
@@ -456,7 +444,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution - TechRepublic",
+      "title": "20i finds 88% of WordPress sites running outdated software as attacks rise - PPC Land",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Elementor WordPress flaw lets attackers create admin accounts - bleepingcomputer.com",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "CVE-2026-87902: Critical Vulnerability in WordPress - Kaspersky",
       "source": "google_news_wordpress"
     },
     {
@@ -468,11 +464,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "“A gripping read” – Little Spark by Jess Kid - WordPress.com",
+      "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions - SOC Prime",
       "source": "google_news_wordpress"
     },
     {
-      "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions - SOC Prime",
+      "title": "“A gripping read” – Little Spark by Jess Kid - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
@@ -480,7 +476,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers Exploit Critical WordPress Flaw Just Hours After Patch Release - HotHardware",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 in Hours [2026] - tech-insider.org",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Hackers Actively Exploiting Wordpress Vulnerability to Execute Malicious Code - CyberSecurityNews",
       "source": "google_news_wordpress"
     }
   ],
