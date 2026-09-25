@@ -6,6 +6,8 @@ from typing import Any, Dict, List
 
 import requests
 
+from .feedback import topic_success_scores
+
 from .ai import openai_json
 
 
@@ -120,6 +122,12 @@ def discover_trends_and_keywords(timeout: int, topics: List[str]) -> Dict[str, A
             )
 
     learning = load_learning_signals()
+    # Merge locally recorded WordPress performance into the discovery loop.
+    topic_scores = topic_success_scores()
+    if topic_scores:
+        learning_topics = learning.setdefault("topics", {})
+        for topic, ctr in topic_scores.items():
+            learning_topics[str(topic).lower()] = {"clicks": 0, "impressions": 1, "ctr": ctr}
     keywords = apply_learning_signals(keywords, learning)
     return {"trends": trends, "keywords": keywords[:200]}
 
