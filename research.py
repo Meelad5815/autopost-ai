@@ -55,8 +55,29 @@ def build_research() -> dict[str, Any]:
         if "shopify" in low: ideas.append("Refresh Shopify topic clusters.")
     return {"generated_at": datetime.now(timezone.utc).isoformat(), "feed_count": len(FEEDS), "item_count": len(unique), "items": unique[:120], "improvement_queue": list(dict.fromkeys(ideas))[:20], "policy": {"public_google_feeds_only": True, "no_rate_limit_bypass": True, "no_automatic_executable_code_changes": True}}
 
+def _write_if_changed(path: Path, payload: dict[str, Any]) -> bool:
+    rendered = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+    if path.exists() and path.read_text(encoding="utf-8") == rendered:
+        return False
+    path.write_text(rendered, encoding="utf-8")
+    return True
+
+
 if __name__ == "__main__":
     data = build_research()
-    Path("research.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    Path("improvement_queue.json").write_text(json.dumps({"generated_at": data["generated_at"], "queue": data["improvement_queue"]}, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Google research: {data['item_count']} items; {len(data['improvement_queue'])} ideas.")
+    # Keep generated_at stable when the actual research set has not changed,
+    # so the 15-minute research workflow does not create needless commits.
+    research_path = Path("research.json")
+    if research_path.exists():
+        try:
+            previous = json.loads(research_path.read_text(encoding="utf-8"))
+            previous_core = {k: v for k, v in previous.items() if k != "generated_at"}
+            current_core = {k: v for k, v in data.items() if k != "generated_at"}
+            if previous_core == current_core:
+                data["generated_at"] = previous.get("generated_at", data["generated_at"])
+        except Exception:
+            pass
+    changed = _write_if_changed(research_path, data)
+    queue = {"generated_at": data["generated_at"], "queue": data["improvement_queue"]}
+    queue_changed = _write_if_changed(Path("improvement_queue.json"), queue)
+    print(f"Google research: {data['item_count']} items; {len(data['improvement_queue'])} ideas; changed={changed or queue_changed}.")
