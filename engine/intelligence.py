@@ -80,10 +80,24 @@ def _ranking_probability(demand: float, competition: float) -> float:
     return max(1.0, min(99.0, (demand * 0.7) + ((100 - competition) * 0.3)))
 
 
+def _load_google_research_titles() -> List[str]:
+    try:
+        path = Path("research.json")
+        if not path.exists():
+            return []
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return [str(x.get("title", "")).strip() for x in data.get("items", []) if x.get("title")]
+    except Exception:
+        return []
+
+
 def discover_trends_and_keywords(timeout: int, topics: List[str]) -> Dict[str, Any]:
-    trends = fetch_trends("US", timeout)[:20]
+    trends_us = fetch_trends("US", timeout)[:20]
+    trends_pk = fetch_trends("PK", timeout)[:20]
+    research_titles = _load_google_research_titles()[:20]
+    trends = list(dict.fromkeys(trends_pk + trends_us + research_titles))[:40]
     keywords: List[Dict[str, Any]] = []
-    seeds = topics + trends[:5]
+    seeds = topics + trends[:10]
     seen = set()
     for seed in seeds:
         for kw in fetch_suggestions(seed, timeout)[:20]:
