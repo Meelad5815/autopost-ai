@@ -18,7 +18,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 from engine.ai import openai_json
 from engine.config import ConfigError, load_config
-from engine.feedback import choose_best_topics, record_post_performance
+from engine.feedback import choose_best_topics, record_post_performance\nfrom engine.conversion import inject_conversion_blocks
 from engine.intelligence import (
     competitor_analysis,
     detect_profitable_niches,
@@ -440,7 +440,7 @@ def main() -> int:
                         "uniqueness_score": str(uniq),
                         "semantic_similarity": str(sim),
                         "fact_check_status": str(synthesis_brief.get("fact_check_status", "triangulated")),
-                        "conflict_label": str(synthesis_brief.get("conflict_label", "clear")),
+                        "conflict_label": str(synthesis_brief.get("conflict_label", "clear")),\n                        "conversion_placements": json.dumps(conversion.get("placements", []), ensure_ascii=False),
                     },
                 }
 
@@ -479,7 +479,7 @@ def main() -> int:
                         "title": title,
                         "topic": topic,
                         "url": post_url,
-                        "action": "created",\n                        "social_queue_items": social_count,\n                        "uniqueness_score": uniq,
+                        "action": "created",\n                        "social_queue_items": social_count,\n                        "conversion_placements": conversion.get("placements", []),\n                        "uniqueness_score": uniq,
                         "semantic_similarity": sim,
                         "fact_check_status": synthesis_brief.get("fact_check_status", "triangulated"),
                         "conflict_label": synthesis_brief.get("conflict_label", "clear"),
