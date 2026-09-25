@@ -33,6 +33,7 @@ from engine.strategy import detect_old_posts_for_refresh, generate_calendar, sel
 from engine.prompt_framework import build_article_prompt, select_generation_profile
 from engine.wp_client import clean_title, ensure_term, get_posts, near_duplicate, publish_with_retry, schedule_iso, update_post
 from media import fetch_royalty_free_image, upload_media
+from social import enqueue_social_posts
 from seo import (
     build_content_brief,
     build_meta_description,
@@ -444,7 +445,7 @@ def main() -> int:
                 posted = publish_with_retry(payload, cfg.wp_url, cfg.wp_user, cfg.wp_app_password, cfg.request_timeout, cfg.max_publish_retries)
                 post_id = int(posted.get("id"))
                 post_url = posted.get("link", "")
-                record_history(
+                social_count = enqueue_social_posts(\n                    post_id=post_id,\n                    title=title,\n                    excerpt=str(article.get("excerpt", "")),\n                    post_url=post_url,\n                    topic=topic,\n                    language=os.getenv("LOCAL_AI_LANGUAGE", "en"),\n                )\n                record_history(
                     history,
                     title,
                     topic,
@@ -476,8 +477,7 @@ def main() -> int:
                         "title": title,
                         "topic": topic,
                         "url": post_url,
-                        "action": "created",
-                        "uniqueness_score": uniq,
+                        "action": "created",\n                        "social_queue_items": social_count,\n                        "uniqueness_score": uniq,
                         "semantic_similarity": sim,
                         "fact_check_status": synthesis_brief.get("fact_check_status", "triangulated"),
                         "conflict_label": synthesis_brief.get("conflict_label", "clear"),
