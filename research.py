@@ -59,4 +59,4 @@ if __name__ == "__main__":
     data = build_research()
     Path("research.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     Path("improvement_queue.json").write_text(json.dumps({"generated_at": data["generated_at"], "queue": data["improvement_queue"]}, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Google research: {data["item_count"]} items; {len(data["improvement_queue"])} ideas.")
+    print(f"Google research: {data['item_count']} items; {len(data['improvement_queue'])} ideas.")
