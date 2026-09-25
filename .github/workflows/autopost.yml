@@ -59,6 +59,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          AI_PROVIDER: local
 
           AUTOSCRIPT_WP_URL: ${{ secrets.AUTOSCRIPT_WP_URL }}
           AUTOSCRIPT_WP_USER: ${{ secrets.AUTOSCRIPT_WP_USER }}
@@ -81,6 +82,7 @@ jobs:
           export GEMINI_API_KEY="${AUTOSCRIPT_GEMINI_API_KEY:-${GEMINI_API_KEY:-}}"
           export GEMINI_MODEL="${AUTOSCRIPT_GEMINI_MODEL:-${GEMINI_MODEL:-gemini-1.5-flash}}"
           export PEXELS_API_KEY="${AUTOSCRIPT_PEXELS_API_KEY:-${PEXELS_API_KEY:-}}"
+          export AI_PROVIDER="local"
 
           if [ -n "${WP_URL:-}" ] && [ -n "${WP_USER:-}" ] && [ -n "${WP_APP_PASSWORD:-}" ]; then
             # RUN_ONCE=1 ensures this job does a single slot (3 posts + 1 update)
