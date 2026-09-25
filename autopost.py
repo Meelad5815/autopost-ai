@@ -3,7 +3,6 @@
 import json
 import logging
 import os
-import random
 import re
 import sys
 from datetime import datetime, timezone
@@ -383,7 +382,7 @@ def main() -> int:
                 payload = {
                     "title": title,
                     "slug": slugify(title),
-                    "status": "publish",
+                    "status": cfg.post_status,
                     "content": content_html,
                     "excerpt": str(article.get("excerpt", "")),
                     "categories": cat_ids,
@@ -421,11 +420,14 @@ def main() -> int:
                     datetime.now(timezone.utc).isoformat(),
                 )
 
+                # Never invent traffic/click metrics. Real analytics can be
+                # imported later from Search Console/WordPress analytics.
                 record_post_performance(post_id, title, {
                     "topic": topic,
-                    "impressions": random.randint(150, 2000),
-                    "clicks": random.randint(10, 220),
+                    "impressions": 0,
+                    "clicks": 0,
                     "recorded_at": datetime.now(timezone.utc).isoformat(),
+                    "metrics_source": "not_connected",
                 })
 
                 run_results.append(
