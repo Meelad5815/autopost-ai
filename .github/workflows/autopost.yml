@@ -2,8 +2,6 @@ name: autopost-24x7
 
 on:
   workflow_dispatch:
-  push:
-    branches: ["main"]
   schedule:
     # Asia/Karachi is UTC+5: 10:00, 12:00, 14:00, 16:00, 18:00 PKT.
     # GitHub Actions schedule is UTC.
