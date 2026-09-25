@@ -51,6 +51,7 @@ from seo import (
     select_internal_links,
     uniqueness_score,
     word_count,
+    build_article_schema,
 )
 
 
@@ -332,6 +333,7 @@ def main() -> int:
                 links = select_internal_links(content_html, existing_posts, max_links=2)
                 content_html = insert_internal_links(content_html, links)
                 content_html += faq_schema(article.get("faq_items", []))
+                content_html += build_article_schema(title, "", str(article.get("meta_description", "")), os.getenv("AUTHOR_NAME", "Hafiz Muhammad Meelad Raza Attari"))
                 content_html = ensure_author_signature(content_html, os.getenv("AUTHOR_NAME", "Hafiz Muhammad Meelad Raza Attari"))
                 must_have_author(content_html, os.getenv("AUTHOR_NAME", "Hafiz Muhammad Meelad Raza Attari"))
 
