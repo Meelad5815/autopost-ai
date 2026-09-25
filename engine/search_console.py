@@ -3,11 +3,11 @@ import os
 from datetime import date, timedelta
 from pathlib import Path
 from typing import Any, Dict, List
+from urllib.parse import quote
 
 import requests
 
 OUTPUT_FILE = Path("data/search_console.json")
-TOKEN_URL = "https://oauth2.googleapis.com/token"
 API_BASE = "https://www.googleapis.com/webmasters/v3/sites"
 
 
@@ -43,15 +43,13 @@ def query_search_analytics(
     dimensions: List[str],
     row_limit: int = 25000,
 ) -> List[Dict[str, Any]]:
-    from urllib.parse import quote
-
     encoded_site = quote(site_url, safe="")
     url = f"{API_BASE}/{encoded_site}/searchAnalytics/query"
     payload = {
         "startDate": start_date,
         "endDate": end_date,
         "dimensions": dimensions,
-        "rowLimit": row_limit,
+        "rowLimit": min(25000, max(1, row_limit)),
         "startRow": 0,
     }
     response = requests.post(
@@ -70,14 +68,13 @@ def collect(days: int = 28) -> Dict[str, Any]:
         raise RuntimeError("GSC_SITE_URL is not configured.")
 
     end = date.today() - timedelta(days=2)
-    start = end - timedelta(days=max(1, days) - 1)
+    start = end - timedelta(days=max(1, days) + -1)
     token = _access_token(_credentials())
 
-    query_rows = query_search_analytics(
-        site_url, token, start.isoformat(), end.isoformat(), ["query"], 25000
-    )
-    page_rows = query_search_analytics(
-        site_url, token, start.isoformat(), end.isoformat(), ["page"], 25000
+    query_rows = query_search_analytics(site_url, token, start.isoformat(), end.isoformat(), ["query"], 25000)
+    page_rows = query_search_analytics(site_url, token, start.isoformat(), end.isoformat(), ["page"], 25000)
+    page_query_rows = query_search_analytics(
+        site_url, token, start.isoformat(), end.isoformat(), ["page", "query"], 25000
     )
 
     return {
@@ -87,11 +84,13 @@ def collect(days: int = 28) -> Dict[str, Any]:
         "source": "Google Search Console Search Analytics API",
         "query_rows": query_rows,
         "page_rows": page_rows,
+        "page_query_rows": page_query_rows,
         "totals": {
             "query_clicks": round(sum(float(r.get("clicks", 0)) for r in query_rows), 2),
             "query_impressions": round(sum(float(r.get("impressions", 0)) for r in query_rows), 2),
             "page_clicks": round(sum(float(r.get("clicks", 0)) for r in page_rows), 2),
             "page_impressions": round(sum(float(r.get("impressions", 0)) for r in page_rows), 2),
+            "page_query_rows": len(page_query_rows),
         },
     }
 
