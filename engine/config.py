@@ -26,13 +26,6 @@ def load_dotenv_if_present(path: str = ".env") -> None:
             os.environ[key] = value
 
 
-def require_env(name: str) -> str:
-    value = os.getenv(name, "").strip()
-    if not value:
-        raise ConfigError(f"Missing required environment variable: {name}")
-    return value
-
-
 def require_env_any(*names: str) -> str:
     for name in names:
         value = os.getenv(name, "").strip()
@@ -61,13 +54,9 @@ class Config:
     posts_per_run: int
     post_status: str
     schedule_interval_minutes: int
-
-    # intelligence / strategy
     niches_per_run: int
     calendar_days: int
     refresh_age_days: int
-
-    # feature toggles
     enable_niche_intelligence: bool
     enable_competitor_analysis: bool
     enable_serp_simulation: bool
@@ -85,20 +74,25 @@ class Config:
 
 def load_config() -> Config:
     load_dotenv_if_present()
+    provider = os.getenv("AI_PROVIDER", "local").strip().lower()
+    if provider not in {"local", "ollama"}:
+        raise ConfigError("AI_PROVIDER must be 'local' or 'ollama'.")
+
     return Config(
         wp_url=require_env_any("WP_URL", "AUTOSCRIPT_WP_URL"),
         wp_user=require_env_any("WP_USER", "AUTOSCRIPT_WP_USER"),
         wp_app_password=require_env_any("WP_APP_PASSWORD", "AUTOSCRIPT_WP_APP_PASSWORD"),
-        openai_api_key=env_any("", "LOCAL_AI_KEY", "GEMINI_API_KEY", "AUTOSCRIPT_GEMINI_API_KEY", "OPENAI_API_KEY"),
-        openai_model=env_any("local-deterministic-v1", "LOCAL_AI_MODEL", "GEMINI_MODEL", "AUTOSCRIPT_GEMINI_MODEL", "OPENAI_MODEL"),
+        # Kept for compatibility. Local mode intentionally needs no AI key.
+        openai_api_key=env_any("", "LOCAL_AI_KEY", "GEMINI_API_KEY", "OPENAI_API_KEY"),
+        openai_model=env_any(os.getenv("OLLAMA_MODEL", "llama3.2:3b"), "LOCAL_AI_MODEL", "OLLAMA_MODEL", "GEMINI_MODEL", "OPENAI_MODEL"),
         request_timeout=int(os.getenv("REQUEST_TIMEOUT", "60")),
         max_publish_retries=int(os.getenv("MAX_PUBLISH_RETRIES", "3")),
         posts_per_run=max(1, int(os.getenv("POSTS_PER_RUN", "1"))),
-        post_status=os.getenv("POST_STATUS", "publish").lower().strip(),
+        post_status=os.getenv("POST_STATUS", "draft").lower().strip(),
         schedule_interval_minutes=int(os.getenv("SCHEDULE_INTERVAL_MINUTES", "120")),
         niches_per_run=max(3, int(os.getenv("NICHES_PER_RUN", "6"))),
-        calendar_days=int(os.getenv("CALENDAR_DAYS", "30")),
-        refresh_age_days=int(os.getenv("REFRESH_AGE_DAYS", "120")),
+        calendar_days=max(7, int(os.getenv("CALENDAR_DAYS", "30"))),
+        refresh_age_days=max(30, int(os.getenv("REFRESH_AGE_DAYS", "120"))),
         enable_niche_intelligence=env_bool("ENABLE_NICHE_INTELLIGENCE", "true"),
         enable_competitor_analysis=env_bool("ENABLE_COMPETITOR_ANALYSIS", "true"),
         enable_serp_simulation=env_bool("ENABLE_SERP_SIMULATION", "true"),
