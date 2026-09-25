@@ -119,8 +119,41 @@ def discover_trends_and_keywords(timeout: int, topics: List[str]) -> Dict[str, A
                 }
             )
 
-    keywords.sort(key=lambda x: (x["ranking_probability"], x["demand"]), reverse=True)
+    learning = load_learning_signals()
+    keywords = apply_learning_signals(keywords, learning)
     return {"trends": trends, "keywords": keywords[:200]}
+
+
+def load_learning_signals(path: str = "data/learning_signals.json") -> Dict[str, Any]:
+    try:
+        p = Path(path)
+        if not p.exists():
+            return {"topics": {}, "keywords": {}}
+        data = json.loads(p.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {"topics": {}, "keywords": {}}
+    except Exception:
+        return {"topics": {}, "keywords": {}}
+
+
+def apply_learning_signals(keywords: List[Dict[str, Any]], learning: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """Adjust discovery ordering using recorded performance signals when available."""
+    topic_signals = learning.get("topics", {}) if isinstance(learning, dict) else {}
+    out = []
+    for item in keywords:
+        k = str(item.get("keyword", "")).strip()
+        signal = topic_signals.get(k.lower(), {}) if isinstance(topic_signals, dict) else {}
+        try:
+            clicks = max(0.0, float(signal.get("clicks", 0)))
+            impressions = max(0.0, float(signal.get("impressions", 0)))
+        except (TypeError, ValueError):
+            clicks, impressions = 0.0, 0.0
+        ctr = (clicks / impressions) if impressions else 0.0
+        boost = min(25.0, (ctr * 100.0) * 0.25 + min(clicks, 100.0) * 0.05)
+        enriched = dict(item)
+        enriched["learning_boost"] = round(boost, 2)
+        enriched["learned_score"] = round(float(item.get("ranking_probability", 0)) + boost, 2)
+        out.append(enriched)
+    return sorted(out, key=lambda x: (x.get("learned_score", 0), x.get("demand", 0)), reverse=True)
 
 
 def cluster_keywords(keywords: List[Dict[str, Any]]) -> Dict[str, Any]:
