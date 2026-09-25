@@ -7,7 +7,6 @@ from typing import Any, Dict, List
 import requests
 
 from .feedback import topic_success_scores
-
 from .ai import openai_json
 
 
@@ -35,7 +34,6 @@ def fetch_trends(geo: str, timeout: int) -> List[str]:
 
 
 def score_niche(keyword: str) -> Dict[str, float]:
-    # heuristic proxy when no paid SEO APIs are available
     length = len(keyword.split())
     demand = min(100.0, 35 + length * 10)
     competition = max(5.0, 85 - length * 8)
@@ -68,8 +66,7 @@ def _intent_strength(keyword: str) -> float:
 
 
 def _competition_estimate(keyword: str) -> float:
-    words = keyword.split()
-    return max(10.0, 90.0 - len(words) * 10.0)
+    return max(10.0, 90.0 - len(keyword.split()) * 10.0)
 
 
 def _demand_estimate(keyword: str) -> float:
@@ -93,6 +90,49 @@ def _load_google_research_titles() -> List[str]:
         return []
 
 
+def _load_search_console_rows() -> List[Dict[str, Any]]:
+    try:
+        path = Path("data/search_console.json")
+        if not path.exists():
+            return []
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data.get("query_rows", []) if isinstance(data, dict) else []
+    except Exception:
+        return []
+
+
+def _apply_search_console_query_signals(keywords: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    rows = _load_search_console_rows()
+    if not rows:
+        return keywords
+
+    signals = {}
+    for row in rows:
+        query = str(row.get("keys", [""])[0]).strip().lower() if row.get("keys") else ""
+        if not query:
+            continue
+        signals[query] = {
+            "clicks": float(row.get("clicks", 0)),
+            "impressions": float(row.get("impressions", 0)),
+            "ctr": float(row.get("ctr", 0)),
+            "position": float(row.get("position", 0)),
+        }
+
+    out = []
+    for item in keywords:
+        enriched = dict(item)
+        query = str(item.get("keyword", "")).strip().lower()
+        signal = signals.get(query)
+        if signal:
+            # Real GSC signals influence ordering only; they do not become fake ranking predictions.
+            boost = min(20.0, signal["ctr"] * 100.0 * 0.20 + min(signal["clicks"], 100.0) * 0.05)
+            enriched["search_console"] = signal
+            enriched["gsc_learning_boost"] = round(boost, 2)
+            enriched["learned_score"] = round(float(enriched.get("learned_score", enriched.get("ranking_probability", 0))) + boost, 2)
+        out.append(enriched)
+    return sorted(out, key=lambda x: (x.get("learned_score", 0), x.get("demand", 0)), reverse=True)
+
+
 def discover_trends_and_keywords(timeout: int, topics: List[str]) -> Dict[str, Any]:
     trends_us = fetch_trends("US", timeout)[:20]
     trends_pk = fetch_trends("PK", timeout)[:20]
@@ -111,24 +151,22 @@ def discover_trends_and_keywords(timeout: int, topics: List[str]) -> Dict[str, A
             competition = _competition_estimate(k)
             ranking = _ranking_probability(demand, competition)
             intent = "commercial" if any(x in k.lower() for x in ["buy", "pricing", "review", "best"]) else "informational"
-            keywords.append(
-                {
-                    "keyword": k,
-                    "intent": intent,
-                    "demand": round(demand, 2),
-                    "competition": round(competition, 2),
-                    "ranking_probability": round(ranking, 2),
-                }
-            )
+            keywords.append({
+                "keyword": k,
+                "intent": intent,
+                "demand": round(demand, 2),
+                "competition": round(competition, 2),
+                "ranking_probability": round(ranking, 2),
+            })
 
     learning = load_learning_signals()
-    # Merge locally recorded WordPress performance into the discovery loop.
     topic_scores = topic_success_scores()
     if topic_scores:
         learning_topics = learning.setdefault("topics", {})
         for topic, ctr in topic_scores.items():
             learning_topics[str(topic).lower()] = {"clicks": 0, "impressions": 1, "ctr": ctr}
     keywords = apply_learning_signals(keywords, learning)
+    keywords = _apply_search_console_query_signals(keywords)
     return {"trends": trends, "keywords": keywords[:200]}
 
 
@@ -144,7 +182,6 @@ def load_learning_signals(path: str = "data/learning_signals.json") -> Dict[str,
 
 
 def apply_learning_signals(keywords: List[Dict[str, Any]], learning: Dict[str, Any]) -> List[Dict[str, Any]]:
-    """Adjust discovery ordering using recorded performance signals when available."""
     topic_signals = learning.get("topics", {}) if isinstance(learning, dict) else {}
     out = []
     for item in keywords:
@@ -176,7 +213,6 @@ def cluster_keywords(keywords: List[Dict[str, Any]]) -> Dict[str, Any]:
         items_sorted = sorted(items, key=lambda x: x["ranking_probability"], reverse=True)
         pillar = items_sorted[0]["keyword"]
         cluster_list.append({"pillar": pillar, "cluster": items_sorted})
-
     cluster_list.sort(key=lambda x: x["cluster"][0]["ranking_probability"], reverse=True)
     return {"clusters": cluster_list}
 
