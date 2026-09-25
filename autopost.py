@@ -373,7 +373,7 @@ def main() -> int:
                     run_results.append({"status": "skipped", "reason": "similarity_gate", "topic": topic, "title": title, "similarity": sim})
                     continue
 
-                quality_ok, quality_reasons = content_quality_gate(
+                conversion = inject_conversion_blocks(content_html, topic, os.getenv("LOCAL_AI_LANGUAGE", "en"))\n                content_html = conversion["content_html"]\n\n                quality_ok, quality_reasons = content_quality_gate(
                     title,
                     str(article.get("meta_description", "")),
                     content_html,
