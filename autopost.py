@@ -281,7 +281,7 @@ def main() -> int:
         stale_posts = detect_old_posts_for_refresh(existing_posts, cfg.refresh_age_days) if cfg.enable_content_refresh else []
 
         update_only = os.getenv("UPDATE_ONLY", "0") == "1"
-        update_loop = os.getenv("UPDATE_LOOP", "1") == "1"
+        update_loop = os.getenv("UPDATE_LOOP", "0") == "1"
 
         if not update_only:
             for idx in range(1, cfg.posts_per_run + 1):
@@ -489,7 +489,7 @@ def main() -> int:
 
         # Update/expand loop (select one old post to refresh)
         if update_loop:
-            update_candidate = select_update_candidate(existing_posts)
+            update_candidate = select_update_candidate(existing_posts) if os.getenv("ALLOW_AUTOMATIC_REFRESH", "false").lower() == "true" else None
             if update_candidate:
                 post_id = int(update_candidate.get("id"))
                 old_title = clean_title(update_candidate.get("title", {}).get("rendered", ""))
