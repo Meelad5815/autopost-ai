@@ -1,10 +1,12 @@
-name: autopost-ci
+name: autopost-24x7
 
 on:
   workflow_dispatch:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   schedule:
+    # Asia/Karachi is UTC+5: 10:00, 12:00, 14:00, 16:00, 18:00 PKT.
+    # GitHub Actions schedule is UTC.
     - cron: "0 5 * * *"
     - cron: "0 7 * * *"
     - cron: "0 9 * * *"
@@ -15,12 +17,12 @@ permissions:
   contents: write
 
 concurrency:
-  group: autopost-ci-${{ github.ref }}
+  group: autopost-24x7-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
-  ci:
-    name: Validate and optionally run autopost
+  autopost:
+    name: Remote zero-cost autopost
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -40,69 +42,48 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Validate Python syntax
+      - name: Validate Python
         shell: bash
         run: |
           set -euo pipefail
-          python -m py_compile autopost.py
-          python -m py_compile run_batch.py
+          python -m py_compile autopost.py scheduler.py run_batch.py
           python -m py_compile app/main.py app/worker.py app/core/*.py app/routes/*.py app/services/*.py engine/*.py
 
-      - name: Run scheduled batch (remote)
+      - name: Run one scheduled slot
         shell: bash
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_USER: ${{ secrets.WP_USER }}
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
-          LOCAL_AI_KEY: ${{ secrets.LOCAL_AI_KEY }}
-          LOCAL_AI_MODEL: ${{ secrets.LOCAL_AI_MODEL }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           AI_PROVIDER: local
-
-          AUTOSCRIPT_WP_URL: ${{ secrets.AUTOSCRIPT_WP_URL }}
-          AUTOSCRIPT_WP_USER: ${{ secrets.AUTOSCRIPT_WP_USER }}
-          AUTOSCRIPT_WP_APP_PASSWORD: ${{ secrets.AUTOSCRIPT_WP_APP_PASSWORD }}
-          AUTOSCRIPT_LOCAL_AI_KEY: ${{ secrets.AUTOSCRIPT_LOCAL_AI_KEY }}
-          AUTOSCRIPT_LOCAL_AI_MODEL: ${{ secrets.AUTOSCRIPT_LOCAL_AI_MODEL }}
-          AUTOSCRIPT_GEMINI_API_KEY: ${{ secrets.AUTOSCRIPT_GEMINI_API_KEY }}
-          AUTOSCRIPT_GEMINI_MODEL: ${{ secrets.AUTOSCRIPT_GEMINI_MODEL }}
-          AUTOSCRIPT_PEXELS_API_KEY: ${{ secrets.AUTOSCRIPT_PEXELS_API_KEY }}
+          LOCAL_AI_LANGUAGE: en
+          POST_STATUS: publish
+          POSTS_PER_RUN: "1"
+          RUN_ONCE: "1"
           SLOT_TIME: ${{ github.event_name == 'push' && '10:00' || '' }}
         run: |
           set -euo pipefail
 
-          # Prefer AUTOSCRIPT_* secrets if available, otherwise fallback to WP_* names.
-          export WP_URL="${AUTOSCRIPT_WP_URL:-${WP_URL:-}}"
-          export WP_USER="${AUTOSCRIPT_WP_USER:-${WP_USER:-}}"
-          export WP_APP_PASSWORD="${AUTOSCRIPT_WP_APP_PASSWORD:-${WP_APP_PASSWORD:-}}"
-          export LOCAL_AI_KEY="${AUTOSCRIPT_LOCAL_AI_KEY:-${LOCAL_AI_KEY:-}}"
-          export LOCAL_AI_MODEL="${AUTOSCRIPT_LOCAL_AI_MODEL:-${LOCAL_AI_MODEL:-local-deterministic-v1}}"
-          export GEMINI_API_KEY="${AUTOSCRIPT_GEMINI_API_KEY:-${GEMINI_API_KEY:-}}"
-          export GEMINI_MODEL="${AUTOSCRIPT_GEMINI_MODEL:-${GEMINI_MODEL:-gemini-1.5-flash}}"
-          export PEXELS_API_KEY="${AUTOSCRIPT_PEXELS_API_KEY:-${PEXELS_API_KEY:-}}"
-          export AI_PROVIDER="local"
-
-          if [ -n "${WP_URL:-}" ] && [ -n "${WP_USER:-}" ] && [ -n "${WP_APP_PASSWORD:-}" ]; then
-            # RUN_ONCE=1 ensures this job does a single slot (3 posts + 1 update)
-            export RUN_ONCE=1
-            python scheduler.py
-          else
-            echo "Skipping engine run: missing required WP credentials. Set either WP_* or AUTOSCRIPT_* names."
+          if [ -z "${WP_URL:-}" ] || [ -z "${WP_USER:-}" ] || [ -z "${WP_APP_PASSWORD:-}" ]; then
+            echo "::error::Missing WP_URL, WP_USER, or WP_APP_PASSWORD GitHub Secrets."
+            exit 1
           fi
 
-      - name: Persist runtime state (history/trends/keywords/logs)
+          python scheduler.py
+
+      - name: Persist runtime state
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add history.json trends.json keywords.json data/ scheduler.log config/schedule.json || true
-          if ! git diff --cached --quiet; then
-            git commit -m "Update runtime state (history/trends/keywords)"
-            git pull --rebase
-            git push
-          else
-            echo "No runtime changes to commit."
+
+          if git diff --cached --quiet; then
+            echo "No runtime state changes to commit."
+            exit 0
           fi
+
+          git commit -m "Update autopost runtime state"
+          git pull --rebase origin main
+          git push origin HEAD:main
