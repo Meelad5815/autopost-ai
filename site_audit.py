@@ -11,6 +11,7 @@ import requests
 
 from engine.config import ConfigError, load_config
 from engine.wp_client import request
+from seo import technical_seo_signals, seo_health_score
 
 
 AUDIT_DIR = Path("data/audits")
@@ -127,6 +128,7 @@ def content_checks(
     missing_author_signature = 0
     categories_empty = 0
     tags_empty = 0
+    seo_signal_totals = Counter()
 
     for p in posts:
         title = re.sub(r"<[^>]+>", "", p.get("title", {}).get("rendered", "")).strip().lower()
@@ -151,6 +153,17 @@ def content_checks(
         if not p.get("tags"):
             tags_empty += 1
 
+        signals = technical_seo_signals(content_html, str(p.get("link", "") or ""))
+        for key, value in signals.items():
+            if isinstance(value, bool):
+                seo_signal_totals[key] += int(value)
+            elif key == "h1_count":
+                seo_signal_totals["posts_with_one_h1"] += int(value == 1)
+            elif key == "images_without_alt":
+                seo_signal_totals["posts_with_alt_complete"] += int(value == 0)
+            elif key == "internal_link_count":
+                seo_signal_totals["posts_with_2plus_internal_links"] += int(value >= 2)
+
     duplicate_titles = sum(c - 1 for c in title_counter.values() if c > 1)
     checks["duplicate_titles"] = duplicate_titles
     checks["low_word_posts"] = low_word
@@ -159,6 +172,8 @@ def content_checks(
     checks["missing_author_signature_posts"] = missing_author_signature
     checks["empty_categories_posts"] = categories_empty
     checks["empty_tags_posts"] = tags_empty
+    checks["seo_signals"] = dict(seo_signal_totals)
+    checks["seo_health_score"] = seo_health_score({"title_present": seo_signal_totals.get("title_present", 0) == len(posts), "meta_description_present": seo_signal_totals.get("meta_description_present", 0) == len(posts), "canonical_present": seo_signal_totals.get("canonical_present", 0) == len(posts), "h1_count": 1 if seo_signal_totals.get("posts_with_one_h1", 0) == len(posts) else 0, "images_without_alt": 0 if seo_signal_totals.get("posts_with_alt_complete", 0) == len(posts) else 1, "internal_link_count": 2 if seo_signal_totals.get("posts_with_2plus_internal_links", 0) == len(posts) else 0})
 
     if duplicate_titles > 0:
         add_issue(
@@ -200,6 +215,8 @@ def content_checks(
             f"{missing_author_signature} posts missing mandatory author blocks.",
             "Enforce author signature rule before publish and abort if missing.",
         )
+    if checks["seo_health_score"] < 100:
+        add_issue(issues, "medium", "seo_health_gaps", f"Deterministic technical/on-page SEO health score is {checks['seo_health_score']}/100.", "Fix metadata, canonical signals, H1 structure, image alt text, and internal links.")
     if categories_empty > 0 or tags_empty > 0:
         add_issue(
             issues,
