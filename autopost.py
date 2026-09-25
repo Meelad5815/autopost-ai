@@ -18,7 +18,9 @@ if hasattr(sys.stdout, "reconfigure"):
 
 from engine.ai import openai_json
 from engine.config import ConfigError, load_config
-from engine.feedback import choose_best_topics, record_post_performance\nfrom engine.conversion import inject_conversion_blocks
+from engine.feedback import choose_best_topics, record_post_performance
+from engine.conversion import inject_conversion_blocks
+from engine.conversion_tracking import record_conversion_placements
 from engine.intelligence import (
     competitor_analysis,
     detect_profitable_niches,
