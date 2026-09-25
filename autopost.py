@@ -66,6 +66,28 @@ def slugify(text: str) -> str:
     return re.sub(r"[\s_-]+", "-", text).strip("-")[:70]
 
 
+def content_quality_gate(title: str, meta_description: str, content_html: str, topic: str) -> tuple[bool, list[str]]:
+    """Conservative pre-publish quality checks; never invents facts."""
+    plain = re.sub(r"<[^>]+>", " ", content_html)
+    plain = re.sub(r"\\s+", " ", plain).strip()
+    headings = len(re.findall(r"<h[2-4]\\b", content_html, flags=re.I))
+    paragraphs = len(re.findall(r"<p\\b", content_html, flags=re.I))
+    reasons: list[str] = []
+    if len(title.strip()) < 20 or len(title.strip()) > 90:
+        reasons.append("title_length")
+    if len(meta_description.strip()) < 80 or len(meta_description.strip()) > 170:
+        reasons.append("meta_description_length")
+    if len(plain.split()) < 500:
+        reasons.append("content_too_short")
+    if headings < 2:
+        reasons.append("insufficient_headings")
+    if paragraphs < 4:
+        reasons.append("insufficient_paragraphs")
+    if not topic.strip() or topic.strip().lower() not in plain.lower() and len(plain.split()) < 900:
+        reasons.append("topic_alignment")
+    return not reasons, reasons
+
+
 def uniquify_title(base_title: str, topic: str, existing_titles: List[str], history: Dict[str, Any]) -> str:
     base_title = base_title.strip()
     if not (near_duplicate(base_title, existing_titles) or is_duplicate_title(base_title, existing_titles, history)):
@@ -346,6 +368,23 @@ def main() -> int:
                 if sim > similarity_max:
                     logger.warning("Skipping high-similarity draft: %.4f topic=%s", sim, topic)
                     run_results.append({"status": "skipped", "reason": "similarity_gate", "topic": topic, "title": title, "similarity": sim})
+                    continue
+
+                quality_ok, quality_reasons = content_quality_gate(
+                    title,
+                    str(article.get("meta_description", "")),
+                    content_html,
+                    topic,
+                )
+                if not quality_ok:
+                    logger.warning("Skipping low-quality draft: %s topic=%s", quality_reasons, topic)
+                    run_results.append({
+                        "status": "skipped",
+                        "reason": "quality_gate",
+                        "topic": topic,
+                        "title": title,
+                        "quality_reasons": quality_reasons,
+                    })
                     continue
 
                 uniq = uniqueness_score(content_html, existing_posts)
