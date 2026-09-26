@@ -1,50 +1,70 @@
 {
-  "generated_at": "2026-09-26T16:01:39.042372+00:00",
+  "generated_at": "2026-09-26T19:13:47.358506+00:00",
   "feed_count": 8,
-  "item_count": 160,
+  "item_count": 159,
   "items": [
     {
-      "title": "coleman wong",
+      "title": "tcu vs ucf",
       "source": "google_trends_us"
     },
     {
-      "title": "colorado vs baylor",
+      "title": "reds vs blue jays",
       "source": "google_trends_us"
     },
     {
-      "title": "virginia tech vs boston college",
+      "title": "utah vs iowa state",
       "source": "google_trends_us"
     },
     {
-      "title": "wake forest vs louisville",
+      "title": "carlos alcaraz",
       "source": "google_trends_us"
     },
     {
-      "title": "ball state vs kent state",
+      "title": "bkfc",
       "source": "google_trends_us"
     },
     {
-      "title": "bucknell vs pittsburgh",
+      "title": "robert morris vs buffalo",
       "source": "google_trends_us"
     },
     {
-      "title": "illinois vs ohio state",
+      "title": "gardner-webb vs marshall",
       "source": "google_trends_us"
     },
     {
-      "title": "sam houston vs texas tech",
+      "title": "mark ingram",
       "source": "google_trends_us"
     },
     {
-      "title": "diana, princess of wales",
+      "title": "oklahoma vs georgia",
       "source": "google_trends_us"
     },
     {
-      "title": "peyton manning",
+      "title": "boise state vs wmu",
       "source": "google_trends_us"
     },
     {
-      "title": "apple iphone 18 pro max",
+      "title": "north macedonia vs switzerland",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "czechia vs croatia",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "england vs spain",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "oman vs saudi arabia",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "hockey",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "kuwait vs iraq",
       "source": "google_trends_pk"
     },
     {
@@ -56,31 +76,7 @@
       "source": "google_trends_pk"
     },
     {
-      "title": "field hockey",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "facebook",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ajay devgn",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "nigeria vs ghana",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "south africa vs guinea",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "slovenia vs scotland",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "f1",
+      "title": "apple iphone 18 pro",
       "source": "google_trends_pk"
     },
     {
@@ -208,15 +204,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Optigo Networks launches AI Assistant to address building automation network expertise gap - industrialcyber.co",
+      "title": "Optigo Networks launches AI Assistant to address building automation network expertise gap - Industrial Cyber",
       "source": "google_news_ai"
     },
     {
-      "title": "How Creatio Bank.AI Helps Financial Services Teams Replace Legacy CRM with AI Agents and No-Code Automation - solutionsreview.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI Automation Market to Reach USD 2,041.82 Billion by 2035, - globenewswire.com",
+      "title": "AI Automation Market to Reach USD 2,041.82 Billion by 2035, - GlobeNewswire",
       "source": "google_news_ai"
     },
     {
@@ -224,15 +216,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "How Creatio Bank.AI Helps Financial Services Teams Replace Legacy CRM with AI Agents and No-Code Automation - solutionsreview.com",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Automation, AI among biggest trends shaping manufacturing in 2026: AMT - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
-      "title": "AI plays a role in weak labor market for college graduates - Federal Reserve Bank of Dallas",
+      "title": "Microsoft Copilot App Gets Home, Code, and Autopilot Features to Expand Automation - Petri IT Knowledgebase",
       "source": "google_news_ai"
     },
     {
-      "title": "Microsoft Copilot App Gets Home, Code, and Autopilot Features to Expand Automation - Petri IT Knowledgebase",
+      "title": "AI plays a role in weak labor market for college graduates - dallasfed.org",
       "source": "google_news_ai"
     },
     {
@@ -252,7 +248,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Job postings show early signs of AI automation impact - Federal Reserve Bank of Dallas",
+      "title": "Job postings show early signs of AI automation impact - dallasfed.org",
       "source": "google_news_ai"
     },
     {
@@ -260,7 +256,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens and TSMC advance AI-powered semiconductor design automation - news.siemens.com",
+      "title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
       "source": "google_news_ai"
     },
     {
@@ -272,15 +268,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "T-Mobile US expands AI network service - SDxCentral",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Dallas Fed Finds AI — Err, 'Super Intelligence' — Taking a Toll on Jobs, Pay for Texas College Graduates - Fort Worth Inc.",
+      "source": "google_news_ai"
+    },
+    {
       "title": "UiPath (PATH) Could Be 39% Undervalued After PLDT Showed AI Automation Gains - simplywall.st",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "GenWay Brings AI Automation To Non-QM Underwriting - National Mortgage Professional",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Why full AI automation in tax reclaims remains risky - FinTech Global",
       "source": "google_news_ai"
     },
     {
@@ -312,10 +308,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Rhino Web Studios Explains Why Local SEO Requires More Than Adding a City Name to a Website - EIN News",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Explains What AI Search Optimization Requires - thekeyword.co",
       "source": "google_news_seo"
     },
@@ -325,6 +317,10 @@
     },
     {
       "title": "Redditor Finds Google Flaw, OpenAI Ads Talk Back: DesignRush SEO Roundup - DesignRush",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
       "source": "google_news_seo"
     },
     {
@@ -352,7 +348,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "title": "Rhino Web Studios Explains Why Local SEO Requires More Than Adding a City Name to a Website - EIN News",
       "source": "google_news_seo"
     },
     {
@@ -360,7 +356,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "London SEO Consultant Integrates AI Search Into Standard - globenewswire.com",
+      "title": "London SEO Consultant Integrates AI Search Into Standard - GlobeNewswire",
       "source": "google_news_seo"
     },
     {
@@ -388,10 +384,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Ranking is only half the job: SEO for task completion - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Video Schema Gets Creator Property &amp; Updated interactionStatistic - Search Engine Roundtable",
       "source": "google_news_seo"
     },
@@ -404,6 +396,10 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Cloudflare Details Its Migration from WordPress to EmDash - infoq.com",
       "source": "google_news_wordpress"
     },
@@ -412,23 +408,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Patch Became Exploit Blueprint: CVE-2026-87902 Webshells Hit 350K Sites - techtimes.com",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902) - helpnetsecurity.com",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution - TechRepublic",
+      "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902) - Help Net Security",
       "source": "google_news_wordpress"
     },
     {
@@ -436,7 +424,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - greynoise.io",
+      "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
       "source": "google_news_wordpress"
     },
     {
@@ -444,11 +432,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions - SOC Prime",
+      "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions - socprime.com",
       "source": "google_news_wordpress"
     },
     {
@@ -460,15 +452,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Can’t Escape Antitrust Claims From Trademark ‘War’ - Bloomberg Law News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "CVE-2026-87902 in WordPress Enables Conditional RCE - SOCRadar Extended Threat Intelligence Platform",
       "source": "google_news_wordpress"
     },
     {
-      "title": "20i finds 88% of WordPress sites running outdated software as attacks rise - PPC Land",
+      "title": "WordPress Can’t Escape Antitrust Claims From Trademark ‘War’ - news.bloomberglaw.com",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution - TechRepublic",
       "source": "google_news_wordpress"
     },
     {
@@ -481,6 +473,14 @@
     },
     {
       "title": "WordPress Patches ‘Click2Shell’ Vulnerability - SecurityWeek",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Hackers Actively Exploiting Wordpress Vulnerability to Execute Malicious Code - CyberSecurityNews",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link - The Hacker News",
       "source": "google_news_wordpress"
     }
   ],
