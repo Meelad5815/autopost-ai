@@ -1,3 +1,10 @@
 {
-  "trends": []
+  "trends": [
+    {
+      "topic": "Modern E-commerce Website using WordPress",
+      "category": "WordPress / E-commerce",
+      "intent": "commercial",
+      "priority": "high"
+    }
+  ]
 }
