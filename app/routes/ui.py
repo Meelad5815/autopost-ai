@@ -1,5 +1,8 @@
 import json
 import math
+import os
+import subprocess
+import shutil
 from pathlib import Path
 from datetime import datetime
 
@@ -8,16 +11,18 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from sqlalchemy.orm import Session
 
 from app.db import get_db
-from app.deps import get_current_user
+from app.deps import get_current_user, require_admin
 from app.core.security import create_access_token, hash_password, verify_password
 from app.models import Site, Subscription, User
 from app.services.billing import plan_limit
+from app.services.scheduler_daemon import scheduler_state, start_scheduler_daemon, stop_scheduler_daemon
 from engine.config import load_config
 from engine.wp_client import get_posts
 
 
 router = APIRouter(tags=["ui"])
 CONTENT_SETTINGS_PATH = Path("config/content_settings.json")
+
 
 
 @router.get("/", response_class=HTMLResponse)
@@ -164,6 +169,63 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
         return []
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines()
     return lines[-limit:]
+
+
+@router.post("/ui/cloud-terminal/exec")
+def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
+    _ = user
+    payload = payload or {}
+
+    command = str(payload.get("command", "")).strip()
+    if not command:
+        raise HTTPException(status_code=400, detail="command is required")
+
+    requested_cwd = str(payload.get("cwd", ".")).strip() or "."
+    raw_timeout = payload.get("timeout_seconds", 20)
+    try:
+        timeout_seconds = int(raw_timeout)
+    except (TypeError, ValueError):
+        raise HTTPException(status_code=400, detail="timeout_seconds must be an integer") from None
+    timeout_seconds = max(1, min(timeout_seconds, 120))
+
+    base_dir = Path(".").resolve()
+    target_dir = (base_dir / requested_cwd).resolve() if not Path(requested_cwd).is_absolute() else Path(requested_cwd).resolve()
+    if os.path.commonpath([str(base_dir), str(target_dir)]) != str(base_dir):
+        raise HTTPException(status_code=400, detail="cwd must stay inside repository")
+    if not target_dir.exists() or not target_dir.is_dir():
+        raise HTTPException(status_code=400, detail="cwd does not exist")
+
+    try:
+        proc = subprocess.run(
+            command,
+            cwd=str(target_dir),
+            shell=True,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="ignore",
+            timeout=timeout_seconds,
+            check=False,
+        )
+    except subprocess.TimeoutExpired as exc:
+        return {
+            "status": "timeout",
+            "command": command,
+            "cwd": str(target_dir.relative_to(base_dir)),
+            "timeout_seconds": timeout_seconds,
+            "stdout": (exc.stdout or "")[-8000:],
+            "stderr": (exc.stderr or "")[-8000:],
+        }
+
+    return {
+        "status": "ok" if proc.returncode == 0 else "failed",
+        "command": command,
+        "cwd": str(target_dir.relative_to(base_dir)),
+        "timeout_seconds": timeout_seconds,
+        "returncode": proc.returncode,
+        "stdout": (proc.stdout or "")[-12000:],
+        "stderr": (proc.stderr or "")[-12000:],
+    }
 
 
 def _hhmm_to_minutes(value: str) -> int:
@@ -358,8 +420,132 @@ def get_scheduler_status(user: User = Depends(get_current_user)):
         "last_slot": last_action.get("slot"),
         "last_actions": last_action.get("actions", []),
         "log_tail": log_lines,
+        "daemon": scheduler_state(),
         "updated_at": datetime.utcnow().isoformat() + "Z",
     })
+
+
+@router.get("/ui/scheduler-daemon")
+def get_scheduler_daemon(user: User = Depends(require_admin)):
+    _ = user
+    return JSONResponse(scheduler_state())
+
+
+@router.post("/ui/scheduler-daemon/start")
+def start_scheduler_daemon_route(user: User = Depends(require_admin)):
+    _ = user
+    return JSONResponse(start_scheduler_daemon())
+
+
+@router.post("/ui/scheduler-daemon/stop")
+def stop_scheduler_daemon_route(user: User = Depends(require_admin)):
+    _ = user
+    return JSONResponse(stop_scheduler_daemon())
+
+
+
+
+@router.get("/ui/kali-env/status")
+def get_kali_env_status(user: User = Depends(require_admin)):
+    _ = user
+    compose_path = Path("docker-compose.kali.yml")
+    docker_bin = shutil.which("docker")
+    status = {
+        "configured": compose_path.exists(),
+        "compose_file": str(compose_path),
+        "docker_installed": bool(docker_bin),
+        "docker_bin": docker_bin,
+        "container_running": False,
+        "container_name": "autopost-kali",
+        "detail": "",
+    }
+
+    if not compose_path.exists():
+        status["detail"] = "docker-compose.kali.yml not found"
+        return JSONResponse(status)
+
+    if not docker_bin:
+        status["detail"] = "Docker CLI not found on host"
+        return JSONResponse(status)
+
+    try:
+        proc = subprocess.run(
+            [docker_bin, "ps", "--filter", "name=autopost-kali", "--format", "{{.Names}}"],
+            capture_output=True,
+            text=True,
+            check=False,
+            timeout=6,
+        )
+        names = [line.strip() for line in (proc.stdout or "").splitlines() if line.strip()]
+        status["container_running"] = "autopost-kali" in names
+        status["detail"] = "running" if status["container_running"] else "stopped"
+    except Exception as exc:  # noqa: BLE001
+        status["detail"] = f"docker check failed: {exc}"
+
+    return JSONResponse(status)
+
+
+
+@router.post("/ui/kali-terminal/exec")
+def kali_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
+    _ = user
+    payload = payload or {}
+
+    command = str(payload.get("command", "")).strip()
+    if not command:
+        raise HTTPException(status_code=400, detail="command is required")
+
+    raw_timeout = payload.get("timeout_seconds", 45)
+    try:
+        timeout_seconds = int(raw_timeout)
+    except (TypeError, ValueError):
+        raise HTTPException(status_code=400, detail="timeout_seconds must be an integer") from None
+    timeout_seconds = max(1, min(timeout_seconds, 300))
+
+    docker_bin = shutil.which("docker")
+    if not docker_bin:
+        raise HTTPException(status_code=400, detail="Docker CLI not found on host")
+
+    check = subprocess.run(
+        [docker_bin, "ps", "--filter", "name=autopost-kali", "--format", "{{.Names}}"],
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=8,
+    )
+    names = [line.strip() for line in (check.stdout or "").splitlines() if line.strip()]
+    if "autopost-kali" not in names:
+        raise HTTPException(status_code=400, detail="autopost-kali is not running; start it with docker compose -f docker-compose.kali.yml up -d kali")
+
+    try:
+        proc = subprocess.run(
+            [docker_bin, "exec", "autopost-kali", "bash", "-lc", command],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="ignore",
+            timeout=timeout_seconds,
+            check=False,
+        )
+    except subprocess.TimeoutExpired as exc:
+        return {
+            "status": "timeout",
+            "command": command,
+            "container": "autopost-kali",
+            "timeout_seconds": timeout_seconds,
+            "stdout": (exc.stdout or "")[-12000:],
+            "stderr": (exc.stderr or "")[-12000:],
+        }
+
+    return {
+        "status": "ok" if proc.returncode == 0 else "failed",
+        "command": command,
+        "container": "autopost-kali",
+        "timeout_seconds": timeout_seconds,
+        "returncode": proc.returncode,
+        "stdout": (proc.stdout or "")[-16000:],
+        "stderr": (proc.stderr or "")[-16000:],
+    }
 
 
 @router.get("/ui/run-reports")
