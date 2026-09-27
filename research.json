@@ -1,47 +1,51 @@
 {
-  "generated_at": "2026-09-26T21:59:16.796058+00:00",
+  "generated_at": "2026-09-27T00:26:55.876799+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "towson vs del state",
+      "title": "oregon state vs utep",
       "source": "google_trends_us"
     },
     {
-      "title": "georgia southern football",
+      "title": "ryan williams",
       "source": "google_trends_us"
     },
     {
-      "title": "josiah harrell",
+      "title": "ufc fight night",
       "source": "google_trends_us"
     },
     {
-      "title": "lsu vs texas a&amp;m",
+      "title": "mo state vs smu",
       "source": "google_trends_us"
     },
     {
-      "title": "jocasta marvel",
+      "title": "san diego vs austin",
       "source": "google_trends_us"
     },
     {
-      "title": "twitch",
+      "title": "snl",
       "source": "google_trends_us"
     },
     {
-      "title": "rob dillingham",
+      "title": "lafc vs dallas",
       "source": "google_trends_us"
     },
     {
-      "title": "uiw vs texas state",
+      "title": "kelsey parker",
       "source": "google_trends_us"
     },
     {
-      "title": "delaware vs virginia",
+      "title": "dólar estadounidense",
       "source": "google_trends_us"
     },
     {
-      "title": "james madison vs old dominion",
+      "title": "minnesota vs seattle sounders",
       "source": "google_trends_us"
+    },
+    {
+      "title": "pak vs hong kong",
+      "source": "google_trends_pk"
     },
     {
       "title": "england national football team vs spain national football team standings",
@@ -77,10 +81,6 @@
     },
     {
       "title": "hockey",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "kuwait vs iraq",
       "source": "google_trends_pk"
     },
     {
@@ -164,31 +164,7 @@
       "source": "google_developers"
     },
     {
-      "title": "Rockwell Automation pairs AI with decades of shop floor know-how so workers can solve glitches faster - Microsoft Source",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AT&amp;T Is Automating Away Jobs—and Its Old Telecom Empire - WIRED",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Your AI Agent May Be an Automation With a More Expensive Label - inc.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Siemens and TSMC Advance AI-Powered Semiconductor Design Automation - HPCwire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI expert reveals the jobs most likely to survive automation - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Beyond Automation: How AI Is Changing Management - INSEAD Knowledge",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - TechCrunch",
+      "title": "How Phoenix compares for AI automation risk: 20.7% of workers are vulnerable - The Business Journals",
       "source": "google_news_ai"
     },
     {
@@ -196,7 +172,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "How Phoenix compares for AI automation risk: 20.7% of workers are vulnerable - The Business Journals",
+      "title": "Rockwell Automation pairs AI with decades of shop floor know-how so workers can solve glitches faster - news.microsoft.com",
       "source": "google_news_ai"
     },
     {
@@ -204,7 +180,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI, Automation and Adaptive Technology Converge at VISION | Business | Sep 2026 - Photonics Spectra",
+      "title": "AI, Automation and Adaptive Technology Converge at VISION | Business | Sep 2026 - photonics.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Your AI Agent May Be an Automation With a More Expensive Label - inc.com",
       "source": "google_news_ai"
     },
     {
@@ -232,7 +212,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI-based supply chain automation growing slowly - mmh.com",
+      "title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
       "source": "google_news_ai"
     },
     {
@@ -240,7 +220,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+      "title": "These ‘4 pillars’ are critical for successful automation - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
@@ -248,7 +228,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "These ‘4 pillars’ are critical for successful automation - Manufacturing Dive",
+      "title": "Dallas Fed Finds AI — Err, 'Super Intelligence' — Taking a Toll on Jobs, Pay for Texas College Graduates - Fort Worth Inc.",
       "source": "google_news_ai"
     },
     {
@@ -260,19 +240,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "T-Mobile US expands AI network service - SDxCentral",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Dallas Fed Finds AI — Err, 'Super Intelligence' — Taking a Toll on Jobs, Pay for Texas College Graduates - Fort Worth Inc.",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Automating coherent long-form video generation - Google Research",
       "source": "google_news_ai"
     },
     {
-      "title": "GenWay Brings AI Automation To Non-QM Underwriting - National Mortgage Professional",
+      "title": "GenWay Brings AI Automation To Non-QM Underwriting - nationalmortgageprofessional.com",
       "source": "google_news_ai"
     },
     {
@@ -281,6 +253,34 @@
     },
     {
       "title": "Why full AI automation in tax reclaims remains risky - FinTech Global",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Private cloud gets an AI-era infrastructure reset - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "T-Mobile US expands AI network service - sdxcentral.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AT&amp;T Is Automating Away Jobs—and Its Old Telecom Empire - WIRED",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "The Next Chapter of Enterprise AI - Time Magazine",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Siemens, TSMC advance AI-powered chip design automation - Evertiq",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Automate &amp; Elevate Event Returns To Explore AI, Automation in Promo - members.asicentral.com",
       "source": "google_news_ai"
     },
     {
@@ -324,11 +324,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Clients Want GEO, Freelancers Still Bet On SEO: Fiverr Survey - Search Engine Journal",
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads adds IP address and timestamp matching to Customer Match - Search Engine Land",
+      "title": "Clients Want GEO, Freelancers Still Bet On SEO: Fiverr Survey - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -349,10 +349,6 @@
     },
     {
       "title": "Search Console Uses Block Flattening For AIOs, Forget Position &amp; Focus On Outcomes - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
       "source": "google_news_seo"
     },
     {
@@ -384,7 +380,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console: the ultimate guide for 2026 - semrush.com",
+      "title": "Google Search Console: the ultimate guide for 2026 - Semrush",
       "source": "google_news_seo"
     },
     {
@@ -396,11 +392,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "SEO Tweaks That Matter: How We Ranked #1 on Google for a Niche Technical Search Term - blog.startupstash.com",
+      "title": "SEO Tweaks That Matter: How We Ranked #1 on Google for a Niche Technical Search Term - Startup Stash",
       "source": "google_news_seo"
     },
     {
       "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO Pages - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google On Using Markdown For AI SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -412,15 +412,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure - SecurityWeek",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902) - Help Net Security",
+      "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
@@ -429,6 +425,10 @@
     },
     {
       "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902) - Help Net Security",
       "source": "google_news_wordpress"
     },
     {
