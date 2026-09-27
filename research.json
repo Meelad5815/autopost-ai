@@ -1,86 +1,82 @@
 {
-  "generated_at": "2026-09-27T05:37:44.186194+00:00",
+  "generated_at": "2026-09-27T10:47:29.247527+00:00",
   "feed_count": 8,
-  "item_count": 160,
+  "item_count": 159,
   "items": [
     {
-      "title": "stock market today",
+      "title": "college football scores from yesterday",
       "source": "google_trends_us"
     },
     {
-      "title": "weather forecast today",
+      "title": "new york",
       "source": "google_trends_us"
     },
     {
-      "title": "mortgage rates today",
+      "title": "raf fairford",
       "source": "google_trends_us"
     },
     {
-      "title": "netflix new releases",
+      "title": "australia vs south africa",
       "source": "google_trends_us"
     },
     {
-      "title": "the social reckoning",
+      "title": "september 27 2026 horoscope",
       "source": "google_trends_us"
     },
     {
-      "title": "who won mr olympia 2026",
+      "title": "leylah fernandez",
       "source": "google_trends_us"
     },
     {
-      "title": "tucker carlson",
+      "title": "snack",
       "source": "google_trends_us"
     },
     {
-      "title": "anthropic",
+      "title": "berlin marathon",
       "source": "google_trends_us"
     },
     {
-      "title": "scarlett johansson",
+      "title": "andrey rublev",
       "source": "google_trends_us"
     },
     {
-      "title": "astros standings",
+      "title": "eng vs sl",
       "source": "google_trends_us"
     },
     {
-      "title": "gta vice city",
+      "title": "england vs sri lanka",
       "source": "google_trends_pk"
     },
     {
-      "title": "google&apos;s birthday",
+      "title": "kuldeep yadav",
       "source": "google_trends_pk"
     },
     {
-      "title": "pakistan cricket",
+      "title": "islamabad high court",
       "source": "google_trends_pk"
     },
     {
-      "title": "weather warning",
+      "title": "live cricket",
       "source": "google_trends_pk"
     },
     {
-      "title": "ireland",
+      "title": "apple iphone 18 pro",
       "source": "google_trends_pk"
     },
     {
-      "title": "pak vs ind",
+      "title": "gta vi",
       "source": "google_trends_pk"
     },
     {
-      "title": "u2",
+      "title": "nitish kumar reddy",
       "source": "google_trends_pk"
     },
     {
-      "title": "mexico vs colombia",
+      "title": "tristan stubbs",
       "source": "google_trends_pk"
     },
     {
-      "title": "pak vs hong kong",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "usa vs peru",
+      "title": "naza",
       "source": "google_trends_pk"
     },
     {
@@ -164,6 +160,14 @@
       "source": "google_developers"
     },
     {
+      "title": "Q&amp;A: Make's VP at Darin Patterson on AI Strategy - AI Magazine",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Inductive Automation: Ignition 2027 Adds AI, Historian, and Connectivity Capabilities - ARC Advisory Group",
+      "source": "google_news_ai"
+    },
+    {
       "title": "How Phoenix compares for AI automation risk: 20.7% of workers are vulnerable - The Business Journals",
       "source": "google_news_ai"
     },
@@ -176,11 +180,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Accenture (ACN) Invests In AI Automation Deal To Deepen Enterprise Workflow Push - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "OpenAI reveals the AI-era workplace skills that matter most - Business Insider",
+      "title": "Accenture (ACN) Invests In AI Automation Deal To Deepen Enterprise Workflow Push - finance.yahoo.com",
       "source": "google_news_ai"
     },
     {
@@ -196,7 +196,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Your AI Agent May Be an Automation With a More Expensive Label - inc.com",
+      "title": "OpenAI reveals the AI-era workplace skills that matter most - Business Insider",
       "source": "google_news_ai"
     },
     {
@@ -212,11 +212,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "The bumpy road to the AI promised land - AFR",
+      "title": "VasionⓇ Enhances Global Partner Program to Accelerate AI-Powered Automation - Business Wire",
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens and TSMC advance AI-powered semiconductor design automation - Siemens Newsroom",
+      "title": "These ‘4 pillars’ are critical for successful automation - manufacturingdive.com",
       "source": "google_news_ai"
     },
     {
@@ -224,15 +224,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "These ‘4 pillars’ are critical for successful automation - Manufacturing Dive",
-      "source": "google_news_ai"
-    },
-    {
       "title": "From AI pilots to autonomous AMS: The enterprise readiness test for SAP - IBM",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "What happens when the AI guardrails fail? - No Jitter",
       "source": "google_news_ai"
     },
     {
@@ -240,7 +232,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "What happens when the AI guardrails fail? - No Jitter",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "How will AI automation hit — like a crashing wave or a rising tide? - MIT Sloan",
+      "source": "google_news_ai"
+    },
+    {
       "title": "GenWay Brings AI Automation To Non-QM Underwriting - National Mortgage Professional",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Your AI Agent May Be an Automation With a More Expensive Label - inc.com",
       "source": "google_news_ai"
     },
     {
@@ -256,6 +260,10 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Siemens and TSMC Advance AI-Powered Semiconductor Design Automation - HPCwire",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Why full AI automation in tax reclaims remains risky - FinTech Global",
       "source": "google_news_ai"
     },
@@ -268,19 +276,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Tractor Supply Company opens first automated distribution center - Chain Store Age",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Siemens, TSMC advance AI-powered chip design automation - Evertiq",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The Next Chapter of Enterprise AI - time.com",
+      "title": "UiPath aims to bridge gap between process, agentic AI, orchestration - constellationr.com",
       "source": "google_news_ai"
     },
     {
@@ -292,11 +288,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches - Search Engine Journal",
+      "title": "Google Rolls Out September 2026 Spam Update Globally - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Rolls Out September 2026 Spam Update Globally - Search Engine Journal",
+      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -320,7 +316,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - wsj.com",
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
       "source": "google_news_seo"
     },
     {
@@ -328,11 +324,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads adds IP address and timestamp matching to Customer Match - Search Engine Land",
+      "title": "Google expands AI Brief and adds deeper AI Max reporting - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google expands AI Brief and adds deeper AI Max reporting - Search Engine Land",
+      "title": "Google Ads adds IP address and timestamp matching to Customer Match - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -340,19 +336,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Decline Steepened To 40% YoY For Publishers - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Search Console Uses Block Flattening For AIOs, Forget Position &amp; Focus On Outcomes - Search Engine Journal",
+      "title": "Google Search Decline Steepened To 40% YoY For Publishers - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Redditor Finds Google Flaw, OpenAI Ads Talk Back: DesignRush SEO Roundup - news.designrush.com",
+      "title": "Search Console Uses Block Flattening For AIOs, Forget Position &amp; Focus On Outcomes - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -368,7 +360,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Rhino Web Studios Explains Why Local SEO Requires More Than Adding a City Name to a Website - EIN News",
+      "title": "Redditor Finds Google Flaw, OpenAI Ads Talk Back: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -396,11 +388,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "SEO Tweaks That Matter: How We Ranked #1 on Google for a Niche Technical Search Term - Startup Stash",
+      "title": "Google Video Schema Gets Creator Property &amp; Updated interactionStatistic - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
       "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO Pages - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google On Using Markdown For AI SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -413,6 +409,10 @@
     },
     {
       "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "FBI assignments leak, WordPress exploit, Pentagon cyber demand - cisoseries.com",
       "source": "google_news_wordpress"
     },
     {
@@ -440,19 +440,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Hackers start exploiting critical WordPress flaw for code execution - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
-      "title": "CVE-2026-87902: Critical Vulnerability in WordPress - Kaspersky",
+      "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions - SOC Prime",
       "source": "google_news_wordpress"
     },
     {
-      "title": "CVE-2026-87902: Critical WordPress Core Flaw Enables Unauthenticated RCE Under Certain Conditions - SOC Prime",
+      "title": "CVE-2026-87902: Critical Vulnerability in WordPress - Kaspersky",
       "source": "google_news_wordpress"
     },
     {
@@ -472,11 +468,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "How to set up OpenClaw for WordPress - Hostinger",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Attackers Exploit WordPress CVE-2026-87902 in Hours [2026] - tech-insider.org",
       "source": "google_news_wordpress"
     },
     {
-      "title": "How to set up OpenClaw for WordPress - Hostinger",
+      "title": "WordPress exploitation attempts observed hours after security update - Field Effect",
       "source": "google_news_wordpress"
     },
     {
