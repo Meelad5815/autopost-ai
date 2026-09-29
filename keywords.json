@@ -1,15 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "ken paxton vs james talarico polls",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -19,25 +10,52 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "arthur fils vs rafael jodar",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ken paxton vs james talarico",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "hbo harry potter series cast draco malfoy",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "hbo harry potter series cast ginny weasley",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "hbo harry potter series cast voldemort actor",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "is hbo making a harry potter series",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "is hbo doing a harry potter series",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "las vegas weather forecast 21 day",
+      "keyword": "hbo harry potter series cast hermione",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +91,43 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "las vegas weather 14 day forecast",
+      "keyword": "hbo harry potter series cast draco",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "hbo harry potter series cast snape",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "hbo harry potter series cast voldemort",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "lindsay clancy trial where to watch",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "matt rife movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "minecraft dungeons 2 release date",
+      "keyword": "is burundi a good country",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -100,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "minecraft dungeons 2 pre order",
+      "keyword": "hbo harry potter series cast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -109,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "minecraft dungeons 2 deluxe edition",
+      "keyword": "lindsay clancy trial day 4",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -118,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "minecraft dungeons 2 achievements leaked",
+      "keyword": "court tv lindsay clancy trial",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,70 +181,25 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rui takahashi and ran takahashi",
+      "keyword": "burundi vs algeria",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "jimmy kimmel monologue last night",
+      "keyword": "aerocano vs americano",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "las vegas weather 10 day",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "las vegas weather in october",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "las vegas weather in september",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "las vegas weather by month",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "las vegas weather in november",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "jaime faria prediction today",
+      "keyword": "lamborghini huracan polovni automobili",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jaime faria tennis ranking",
+      "keyword": "midterm elections 2026 date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -208,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jaime faria us open",
+      "keyword": "midterm elections 2026 predictions",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "minecraft dungeons 2 price",
+      "keyword": "midterm elections 2026 polls",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "minecraft dungeons 2 trailer",
+      "keyword": "midterm elections 2026 texas",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "minecraft dungeons 2 switch",
+      "keyword": "midterm elections 2026 results",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "minecraft dungeons 2 capes",
+      "keyword": "jack smith park cary",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "minecraft dungeons 2 gameplay",
+      "keyword": "jack smith american dad",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jimmy kimmel last night",
+      "keyword": "jack smith special counsel",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jimmy kimmel net worth",
+      "keyword": "lindsay clancy trial live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh hartnett tv show",
+      "keyword": "lindsay clancy trial update",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh hartnett the bear",
+      "keyword": "lindsay clancy trial today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh hartnett pearl harbor",
+      "keyword": "lindsay clancy trial recap",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh hartnett net worth",
+      "keyword": "lindsay clancy trial verdict",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ken paxton net worth",
+      "keyword": "lindsay clancy trial reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "las vegas weather forecast",
+      "keyword": "lindsay clancy trial youtube",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "las vegas weather today",
+      "keyword": "court tv live stream",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +352,61 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jaime faria tennis",
+      "keyword": "court tv live today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "court tv lindsay clancy",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "matt rife net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "matt rife tour 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "matt rife upcoming events",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "aerocano tous les jours",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "huracan polovni automobili",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -352,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jaime faria prediction",
+      "keyword": "lamborghini huracan polovni",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -361,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jaime faria rank",
+      "keyword": "polo huracan lidl",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -370,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jaime faria flashscore",
+      "keyword": "midterm elections 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jaime faria age",
+      "keyword": "midterm elections date",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jaime faria atp",
+      "keyword": "midterm elections predictions",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delta flight status",
+      "keyword": "midterm elections polls",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delta airlines careers",
+      "keyword": "jack smith news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "minecraft dungeons 2",
+      "keyword": "jack smith park",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi wife",
+      "keyword": "jack smith game",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi brother",
+      "keyword": "jack smith report",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi girlfriend",
+      "keyword": "jack smith wikipedia",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi age",
+      "keyword": "jack smith turner",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi height",
+      "keyword": "lindsay clancy trial",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi volleyball",
+      "keyword": "court tv live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi wikipedia",
+      "keyword": "court tv channel",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rui takahashi sister",
+      "keyword": "court tv youtube",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils parents",
+      "keyword": "court tv streaming",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils tennis",
+      "keyword": "court tv schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils ranking",
+      "keyword": "matt rife tour",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils prediction",
+      "keyword": "matt rife girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils age",
+      "keyword": "matt rife tickets",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils girlfriend",
+      "keyword": "matt rife age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils wife",
+      "keyword": "matt rife controversy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils height",
+      "keyword": "aerocano starbucks recipe",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,187 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hurricane nola drink",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "hurricane nola 2026",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy kimmel live",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy kimmel youtube",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy kimmel show",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy kimmel ending",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy kimmel wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy kimmel news",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "josh hartnett movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "josh hartnett below",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "josh hartnett young",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "josh hartnett wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "josh hartnett height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ken paxton wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ken paxton eye",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ken paxton controversy",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ken paxton polls",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ken paxton impeachment",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ken paxton texas",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "las vegas weather",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jaime faria",
+      "keyword": "huracan polo",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +640,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delta airlines",
+      "keyword": "huracan polonia",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +649,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delta dental",
+      "keyword": "huracan polovni",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delta flights",
+      "keyword": "huracán polo",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +667,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delta careers",
+      "keyword": "midterm elections",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +676,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "rui takahashi",
+      "keyword": "jack smith",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +685,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "arthur fils",
+      "keyword": "court tv",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +694,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "hurricane nolo",
+      "keyword": "matt rife",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "hurricane nola",
+      "keyword": "aerocano starbucks",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "hurricane nolan",
+      "keyword": "aerocano recipe",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +721,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jimmy kimmel",
+      "keyword": "aerocano coffee",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +730,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "josh hartnett",
+      "keyword": "americano drink",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ken paxton",
+      "keyword": "aerocano reddit",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,34 +748,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delta",
+      "keyword": "aerocano ratio",
       "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
       "learning_boost": 0.0,
-      "learned_score": 38.2
+      "learned_score": 45.4
     },
     {
-      "keyword": "deltamath",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "deltawifi",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "deltarune",
+      "keyword": "aerocano",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -902,101 +767,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "ken paxton vs james talarico polls",
-      "cluster": [
-        {
-          "keyword": "ken paxton vs james talarico polls",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "ken paxton vs james talarico",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ken paxton net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ken paxton wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ken paxton eye",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ken paxton controversy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ken paxton polls",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ken paxton impeachment",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ken paxton texas",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ken paxton",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1012,101 +782,6 @@
       ]
     },
     {
-      "pillar": "arthur fils vs rafael jodar",
-      "cluster": [
-        {
-          "keyword": "arthur fils vs rafael jodar",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "arthur fils parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -1117,6 +792,115 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "hbo harry potter series cast draco malfoy",
+      "cluster": [
+        {
+          "keyword": "hbo harry potter series cast draco malfoy",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "hbo harry potter series cast ginny weasley",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "hbo harry potter series cast voldemort actor",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "hbo harry potter series cast hermione",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "hbo harry potter series cast draco",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "hbo harry potter series cast snape",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "hbo harry potter series cast voldemort",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "hbo harry potter series cast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "is hbo making a harry potter series",
+      "cluster": [
+        {
+          "keyword": "is hbo making a harry potter series",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "is hbo doing a harry potter series",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "is burundi a good country",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         }
       ]
     },
@@ -1153,10 +937,10 @@
       ]
     },
     {
-      "pillar": "las vegas weather forecast 21 day",
+      "pillar": "lindsay clancy trial where to watch",
       "cluster": [
         {
-          "keyword": "las vegas weather forecast 21 day",
+          "keyword": "lindsay clancy trial where to watch",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1165,7 +949,93 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "las vegas weather 14 day forecast",
+          "keyword": "lindsay clancy trial day 4",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "lindsay clancy trial live",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial update",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial recap",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial verdict",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial youtube",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lindsay clancy trial",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "matt rife movies and tv shows",
+      "cluster": [
+        {
+          "keyword": "matt rife movies and tv shows",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1174,52 +1044,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "las vegas weather 10 day",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "las vegas weather in october",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "las vegas weather in september",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "las vegas weather by month",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "las vegas weather in november",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "las vegas weather forecast",
+          "keyword": "matt rife net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1228,7 +1053,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "las vegas weather today",
+          "keyword": "matt rife tour 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1237,57 +1062,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "las vegas weather",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "minecraft dungeons 2 release date",
-      "cluster": [
-        {
-          "keyword": "minecraft dungeons 2 release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "minecraft dungeons 2 pre order",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "minecraft dungeons 2 deluxe edition",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "minecraft dungeons 2 achievements leaked",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "minecraft dungeons 2 price",
+          "keyword": "matt rife upcoming events",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1296,66 +1071,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "minecraft dungeons 2 trailer",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "minecraft dungeons 2 switch",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "minecraft dungeons 2 capes",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "minecraft dungeons 2 gameplay",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "minecraft dungeons 2",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "rui takahashi and ran takahashi",
-      "cluster": [
-        {
-          "keyword": "rui takahashi and ran takahashi",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rui takahashi wife",
+          "keyword": "matt rife tour",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1364,7 +1080,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rui takahashi brother",
+          "keyword": "matt rife girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1089,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rui takahashi girlfriend",
+          "keyword": "matt rife tickets",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,7 +1098,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rui takahashi age",
+          "keyword": "matt rife age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1391,7 +1107,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rui takahashi height",
+          "keyword": "matt rife controversy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1400,34 +1116,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rui takahashi volleyball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rui takahashi wikipedia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rui takahashi sister",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rui takahashi",
+          "keyword": "matt rife",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1438,10 +1127,10 @@
       ]
     },
     {
-      "pillar": "jimmy kimmel monologue last night",
+      "pillar": "court tv lindsay clancy trial",
       "cluster": [
         {
-          "keyword": "jimmy kimmel monologue last night",
+          "keyword": "court tv lindsay clancy trial",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1450,7 +1139,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jimmy kimmel last night",
+          "keyword": "court tv live stream",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1459,7 +1148,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jimmy kimmel net worth",
+          "keyword": "court tv live today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1468,7 +1157,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jimmy kimmel live",
+          "keyword": "court tv lindsay clancy",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "court tv live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1477,7 +1175,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jimmy kimmel youtube",
+          "keyword": "court tv channel",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1486,7 +1184,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jimmy kimmel show",
+          "keyword": "court tv youtube",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1495,7 +1193,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jimmy kimmel ending",
+          "keyword": "court tv streaming",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1504,7 +1202,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jimmy kimmel wife",
+          "keyword": "court tv schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1513,16 +1211,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jimmy kimmel news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jimmy kimmel",
+          "keyword": "court tv",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1533,105 +1222,33 @@
       ]
     },
     {
-      "pillar": "jaime faria prediction today",
+      "pillar": "burundi vs algeria",
       "cluster": [
         {
-          "keyword": "jaime faria prediction today",
+          "keyword": "burundi vs algeria",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jaime faria tennis ranking",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jaime faria us open",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jaime faria tennis",
-          "intent": "informational",
-          "demand": 58.0,
+          "demand": 70.0,
           "competition": 60.0,
-          "ranking_probability": 52.6,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jaime faria prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jaime faria rank",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jaime faria flashscore",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jaime faria age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jaime faria atp",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jaime faria",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 61.0
         }
       ]
     },
     {
-      "pillar": "josh hartnett tv show",
+      "pillar": "aerocano vs americano",
       "cluster": [
         {
-          "keyword": "josh hartnett tv show",
+          "keyword": "aerocano vs americano",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "aerocano tous les jours",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1640,34 +1257,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "josh hartnett the bear",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "josh hartnett pearl harbor",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "josh hartnett net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "josh hartnett movies",
+          "keyword": "aerocano starbucks recipe",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1676,75 +1266,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "josh hartnett below",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh hartnett young",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh hartnett wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh hartnett height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh hartnett",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "delta flight status",
-      "cluster": [
-        {
-          "keyword": "delta flight status",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "delta airlines careers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "delta airlines",
+          "keyword": "aerocano starbucks",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1753,7 +1275,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delta dental",
+          "keyword": "aerocano recipe",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1762,7 +1284,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delta flights",
+          "keyword": "aerocano coffee",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1771,7 +1293,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delta careers",
+          "keyword": "aerocano reddit",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1780,7 +1302,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delta",
+          "keyword": "aerocano ratio",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "aerocano",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1791,10 +1322,78 @@
       ]
     },
     {
-      "pillar": "hurricane nola drink",
+      "pillar": "lamborghini huracan polovni automobili",
       "cluster": [
         {
-          "keyword": "hurricane nola drink",
+          "keyword": "lamborghini huracan polovni automobili",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lamborghini huracan polovni",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "midterm elections 2026 date",
+      "cluster": [
+        {
+          "keyword": "midterm elections 2026 date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "midterm elections 2026 predictions",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "midterm elections 2026 polls",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "midterm elections 2026 texas",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "midterm elections 2026 results",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "midterm elections 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1803,7 +1402,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hurricane nola 2026",
+          "keyword": "midterm elections date",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1812,7 +1411,143 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hurricane nolo",
+          "keyword": "midterm elections predictions",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "midterm elections polls",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "midterm elections",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jack smith park cary",
+      "cluster": [
+        {
+          "keyword": "jack smith park cary",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jack smith american dad",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jack smith special counsel",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jack smith news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith park",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith game",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith report",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith wikipedia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith turner",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "huracan polovni automobili",
+      "cluster": [
+        {
+          "keyword": "huracan polovni automobili",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "huracan polo",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1821,7 +1556,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "hurricane nola",
+          "keyword": "huracan polonia",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1830,7 +1565,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "hurricane nolan",
+          "keyword": "huracan polovni",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1841,44 +1576,44 @@
       ]
     },
     {
-      "pillar": "deltamath",
+      "pillar": "polo huracan lidl",
       "cluster": [
         {
-          "keyword": "deltamath",
+          "keyword": "polo huracan lidl",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "deltawifi",
+      "pillar": "huracán polo",
       "cluster": [
         {
-          "keyword": "deltawifi",
+          "keyword": "huracán polo",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "deltarune",
+      "pillar": "americano drink",
       "cluster": [
         {
-          "keyword": "deltarune",
+          "keyword": "americano drink",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 45.4
         }
       ]
     }
