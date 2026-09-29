@@ -32,5 +32,7 @@ jobs:
           git add research.json improvement_queue.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'Update Google research intelligence'
-          git pull --rebase origin main
+          # Another workflow may have committed state files while this run was researching.
+          # Rebase with the freshly generated research state winning any state-file conflicts.
+          git pull --rebase -X theirs origin main
           git push origin HEAD:main
