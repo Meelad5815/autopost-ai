@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-09-29T16:50:40.429628+00:00",
+  "summary": {
+    "success": 0,
+    "updated": 0,
+    "skipped": 1
+  },
+  "results": [
+    {
+      "status": "skipped",
+      "reason": "quality_gate",
+      "topic": "PLC and Arduino automation projects for small businesses",
+      "title": "SEO automation \u2014 Mukammal Rehnumai aur Practical Guide (2026)",
+      "quality_reasons": [
+        "insufficient_headings",
+        "insufficient_paragraphs",
+        "topic_alignment"
+      ]
+    }
+  ]
+}

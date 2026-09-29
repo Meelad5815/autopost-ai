@@ -145,6 +145,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "jack smith wife and daughter",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "is burundi a good country",
       "intent": "informational",
       "demand": 70.0,
@@ -217,6 +226,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "midterm elections 2026 iowa",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "midterm elections 2026 predictions",
       "intent": "informational",
       "demand": 64.0,
@@ -235,25 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "midterm elections 2026 texas",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "midterm elections 2026 results",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "jack smith park cary",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,6 +325,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "lindsay clancy trial youtube",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "lindsay clancy trial reddit",
       "intent": "informational",
       "demand": 64.0,
@@ -334,7 +343,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lindsay clancy trial youtube",
+      "keyword": "court tv lindsay clancy",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "court tv schedule today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "court tv lindsay clancy",
+      "keyword": "matt rife des moines",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,15 +496,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jack smith park",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "jack smith game",
       "intent": "informational",
       "demand": 58.0,
@@ -497,6 +506,15 @@
     },
     {
       "keyword": "jack smith report",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jack smith doj",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,15 +586,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "court tv schedule",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "matt rife tour",
       "intent": "informational",
       "demand": 58.0,
@@ -605,15 +614,6 @@
     },
     {
       "keyword": "matt rife age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "matt rife controversy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,6 +703,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "aerocano coffee",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "aerocano starbucks",
       "intent": "informational",
       "demand": 52.0,
@@ -713,15 +722,6 @@
     },
     {
       "keyword": "aerocano recipe",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "aerocano coffee",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1003,7 +1003,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lindsay clancy trial reddit",
+          "keyword": "lindsay clancy trial youtube",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1012,7 +1012,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lindsay clancy trial youtube",
+          "keyword": "lindsay clancy trial reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1042,6 +1042,15 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
+        },
+        {
+          "keyword": "matt rife des moines",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         },
         {
           "keyword": "matt rife net worth",
@@ -1107,7 +1116,48 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "matt rife controversy",
+          "keyword": "matt rife",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jack smith wife and daughter",
+      "cluster": [
+        {
+          "keyword": "jack smith wife and daughter",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "jack smith american dad",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jack smith special counsel",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jack smith news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1116,7 +1166,52 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "matt rife",
+          "keyword": "jack smith game",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith report",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith doj",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith wikipedia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith turner",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jack smith",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1139,6 +1234,24 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "court tv lindsay clancy",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "court tv schedule today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "court tv live stream",
           "intent": "informational",
           "demand": 64.0,
@@ -1149,15 +1262,6 @@
         },
         {
           "keyword": "court tv live today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "court tv lindsay clancy",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1194,15 +1298,6 @@
         },
         {
           "keyword": "court tv streaming",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "court tv schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1266,6 +1361,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "aerocano coffee",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "aerocano starbucks",
           "intent": "informational",
           "demand": 52.0,
@@ -1276,15 +1380,6 @@
         },
         {
           "keyword": "aerocano recipe",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "aerocano coffee",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1357,6 +1452,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "midterm elections 2026 iowa",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "midterm elections 2026 predictions",
           "intent": "informational",
           "demand": 64.0,
@@ -1367,15 +1471,6 @@
         },
         {
           "keyword": "midterm elections 2026 polls",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "midterm elections 2026 texas",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1430,101 +1525,6 @@
         },
         {
           "keyword": "midterm elections",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jack smith park cary",
-      "cluster": [
-        {
-          "keyword": "jack smith park cary",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jack smith american dad",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jack smith special counsel",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jack smith news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jack smith park",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jack smith game",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jack smith report",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jack smith wikipedia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jack smith turner",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jack smith",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
