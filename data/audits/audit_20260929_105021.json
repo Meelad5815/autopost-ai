@@ -1,0 +1,90 @@
+{
+  "status": "ok",
+  "checks": {
+    "audited_at": "2026-09-29T10:50:05.785754+00:00",
+    "wp_url": "https://dev-mrkofficial786.pantheonsite.io/",
+    "home_reachable": false,
+    "home_status": 0,
+    "wp_json_reachable": true,
+    "robots_status": 200,
+    "sitemap_status": 0,
+    "published_posts_count": 4,
+    "duplicate_titles": 0,
+    "low_word_posts": 2,
+    "no_featured_image_posts": 4,
+    "weak_internal_links_posts": 2,
+    "missing_author_signature_posts": 4,
+    "empty_categories_posts": 0,
+    "empty_tags_posts": 4,
+    "seo_signals": {
+      "title_present": 0,
+      "meta_description_present": 0,
+      "canonical_present": 0,
+      "posts_with_one_h1": 0,
+      "posts_with_alt_complete": 4,
+      "posts_with_2plus_internal_links": 1
+    },
+    "seo_health_score": 17,
+    "scheduler_log_exists": false
+  },
+  "issues": [
+    {
+      "severity": "critical",
+      "code": "site_unreachable",
+      "message": "Website homepage is not reachable (non-200 response).",
+      "recommended_fix": "Fix domain/DNS/hosting uptime first. Without this, monetization is blocked."
+    },
+    {
+      "severity": "high",
+      "code": "sitemap_missing",
+      "message": "wp-sitemap.xml is missing or inaccessible.",
+      "recommended_fix": "Enable XML sitemap and submit it in Google Search Console."
+    },
+    {
+      "severity": "medium",
+      "code": "thin_content",
+      "message": "2 posts appear thin (<350 words).",
+      "recommended_fix": "Increase content depth, examples, and FAQs for ranking/ads quality."
+    },
+    {
+      "severity": "medium",
+      "code": "missing_featured_images",
+      "message": "4 posts have no featured image.",
+      "recommended_fix": "Attach featured images to improve CTR and ad engagement."
+    },
+    {
+      "severity": "medium",
+      "code": "weak_internal_linking",
+      "message": "2 posts have weak internal linking (<2 links).",
+      "recommended_fix": "Auto-insert at least 2 relevant internal links per post."
+    },
+    {
+      "severity": "high",
+      "code": "author_signature_missing",
+      "message": "4 posts missing mandatory author blocks.",
+      "recommended_fix": "Enforce author signature rule before publish and abort if missing."
+    },
+    {
+      "severity": "medium",
+      "code": "seo_health_gaps",
+      "message": "Deterministic technical/on-page SEO health score is 17/100.",
+      "recommended_fix": "Fix metadata, canonical signals, H1 structure, image alt text, and internal links."
+    },
+    {
+      "severity": "medium",
+      "code": "taxonomy_incomplete",
+      "message": "0 posts missing categories and 4 missing tags.",
+      "recommended_fix": "Auto-assign categories/tags by topic keywords for SEO structure."
+    },
+    {
+      "severity": "high",
+      "code": "scheduler_log_missing",
+      "message": "scheduler.log not found.",
+      "recommended_fix": "Run scheduler via GitHub Actions/worker and keep logs for monitoring."
+    }
+  ],
+  "summary": {
+    "monetization_readiness_score": 0,
+    "issue_count": 9
+  }
+}
