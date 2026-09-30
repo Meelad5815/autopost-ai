@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-09-30T18:12:39.160165+00:00",
+  "summary": {
+    "success": 0,
+    "updated": 0,
+    "skipped": 1
+  },
+  "results": [
+    {
+      "status": "skipped",
+      "reason": "quality_gate",
+      "topic": "PLC and Arduino automation projects for small businesses",
+      "title": "SEO automation: Complete Practical Guide (2026)",
+      "quality_reasons": [
+        "insufficient_headings",
+        "insufficient_paragraphs",
+        "topic_alignment"
+      ]
+    }
+  ]
+}
