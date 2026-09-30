@@ -1,54 +1,70 @@
 {
-  "generated_at": "2026-09-30T20:14:11.948765+00:00",
+  "generated_at": "2026-09-30T23:56:25.504227+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "mu stock",
+      "title": "police officer",
       "source": "google_trends_us"
     },
     {
-      "title": "secret lair",
+      "title": "jordan hicks",
       "source": "google_trends_us"
     },
     {
-      "title": "millennials",
+      "title": "sidney crosby",
       "source": "google_trends_us"
     },
     {
-      "title": "ps5 pro",
+      "title": "argentina - bolivia",
       "source": "google_trends_us"
     },
     {
-      "title": "brandon marsh",
+      "title": "pak vs ban",
       "source": "google_trends_us"
     },
     {
-      "title": "john kruk",
+      "title": "chase meidroth",
       "source": "google_trends_us"
     },
     {
-      "title": "tyler perry $57m estate listing",
+      "title": "is big brother on tonight",
       "source": "google_trends_us"
     },
     {
-      "title": "marsha blackburn sues jack smith",
+      "title": "islanders vs maple leafs",
       "source": "google_trends_us"
     },
     {
-      "title": "joey votto",
+      "title": "electoral fraud",
       "source": "google_trends_us"
     },
     {
-      "title": "wolf",
+      "title": "los angeles lakers",
       "source": "google_trends_us"
+    },
+    {
+      "title": "argentina vs bolivia",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "pakistan vs bangladesh",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "nisshin weather",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "shoaib akhtar",
+      "source": "google_trends_pk"
     },
     {
       "title": "fbr tax return",
       "source": "google_trends_pk"
     },
     {
-      "title": "flydubai flight status",
+      "title": "tristan stubbs",
       "source": "google_trends_pk"
     },
     {
@@ -65,22 +81,6 @@
     },
     {
       "title": "cameron green",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "live cricket match",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "tapmad",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "shubman gill",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "rohit sharma",
       "source": "google_trends_pk"
     },
     {
@@ -172,19 +172,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations - techcrunch.com",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations - TechCrunch",
       "source": "google_news_ai"
     },
     {
-      "title": "Workers Are Being Split Into 4 Groups as Automation Reshapes Careers - inc.com",
+      "title": "EliseAI raises $350M to enhance its AI work automation suite - SiliconANGLE",
       "source": "google_news_ai"
     },
     {
-      "title": "Fast-improving AI, robotics could make 'dark' auto factories a reality - detroitnews.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "EliseAI raises $350M to enhance its AI work automation suite - siliconangle.com",
+      "title": "Fast-improving AI, robotics could make 'dark' auto factories a reality - The Detroit News",
       "source": "google_news_ai"
     },
     {
@@ -192,15 +188,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Technology isn’t yet solving HR’s workflow problems - HR Dive",
+      "title": "An Automation Agency Charged A Real Estate Agent $5,000 To Build A Text And Voice AI Tool, Turning 60,000 Dead Leads Into $490,000 In Commission - Wccftech",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workers Are Being Split Into 4 Groups as Automation Reshapes Careers - inc.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Technology isn’t yet solving HR’s workflow problems - Yahoo",
       "source": "google_news_ai"
     },
     {
       "title": "Serval Wants To Replace ServiceNow With AI That Builds Enterprise Automation - Forbes",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - techcrunch.com",
       "source": "google_news_ai"
     },
     {
@@ -212,11 +212,23 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Using AI to Move From Automation to Action - convenience.org",
+      "title": "Northrop Grumman is Supercharging Advanced Fighter Production with AI‑Powered Automation - Northrop Grumman",
       "source": "google_news_ai"
     },
     {
-      "title": "AI and Automation in Post-Trade Operations: Where It’s Real - cacm.acm.org",
+      "title": "Cigna Group expects $3B in savings driven by AI, automation - Modern Healthcare",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Using AI to Move From Automation to Action - NACS",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI and Automation in Post-Trade Operations: Where It’s Real - Communications of the ACM",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Ford CEO sees blue-collar workers using AI as a ‘companion’—but other jobs ‘are definitely going to be changed and eliminated’ - Fortune",
       "source": "google_news_ai"
     },
     {
@@ -224,11 +236,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Quick Take: Physical AI Needs A Fourth Verb - Automation World",
+      "source": "google_news_ai"
+    },
+    {
       "title": "GitLab (GTLB) Expands AI Automation, Is The Stock Still Cheap? - simplywall.st",
       "source": "google_news_ai"
     },
     {
-      "title": "Northrop Grumman is Supercharging Advanced Fighter Production with AI‑Powered Automation - Northrop Grumman",
+      "title": "Technology isn’t yet solving HR’s workflow problems - HR Dive",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Beyond Operational Obsolescence: The New Paradigm of IT Management in the AI Era - Cisco Blogs",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "source": "google_news_ai"
     },
     {
@@ -240,27 +264,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Spatial AI, Agentic AI And The Next Smart Factory Challenge - automationworld.com",
+      "title": "Coupa Named a Leader in the 2026 IDC MarketScape for AI-Enabled Accounts Payable Automation Software for Large Enterprise - Business Wire",
       "source": "google_news_ai"
     },
     {
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "title": "Q&amp;A: How One Pharmaceutical Manufacturer Is Implementing AI - Automation World",
       "source": "google_news_ai"
     },
     {
-      "title": "Universal Robots Launches Gen 7 Platform for AI-Ready Industrial Automation - Machine Design",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI is giving CFOs a bigger slice of the C-suite, new IBM data shows - Fortune",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Robinhood expands AI agentic trading with automation and 24/7 cycle - finance.yahoo.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Siemens (XTRA:SIE) Earns Software Defined Automation Leadership Recognition For Its AI Push - finance.yahoo.com",
+      "title": "Spatial AI, Agentic AI And The Next Smart Factory Challenge - Automation World",
       "source": "google_news_ai"
     },
     {
@@ -268,27 +280,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "HCLSoftware to buy Croatian automation firm Robotiq.ai for €9 million - Staffing Industry Analysts",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI could wipe out ‘traditional’ entry level marketing jobs by 2030 - marketingweek.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "LoanPro Adds Spring Labs AI to Automate Lending Complaints, Disputes - CUTimes",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half - Business Wire",
+      "title": "Universal Robots Launches Gen 7 Platform for AI-Ready Industrial Automation - Machine Design",
       "source": "google_news_ai"
     },
     {
       "title": "Should You Hire an AI SEO Agency? - Business.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Just Turned 28 — And What Happened Next Changes How You’ll Be Found Online Forever - DataDrivenInvestor",
       "source": "google_news_seo"
     },
     {
@@ -316,19 +312,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Daily Search Forum Recap: September 30, 2026 - seroundtable.com",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Maps SEO: How to Rank in the Local Map Pack - Carroll County Mirror-Democrat",
       "source": "google_news_seo"
     },
     {
-      "title": "Stratedia Ranks Among the Most Frequently Recommended SEO Companies in AI Results and Search Rankings - The National Law Review",
+      "title": "Stratedia Ranks Among the Most Frequently Recommended SEO Companies in AI Results and Search Rankings - natlawreview.com",
       "source": "google_news_seo"
     },
     {
       "title": "London SEO Consultant Integrates AI Search Into Standard Services - MarTech Cube",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Daily Search Forum Recap: September 30, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -348,10 +344,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "SEO App Launches SERP Sensor to Monitor AI Overviews - The Manila Times",
-      "source": "google_news_seo"
-    },
-    {
       "title": "40% of AI Citations Leave Source Brands Unnamed - DesignRush",
       "source": "google_news_seo"
     },
@@ -360,7 +352,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google: Sometimes There Is No Absolute Right Answer For SEO - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Console Adds Multimodal Filter For Image-Based Searches - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "SEO App Launches SERP Sensor to Monitor AI Overviews - The Manila Times",
       "source": "google_news_seo"
     },
     {
@@ -372,19 +376,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO Pages - seroundtable.com",
+      "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO Pages - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "How can I get to the top of search pages? 10 ways to rank better in 2026 - Hostinger",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "10 best website builders for SEO - Hostinger",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "AI Overviews Rank Checker: A Practical Guide to Tracking Search Visibility - Business Matters",
+      "title": "How can I get to the top of search pages? 10 ways to rank better in 2026 - hostinger.com",
       "source": "google_news_seo"
     },
     {
@@ -396,11 +392,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google On Using Markdown For AI SEO - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google On Using Markdown For AI SEO - Search Engine Journal",
+      "title": "AI Overviews Rank Checker: A Practical Guide to Tracking Search Visibility - Business Matters",
       "source": "google_news_seo"
     },
     {
@@ -408,7 +408,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress.com Owner Automattic's Board Reportedly Purged After Failed 'Coup' Against CEO - gizmodo.com",
+      "title": "WordPress.com Owner Automattic's Board Reportedly Purged After Failed 'Coup' Against CEO - Gizmodo",
       "source": "google_news_wordpress"
     },
     {
@@ -416,11 +416,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - The Hacker News",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
       "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
@@ -432,11 +436,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server - BleepingComputer",
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -444,7 +444,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "REVIEW: Slow Horses (S6 E3/6 Resurrection) - The Killing Times",
+      "title": "Satan’s Buzzsaw - energyathaas.wordpress.com",
       "source": "google_news_wordpress"
     },
     {
@@ -456,10 +456,6 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Security Flaw in WordPress Plugin Puts 400,000 Websites at Risk - TechRepublic",
       "source": "google_news_wordpress"
     },
@@ -468,7 +464,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "How to set up OpenClaw for WordPress - Hostinger",
+      "title": "How to set up OpenClaw for WordPress - hostinger.com",
       "source": "google_news_wordpress"
     },
     {
@@ -476,11 +472,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "A critical WordPress flaw was under attack within hours of its fix - The Next Web",
+      "title": "REVIEW: Slow Horses (S6 E3/6 Resurrection) - The Killing Times",
       "source": "google_news_wordpress"
     },
     {
-      "title": "“A state of the nation novel, of sorts” – The Newer World by Sebastian Barry - Bookmunch",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress pricing in 2026 – how much does a WordPress website cost? - hostinger.com",
       "source": "google_news_wordpress"
     }
   ],
