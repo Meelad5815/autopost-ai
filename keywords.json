@@ -667,15 +667,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "shemar moore wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "shemar moore kids",
       "intent": "informational",
       "demand": 58.0,
@@ -713,6 +704,15 @@
     },
     {
       "keyword": "shemar moore parents",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "shemar moore movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1323,15 +1323,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "shemar moore wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "shemar moore kids",
           "intent": "informational",
           "demand": 58.0,
@@ -1369,6 +1360,15 @@
         },
         {
           "keyword": "shemar moore parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "shemar moore movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
