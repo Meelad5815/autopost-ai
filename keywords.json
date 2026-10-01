@@ -163,7 +163,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns picks",
+      "keyword": "steelers vs browns spread",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -172,7 +172,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns spread",
+      "keyword": "steelers vs browns picks",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -200,6 +200,15 @@
     },
     {
       "keyword": "october 2026 calendar printable free",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "dominic west and sienna miller",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -335,15 +344,6 @@
     },
     {
       "keyword": "dominic west new series",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dominic west the crown",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blue alert now",
+      "keyword": "blue alert austin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,6 +766,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "toddler rain boots",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "nails near me",
       "intent": "informational",
       "demand": 58.0,
@@ -866,15 +875,6 @@
     },
     {
       "keyword": "toddler age",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "toddler costumes",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1109,7 +1109,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns picks",
+          "keyword": "steelers vs browns spread",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1118,7 +1118,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns spread",
+          "keyword": "steelers vs browns picks",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1388,8 +1388,17 @@
       ]
     },
     {
-      "pillar": "dominic west movies and shows",
+      "pillar": "dominic west and sienna miller",
       "cluster": [
+        {
+          "keyword": "dominic west and sienna miller",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
         {
           "keyword": "dominic west movies and shows",
           "intent": "informational",
@@ -1419,15 +1428,6 @@
         },
         {
           "keyword": "dominic west new series",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dominic west the crown",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1653,7 +1653,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "blue alert now",
+          "keyword": "blue alert austin",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1875,6 +1875,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "toddler rain boots",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "toddler bed",
           "intent": "informational",
           "demand": 52.0,
@@ -1912,15 +1921,6 @@
         },
         {
           "keyword": "toddler age",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "toddler costumes",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
