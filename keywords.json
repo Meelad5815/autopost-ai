@@ -1,7 +1,25 @@
 {
   "keywords": [
     {
-      "keyword": "rafael jodar vs adolfo daniel vallejo",
+      "keyword": "denmark vs portugal best bets",
+      "intent": "commercial",
+      "demand": 94.0,
+      "competition": 40.0,
+      "ranking_probability": 83.8,
+      "learning_boost": 0.0,
+      "learned_score": 83.8
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein best bets",
+      "intent": "commercial",
+      "demand": 94.0,
+      "competition": 40.0,
+      "ranking_probability": 83.8,
+      "learning_boost": 0.0,
+      "learned_score": 83.8
+    },
+    {
+      "keyword": "denmark vs portugal uefa nations league",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -10,7 +28,16 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "steelers vs browns last 5 games",
+      "keyword": "germany vs serbia head to head",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein head to head",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -28,7 +55,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "october 2026 calendar desktop wallpaper",
+      "keyword": "denmark vs portugal prediction today",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -37,7 +64,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "rafael jodar vs adolfo daniel",
+      "keyword": "denmark vs portugal last match",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -46,7 +73,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "rafael jodar vs adolfo vallejo",
+      "keyword": "denmark vs portugal last game",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -55,7 +82,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "steelers vs browns last game",
+      "keyword": "denmark vs portugal score prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -64,7 +91,79 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "steelers vs browns score prediction",
+      "keyword": "wales vs norway prediction today",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "wales vs norway last game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "wales vs norway past games",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "wales vs norway score prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "wales vs norway previous games",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "germany vs serbia prediction today",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "germany vs serbia last game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "germany vs serbia last match",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein score prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -74,6 +173,15 @@
     },
     {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "is liechtenstein a good place to live",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -100,16 +208,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "fast food near me open now",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "rafael jodar vs vallejo",
+      "keyword": "denmark vs portugal prediction",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -118,7 +217,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "rafael jodar vs adolfo",
+      "keyword": "denmark vs portugal lineup",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -127,7 +226,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns prediction",
+      "keyword": "denmark vs portugal 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -136,7 +235,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns 2026",
+      "keyword": "wales vs norway prediction",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -145,7 +244,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns odds",
+      "keyword": "wales vs norway odds",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -154,7 +253,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns 2025",
+      "keyword": "wales vs norway h2h",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -163,7 +262,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns history",
+      "keyword": "wales vs norway tickets",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -172,7 +271,88 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "steelers vs browns spread",
+      "keyword": "germany vs serbia prediction",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "germany vs serbia tickets",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "germany vs serbia 2026",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "germany vs serbia h2h",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "germany vs serbia lineup",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "heat advisory vs warning",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein prediction",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein h2h",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein odds",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "liechtenstein vs san marino",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -190,7 +370,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "october 2026 calendar with holidays",
+      "keyword": "dinamarca portugal balonmano donde ver",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +379,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "october 2026 calendar printable free",
+      "keyword": "dinamarca portugal liga das nações",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +388,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dominic west and sienna miller",
+      "keyword": "is liechtenstein richer than luxembourg",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,52 +397,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dominic west movies and shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "harris county toll road authority",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fast food open near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fast food restaurants near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fast food places near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "steelers vs browns",
+      "keyword": "denmark vs portugal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -271,7 +406,43 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "october 2026 calendar printable",
+      "keyword": "wales vs norway",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "germany vs serbia",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "gales vs noruega",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "azerbaijan vs liechtenstein",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "resultado andebol portugal dinamarca",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "october 2026 calendar wallpaper",
+      "keyword": "dinamarca portugal euro 2012",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "october 2026 calendar halloween",
+      "keyword": "portugal a dinamarca distancia",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "october 2026 calendar background",
+      "keyword": "heat advisory mesa az",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "october 2026 calendar printabulls",
+      "keyword": "heat advisory near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +487,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "october 2026 calendar telugu",
+      "keyword": "amber guyger release date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +496,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dominic west new show",
+      "keyword": "amber guyger update 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +505,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dominic west new series",
+      "keyword": "amber guyger what happened",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,151 +514,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dominic west lily james",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "harris county district clerk",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "harris county inmate search",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "harris county appraisal district",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "harris county tax office",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "blue alert channelview tx",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "blue alert chase patin",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "blue alert harris county",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "blue alert texas today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "blue alert this morning",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "blue alert texas meaning",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "fast food near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "amber alert near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "nail salon near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "nail shops near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "nail places near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "october 2026 calendar",
+      "keyword": "dinamarca portugal handball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dominic west wife",
+      "keyword": "dinamarca portugal andebol",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dominic west war",
+      "keyword": "dinamarca portugal balonmano",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dominic west 300",
+      "keyword": "dinamarca portugal 2012",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dominic west movies",
+      "keyword": "gales x noruega",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar prediction",
+      "keyword": "gales y noruega",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar ranking",
+      "keyword": "heat advisory phoenix",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar height",
+      "keyword": "heat advisory today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar age",
+      "keyword": "heat advisory meaning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harris county jail",
+      "keyword": "heat advisory nearby",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harris county texas",
+      "keyword": "heat advisory srp",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harris county clerk",
+      "keyword": "heat advisory arizona",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harris county tx",
+      "keyword": "amber guyger now",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blue alert texas",
+      "keyword": "amber guyger parole",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blue alert meaning",
+      "keyword": "amber guyger sentence",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blue alert today",
+      "keyword": "amber guyger update",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fast food texas",
+      "keyword": "amber guyger age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fast food california",
+      "keyword": "amber guyger story",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fast food places",
+      "keyword": "lawsuit in spanish",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fast food restaurants",
+      "keyword": "lawsuits against ozempic",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert texas",
+      "keyword": "lawsuits settlements 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert california",
+      "keyword": "lawsuit against gabapentin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert movie",
+      "keyword": "lawsuit against meta",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,97 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber alert meaning",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber alert sound",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber alert 2012",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber alert origin",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "toddler halloween costume",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "toddler car seat",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "toddler rain boots",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "toddler floor bed",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nails near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "dominic west",
+      "keyword": "dinamarca portugal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +730,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "rafael jodar",
+      "keyword": "noruega ingles",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "harris county",
+      "keyword": "heat advisory",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blue alert",
+      "keyword": "amber guyger",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fast food",
+      "keyword": "lawsuit settlements",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amber alert",
+      "keyword": "lawsuit meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "toddler bed",
+      "keyword": "lawsuit lawyers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "toddler shoes",
+      "keyword": "lawsuit claims",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,88 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "toddler tower",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "toddler backpack",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "toddler age",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nail salon",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nail designs",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nail inspo",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nail shapes",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nail ideas",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "toddler",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "nails",
+      "keyword": "lawsuit",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -948,10 +804,19 @@
   ],
   "clusters": [
     {
-      "pillar": "rafael jodar vs adolfo daniel vallejo",
+      "pillar": "denmark vs portugal best bets",
       "cluster": [
         {
-          "keyword": "rafael jodar vs adolfo daniel vallejo",
+          "keyword": "denmark vs portugal best bets",
+          "intent": "commercial",
+          "demand": 94.0,
+          "competition": 40.0,
+          "ranking_probability": 83.8,
+          "learning_boost": 0.0,
+          "learned_score": 83.8
+        },
+        {
+          "keyword": "denmark vs portugal uefa nations league",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -960,7 +825,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "rafael jodar vs adolfo daniel",
+          "keyword": "denmark vs portugal prediction today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -969,7 +834,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "rafael jodar vs adolfo vallejo",
+          "keyword": "denmark vs portugal last match",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -978,7 +843,25 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "rafael jodar vs vallejo",
+          "keyword": "denmark vs portugal last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "denmark vs portugal score prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "denmark vs portugal prediction",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -987,7 +870,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "rafael jodar vs adolfo",
+          "keyword": "denmark vs portugal lineup",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -996,57 +879,39 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "rafael jodar prediction",
+          "keyword": "denmark vs portugal 2026",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 68.2
         },
         {
-          "keyword": "rafael jodar ranking",
+          "keyword": "denmark vs portugal",
           "intent": "informational",
-          "demand": 58.0,
+          "demand": 70.0,
           "competition": 60.0,
-          "ranking_probability": 52.6,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 61.0
         }
       ]
     },
     {
-      "pillar": "steelers vs browns last 5 games",
+      "pillar": "azerbaijan vs liechtenstein best bets",
       "cluster": [
         {
-          "keyword": "steelers vs browns last 5 games",
+          "keyword": "azerbaijan vs liechtenstein best bets",
+          "intent": "commercial",
+          "demand": 94.0,
+          "competition": 40.0,
+          "ranking_probability": 83.8,
+          "learning_boost": 0.0,
+          "learned_score": 83.8
+        },
+        {
+          "keyword": "azerbaijan vs liechtenstein head to head",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1055,7 +920,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "steelers vs browns last game",
+          "keyword": "azerbaijan vs liechtenstein score prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1064,7 +929,57 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "steelers vs browns score prediction",
+          "keyword": "azerbaijan vs liechtenstein prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "azerbaijan vs liechtenstein h2h",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "azerbaijan vs liechtenstein odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "azerbaijan vs liechtenstein",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "germany vs serbia head to head",
+      "cluster": [
+        {
+          "keyword": "germany vs serbia head to head",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "germany vs serbia prediction today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1073,7 +988,25 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "steelers vs browns prediction",
+          "keyword": "germany vs serbia last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "germany vs serbia last match",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "germany vs serbia prediction",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1082,7 +1015,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns 2026",
+          "keyword": "germany vs serbia tickets",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1091,7 +1024,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns odds",
+          "keyword": "germany vs serbia 2026",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1100,7 +1033,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns 2025",
+          "keyword": "germany vs serbia h2h",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1109,7 +1042,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns history",
+          "keyword": "germany vs serbia lineup",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1118,16 +1051,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "steelers vs browns spread",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "steelers vs browns",
+          "keyword": "germany vs serbia",
           "intent": "informational",
           "demand": 70.0,
           "competition": 60.0,
@@ -1152,10 +1076,10 @@
       ]
     },
     {
-      "pillar": "october 2026 calendar desktop wallpaper",
+      "pillar": "wales vs norway prediction today",
       "cluster": [
         {
-          "keyword": "october 2026 calendar desktop wallpaper",
+          "keyword": "wales vs norway prediction today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1164,85 +1088,85 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "october 2026 calendar with holidays",
+          "keyword": "wales vs norway last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "wales vs norway past games",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "wales vs norway score prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "wales vs norway previous games",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "wales vs norway prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "wales vs norway odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "wales vs norway h2h",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "wales vs norway tickets",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "wales vs norway",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "october 2026 calendar printable free",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "october 2026 calendar printable",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "october 2026 calendar wallpaper",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "october 2026 calendar halloween",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "october 2026 calendar background",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "october 2026 calendar printabulls",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "october 2026 calendar telugu",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "october 2026 calendar",
-          "intent": "informational",
-          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 52.6,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 61.0
         }
       ]
     },
@@ -1257,6 +1181,29 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "is liechtenstein a good place to live",
+      "cluster": [
+        {
+          "keyword": "is liechtenstein a good place to live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "is liechtenstein richer than luxembourg",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         }
       ]
     },
@@ -1293,46 +1240,19 @@
       ]
     },
     {
-      "pillar": "fast food near me open now",
+      "pillar": "heat advisory vs warning",
       "cluster": [
         {
-          "keyword": "fast food near me open now",
+          "keyword": "heat advisory vs warning",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 68.2
         },
         {
-          "keyword": "fast food open near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fast food restaurants near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fast food places near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fast food near me",
+          "keyword": "heat advisory mesa az",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1341,7 +1261,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "fast food texas",
+          "keyword": "heat advisory near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "heat advisory phoenix",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1350,7 +1279,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "fast food california",
+          "keyword": "heat advisory today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1359,7 +1288,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "fast food places",
+          "keyword": "heat advisory meaning",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1368,7 +1297,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "fast food restaurants",
+          "keyword": "heat advisory nearby",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1377,7 +1306,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "fast food",
+          "keyword": "heat advisory srp",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "heat advisory arizona",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "heat advisory",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1388,10 +1335,24 @@
       ]
     },
     {
-      "pillar": "dominic west and sienna miller",
+      "pillar": "liechtenstein vs san marino",
       "cluster": [
         {
-          "keyword": "dominic west and sienna miller",
+          "keyword": "liechtenstein vs san marino",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        }
+      ]
+    },
+    {
+      "pillar": "dinamarca portugal balonmano donde ver",
+      "cluster": [
+        {
+          "keyword": "dinamarca portugal balonmano donde ver",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1400,7 +1361,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "dominic west movies and shows",
+          "keyword": "dinamarca portugal liga das nações",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1409,7 +1370,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "dominic west new show",
+          "keyword": "dinamarca portugal euro 2012",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1418,25 +1379,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dominic west new series",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dominic west lily james",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dominic west wife",
+          "keyword": "dinamarca portugal handball",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1445,7 +1388,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dominic west war",
+          "keyword": "dinamarca portugal andebol",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1454,7 +1397,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dominic west 300",
+          "keyword": "dinamarca portugal balonmano",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1463,7 +1406,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dominic west movies",
+          "keyword": "dinamarca portugal 2012",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1472,7 +1415,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dominic west",
+          "keyword": "dinamarca portugal",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1483,55 +1426,19 @@
       ]
     },
     {
-      "pillar": "harris county toll road authority",
+      "pillar": "gales vs noruega",
       "cluster": [
         {
-          "keyword": "harris county toll road authority",
+          "keyword": "gales vs noruega",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 61.0
         },
         {
-          "keyword": "harris county district clerk",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "harris county inmate search",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "harris county appraisal district",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "harris county tax office",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "harris county jail",
+          "keyword": "gales x noruega",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1540,7 +1447,76 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "harris county texas",
+          "keyword": "gales y noruega",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "resultado andebol portugal dinamarca",
+      "cluster": [
+        {
+          "keyword": "resultado andebol portugal dinamarca",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "portugal a dinamarca distancia",
+      "cluster": [
+        {
+          "keyword": "portugal a dinamarca distancia",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "amber guyger release date",
+      "cluster": [
+        {
+          "keyword": "amber guyger release date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amber guyger update 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amber guyger what happened",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amber guyger now",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1549,7 +1525,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "harris county clerk",
+          "keyword": "amber guyger parole",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1558,7 +1534,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "harris county tx",
+          "keyword": "amber guyger sentence",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1567,7 +1543,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "harris county",
+          "keyword": "amber guyger update",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber guyger age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber guyger story",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber guyger",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1578,64 +1581,10 @@
       ]
     },
     {
-      "pillar": "blue alert channelview tx",
+      "pillar": "lawsuit in spanish",
       "cluster": [
         {
-          "keyword": "blue alert channelview tx",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blue alert chase patin",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blue alert harris county",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blue alert texas today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blue alert this morning",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blue alert texas meaning",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blue alert texas",
+          "keyword": "lawsuit in spanish",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1593,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "blue alert meaning",
+          "keyword": "lawsuit against gabapentin",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,7 +1602,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "blue alert today",
+          "keyword": "lawsuit against meta",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1662,143 +1611,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "blue alert",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "amber alert near me",
-      "cluster": [
-        {
-          "keyword": "amber alert near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amber alert texas",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert california",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert movie",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert meaning",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert sound",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert 2012",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert origin",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "nail salon near me",
-      "cluster": [
-        {
-          "keyword": "nail salon near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nail shops near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nail places near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nail salon",
+          "keyword": "lawsuit settlements",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1807,7 +1620,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nail designs",
+          "keyword": "lawsuit meaning",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1816,7 +1629,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nail inspo",
+          "keyword": "lawsuit lawyers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1825,7 +1638,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nail shapes",
+          "keyword": "lawsuit claims",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1834,102 +1647,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nail ideas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "toddler halloween costume",
-      "cluster": [
-        {
-          "keyword": "toddler halloween costume",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "toddler car seat",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "toddler rain boots",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "toddler floor bed",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "toddler bed",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "toddler shoes",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "toddler tower",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "toddler backpack",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "toddler age",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "toddler",
+          "keyword": "lawsuit",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1940,10 +1658,10 @@
       ]
     },
     {
-      "pillar": "nails near me",
+      "pillar": "lawsuits against ozempic",
       "cluster": [
         {
-          "keyword": "nails near me",
+          "keyword": "lawsuits against ozempic",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1952,13 +1670,27 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nails",
+          "keyword": "lawsuits settlements 2026",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "noruega ingles",
+      "cluster": [
+        {
+          "keyword": "noruega ingles",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
