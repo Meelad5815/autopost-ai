@@ -1,43 +1,7 @@
 {
   "keywords": [
     {
-      "keyword": "denmark vs portugal best bets",
-      "intent": "commercial",
-      "demand": 94.0,
-      "competition": 40.0,
-      "ranking_probability": 83.8,
-      "learning_boost": 0.0,
-      "learned_score": 83.8
-    },
-    {
-      "keyword": "azerbaijan vs liechtenstein best bets",
-      "intent": "commercial",
-      "demand": 94.0,
-      "competition": 40.0,
-      "ranking_probability": 83.8,
-      "learning_boost": 0.0,
-      "learned_score": 83.8
-    },
-    {
-      "keyword": "denmark vs portugal uefa nations league",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "germany vs serbia head to head",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "azerbaijan vs liechtenstein head to head",
+      "keyword": "daniil medvedev vs pablo carreno busta",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -55,7 +19,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "denmark vs portugal prediction today",
+      "keyword": "what to do if you find human remains",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "daniil medvedev vs pablo carreno",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -64,7 +37,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "denmark vs portugal last match",
+      "keyword": "daniil medvedev vs p busta",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -73,7 +46,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "denmark vs portugal last game",
+      "keyword": "daniil medvedev vs carreno busta",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -82,7 +55,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "denmark vs portugal score prediction",
+      "keyword": "jasmine paolini vs daria snigur",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -91,7 +64,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "wales vs norway prediction today",
+      "keyword": "jasmine paolini vs snigur prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -100,70 +73,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "wales vs norway last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "wales vs norway past games",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "wales vs norway score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "wales vs norway previous games",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "germany vs serbia prediction today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "germany vs serbia last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "germany vs serbia last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "azerbaijan vs liechtenstein score prediction",
+      "keyword": "jasmine paolini vs daria prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -181,7 +91,25 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "is liechtenstein a good place to live",
+      "keyword": "coffee shops near me within 5 mi",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "coffee shops near me within 0.2 mi",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "coffee shops near me within 1 mi",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -208,7 +136,34 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "denmark vs portugal prediction",
+      "keyword": "coffee shops near me open now",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "coffee shops near me open late",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "coffee shops near me drive thru",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "daniil medvedev vs pablo",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -217,7 +172,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "denmark vs portugal lineup",
+      "keyword": "daniil medvedev vs carreno",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -226,7 +181,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "denmark vs portugal 2026",
+      "keyword": "daniil medvedev vs busta",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -235,124 +190,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "wales vs norway prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "wales vs norway odds",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "wales vs norway h2h",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "wales vs norway tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "germany vs serbia prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "germany vs serbia tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "germany vs serbia 2026",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "germany vs serbia h2h",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "germany vs serbia lineup",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "heat advisory vs warning",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "azerbaijan vs liechtenstein prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "azerbaijan vs liechtenstein h2h",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "azerbaijan vs liechtenstein odds",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "liechtenstein vs san marino",
+      "keyword": "jasmine paolini vs daria",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -370,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dinamarca portugal balonmano donde ver",
+      "keyword": "coffee shops near me open",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -379,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dinamarca portugal liga das nações",
+      "keyword": "coffee shops near me hiring",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -388,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "is liechtenstein richer than luxembourg",
+      "keyword": "coffee shops near me now",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -397,52 +235,79 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "denmark vs portugal",
+      "keyword": "pokemon 30th anniversary release date",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "wales vs norway",
+      "keyword": "pokemon 30th anniversary booster bundle",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "germany vs serbia",
+      "keyword": "pokemon 30th anniversary pre order",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "gales vs noruega",
+      "keyword": "pokemon 30th anniversary card list",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "azerbaijan vs liechtenstein",
+      "keyword": "portland trail blazers roster 2026",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "resultado andebol portugal dinamarca",
+      "keyword": "portland trail blazers depth chart",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "november 13 attack on paris",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "putin russia and the west",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "coffee shops near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dinamarca portugal euro 2012",
+      "keyword": "delivery pizza near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "portugal a dinamarca distancia",
+      "keyword": "delivery restaurants near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "heat advisory mesa az",
+      "keyword": "delivery jobs near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "heat advisory near me",
+      "keyword": "pokemon 30th anniversary set",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber guyger release date",
+      "keyword": "pokemon 30th anniversary etb",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber guyger update 2026",
+      "keyword": "pokemon 30th anniversary tins",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber guyger what happened",
+      "keyword": "pokemon 30th anniversary target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,7 +379,124 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dinamarca portugal handball",
+      "keyword": "pokemon 30th anniversary cards",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers roster",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers news",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers players",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers coach",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers owner",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers tickets",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "portland trail blazers trade",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "jasmine paolini daria snigur",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "lancaster property human remains",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "november 13 zodiac sign",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "moonshot ai kimi model",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "putin russia ukraine war",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "daniil medvedev ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dinamarca portugal andebol",
+      "keyword": "daniil medvedev prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dinamarca portugal balonmano",
+      "keyword": "delivery near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dinamarca portugal 2012",
+      "keyword": "delivery driver jobs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gales x noruega",
+      "keyword": "pokemon 30th anniversary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gales y noruega",
+      "keyword": "portland trail blazers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "heat advisory phoenix",
+      "keyword": "jasmine paolini height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "heat advisory today",
+      "keyword": "jasmine paolini ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "heat advisory meaning",
+      "keyword": "jasmine paolini prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "heat advisory nearby",
+      "keyword": "jasmine paolini parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "heat advisory srp",
+      "keyword": "november 13 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "heat advisory arizona",
+      "keyword": "november 13 zodiac",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber guyger now",
+      "keyword": "november 13th zodiac",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber guyger parole",
+      "keyword": "november 13 2022",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber guyger sentence",
+      "keyword": "november 13 doomsday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber guyger update",
+      "keyword": "november 13 birthdays",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber guyger age",
+      "keyword": "moonshot ai stock",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber guyger story",
+      "keyword": "moonshot ai founder",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lawsuit in spanish",
+      "keyword": "moonshot ai valuation",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lawsuits against ozempic",
+      "keyword": "moonshot ai kimi",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lawsuits settlements 2026",
+      "keyword": "moonshot ai ceo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lawsuit against gabapentin",
+      "keyword": "moonshot ai model",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lawsuit against meta",
+      "keyword": "moonshot ai careers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +703,70 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dinamarca portugal",
+      "keyword": "moonshot ai ipo",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "putin russian president",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "putin russia news",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "putin russia ukraine",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "putin russia war",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "putin russia economy",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "putin russia reddit",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "daniil medvedev",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "noruega ingles",
+      "keyword": "delivery nyc",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "heat advisory",
+      "keyword": "delivery georgia",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amber guyger",
+      "keyword": "delivery driver",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lawsuit settlements",
+      "keyword": "delivery jobs",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lawsuit meaning",
+      "keyword": "jasmine paolini",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lawsuit lawyers",
+      "keyword": "november 13",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lawsuit claims",
+      "keyword": "november 13th",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +838,34 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lawsuit",
+      "keyword": "moonshot ai",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "putin russia",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "putin russian",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "delivery",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -804,19 +876,10 @@
   ],
   "clusters": [
     {
-      "pillar": "denmark vs portugal best bets",
+      "pillar": "daniil medvedev vs pablo carreno busta",
       "cluster": [
         {
-          "keyword": "denmark vs portugal best bets",
-          "intent": "commercial",
-          "demand": 94.0,
-          "competition": 40.0,
-          "ranking_probability": 83.8,
-          "learning_boost": 0.0,
-          "learned_score": 83.8
-        },
-        {
-          "keyword": "denmark vs portugal uefa nations league",
+          "keyword": "daniil medvedev vs pablo carreno busta",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -825,7 +888,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "denmark vs portugal prediction today",
+          "keyword": "daniil medvedev vs pablo carreno",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -834,7 +897,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "denmark vs portugal last match",
+          "keyword": "daniil medvedev vs p busta",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -843,7 +906,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "denmark vs portugal last game",
+          "keyword": "daniil medvedev vs carreno busta",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -852,16 +915,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "denmark vs portugal score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "denmark vs portugal prediction",
+          "keyword": "daniil medvedev vs pablo",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -870,7 +924,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "denmark vs portugal lineup",
+          "keyword": "daniil medvedev vs carreno",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -879,7 +933,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "denmark vs portugal 2026",
+          "keyword": "daniil medvedev vs busta",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -888,176 +942,31 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "denmark vs portugal",
+          "keyword": "daniil medvedev ranking",
           "intent": "informational",
-          "demand": 70.0,
+          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 61.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "azerbaijan vs liechtenstein best bets",
-      "cluster": [
-        {
-          "keyword": "azerbaijan vs liechtenstein best bets",
-          "intent": "commercial",
-          "demand": 94.0,
-          "competition": 40.0,
-          "ranking_probability": 83.8,
-          "learning_boost": 0.0,
-          "learned_score": 83.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "azerbaijan vs liechtenstein head to head",
+          "keyword": "daniil medvedev prediction",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "azerbaijan vs liechtenstein score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "azerbaijan vs liechtenstein prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "azerbaijan vs liechtenstein h2h",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "azerbaijan vs liechtenstein odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "azerbaijan vs liechtenstein",
-          "intent": "informational",
-          "demand": 70.0,
+          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 61.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "germany vs serbia head to head",
-      "cluster": [
-        {
-          "keyword": "germany vs serbia head to head",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
+          "learned_score": 52.6
         },
         {
-          "keyword": "germany vs serbia prediction today",
+          "keyword": "daniil medvedev",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "germany vs serbia last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "germany vs serbia last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "germany vs serbia prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "germany vs serbia tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "germany vs serbia 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "germany vs serbia h2h",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "germany vs serbia lineup",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "germany vs serbia",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 45.4
         }
       ]
     },
@@ -1076,103 +985,17 @@
       ]
     },
     {
-      "pillar": "wales vs norway prediction today",
+      "pillar": "what to do if you find human remains",
       "cluster": [
         {
-          "keyword": "wales vs norway prediction today",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "wales vs norway last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "wales vs norway past games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "wales vs norway score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "wales vs norway previous games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "wales vs norway prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "wales vs norway odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "wales vs norway h2h",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "wales vs norway tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "wales vs norway",
+          "keyword": "what to do if you find human remains",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "what is the price of website development",
-      "cluster": [
+          "learned_score": 76.0
+        },
         {
           "keyword": "what is the price of website development",
           "intent": "informational",
@@ -1185,10 +1008,105 @@
       ]
     },
     {
-      "pillar": "is liechtenstein a good place to live",
+      "pillar": "jasmine paolini vs daria snigur",
       "cluster": [
         {
-          "keyword": "is liechtenstein a good place to live",
+          "keyword": "jasmine paolini vs daria snigur",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "jasmine paolini vs snigur prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "jasmine paolini vs daria prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "jasmine paolini vs daria",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "jasmine paolini daria snigur",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jasmine paolini height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jasmine paolini ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jasmine paolini prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jasmine paolini parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jasmine paolini",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "coffee shops near me within 5 mi",
+      "cluster": [
+        {
+          "keyword": "coffee shops near me within 5 mi",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1197,13 +1115,85 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "is liechtenstein richer than luxembourg",
+          "keyword": "coffee shops near me within 0.2 mi",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "coffee shops near me within 1 mi",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "coffee shops near me open now",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "coffee shops near me open late",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "coffee shops near me drive thru",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "coffee shops near me open",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        },
+        {
+          "keyword": "coffee shops near me hiring",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "coffee shops near me now",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "coffee shops near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -1240,119 +1230,10 @@
       ]
     },
     {
-      "pillar": "heat advisory vs warning",
+      "pillar": "pokemon 30th anniversary release date",
       "cluster": [
         {
-          "keyword": "heat advisory vs warning",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "heat advisory mesa az",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "heat advisory near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "heat advisory phoenix",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "heat advisory today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "heat advisory meaning",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "heat advisory nearby",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "heat advisory srp",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "heat advisory arizona",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "heat advisory",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "liechtenstein vs san marino",
-      "cluster": [
-        {
-          "keyword": "liechtenstein vs san marino",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        }
-      ]
-    },
-    {
-      "pillar": "dinamarca portugal balonmano donde ver",
-      "cluster": [
-        {
-          "keyword": "dinamarca portugal balonmano donde ver",
+          "keyword": "pokemon 30th anniversary release date",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1361,7 +1242,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "dinamarca portugal liga das nações",
+          "keyword": "pokemon 30th anniversary booster bundle",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1370,84 +1251,70 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "dinamarca portugal euro 2012",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dinamarca portugal handball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dinamarca portugal andebol",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dinamarca portugal balonmano",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dinamarca portugal 2012",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dinamarca portugal",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "gales vs noruega",
-      "cluster": [
-        {
-          "keyword": "gales vs noruega",
+          "keyword": "pokemon 30th anniversary pre order",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 67.0
         },
         {
-          "keyword": "gales x noruega",
+          "keyword": "pokemon 30th anniversary card list",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 67.0
         },
         {
-          "keyword": "gales y noruega",
+          "keyword": "pokemon 30th anniversary set",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon 30th anniversary etb",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon 30th anniversary tins",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon 30th anniversary target",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon 30th anniversary cards",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon 30th anniversary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1458,47 +1325,114 @@
       ]
     },
     {
-      "pillar": "resultado andebol portugal dinamarca",
+      "pillar": "portland trail blazers roster 2026",
       "cluster": [
         {
-          "keyword": "resultado andebol portugal dinamarca",
+          "keyword": "portland trail blazers roster 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "portland trail blazers depth chart",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "portland trail blazers roster",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers news",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers players",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers coach",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers owner",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers tickets",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers trade",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland trail blazers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "portugal a dinamarca distancia",
+      "pillar": "november 13 attack on paris",
       "cluster": [
         {
-          "keyword": "portugal a dinamarca distancia",
+          "keyword": "november 13 attack on paris",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "amber guyger release date",
-      "cluster": [
-        {
-          "keyword": "amber guyger release date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         },
         {
-          "keyword": "amber guyger update 2026",
+          "keyword": "november 13 zodiac sign",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1507,16 +1441,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "amber guyger what happened",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amber guyger now",
+          "keyword": "november 13 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1525,7 +1450,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber guyger parole",
+          "keyword": "november 13 zodiac",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1534,7 +1459,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber guyger sentence",
+          "keyword": "november 13th zodiac",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1543,7 +1468,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber guyger update",
+          "keyword": "november 13 2022",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1552,7 +1477,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber guyger age",
+          "keyword": "november 13 doomsday",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1561,7 +1486,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber guyger story",
+          "keyword": "november 13 birthdays",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1570,7 +1495,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber guyger",
+          "keyword": "november 13",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "november 13th",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1581,10 +1515,28 @@
       ]
     },
     {
-      "pillar": "lawsuit in spanish",
+      "pillar": "putin russia and the west",
       "cluster": [
         {
-          "keyword": "lawsuit in spanish",
+          "keyword": "putin russia and the west",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "putin russia ukraine war",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "putin russian president",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1593,7 +1545,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lawsuit against gabapentin",
+          "keyword": "putin russia news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1602,7 +1554,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lawsuit against meta",
+          "keyword": "putin russia ukraine",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1611,7 +1563,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lawsuit settlements",
+          "keyword": "putin russia war",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "putin russia economy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "putin russia reddit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "putin russia",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1620,7 +1599,66 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "lawsuit meaning",
+          "keyword": "putin russian",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "delivery pizza near me",
+      "cluster": [
+        {
+          "keyword": "delivery pizza near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "delivery restaurants near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "delivery jobs near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "delivery near me",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "delivery driver jobs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "delivery nyc",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1629,7 +1667,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "lawsuit lawyers",
+          "keyword": "delivery georgia",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1638,7 +1676,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "lawsuit claims",
+          "keyword": "delivery driver",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1647,7 +1685,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "lawsuit",
+          "keyword": "delivery jobs",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "delivery",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1658,10 +1705,33 @@
       ]
     },
     {
-      "pillar": "lawsuits against ozempic",
+      "pillar": "lancaster property human remains",
       "cluster": [
         {
-          "keyword": "lawsuits against ozempic",
+          "keyword": "lancaster property human remains",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "moonshot ai kimi model",
+      "cluster": [
+        {
+          "keyword": "moonshot ai kimi model",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "moonshot ai stock",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1670,21 +1740,70 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lawsuits settlements 2026",
+          "keyword": "moonshot ai founder",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "noruega ingles",
-      "cluster": [
+        },
         {
-          "keyword": "noruega ingles",
+          "keyword": "moonshot ai valuation",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai kimi",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai ceo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai model",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai careers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai ipo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
