@@ -1,47 +1,59 @@
 {
-  "generated_at": "2026-10-02T19:34:20.391749+00:00",
+  "generated_at": "2026-10-02T23:16:38.696657+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "berkeley shooting",
+      "title": "dallas stars",
       "source": "google_trends_us"
     },
     {
-      "title": "owen coyne marblehead",
+      "title": "nick saban",
       "source": "google_trends_us"
     },
     {
-      "title": "belgium vs turkey",
+      "title": "michael mcdonald son",
       "source": "google_trends_us"
     },
     {
-      "title": "cancer",
+      "title": "college football tonight",
       "source": "google_trends_us"
     },
     {
-      "title": "france",
+      "title": "dylan larkin",
       "source": "google_trends_us"
     },
     {
-      "title": "extrema derecha",
+      "title": "são paulo vs santos",
       "source": "google_trends_us"
     },
     {
-      "title": "hungary vs georgia",
+      "title": "liberty vs delaware",
       "source": "google_trends_us"
     },
     {
-      "title": "ukraine vs northern ireland",
+      "title": "capitals vs hurricanes",
       "source": "google_trends_us"
     },
     {
-      "title": "diddy",
+      "title": "medicare advantage plan reductions unitedhealth humana",
       "source": "google_trends_us"
     },
     {
-      "title": "ken paxton james talarico polls",
+      "title": "jeff van note",
       "source": "google_trends_us"
+    },
+    {
+      "title": "for",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "armed forces",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "poland vs romania",
+      "source": "google_trends_pk"
     },
     {
       "title": "bosnia and herzegovina vs sweden",
@@ -69,18 +81,6 @@
     },
     {
       "title": "novak djokovic",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "hanging by a wire",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "dg ispr press conference",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "forex factory",
       "source": "google_trends_pk"
     },
     {
@@ -176,11 +176,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - hartfordbusiness.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Dockworkers protest at Port of Vancouver over automation, AI - Yahoo",
+      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - Hartford Business Journal",
       "source": "google_news_ai"
     },
     {
@@ -192,7 +188,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Top 50: Europe’s most influential AI leaders - EU-Startups",
+      "title": "Dockworkers protest at Port of Vancouver over automation, AI - Yahoo",
       "source": "google_news_ai"
     },
     {
@@ -200,11 +196,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Top 50: Europe’s most influential AI leaders - EU-Startups",
+      "source": "google_news_ai"
+    },
+    {
       "title": "BizTimes Manufacturing Summit panelists address collaboration, AI implementation, hiring and more - BizTimes - Milwaukee Business News",
       "source": "google_news_ai"
     },
     {
-      "title": "Worried AI could replace your job? These 10 careers are among the safest — and some pay six figures - creators.yahoo.com",
+      "title": "Defending against AI-fueled cyberattacks requires focus on identity, data governance, Microsoft says - cybersecuritydive.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Worried AI could replace your job? These 10 careers are among the safest — and some pay six figures - Yahoo Creators",
       "source": "google_news_ai"
     },
     {
@@ -212,23 +216,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Dockworkers protest at Port of Vancouver over automation, AI - FreightWaves",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Applause and Progress Software to Discuss AI’s Role in Accessibility Compliance at M-Enabling Summit 2026 - Business Wire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Acumatica 2026 R2 Puts AI Agents and Outside AI Tools Inside ERP Controls - ERP Today",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "EliseAI raises $350M at $4B valuation to expand healthcare AI automation - MobiHealthNews",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Special Report: Smart Factory/Warehouse Automation - September 2026 - techbriefs.com",
+      "title": "Tungsten Automation launches AI invoice processing tool - ColoradoBiz",
       "source": "google_news_ai"
     },
     {
@@ -236,19 +224,39 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Dockworkers protest at Port of Vancouver over automation, AI - FreightWaves",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI Is Creating a New Worry for Americans Saving for Retirement - Investopedia",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "EliseAI raises $350M at $4B valuation to expand healthcare AI automation - MobiHealthNews",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Applause and Progress Software to Discuss AI’s Role in Accessibility Compliance at M-Enabling Summit 2026 - Business Wire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Acumatica 2026 R2 Puts AI Agents and Outside AI Tools Inside ERP Controls - erp.today",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Why AI, Automation, &amp; Data Are Critical for Manufacturers - Design News",
       "source": "google_news_ai"
     },
     {
-      "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor - Bain",
+      "title": "Special Report: Smart Factory/Warehouse Automation - September 2026 - Tech Briefs",
       "source": "google_news_ai"
     },
     {
-      "title": "Twilio Product Chief Warns AI Could Break the Engineering Career Ladder - Newsweek",
+      "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor - bain.com",
       "source": "google_news_ai"
     },
     {
-      "title": "Top ServiceNow exec on clients delivering ‘life-changing’ results with AI agents - Fortune",
+      "title": "Pet brands gain CommerceIQ's AI bid and budget automation on Chewy Ads - PPC Land",
       "source": "google_news_ai"
     },
     {
@@ -256,15 +264,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Using AI to Move From Automation to Action - NACS",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI and Automation in Post-Trade Operations: Where It’s Real - Communications of the ACM",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Why Is UiPath (PATH) Pushing Deeper Into AI Automation And Compliance? - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Using AI to Move From Automation to Action - NACS",
       "source": "google_news_ai"
     },
     {
@@ -272,15 +276,11 @@
       "source": "google_news_ai"
     },
     {
+      "title": "AI and Automation in Post-Trade Operations: Where It’s Real - Communications of the ACM",
+      "source": "google_news_ai"
+    },
+    {
       "title": "AI Reshapes Mexico Retail Through Data and Automation - Mexico Business News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Cigna Group expects $3B in savings driven by AI, automation - Modern Healthcare",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Northrop Grumman is Supercharging Advanced Fighter Production with AI‑Powered Automation - Northrop Grumman",
       "source": "google_news_ai"
     },
     {
@@ -288,15 +288,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads loosens business name rules for some advertisers - searchengineland.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Birch Stream Digital Helps Local Service Businesses Dominate Google Search and Maps in Winston-Salem - WBOC TV",
+      "title": "Google Ads will automatically pull promotions from advertisers’ websites - searchengineland.com",
       "source": "google_news_seo"
     },
     {
       "title": "Google Helpful Content Doc With New Main Content &amp; EOT/SA Sections - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Birch Stream Digital Helps Local Service Businesses Dominate Google Search and Maps in Winston-Salem - wboc.com",
       "source": "google_news_seo"
     },
     {
@@ -316,15 +316,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Rolls Out AI Mode Monitoring to All Users Worldwide - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Ads brings A/B testing to Performance Max asset groups - searchengineland.com",
+      "title": "Google Rolls Out AI Mode Monitoring to All Users Worldwide - almcorp.com",
       "source": "google_news_seo"
     },
     {
       "title": "Google Explains What AI Search Optimization Requires - thekeyword.co",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Ads brings A/B testing to Performance Max asset groups - searchengineland.com",
       "source": "google_news_seo"
     },
     {
@@ -336,7 +336,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Search Console Adds a Multimodal Filter for Image Searches - ALM Corp",
+      "title": "Some Links in Google AI Overviews Open AI Mode Instead (2026) - almcorp.com",
       "source": "google_news_seo"
     },
     {
@@ -348,15 +348,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Some Links in Google AI Overviews Open AI Mode Instead (2026) - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "How to decide which ecommerce categories deserve more internal links - searchengineland.com",
+      "title": "Google Desktop Click Through Rates Fell in Q2 While Mobile Rates Rose - almcorp.com",
       "source": "google_news_seo"
     },
     {
@@ -364,19 +360,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Desktop Click Through Rates Fell in Q2 While Mobile Rates Rose - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
       "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution &amp; Monopoly Rulings - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Stratedia Ranks Among the Most Frequently Recommended SEO Companies in AI Results and Search Rankings - The National Law Review",
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "title": "Stratedia Ranks Among the Most Frequently Recommended SEO Companies in AI Results and Search Rankings - The National Law Review",
       "source": "google_news_seo"
     },
     {
@@ -392,7 +384,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Starts Rolling Out Its September 2026 Spam Update - ALM Corp",
+      "title": "Google Starts Rolling Out Its September 2026 Spam Update - almcorp.com",
       "source": "google_news_seo"
     },
     {
@@ -401,6 +393,14 @@
     },
     {
       "title": "Daily Search Forum Recap: October 1, 2026 - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -432,19 +432,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials - CyberSecurityNews",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Millions of Attacks Target Critical WordPress Vulnerability as Exploitation Methods Shift - techbusinessnews.com.au",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "What Is WordPress Hosting? Quick Guide - Miami Herald",
       "source": "google_news_wordpress"
     },
     {
@@ -452,11 +440,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Security Flaw in WordPress Plugin Puts 400,000 Websites at Risk - TechRepublic",
+      "title": "What Is WordPress Hosting? Quick Guide - Miami Herald",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Click2Shell and One-Click Risks on WordPress, How to Lock Down Your Site - Pasquale Pillitteri",
+      "title": "Millions of Attacks Target Critical WordPress Vulnerability as Exploitation Methods Shift - techbusinessnews.com.au",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Security Flaw in WordPress Plugin Puts 400,000 Websites at Risk - TechRepublic",
       "source": "google_news_wordpress"
     },
     {
@@ -468,11 +460,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress.com Owner Automattic's Board Reportedly Purged After Failed 'Coup' Against CEO - gizmodo.com",
+      "title": "Click2Shell and One-Click Risks on WordPress, How to Lock Down Your Site - Pasquale Pillitteri",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress.com Owner Automattic's Board Reportedly Purged After Failed 'Coup' Against CEO - Gizmodo",
       "source": "google_news_wordpress"
     },
     {
       "title": "Automattic, WordPress CEO Must Face Antitrust Claims in Trademark Dispute - PYMNTS.com",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
