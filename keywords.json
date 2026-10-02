@@ -73,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "novak djokovic vs yunchaokete",
+      "keyword": "novak djokovic vs bu",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -82,7 +82,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "novak djokovic vs bu",
+      "keyword": "novak djokovic vs yunchaokete",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -415,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa kids",
+      "keyword": "kelly ripa birthday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa birthday",
+      "keyword": "kelly ripa kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -452,15 +452,6 @@
     },
     {
       "keyword": "kelly ripa news",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "skydance pet lodge",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news fox",
+      "keyword": "iran news live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news live",
+      "keyword": "iran news fox",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "novak djokovic height",
+      "keyword": "novak djokovic prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +649,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla price",
+      "keyword": "tsla premarket",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,7 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla premarket",
+      "keyword": "tsla price",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,15 +703,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance paramount",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "skydance media",
       "intent": "informational",
       "demand": 52.0,
@@ -739,6 +721,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "skydance paramount",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "skydance corporation",
       "intent": "informational",
       "demand": 52.0,
@@ -748,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance skydiving",
+      "keyword": "skydance logo",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +748,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance brewing",
+      "keyword": "skydance stock",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "skydance reddit",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -848,7 +848,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "novak djokovic vs yunchaokete",
+          "keyword": "novak djokovic vs bu",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -857,7 +857,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "novak djokovic vs bu",
+          "keyword": "novak djokovic vs yunchaokete",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -911,7 +911,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "novak djokovic height",
+          "keyword": "novak djokovic prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1206,7 +1206,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kelly ripa kids",
+          "keyword": "kelly ripa birthday",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1224,7 +1224,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kelly ripa birthday",
+          "keyword": "kelly ripa kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1410,7 +1410,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iran news fox",
+          "keyword": "iran news live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1419,7 +1419,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iran news live",
+          "keyword": "iran news fox",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1514,7 +1514,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsla price",
+          "keyword": "tsla premarket",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1523,7 +1523,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsla premarket",
+          "keyword": "tsla price",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1607,28 +1607,24 @@
       ]
     },
     {
-      "pillar": "skydance pet lodge",
+      "pillar": "tesla news",
       "cluster": [
         {
-          "keyword": "skydance pet lodge",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "skydance animation",
+          "keyword": "tesla news",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
+        }
+      ]
+    },
+    {
+      "pillar": "skydance animation",
+      "cluster": [
         {
-          "keyword": "skydance paramount",
+          "keyword": "skydance animation",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1655,6 +1651,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "skydance paramount",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "skydance corporation",
           "intent": "informational",
           "demand": 52.0,
@@ -1664,7 +1669,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance skydiving",
+          "keyword": "skydance logo",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1673,7 +1678,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance brewing",
+          "keyword": "skydance stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "skydance reddit",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1689,20 +1703,6 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "tesla news",
-      "cluster": [
-        {
-          "keyword": "tesla news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
