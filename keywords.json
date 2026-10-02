@@ -1,15 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "daniil medvedev vs pablo carreno busta",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -91,15 +82,6 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "coffee shops near me within 5 mi",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
       "keyword": "coffee shops near me within 0.2 mi",
       "intent": "informational",
       "demand": 70.0,
@@ -109,7 +91,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "coffee shops near me within 1 mi",
+      "keyword": "coffee shops near me within 5 mi",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -163,7 +145,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "daniil medvedev vs pablo",
+      "keyword": "daniil medvedev vs carreno",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -172,7 +154,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "daniil medvedev vs carreno",
+      "keyword": "daniil medvedev vs pablo",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -226,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "coffee shops near me now",
+      "keyword": "daniil medvedev coaching team change",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,15 +253,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "portland trail blazers roster 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "portland trail blazers depth chart",
       "intent": "informational",
       "demand": 70.0,
@@ -289,7 +262,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "november 13 attack on paris",
+      "keyword": "portland trail blazers head coach",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "november 13 2015 paris attacks",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -316,6 +298,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "coffee shops alexandria va",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "daniil medvedev us open",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "delivery pizza near me",
       "intent": "informational",
       "demand": 64.0,
@@ -326,6 +326,15 @@
     },
     {
       "keyword": "delivery restaurants near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "delivery carryout near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon 30th anniversary target",
+      "keyword": "pokemon 30th anniversary cards",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon 30th anniversary cards",
+      "keyword": "pokemon 30th anniversary target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "portland trail blazers news",
+      "keyword": "portland trail blazers players",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "portland trail blazers players",
+      "keyword": "portland trail blazers schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "portland trail blazers tickets",
+      "keyword": "portland trail blazers news",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "portland trail blazers trade",
+      "keyword": "portland trail blazers relocation",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +505,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daniil medvedev ranking",
+      "keyword": "coffee shops washington",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daniil medvedev prediction",
+      "keyword": "daniil medvedev ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +532,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delivery driver jobs",
+      "keyword": "delivery frederick md",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "delivery fredericksburg va",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,6 +568,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "jasmine paolini parents",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jasmine paolini injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "jasmine paolini height",
       "intent": "informational",
       "demand": 58.0,
@@ -560,24 +596,6 @@
     },
     {
       "keyword": "jasmine paolini ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jasmine paolini prediction",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jasmine paolini parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "november 13 2022",
+      "keyword": "november 13 doomsday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "november 13 doomsday",
+      "keyword": "november 13 2022",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,6 +667,33 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "moonshot ai kimi",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "moonshot ai ipo",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "moonshot ai model",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "moonshot ai founder",
       "intent": "informational",
       "demand": 58.0,
@@ -667,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "moonshot ai kimi",
+      "keyword": "moonshot ai subscription",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -677,33 +722,6 @@
     },
     {
       "keyword": "moonshot ai ceo",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "moonshot ai model",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "moonshot ai careers",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "moonshot ai ipo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "putin russia reddit",
+      "keyword": "putin russia house",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,24 +793,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delivery nyc",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "delivery georgia",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "delivery driver",
       "intent": "informational",
       "demand": 52.0,
@@ -802,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "delivery jobs",
+      "keyword": "delivery apps",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -876,101 +876,6 @@
   ],
   "clusters": [
     {
-      "pillar": "daniil medvedev vs pablo carreno busta",
-      "cluster": [
-        {
-          "keyword": "daniil medvedev vs pablo carreno busta",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "daniil medvedev vs pablo carreno",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "daniil medvedev vs p busta",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "daniil medvedev vs carreno busta",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "daniil medvedev vs pablo",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "daniil medvedev vs carreno",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "daniil medvedev vs busta",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "daniil medvedev ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "daniil medvedev prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "daniil medvedev",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
         {
@@ -1004,6 +909,101 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "daniil medvedev vs pablo carreno",
+      "cluster": [
+        {
+          "keyword": "daniil medvedev vs pablo carreno",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "daniil medvedev vs p busta",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "daniil medvedev vs carreno busta",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "daniil medvedev vs carreno",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "daniil medvedev vs pablo",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "daniil medvedev vs busta",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "daniil medvedev coaching team change",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "daniil medvedev us open",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "daniil medvedev ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "daniil medvedev",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1056,6 +1056,24 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "jasmine paolini parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jasmine paolini injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "jasmine paolini height",
           "intent": "informational",
           "demand": 58.0,
@@ -1066,24 +1084,6 @@
         },
         {
           "keyword": "jasmine paolini ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jasmine paolini prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jasmine paolini parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1103,17 +1103,8 @@
       ]
     },
     {
-      "pillar": "coffee shops near me within 5 mi",
+      "pillar": "coffee shops near me within 0.2 mi",
       "cluster": [
-        {
-          "keyword": "coffee shops near me within 5 mi",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
         {
           "keyword": "coffee shops near me within 0.2 mi",
           "intent": "informational",
@@ -1124,7 +1115,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "coffee shops near me within 1 mi",
+          "keyword": "coffee shops near me within 5 mi",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1178,15 +1169,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "coffee shops near me now",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "coffee shops near me",
           "intent": "informational",
           "demand": 64.0,
@@ -1194,6 +1176,24 @@
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "coffee shops alexandria va",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coffee shops washington",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1296,7 +1296,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pokemon 30th anniversary target",
+          "keyword": "pokemon 30th anniversary cards",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1305,7 +1305,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pokemon 30th anniversary cards",
+          "keyword": "pokemon 30th anniversary target",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1325,10 +1325,10 @@
       ]
     },
     {
-      "pillar": "portland trail blazers roster 2026",
+      "pillar": "portland trail blazers depth chart",
       "cluster": [
         {
-          "keyword": "portland trail blazers roster 2026",
+          "keyword": "portland trail blazers depth chart",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1337,7 +1337,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "portland trail blazers depth chart",
+          "keyword": "portland trail blazers head coach",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1355,7 +1355,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "portland trail blazers news",
+          "keyword": "portland trail blazers players",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1364,7 +1364,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "portland trail blazers players",
+          "keyword": "portland trail blazers schedule",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1391,7 +1391,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "portland trail blazers tickets",
+          "keyword": "portland trail blazers news",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1400,7 +1400,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "portland trail blazers trade",
+          "keyword": "portland trail blazers relocation",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1420,10 +1420,10 @@
       ]
     },
     {
-      "pillar": "november 13 attack on paris",
+      "pillar": "november 13 2015 paris attacks",
       "cluster": [
         {
-          "keyword": "november 13 attack on paris",
+          "keyword": "november 13 2015 paris attacks",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1468,7 +1468,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "november 13 2022",
+          "keyword": "november 13 doomsday",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1477,7 +1477,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "november 13 doomsday",
+          "keyword": "november 13 2022",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1581,7 +1581,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "putin russia reddit",
+          "keyword": "putin russia house",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1631,6 +1631,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "delivery carryout near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "delivery jobs near me",
           "intent": "informational",
           "demand": 64.0,
@@ -1649,7 +1658,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delivery driver jobs",
+          "keyword": "delivery frederick md",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1658,22 +1667,13 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delivery nyc",
+          "keyword": "delivery fredericksburg va",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "delivery georgia",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 52.6
         },
         {
           "keyword": "delivery driver",
@@ -1685,7 +1685,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delivery jobs",
+          "keyword": "delivery apps",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1740,6 +1740,33 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "moonshot ai kimi",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai ipo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "moonshot ai model",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "moonshot ai founder",
           "intent": "informational",
           "demand": 58.0,
@@ -1758,7 +1785,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "moonshot ai kimi",
+          "keyword": "moonshot ai subscription",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1768,33 +1795,6 @@
         },
         {
           "keyword": "moonshot ai ceo",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "moonshot ai model",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "moonshot ai careers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "moonshot ai ipo",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
