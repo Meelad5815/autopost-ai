@@ -1,0 +1,49 @@
+name: autonomous-engine
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "53 */6 * * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: autonomous-engine-main
+  cancel-in-progress: false
+
+jobs:
+  develop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Build audit and AI proposal
+        env:
+          AI_DEV_ENDPOINT: ${{ secrets.AI_DEV_ENDPOINT }}
+          AI_DEV_MODEL: ${{ secrets.AI_DEV_MODEL }}
+        run: |
+          python -m engine.autonomous_developer
+          python -m engine.patch_gate
+      - name: Materialize only safe structured patch
+        run: |
+          python -m engine.autonomous_patch > data/autonomous_patch_result.json
+      - name: Validate candidate
+        run: |
+          python -m compileall -q autopost.py scheduler.py run_batch.py app engine
+          if [ -d tests ]; then python -m pytest -q; fi
+      - name: Commit validated candidate
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add engine data/autonomous_patch_result.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: autonomous validated maintenance candidate"
+          git push origin HEAD:ai/autonomous-engine-v1
