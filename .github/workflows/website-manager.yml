@@ -1,0 +1,105 @@
+name: MRK Website Manager
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [website-check]
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: mrk-website-manager
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check Laravel site
+        id: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://meeladrazakhokhar786.freehosting.dev"
+          failed=0
+          for path in "/" "/about" "/services" "/contact"; do
+            body="response.txt"
+            code=$(curl -L --max-time 25 -sS -o "$body" -w "%{http_code}" "$base$path" || true)
+            echo "$path => HTTP $code"
+            if [ "$code" != "200" ]; then
+              failed=1
+            fi
+            if grep -Eiq "Fatal error|Parse error|Server Error|Exception|Whoops" "$body"; then
+              echo "Error signature detected on $path"
+              failed=1
+            fi
+          done
+          if [ "$failed" -ne 0 ]; then
+            exit 1
+          fi
+
+      - name: Check deployment repository
+        id: deploy
+        shell: bash
+        run: |
+          set -euo pipefail
+          api="https://api.github.com/repos/Meelad5815/MRK-Laravel-Portal/actions/runs?per_page=10"
+          curl -fsSL "$api" -o runs.json
+          python3 - <<'PY'
+          import json
+          d=json.load(open("runs.json"))
+          runs=d.get("workflow_runs", [])
+          target=[r for r in runs if r.get("name")=="Deploy Laravel to InfinityFree"]
+          if not target:
+              print("No deployment run found yet; site health remains the primary signal.")
+              raise SystemExit(0)
+          r=target[0]
+          print("Latest deployment:", r.get("status"), r.get("conclusion"), r.get("head_sha"))
+          if r.get("status")=="completed" and r.get("conclusion") not in ("success", "neutral", "skipped"):
+              raise SystemExit("Latest Laravel deployment did not succeed.")
+          PY
+
+      - name: Create or update failure issue
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = "AUTO-MANAGER: Laravel website verification failed";
+            const body = [
+              "The MRK Website Manager detected a production or deployment problem.",
+              "",
+              "Checked automatically every 5 minutes.",
+              "Live site: https://meeladrazakhokhar786.freehosting.dev/?i=1",
+              "Laravel repository: https://github.com/Meelad5815/MRK-Laravel-Portal",
+              "",
+              "The manager is diagnostic-first. It does not make blind production edits.",
+              "Review the workflow log for the failing route or deployment conclusion."
+            ].join("\n");
+
+            const open = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              per_page: 100
+            });
+            const existing = open.data.find(i => i.title === title);
+            if (!existing) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing.number,
+                body: `Repeated automated health-check failure at ${new Date().toISOString()}.`
+              });
+            }
