@@ -91,6 +91,15 @@
       "learned_score": 73.0
     },
     {
+      "keyword": "department of treasury bureau of fiscal service",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
       "keyword": "wordpress website development price in pakistan",
       "intent": "informational",
       "demand": 70.0,
@@ -109,6 +118,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "kirk ferentz on pat mcafee show",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "jonathan bennett movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
@@ -119,6 +137,15 @@
     },
     {
       "keyword": "texas longhorns football schedule this year",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "texas longhorns football schedule for 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -244,15 +271,6 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "verity reviews movie reddit",
-      "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "verity reviews so far",
       "intent": "commercial",
       "demand": 76.0,
@@ -308,15 +326,6 @@
     },
     {
       "keyword": "jonathan bennett movies and shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "texas longhorns football schedule 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -388,7 +397,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "department of treasury ogden utah",
+      "keyword": "department of treasury irs letter",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -397,7 +406,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "department of treasury irs letter",
+      "keyword": "department of treasury ogden utah",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -433,7 +442,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "verity reviews rotten",
+      "keyword": "verity reviews book",
       "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
@@ -442,7 +451,16 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "verity reviews book",
+      "keyword": "verity reviews goodreads",
+      "intent": "commercial",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "verity reviews film",
       "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
@@ -586,7 +604,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aca rebate checks 2025",
+      "keyword": "aca refund checks reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -595,7 +613,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "are refund checks taxable",
+      "keyword": "aca rebate checks 2025",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -614,15 +632,6 @@
     },
     {
       "keyword": "department of treasury letter",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "department of treasury check",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -685,15 +694,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kirk ferentz family",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "jonathan bennett husband",
       "intent": "informational",
       "demand": 58.0,
@@ -730,6 +730,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "renaissance festival ohio",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "renaissance festival mn",
       "intent": "informational",
       "demand": 58.0,
@@ -748,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival houston",
+      "keyword": "renaissance festival michigan",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival michigan",
+      "keyword": "renaissance festival houston",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,15 +784,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival ohio",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "renaissance festival hours",
       "intent": "informational",
       "demand": 58.0,
@@ -793,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alina charaeva ranking",
+      "keyword": "alina charaeva height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +802,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alina charaeva height",
+      "keyword": "alina charaeva ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1079,7 +1079,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alina charaeva ranking",
+          "keyword": "alina charaeva height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1088,7 +1088,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alina charaeva height",
+          "keyword": "alina charaeva ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1289,6 +1289,101 @@
       ]
     },
     {
+      "pillar": "department of treasury bureau of fiscal service",
+      "cluster": [
+        {
+          "keyword": "department of treasury bureau of fiscal service",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "department of treasury washington dc mail",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "department of treasury internal revenue service",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "department of treasury letter in mail",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "department of treasury irs letter",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "department of treasury ogden utah",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "department of treasury phone number",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "department of treasury mail",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "department of treasury letter",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "department of treasury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "wordpress website development price in pakistan",
       "cluster": [
         {
@@ -1317,6 +1412,101 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "kirk ferentz on pat mcafee show",
+      "cluster": [
+        {
+          "keyword": "kirk ferentz on pat mcafee show",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "kirk ferentz net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kirk ferentz pat mcafee",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kirk ferentz press conference",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kirk ferentz age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kirk ferentz salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kirk ferentz news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kirk ferentz contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kirk ferentz wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kirk ferentz",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1428,6 +1618,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "texas longhorns football schedule for 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
           "keyword": "texas longhorns football schedule 2026 tickets",
           "intent": "informational",
           "demand": 70.0,
@@ -1453,15 +1652,6 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
         },
         {
           "keyword": "texas longhorns football schedule 2025",
@@ -1532,6 +1722,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "aca refund checks reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "aca rebate checks 2025",
           "intent": "informational",
           "demand": 64.0,
@@ -1561,101 +1760,6 @@
       ]
     },
     {
-      "pillar": "department of treasury washington dc mail",
-      "cluster": [
-        {
-          "keyword": "department of treasury washington dc mail",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "department of treasury internal revenue service",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "department of treasury letter in mail",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "department of treasury ogden utah",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "department of treasury irs letter",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "department of treasury phone number",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "department of treasury mail",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "department of treasury letter",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "department of treasury check",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "department of treasury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
       "pillar": "verity reviews rotten tomatoes",
       "cluster": [
         {
@@ -1669,15 +1773,6 @@
         },
         {
           "keyword": "verity reviews r=h www.reddit.com",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "verity reviews movie reddit",
           "intent": "commercial",
           "demand": 76.0,
           "competition": 50.0,
@@ -1722,7 +1817,7 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "verity reviews rotten",
+          "keyword": "verity reviews book",
           "intent": "commercial",
           "demand": 70.0,
           "competition": 60.0,
@@ -1731,7 +1826,16 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "verity reviews book",
+          "keyword": "verity reviews goodreads",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "verity reviews film",
           "intent": "commercial",
           "demand": 70.0,
           "competition": 60.0,
@@ -1765,101 +1869,6 @@
       ]
     },
     {
-      "pillar": "kirk ferentz net worth",
-      "cluster": [
-        {
-          "keyword": "kirk ferentz net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kirk ferentz pat mcafee",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kirk ferentz press conference",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kirk ferentz age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kirk ferentz salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kirk ferentz news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kirk ferentz contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kirk ferentz wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kirk ferentz family",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kirk ferentz",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "renaissance festival kansas city",
       "cluster": [
         {
@@ -1873,6 +1882,15 @@
         },
         {
           "keyword": "renaissance festival nc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "renaissance festival ohio",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1899,15 +1917,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival houston",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "renaissance festival michigan",
           "intent": "informational",
           "demand": 58.0,
@@ -1917,7 +1926,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival texas",
+          "keyword": "renaissance festival houston",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1926,7 +1935,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival ohio",
+          "keyword": "renaissance festival texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1951,20 +1960,6 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "are refund checks taxable",
-      "cluster": [
-        {
-          "keyword": "are refund checks taxable",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
