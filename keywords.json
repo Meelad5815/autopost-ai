@@ -46,7 +46,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ind vs wi odi 2026",
+      "keyword": "ind vs wi 1st odi",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -55,7 +55,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ind vs wi 1st odi",
+      "keyword": "ind vs wi odi 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -200,15 +200,6 @@
     },
     {
       "keyword": "wordpress website price in pakistan",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "demacia cup where to watch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -370,6 +361,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "demacia cup day 1",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "saim ayub cpl 2026",
       "intent": "informational",
       "demand": 64.0,
@@ -496,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez height",
+      "keyword": "leylah fernandez ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hasan nawaz stats",
+      "keyword": "hasan nawaz cricketer",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hasan nawaz cricketer",
+      "keyword": "hasan nawaz stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "griffin musk",
+      "keyword": "griffin city",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "griffin city",
+      "keyword": "griffin musk",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1087,7 +1087,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "ind vs wi odi 2026",
+          "keyword": "ind vs wi 1st odi",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1096,7 +1096,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "ind vs wi 1st odi",
+          "keyword": "ind vs wi odi 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1227,7 +1227,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leylah fernandez height",
+          "keyword": "leylah fernandez ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1418,7 +1418,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "griffin musk",
+          "keyword": "griffin city",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1427,7 +1427,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "griffin city",
+          "keyword": "griffin musk",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1569,101 +1569,6 @@
       ]
     },
     {
-      "pillar": "demacia cup where to watch",
-      "cluster": [
-        {
-          "keyword": "demacia cup where to watch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "demacia cup global invitational",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "demacia cup start time",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "demacia cup 2026 schedule",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "demacia cup 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "demacia cup schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "demacia cup lol",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "demacia cup stream",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "demacia cup time",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "demacia cup",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "hasan nawaz in cpl 2026",
       "cluster": [
         {
@@ -1703,7 +1608,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "hasan nawaz stats",
+          "keyword": "hasan nawaz cricketer",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1712,7 +1617,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hasan nawaz cricketer",
+          "keyword": "hasan nawaz stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1864,6 +1769,101 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "demacia cup global invitational",
+      "cluster": [
+        {
+          "keyword": "demacia cup global invitational",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "demacia cup start time",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "demacia cup 2026 schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "demacia cup day 1",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "demacia cup 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup lol",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup stream",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup time",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
