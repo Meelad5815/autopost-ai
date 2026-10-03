@@ -1,82 +1,86 @@
 {
-  "generated_at": "2026-10-03T08:16:27.202901+00:00",
+  "generated_at": "2026-10-03T13:37:07.729178+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 160,
   "items": [
     {
+      "title": "kirk ferentz",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "jonathan bennett",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "texas longhorns football schedule",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "verity reviews",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "renaissance festival",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "social security cola announcement date",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "alina charaeva",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "elena rybakina",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "aca refund checks",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "department of treasury",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "india vs brazil",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "world championship of legends",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "naman dhir",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "kl rahul",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "zimbabwe vs west indies",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "yasir hussain",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "rohit sharma",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "ruturaj gaikwad",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "gta vi",
+      "source": "google_trends_pk"
+    },
+    {
       "title": "ind vs wi",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "leylah fernandez",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "demacia cup",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "rublev",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "griffin",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "saim ayub",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "matteo berrettini",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "hasan nawaz",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "esteban ribovics",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "colleen hoover verity movie",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "maryam nawaz sharif",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ishan kishan",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "icc",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "sahibzada farhan",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "washington sundar",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "jasprit bumrah",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "sports",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "korogi sports park weather",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "today match",
       "source": "google_trends_pk"
     },
     {
@@ -160,15 +164,11 @@
       "source": "google_developers"
     },
     {
-      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - mckinsey.com",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Use of AI, Automation and Predictive Analytics 2026 - Medical Marketing and Media",
       "source": "google_news_ai"
     },
     {
-      "title": "Ford CEO Jim Farley makes clear distinction of the jobs that AI cannot replace; says automation cannot be - timesofindia.indiatimes.com",
+      "title": "Ford CEO Jim Farley makes clear distinction of the jobs that AI cannot replace; says automation cannot be - The Times of India",
       "source": "google_news_ai"
     },
     {
@@ -184,7 +184,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "McKinsey says AI might push 11 million U.S. workers into entirely new careers by 2035 - qz.com",
+      "title": "BizTimes Manufacturing Summit panelists address collaboration, AI implementation, hiring and more - BizTimes - Milwaukee Business News",
       "source": "google_news_ai"
     },
     {
@@ -192,7 +192,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "BizTimes Manufacturing Summit panelists address collaboration, AI implementation, hiring and more - BizTimes - Milwaukee Business News",
+      "title": "McKinsey says AI might push 11 million U.S. workers into entirely new careers by 2035 - qz.com",
       "source": "google_news_ai"
     },
     {
@@ -200,15 +200,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - TechCrunch",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - McKinsey &amp; Company",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Why Is UiPath (PATH) Pushing Deeper Into AI Automation And Compliance? - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Defending against AI-fueled cyberattacks requires focus on identity, data governance, Microsoft says - cybersecuritydive.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Worried AI could replace your job? These 10 careers are among the safest — and some pay six figures - Yahoo Creators",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "IMTS 2026 draws 90,000+ registrants as AI and automation reshape manufacturing - Canadian Metalworking",
       "source": "google_news_ai"
     },
     {
@@ -216,19 +220,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "IMTS 2026 draws 90,000+ registrants as AI and automation reshape manufacturing - canadianmetalworking.com",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Tungsten Automation launches AI invoice processing tool - ColoradoBiz",
       "source": "google_news_ai"
     },
     {
-      "title": "Despite P(doom), Hoteliers Are All In on AI - Hospitality Net",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Why AI, Automation, &amp; Data Are Critical for Manufacturers - Design News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor - Bain",
       "source": "google_news_ai"
     },
     {
@@ -240,23 +240,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Using AI to Move From Automation to Action - NACS",
+      "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor - Bain",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Using AI to Move From Automation to Action - convenience.org",
       "source": "google_news_ai"
     },
     {
       "title": "AI and Automation in Post-Trade Operations: Where It’s Real - Communications of the ACM",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Closing the Data and Trust Gaps with Explainable AI - MeriTalk",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Local AI firm targets overwhelmed manufacturers - The Business Journals",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Why Is UiPath (PATH) Pushing Deeper Into AI Automation And Compliance? - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -268,19 +260,39 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Worried AI could replace your job? These 10 careers are among the safest — and some pay six figures - Yahoo Creators",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Cigna Group expects $3B in savings driven by AI, automation - Modern Healthcare",
       "source": "google_news_ai"
     },
     {
-      "title": "TCN Acquires Abstrakt to Expand AI Agent Assist and Automated QA Capabilities - ACA International",
+      "title": "JUST IN: Defense Firms Plan Big AI Investments Amid Labor Challenges, Report Says - National Defense Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "Applause and Progress Software to Discuss AI’s Role in Accessibility Compliance at M-Enabling Summit 2026 - Business Wire",
+      "title": "Despite P(doom), Hoteliers Are All In on AI - Hospitality Net",
       "source": "google_news_ai"
+    },
+    {
+      "title": "Pet brands gain CommerceIQ's AI bid and budget automation on Chewy Ads - PPC Land",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Leidos Introduces AI Automation Software for Cybersecurity Teams - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "How to Rank in Google AI Overviews Without Being Ranked #1 - affinco.com",
+      "source": "google_news_seo"
     },
     {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Automated SEO Software to Rank on Google and ChatGPT – Sorank - Carroll County Mirror-Democrat",
       "source": "google_news_seo"
     },
     {
@@ -296,10 +308,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Helpful Content Doc With New Main Content &amp; EOT/SA Sections - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
       "title": "46% of Google Searches Are Local, But Small Businesses Still Have a Search Visibility Gap - DesignRush",
       "source": "google_news_seo"
     },
@@ -312,6 +320,10 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Helpful Content Doc With New Main Content &amp; EOT/SA Sections - seroundtable.com",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Rolls Out AI Mode Monitoring to All Users Worldwide - ALM Corp",
       "source": "google_news_seo"
     },
@@ -320,7 +332,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - wsj.com",
       "source": "google_news_seo"
     },
     {
@@ -328,15 +340,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "London SEO Consultant Integrates AI Search Into Standard Services - MarTech Cube",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google AI Payment Pilot, Search Profiles At 10,000 – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Video: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad &amp; Terrible and more - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -344,7 +348,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Getting Cited by AI Is a Development Problem, Not a Content Problem - DesignRush",
+      "title": "Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy - seroundtable.com",
       "source": "google_news_seo"
     },
     {
@@ -352,11 +356,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy - Search Engine Roundtable",
+      "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution &amp; Monopoly Rulings - seroundtable.com",
       "source": "google_news_seo"
     },
     {
-      "title": "October 2026 Google Webmaster Report: Spam Update, Gemini 3.8, AI Contribution &amp; Monopoly Rulings - Search Engine Roundtable",
+      "title": "Video: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad &amp; Terrible and more - seroundtable.com",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Getting Cited by AI Is a Development Problem, Not a Content Problem - DesignRush",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "London SEO Consultant Integrates AI Search Into Standard Services - MarTech Cube",
       "source": "google_news_seo"
     },
     {
@@ -364,15 +376,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Starts Rolling Out Its September 2026 Spam Update - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Daily Search Forum Recap: October 1, 2026 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
       "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Daily Search Forum Recap: October 1, 2026 - seroundtable.com",
       "source": "google_news_seo"
     },
     {
@@ -396,15 +404,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
       "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials - CyberSecurityNews",
+      "title": "WordPress Accessibility Issues That Are Getting Sites Sued in 2026 - SitePoint",
       "source": "google_news_wordpress"
     },
     {
@@ -432,7 +436,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Accessibility Issues That Are Getting Sites Sued in 2026 - SitePoint",
+      "title": "Jason Sanjay’s ‘Sigma’ looks like it wants to be a retro thriller, but it’s just a bunch of ideas that never really come together - Baradwaj Rangan",
       "source": "google_news_wordpress"
     },
     {
@@ -440,7 +444,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Audio – Friday – 10-02-26 - KVOE",
+      "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
@@ -448,15 +452,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Millions of Attacks Target Critical WordPress Vulnerability as Exploitation Methods Shift - techbusinessnews.com.au",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "“As much a love story as linguistic exploration” – A Thought Without Collision by Adrian Duncan - Bookmunch",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Audio – Friday – 10-02-26 - KVOE",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Millions of Attacks Target Critical WordPress Vulnerability as Exploitation Methods Shift - techbusinessnews.com.au",
       "source": "google_news_wordpress"
     },
     {
@@ -476,11 +480,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server - BleepingComputer",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "“Veers off topic, but still entertaining” – The Agatha Christie Cure by Cathy Rentzenbrink - Bookmunch",
+      "title": "“As much a love story as linguistic exploration” – A Thought Without Collision by Adrian Duncan - Bookmunch",
       "source": "google_news_wordpress"
     }
   ],
