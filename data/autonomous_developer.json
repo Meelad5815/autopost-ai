@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-10-03T00:27:23.404283+00:00",
+  "status": "healthy",
+  "checks": [
+    {
+      "command": [
+        "python",
+        "-m",
+        "compileall",
+        "-q",
+        "autopost.py",
+        "scheduler.py",
+        "run_batch.py",
+        "app",
+        "engine"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python",
+        "-m",
+        "pytest",
+        "-q"
+      ],
+      "returncode": 0,
+      "stdout": "..                                                                       [100%]\n2 passed in 0.02s\n",
+      "stderr": ""
+    }
+  ],
+  "research_summary": {
+    "github_projects_found": 66,
+    "queries": [
+      "wordpress website development tools",
+      "web development automation tools",
+      "SEO automation open source",
+      "social media automation open source",
+      "AI coding agents open source",
+      "website analytics open source",
+      "Pakistan freelancing web development"
+    ]
+  },
+  "policy": {
+    "auto_apply_scope": [
+      "formatting",
+      "lint fixes",
+      "tests and generated reports"
+    ],
+    "approval_required_for": [
+      "arbitrary generated code",
+      "credential changes",
+      "payments",
+      "destructive production changes"
+    ]
+  }
+}
