@@ -1,6 +1,15 @@
 {
   "keywords": [
     {
+      "keyword": "esteban ribovics vs king green prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,7 +19,79 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "novak djokovic vs yunchaokete bu",
+      "keyword": "ind vs wi 3rd odi",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ind vs wi 2nd odi",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ind vs wi odi 2",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ind vs wi odi 2026",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ind vs wi 1st odi",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "leylah fernandez vs kamilla prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "matteo berrettini vs vallejo prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "esteban ribovics vs king green",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "esteban ribovics vs edson barboza",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -20,24 +101,6 @@
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "the walking dead the ones who live",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "the walking dead dead city season 3",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +127,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "james gunn movies and tv shows",
+      "keyword": "griffin museum of science and industry",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +136,16 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "novak djokovic vs bu",
+      "keyword": "colleen hoover verity movie release date",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "ind vs wi odi",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -82,7 +154,43 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "novak djokovic vs yunchaokete",
+      "keyword": "ind vs wi t20",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "ind vs wi highlights",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "ind vs wi live",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "leylah fernandez vs kamilla",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "matteo berrettini vs adolfo",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -100,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "james gunn movies and shows",
+      "keyword": "demacia cup where to watch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -109,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the walking dead dead city",
+      "keyword": "matteo berrettini adolfo daniel vallejo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -118,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the walking dead daryl dixon",
+      "keyword": "hasan nawaz in cpl 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the walking dead season 11",
+      "keyword": "colleen hoover verity movie trailer",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the walking dead season 4",
+      "keyword": "colleen hoover verity movie cast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the walking dead season 2",
+      "keyword": "colleen hoover verity movie release",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the walking dead season 3",
+      "keyword": "colleen hoover verity movie actors",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kelly ripa height and weight",
+      "keyword": "colleen hoover verity movie adaptation",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "cat food for sensitive stomach",
+      "keyword": "colleen hoover verity movie date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "trump impact senate midterms gop",
+      "keyword": "colleen hoover verity film cast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +298,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "iran news al jazeera live",
+      "keyword": "verity colleen hoover film.release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,25 +307,25 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "iran news today fox news",
+      "keyword": "ind vs wi",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "novak djokovic beijing match results",
+      "keyword": "rublev vs safiullin",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "the walking dead cast",
+      "keyword": "leylah fernandez net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tsla stock price today",
+      "keyword": "leylah fernandez prediction today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly ripa net worth",
+      "keyword": "demacia cup global invitational",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly ripa tv shows",
+      "keyword": "demacia cup start time",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "cat food near me",
+      "keyword": "demacia cup 2026 schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "cat food for allergies",
+      "keyword": "saim ayub cpl 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "iran news al jazeera",
+      "keyword": "saim ayub net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "walmart bettergoods pasta recall",
+      "keyword": "saim ayub jamaica kingsmen",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "who makes walmart pasta",
+      "keyword": "hasan nawaz in cpl",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "novak djokovic net worth",
+      "keyword": "hasan nawaz sharif age",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +415,52 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "james gunn movies",
+      "keyword": "hasan nawaz pakistani cricketer",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "esteban ribovics miss weight",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "esteban ribovics last fight",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "colleen hoover verity movie",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rublev vs",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 70.0,
+      "ranking_probability": 53.8,
+      "learning_boost": 0.0,
+      "learned_score": 53.8
+    },
+    {
+      "keyword": "leylah fernandez prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -316,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james gunn dcu",
+      "keyword": "leylah fernandez parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -325,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james gunn wife",
+      "keyword": "leylah fernandez ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -334,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james gunn superman",
+      "keyword": "leylah fernandez boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -343,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james gunn batman",
+      "keyword": "leylah fernandez height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -352,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james gunn supergirl",
+      "keyword": "demacia cup 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -361,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james gunn brother",
+      "keyword": "demacia cup schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -370,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the walking dead",
+      "keyword": "demacia cup lol",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsla stock price",
+      "keyword": "demacia cup stream",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsla earnings date",
+      "keyword": "demacia cup time",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsla stock chart",
+      "keyword": "rublev safiullin prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa age",
+      "keyword": "saim ayub stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa birthday",
+      "keyword": "saim ayub cpl",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa husband",
+      "keyword": "saim ayub wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa kids",
+      "keyword": "saim ayub age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa health",
+      "keyword": "saim ayub gaw",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly ripa news",
+      "keyword": "saim ayub cricinfo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cat food brands",
+      "keyword": "matteo berrettini ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cat food investigation",
+      "keyword": "matteo berrettini girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cat food walmart",
+      "keyword": "matteo berrettini wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cat food wet",
+      "keyword": "matteo berrettini prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cat food dispenser",
+      "keyword": "matteo berrettini age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cat food bowl",
+      "keyword": "matteo berrettini height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news today",
+      "keyword": "hasan nawaz stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news live",
+      "keyword": "hasan nawaz cricketer",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news fox",
+      "keyword": "hasan nawaz sharif",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news update",
+      "keyword": "hasan nawaz wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news now",
+      "keyword": "hasan nawaz height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iran news youtube",
+      "keyword": "esteban ribovics record",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walmart pasta brands",
+      "keyword": "esteban ribovics weight",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walmart recall policy",
+      "keyword": "esteban ribovics ufc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walmart formula recall",
+      "keyword": "esteban ribovics payout",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,43 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "novak djokovic age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "novak djokovic wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "novak djokovic documentary",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "novak djokovic prediction",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "james gunn",
+      "keyword": "leylah fernandez",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -640,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla stock",
+      "keyword": "demacia cup",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -649,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla premarket",
+      "keyword": "rublev tennis",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -658,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla price",
+      "keyword": "rublev safiullin",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tesla news",
+      "keyword": "rublev ranking",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -676,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla robinhood",
+      "keyword": "rublev age",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -685,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kelly ripa",
+      "keyword": "rublev trinity",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -694,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance animation",
+      "keyword": "rublev girlfriend",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -703,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance media",
+      "keyword": "griffin wilde",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance movies",
+      "keyword": "griffin dunne",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -721,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance paramount",
+      "keyword": "griffin musk",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance corporation",
+      "keyword": "griffin city",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance logo",
+      "keyword": "griffin armament",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance stock",
+      "keyword": "griffin conine",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "skydance reddit",
+      "keyword": "griffin cleverly",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "cat food",
+      "keyword": "griffin ga",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "iran news",
+      "keyword": "saim ayub",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "novak djokovic",
+      "keyword": "matteo berrettini",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +910,25 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsla",
+      "keyword": "hasan nawaz",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "esteban ribovics",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "rublev",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -802,16 +937,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "skydance",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "skydancer",
+      "keyword": "griffin",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -821,6 +947,101 @@
     }
   ],
   "clusters": [
+    {
+      "pillar": "esteban ribovics vs king green prediction",
+      "cluster": [
+        {
+          "keyword": "esteban ribovics vs king green prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "esteban ribovics vs king green",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "esteban ribovics vs edson barboza",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "esteban ribovics miss weight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "esteban ribovics last fight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "esteban ribovics record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "esteban ribovics weight",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "esteban ribovics ufc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "esteban ribovics payout",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "esteban ribovics",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -836,10 +1057,10 @@
       ]
     },
     {
-      "pillar": "novak djokovic vs yunchaokete bu",
+      "pillar": "ind vs wi 3rd odi",
       "cluster": [
         {
-          "keyword": "novak djokovic vs yunchaokete bu",
+          "keyword": "ind vs wi 3rd odi",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -848,7 +1069,43 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "novak djokovic vs bu",
+          "keyword": "ind vs wi 2nd odi",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ind vs wi odi 2",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ind vs wi odi 2026",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ind vs wi 1st odi",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ind vs wi odi",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -857,7 +1114,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "novak djokovic vs yunchaokete",
+          "keyword": "ind vs wi t20",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -866,16 +1123,57 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "novak djokovic beijing match results",
+          "keyword": "ind vs wi highlights",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "ind vs wi live",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "ind vs wi",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "leylah fernandez vs kamilla prediction",
+      "cluster": [
+        {
+          "keyword": "leylah fernandez vs kamilla prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
         },
         {
-          "keyword": "novak djokovic net worth",
+          "keyword": "leylah fernandez vs kamilla",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "leylah fernandez net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -884,7 +1182,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "novak djokovic age",
+          "keyword": "leylah fernandez prediction today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "leylah fernandez prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -893,7 +1200,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "novak djokovic wife",
+          "keyword": "leylah fernandez parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -902,7 +1209,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "novak djokovic documentary",
+          "keyword": "leylah fernandez ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -911,7 +1218,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "novak djokovic prediction",
+          "keyword": "leylah fernandez boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -920,7 +1227,111 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "novak djokovic",
+          "keyword": "leylah fernandez height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "leylah fernandez",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "matteo berrettini vs vallejo prediction",
+      "cluster": [
+        {
+          "keyword": "matteo berrettini vs vallejo prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "matteo berrettini vs adolfo",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "matteo berrettini adolfo daniel vallejo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "matteo berrettini ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "matteo berrettini girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "matteo berrettini wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "matteo berrettini prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "matteo berrettini age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "matteo berrettini height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "matteo berrettini",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -941,101 +1352,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "the walking dead the ones who live",
-      "cluster": [
-        {
-          "keyword": "the walking dead the ones who live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "the walking dead dead city season 3",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "the walking dead dead city",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the walking dead daryl dixon",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the walking dead season 11",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the walking dead season 4",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the walking dead season 2",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the walking dead season 3",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the walking dead cast",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "the walking dead",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1072,10 +1388,10 @@
       ]
     },
     {
-      "pillar": "james gunn movies and tv shows",
+      "pillar": "griffin museum of science and industry",
       "cluster": [
         {
-          "keyword": "james gunn movies and tv shows",
+          "keyword": "griffin museum of science and industry",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1084,428 +1400,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "james gunn movies and shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "james gunn movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn dcu",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn superman",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn batman",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn supergirl",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn brother",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james gunn",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "kelly ripa height and weight",
-      "cluster": [
-        {
-          "keyword": "kelly ripa height and weight",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kelly ripa net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly ripa tv shows",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly ripa age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly ripa birthday",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly ripa husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly ripa kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly ripa health",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly ripa news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly ripa",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "cat food for sensitive stomach",
-      "cluster": [
-        {
-          "keyword": "cat food for sensitive stomach",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "cat food near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "cat food for allergies",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "cat food brands",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cat food investigation",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cat food walmart",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cat food wet",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cat food dispenser",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cat food bowl",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cat food",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "trump impact senate midterms gop",
-      "cluster": [
-        {
-          "keyword": "trump impact senate midterms gop",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "iran news al jazeera live",
-      "cluster": [
-        {
-          "keyword": "iran news al jazeera live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "iran news today fox news",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "iran news al jazeera",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "iran news today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iran news live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iran news fox",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iran news update",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iran news now",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iran news youtube",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iran news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "tsla stock price today",
-      "cluster": [
-        {
-          "keyword": "tsla stock price today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tsla stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tsla earnings date",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tsla stock chart",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tsla stock",
+          "keyword": "griffin wilde",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1514,7 +1409,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsla premarket",
+          "keyword": "griffin dunne",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1523,7 +1418,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsla price",
+          "keyword": "griffin musk",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1532,7 +1427,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsla robinhood",
+          "keyword": "griffin city",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1541,7 +1436,43 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsla",
+          "keyword": "griffin armament",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "griffin conine",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "griffin cleverly",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "griffin ga",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "griffin",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1552,10 +1483,105 @@
       ]
     },
     {
-      "pillar": "walmart bettergoods pasta recall",
+      "pillar": "colleen hoover verity movie release date",
       "cluster": [
         {
-          "keyword": "walmart bettergoods pasta recall",
+          "keyword": "colleen hoover verity movie release date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "colleen hoover verity movie trailer",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity movie cast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity movie release",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity movie actors",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity movie adaptation",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity movie date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity film cast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "colleen hoover verity movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "demacia cup where to watch",
+      "cluster": [
+        {
+          "keyword": "demacia cup where to watch",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "demacia cup global invitational",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1564,53 +1590,165 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "walmart pasta brands",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "walmart recall policy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "walmart formula recall",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "who makes walmart pasta",
-      "cluster": [
-        {
-          "keyword": "who makes walmart pasta",
+          "keyword": "demacia cup start time",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "demacia cup 2026 schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "demacia cup 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup lol",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup stream",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup time",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "demacia cup",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "tesla news",
+      "pillar": "hasan nawaz in cpl 2026",
       "cluster": [
         {
-          "keyword": "tesla news",
+          "keyword": "hasan nawaz in cpl 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "hasan nawaz in cpl",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "hasan nawaz sharif age",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "hasan nawaz pakistani cricketer",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "hasan nawaz stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hasan nawaz cricketer",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hasan nawaz sharif",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hasan nawaz wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hasan nawaz height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hasan nawaz",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1621,10 +1759,51 @@
       ]
     },
     {
-      "pillar": "skydance animation",
+      "pillar": "verity colleen hoover film.release date",
       "cluster": [
         {
-          "keyword": "skydance animation",
+          "keyword": "verity colleen hoover film.release date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "rublev vs safiullin",
+      "cluster": [
+        {
+          "keyword": "rublev vs safiullin",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "rublev vs",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 70.0,
+          "ranking_probability": 53.8,
+          "learning_boost": 0.0,
+          "learned_score": 53.8
+        },
+        {
+          "keyword": "rublev safiullin prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rublev tennis",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1633,7 +1812,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance media",
+          "keyword": "rublev safiullin",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1642,7 +1821,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance movies",
+          "keyword": "rublev ranking",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1651,7 +1830,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance paramount",
+          "keyword": "rublev age",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1660,7 +1839,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance corporation",
+          "keyword": "rublev trinity",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1669,7 +1848,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance logo",
+          "keyword": "rublev girlfriend",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1678,25 +1857,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "skydance stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "skydance reddit",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "skydance",
+          "keyword": "rublev",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1707,16 +1868,97 @@
       ]
     },
     {
-      "pillar": "skydancer",
+      "pillar": "saim ayub cpl 2026",
       "cluster": [
         {
-          "keyword": "skydancer",
+          "keyword": "saim ayub cpl 2026",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "saim ayub net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "saim ayub jamaica kingsmen",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "saim ayub stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saim ayub cpl",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saim ayub wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saim ayub age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saim ayub gaw",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saim ayub cricinfo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saim ayub",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
