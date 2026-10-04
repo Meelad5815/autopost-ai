@@ -1,24 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "andrey rublev vs alex de minaur",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "alex de minaur vs quentin halys",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -28,43 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "arthur fils vs valentin vacherot",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "arthur fils vs vacherot prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "andrey rublev vs roman safiullin",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "alex de minaur and katie boulter wedding",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -91,22 +37,13 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "alex de minaur and katie boulter",
+      "keyword": "xbox game pass ultimate 12 months",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
-    },
-    {
-      "keyword": "arthur fils vs vacherot",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -118,7 +55,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "trump news today iran war",
+      "keyword": "kurt warner hall of fame",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +64,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "trump news today fox iran",
+      "keyword": "portland marathon 2026 road closures",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,7 +73,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "alex de minaur net worth",
+      "keyword": "portland marathon 2026 bridge closure",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +82,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "daylight savings time bill passed",
+      "keyword": "portland marathon 2026 discount code",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +91,52 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pero antic lebron james",
+      "keyword": "xbox game pass cloud hours",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "xbox game pass games list",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "xbox game pass new games",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "quentin tarantino movies in order",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "vienna ga to atlanta ga",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "sonny styles 40 time",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -163,7 +145,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today fox",
+      "keyword": "sonny styles height weight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -172,7 +154,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today live",
+      "keyword": "amik robertson 40 time",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -181,7 +163,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today cnn",
+      "keyword": "amik robertson net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -190,7 +172,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today iran",
+      "keyword": "anthony richardson college stats",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today youtube",
+      "keyword": "kurt warner net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -208,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today x",
+      "keyword": "kurt warner super bowls",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today latest",
+      "keyword": "portland marathon 2026 route",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "glastonbury tickets release date",
+      "keyword": "portland marathon 2026 tracker",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "glastonbury tickets 2027 price",
+      "keyword": "portland marathon 2026 results",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "glastonbury tickets sign up",
+      "keyword": "portland marathon 2026 oregon",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "andrey rublev match today",
+      "keyword": "portland marathon 2026 dates",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex de minaur ranking",
+      "keyword": "portland marathon 2026 medal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex de minaur prediction",
+      "keyword": "xbox game pass ultimate",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex de minaur wife",
+      "keyword": "xbox game pass price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex de minaur age",
+      "keyword": "xbox game pass pc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex de minaur wedding",
+      "keyword": "xbox game pass essential",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daylight savings ends 2026",
+      "keyword": "xbox game pass premium",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daylight savings time ends",
+      "keyword": "quentin tarantino net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daylight savings fall 2026",
+      "keyword": "quentin tarantino next movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sepang circuit weather forecast",
+      "keyword": "quentin tarantino new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sepang circuit f1 2026",
+      "keyword": "quentin tarantino directed movies",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sepang circuit events 2026",
+      "keyword": "vienna ga zip code",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,16 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sepang circuit track map",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "terry mclaurin injury",
+      "keyword": "sonny styles stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +352,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin stats",
+      "keyword": "sonny styles jersey",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +361,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin contract",
+      "keyword": "sonny styles brother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +370,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin news",
+      "keyword": "sonny styles commanders",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin wife",
+      "keyword": "sonny styles combine",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin age",
+      "keyword": "sonny styles number",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin jersey",
+      "keyword": "sonny styles college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin height",
+      "keyword": "amik robertson pff",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin fantasy",
+      "keyword": "amik robertson contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump news today",
+      "keyword": "amik robertson stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets 2027",
+      "keyword": "amik robertson height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets sale",
+      "keyword": "amik robertson lions",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets 2026",
+      "keyword": "amik robertson college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets price",
+      "keyword": "amik robertson commanders",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets registration",
+      "keyword": "crime and punishment",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets release",
+      "keyword": "crime radar app",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils parents",
+      "keyword": "crime scene cleaner",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils ranking",
+      "keyword": "anthony richardson stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils age",
+      "keyword": "anthony richardson sr",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils girlfriend",
+      "keyword": "anthony richardson contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils wife",
+      "keyword": "anthony richardson news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils height",
+      "keyword": "anthony richardson trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev prediction",
+      "keyword": "anthony richardson draft",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev wife",
+      "keyword": "anthony richardson age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev ranking",
+      "keyword": "anthony richardson injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev girlfriend",
+      "keyword": "kurt warner movie",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev age",
+      "keyword": "kurt warner wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev tennis",
+      "keyword": "kurt warner stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex de minaur",
+      "keyword": "kurt warner kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daylight savings 2026",
+      "keyword": "kurt warner son",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daylight savings bill",
+      "keyword": "kurt warner college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daylight savings 2027",
+      "keyword": "portland marathon 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daylight savings ends",
+      "keyword": "xbox game pass",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daylight savings 2025",
+      "keyword": "quentin tarantino movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "f1 arcade dc",
+      "keyword": "quentin tarantino mother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "f1 qualifying results",
+      "keyword": "quentin tarantino films",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sepang circuit weather",
+      "keyword": "quentin tarantino wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sepang circuit map",
+      "keyword": "vienna game chess",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sepang circuit f1",
+      "keyword": "vienna ga weather",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sepang circuit layout",
+      "keyword": "vienna gambit opening",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sepang circuit bahrain",
+      "keyword": "deforest buckner stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +712,79 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin",
+      "keyword": "deforest buckner contract",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner pff",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner college",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner 49ers",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner trade",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "deforest buckner wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sonny styles",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "glastonbury tickets",
+      "keyword": "amik robertson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "arthur fils",
+      "keyword": "crime 101",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "andrey rublev",
+      "keyword": "crime texas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daylight savings",
+      "keyword": "crime california",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 schedule",
+      "keyword": "crime radar",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 arcade",
+      "keyword": "crime junkie",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 qualifying",
+      "keyword": "anthony richardson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 standings",
+      "keyword": "kurt warner",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 movie",
+      "keyword": "quentin tarantino",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 dc",
+      "keyword": "vienna ga",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sepang circuit",
+      "keyword": "vienna gambit",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +892,43 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1",
+      "keyword": "vienna game",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vienna gardens",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vienna gasometers",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "deforest buckner",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "crime",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -856,7 +937,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "f1tv",
+      "keyword": "crimea",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -866,196 +947,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "andrey rublev vs alex de minaur",
-      "cluster": [
-        {
-          "keyword": "andrey rublev vs alex de minaur",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "andrey rublev vs roman safiullin",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "andrey rublev match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "andrey rublev prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "alex de minaur vs quentin halys",
-      "cluster": [
-        {
-          "keyword": "alex de minaur vs quentin halys",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "alex de minaur and katie boulter wedding",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "alex de minaur and katie boulter",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "alex de minaur net worth",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "alex de minaur ranking",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alex de minaur prediction",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alex de minaur wife",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alex de minaur age",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alex de minaur wedding",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alex de minaur",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1067,101 +958,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        }
-      ]
-    },
-    {
-      "pillar": "arthur fils vs valentin vacherot",
-      "cluster": [
-        {
-          "keyword": "arthur fils vs valentin vacherot",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "arthur fils vs vacherot prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "arthur fils vs vacherot",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "arthur fils parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1212,10 +1008,19 @@
       ]
     },
     {
-      "pillar": "trump news today iran war",
+      "pillar": "xbox game pass ultimate 12 months",
       "cluster": [
         {
-          "keyword": "trump news today iran war",
+          "keyword": "xbox game pass ultimate 12 months",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "xbox game pass cloud hours",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1224,7 +1029,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "trump news today fox iran",
+          "keyword": "xbox game pass games list",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1233,84 +1038,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "trump news today fox",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today live",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today cnn",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today iran",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today youtube",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today x",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today latest",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "daylight savings time bill passed",
-      "cluster": [
-        {
-          "keyword": "daylight savings time bill passed",
+          "keyword": "xbox game pass new games",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1319,7 +1047,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "daylight savings ends 2026",
+          "keyword": "xbox game pass ultimate",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1328,7 +1056,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "daylight savings time ends",
+          "keyword": "xbox game pass price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1337,7 +1065,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "daylight savings fall 2026",
+          "keyword": "xbox game pass pc",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1346,7 +1074,66 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "daylight savings 2026",
+          "keyword": "xbox game pass essential",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "xbox game pass premium",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "xbox game pass",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "kurt warner hall of fame",
+      "cluster": [
+        {
+          "keyword": "kurt warner hall of fame",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kurt warner net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kurt warner super bowls",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kurt warner movie",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1355,7 +1142,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "daylight savings bill",
+          "keyword": "kurt warner wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1364,7 +1151,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "daylight savings 2027",
+          "keyword": "kurt warner stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1160,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "daylight savings ends",
+          "keyword": "kurt warner kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,7 +1169,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "daylight savings 2025",
+          "keyword": "kurt warner son",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1391,7 +1178,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "daylight savings",
+          "keyword": "kurt warner college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kurt warner",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1402,24 +1198,114 @@
       ]
     },
     {
-      "pillar": "pero antic lebron james",
+      "pillar": "portland marathon 2026 road closures",
       "cluster": [
         {
-          "keyword": "pero antic lebron james",
+          "keyword": "portland marathon 2026 road closures",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "portland marathon 2026 bridge closure",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "portland marathon 2026 discount code",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "portland marathon 2026 route",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "portland marathon 2026 tracker",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland marathon 2026 results",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland marathon 2026 oregon",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland marathon 2026 dates",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland marathon 2026 medal",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "portland marathon 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "glastonbury tickets release date",
+      "pillar": "quentin tarantino movies in order",
       "cluster": [
         {
-          "keyword": "glastonbury tickets release date",
+          "keyword": "quentin tarantino movies in order",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "quentin tarantino net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1428,7 +1314,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "glastonbury tickets 2027 price",
+          "keyword": "quentin tarantino next movie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1437,7 +1323,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "glastonbury tickets sign up",
+          "keyword": "quentin tarantino new movie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1446,75 +1332,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "glastonbury tickets 2027",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "glastonbury tickets sale",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "glastonbury tickets 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "glastonbury tickets price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "glastonbury tickets registration",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "glastonbury tickets release",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "glastonbury tickets",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "sepang circuit weather forecast",
-      "cluster": [
-        {
-          "keyword": "sepang circuit weather forecast",
+          "keyword": "quentin tarantino directed movies",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1523,34 +1341,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "sepang circuit f1 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sepang circuit events 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sepang circuit track map",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sepang circuit weather",
+          "keyword": "quentin tarantino movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1559,7 +1350,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sepang circuit map",
+          "keyword": "quentin tarantino mother",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,7 +1359,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sepang circuit f1",
+          "keyword": "quentin tarantino films",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1577,7 +1368,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sepang circuit layout",
+          "keyword": "quentin tarantino wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1586,16 +1377,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sepang circuit bahrain",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sepang circuit",
+          "keyword": "quentin tarantino",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1606,10 +1388,28 @@
       ]
     },
     {
-      "pillar": "terry mclaurin injury",
+      "pillar": "vienna ga to atlanta ga",
       "cluster": [
         {
-          "keyword": "terry mclaurin injury",
+          "keyword": "vienna ga to atlanta ga",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "vienna ga zip code",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "vienna game chess",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1618,7 +1418,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "terry mclaurin stats",
+          "keyword": "vienna ga weather",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1627,7 +1427,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "terry mclaurin contract",
+          "keyword": "vienna gambit opening",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1636,61 +1436,43 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "terry mclaurin news",
+          "keyword": "vienna ga",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "terry mclaurin wife",
+          "keyword": "vienna gambit",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "terry mclaurin age",
+          "keyword": "vienna game",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "terry mclaurin jersey",
+          "keyword": "vienna gardens",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "terry mclaurin height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin fantasy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin",
+          "keyword": "vienna gasometers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1701,10 +1483,28 @@
       ]
     },
     {
-      "pillar": "f1 arcade dc",
+      "pillar": "sonny styles 40 time",
       "cluster": [
         {
-          "keyword": "f1 arcade dc",
+          "keyword": "sonny styles 40 time",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sonny styles height weight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sonny styles stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1713,7 +1513,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "f1 qualifying results",
+          "keyword": "sonny styles jersey",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1722,7 +1522,283 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "f1 schedule",
+          "keyword": "sonny styles brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonny styles commanders",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonny styles combine",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonny styles number",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonny styles college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonny styles",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "amik robertson 40 time",
+      "cluster": [
+        {
+          "keyword": "amik robertson 40 time",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amik robertson net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amik robertson pff",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson lions",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson commanders",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "anthony richardson college stats",
+      "cluster": [
+        {
+          "keyword": "anthony richardson college stats",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "anthony richardson stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson sr",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson draft",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "crime and punishment",
+      "cluster": [
+        {
+          "keyword": "crime and punishment",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "crime radar app",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "crime scene cleaner",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "crime 101",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1731,7 +1807,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "f1 arcade",
+          "keyword": "crime texas",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1740,7 +1816,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "f1 qualifying",
+          "keyword": "crime california",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1749,7 +1825,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "f1 standings",
+          "keyword": "crime radar",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1758,7 +1834,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "f1 movie",
+          "keyword": "crime junkie",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1767,16 +1843,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "f1 dc",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "f1",
+          "keyword": "crime",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1787,10 +1854,105 @@
       ]
     },
     {
-      "pillar": "f1tv",
+      "pillar": "deforest buckner stats",
       "cluster": [
         {
-          "keyword": "f1tv",
+          "keyword": "deforest buckner stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner pff",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner 49ers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "deforest buckner",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "crimea",
+      "cluster": [
+        {
+          "keyword": "crimea",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
