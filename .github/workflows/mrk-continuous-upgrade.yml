@@ -24,6 +24,9 @@ jobs:
       - name: Detect feature gaps
         run: python feature_gap_detector.py --product "MRK AI Website Factory" --purpose "easy-to-run websites, automation, SEO and online services"
 
+      - name: Create reviewable upgrade candidate
+        run: python feature_upgrade_engine.py
+
       - name: Build current website package
         run: |
           if [ -f data/website_factory/site_spec.json ]; then
@@ -32,6 +35,29 @@ jobs:
           else
             echo "No Website Factory specification yet; research and gap detection completed."
           fi
+
+      - name: Run automated safety and artifact tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Lightweight SEO and HTML checks
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          root=Path("data/website_factory/site")
+          if root.exists():
+              pages=list(root.rglob("*.html"))
+              if not pages:
+                  raise SystemExit("No generated HTML pages found")
+              for p in pages:
+                  s=p.read_text(encoding="utf-8")
+                  assert re.search(r"<title>[^<]+</title>",s,re.I), f"Missing title: {p}"
+                  assert re.search(r'<meta[^>]+name=["\\\']description["\\\']',s,re.I), f"Missing meta description: {p}"
+                  assert "<html" in s.lower() and "</html>" in s.lower(), f"Invalid HTML shell: {p}"
+              print(f"Checked {len(pages)} HTML pages")
+          else:
+              print("No generated site package; artifact tests still passed.")
+          PY
 
       - name: Commit research and safe generated upgrades
         run: |
