@@ -13,27 +13,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  research-build:
+  research-gap-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Research language ecosystem
+      - name: Research programming ecosystems
         run: python language_researcher.py --purpose "easy-to-run websites, AI automation and online services"
 
-      - name: Build current MRK website package
+      - name: Detect feature gaps
+        run: python feature_gap_detector.py --product "MRK AI Website Factory" --purpose "easy-to-run websites, automation, SEO and online services"
+
+      - name: Build current website package
         run: |
           if [ -f data/website_factory/site_spec.json ]; then
             python website_content.py
             python website_builder.py
           else
-            echo "No Website Factory specification yet; research completed only."
+            echo "No Website Factory specification yet; research and gap detection completed."
           fi
 
-      - name: Commit safe upgrades
+      - name: Commit research and safe generated upgrades
         run: |
           git config user.name "MRK Continuous Upgrade"
           git config user.email "actions@users.noreply.github.com"
-          git add data/language_research.json data/website_factory
-          git diff --cached --quiet || git commit -m "chore: continuous MRK research and website upgrade"
+          git add data/language_research.json data/feature_gaps.json data/website_factory
+          git diff --cached --quiet || git commit -m "chore: continuous MRK research, gap detection and upgrade"
           git push
