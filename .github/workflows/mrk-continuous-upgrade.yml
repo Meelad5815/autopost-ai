@@ -27,9 +27,6 @@ jobs:
       - name: Create reviewable upgrade candidate
         run: python feature_upgrade_engine.py
 
-      - name: Generate isolated feature implementation
-        run: python upgrade_candidate_runner.py
-
       - name: Build current website package
         run: |
           if [ -f data/website_factory/site_spec.json ]; then
@@ -38,6 +35,9 @@ jobs:
           else
             echo "No Website Factory specification yet; research and gap detection completed."
           fi
+
+      - name: Generate isolated feature implementation
+        run: python upgrade_candidate_runner.py
 
       - name: Create deployment and rollback manifest
         run: python deployment/mrk-deployment-manifest.py
