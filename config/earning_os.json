@@ -1,0 +1,37 @@
+{
+  "name": "MRK AI Earning OS",
+  "version": "0.1.0",
+  "execution": "github-actions",
+  "laptop_required": false,
+  "budget": "zero-cost-first",
+  "modules": {
+    "opportunity_hunter": {
+      "enabled": true,
+      "approval_required": false
+    },
+    "website_factory": {
+      "enabled": true,
+      "approval_required": true
+    },
+    "content_engine": {
+      "enabled": true,
+      "approval_required": true
+    },
+    "freelance_engine": {
+      "enabled": true,
+      "approval_required": true
+    },
+    "social_video_engine": {
+      "enabled": true,
+      "approval_required": true
+    }
+  },
+  "sensitive_actions": {
+    "passwords": false,
+    "otp": false,
+    "bank_details": false,
+    "identity_verification": false,
+    "financial_transfer": false
+  },
+  "next": "connect approved publishing/deployment adapters and build the dashboard/control plane"
+}
