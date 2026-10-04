@@ -14,7 +14,7 @@ from sqlalchemy.exc import OperationalError
 
 from app.db import Base, engine
 from app.db_migrations import run_migrations
-from app.routes import admin, auth, automation, billing, health, sites, ui, mrk_earning
+from app.routes import admin, auth, automation, billing, health, sites, ui, mrk_earning, website_factory
 from app.services.scheduler_daemon import start_scheduler_daemon
 
 
@@ -28,6 +28,7 @@ app.include_router(billing.router)
 app.include_router(admin.router)
 app.include_router(ui.router)
 app.include_router(mrk_earning.router)
+app.include_router(website_factory.router)
 
 
 @app.on_event("startup")
