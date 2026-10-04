@@ -1,6 +1,8 @@
 name: MRK Website Factory
 
 on:
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       niche:
@@ -25,8 +27,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate adaptive language selection
+        run: |
+          mkdir -p data/website_factory
+          printf '%s\n' '{}' > data/website_factory/language_requirements.json
+          python language_selector.py
+
       - name: Generate website specification
-        run: python website_factory.py --niche "${{ inputs.niche }}" --business "${{ inputs.business }}" --location "${{ inputs.location }}"
+        run: python website_factory.py --niche "${{ inputs.niche || 'Web Development' }}" --business "${{ inputs.business || 'MRK Digital & Online Services Center' }}" --location "${{ inputs.location || 'Mian Channu, Punjab, Pakistan' }}"
 
       - name: Generate zero-cost content
         run: python website_content.py
@@ -38,6 +46,6 @@ jobs:
         run: |
           git config user.name "MRK Website Factory"
           git config user.email "actions@users.noreply.github.com"
-          git add data/website_factory/site_spec.json data/website_factory/content.json data/website_factory/site
-          git diff --cached --quiet || git commit -m "Build MRK website package"
+          git add data/website_factory/site_spec.json data/website_factory/content.json data/website_factory/site data/website_factory/language_selection.json
+          git diff --cached --quiet || git commit -m "MRK adaptive website update"
           git push
