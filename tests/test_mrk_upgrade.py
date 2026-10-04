@@ -14,3 +14,20 @@ def test_upgrade_candidate_requires_approval():
         for c in data.get("candidates",[]):
             assert c["requires_human_approval"] is True
             assert c["deployment"]=="blocked until explicit human approval"
+
+def test_execution_artifact_never_allows_deployment():
+    p=Path("data/upgrade_candidate_execution.json")
+    if p.exists():
+        data=json.loads(p.read_text(encoding="utf-8"))
+        assert data.get("production_changed") is False
+        assert data.get("deployment_allowed") is False
+
+def test_generated_html_has_accessibility_and_canonical_markers():
+    root=Path("data/website_factory/site")
+    if root.exists():
+        pages=list(root.glob("*.html"))
+        for p in pages:
+            s=p.read_text(encoding="utf-8")
+            assert 'class="skip-link"' in s
+            assert 'rel="canonical"' in s
+            assert 'id="main-content"' in s

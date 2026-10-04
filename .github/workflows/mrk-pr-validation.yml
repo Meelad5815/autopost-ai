@@ -1,0 +1,62 @@
+name: MRK Upgrade PR Validation
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build generated website
+        run: |
+          if [ -f data/website_factory/site_spec.json ]; then
+            python website_content.py
+            python website_builder.py
+            python upgrade_candidate_runner.py
+          else
+            echo "No website spec available; running artifact tests only."
+          fi
+
+      - name: Unit and safety tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Static HTTP smoke test
+        run: |
+          if [ -d data/website_factory/site ]; then
+            python -m http.server 8765 --directory data/website_factory/site >/tmp/mrk-http.log 2>&1 &
+            PID=$!
+            trap "kill $PID" EXIT
+            python - <<'PY'
+            import urllib.request
+            for page in ["index.html","services.html","about.html","projects.html","blog.html","faq.html","contact.html"]:
+                with urllib.request.urlopen("http://127.0.0.1:8765/"+page, timeout=10) as r:
+                    assert r.status == 200, (page, r.status)
+                    body=r.read().decode("utf-8")
+                    assert "<html" in body.lower()
+                    assert "<title>" in body.lower()
+                    assert 'rel="canonical"' in body
+                    assert 'class="skip-link"' in body
+            print("Static HTTP smoke test passed for 7 pages.")
+            PY
+          else
+            echo "No generated site package; HTTP smoke test skipped."
+          fi
+
+      - name: Verify deployment remains blocked
+        run: |
+          if [ -f data/upgrade_candidate_execution.json ]; then
+            python - <<'PY'
+            import json
+            d=json.load(open("data/upgrade_candidate_execution.json",encoding="utf-8"))
+            assert d.get("production_changed") is False
+            assert d.get("deployment_allowed") is False
+            print("Deployment gate verified.")
+            PY
+          fi
