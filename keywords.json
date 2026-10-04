@@ -64,6 +64,15 @@
       "learned_score": 73.0
     },
     {
+      "keyword": "alex de minaur and katie boulter wedding",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
       "keyword": "wordpress website development price in pakistan",
       "intent": "informational",
       "demand": 70.0,
@@ -74,6 +83,15 @@
     },
     {
       "keyword": "wordpress website development cost in india",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "alex de minaur and katie boulter",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,15 +118,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "terry mclaurin washington commanders update",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "trump news today iran war",
       "intent": "informational",
       "demand": 70.0,
@@ -119,24 +128,6 @@
     },
     {
       "keyword": "trump news today fox iran",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "alex de minaur prediction today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "alex de minaur quentin halys",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -161,15 +152,6 @@
       "ranking_probability": 67.0,
       "learning_boost": 0.0,
       "learned_score": 67.0
-    },
-    {
-      "keyword": "terry mclaurin injury update",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
     },
     {
       "keyword": "pero antic lebron james",
@@ -208,24 +190,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump news today youtube",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "trump news today latest",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "trump news today iran",
       "intent": "informational",
       "demand": 64.0,
@@ -235,7 +199,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "trump news today youtube",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "trump news today x",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "trump news today latest",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,6 +262,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "alex de minaur ranking",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "alex de minaur prediction",
       "intent": "informational",
       "demand": 64.0,
@@ -298,16 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex de minaur ranking",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "alex de minaur height",
+      "keyword": "alex de minaur age",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -335,6 +317,15 @@
     },
     {
       "keyword": "daylight savings time ends",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "daylight savings fall 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,6 +388,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "terry mclaurin contract",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "terry mclaurin news",
       "intent": "informational",
       "demand": 58.0,
@@ -406,16 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin fantasy",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "terry mclaurin contract",
+      "keyword": "terry mclaurin wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +424,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "terry mclaurin status",
+      "keyword": "terry mclaurin jersey",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "terry mclaurin height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "terry mclaurin fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets registration",
+      "keyword": "glastonbury tickets price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "glastonbury tickets price",
+      "keyword": "glastonbury tickets registration",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,15 +514,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "arthur fils parents",
       "intent": "informational",
       "demand": 58.0,
@@ -523,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils prediction",
+      "keyword": "arthur fils ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +559,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "arthur fils height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "andrey rublev prediction",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "andrey rublev wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "andrey rublev wife",
+      "keyword": "andrey rublev girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -596,15 +614,6 @@
     },
     {
       "keyword": "andrey rublev tennis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "andrey rublev girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daylight savings date",
+      "keyword": "f1 arcade dc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,6 +793,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "f1 arcade",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "f1 qualifying",
       "intent": "informational",
       "demand": 52.0,
@@ -811,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "f1 news",
+      "keyword": "f1 dc",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -839,24 +857,6 @@
     },
     {
       "keyword": "f1tv",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "f150",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "f16",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -906,6 +906,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "andrey rublev wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "andrey rublev ranking",
           "intent": "informational",
           "demand": 58.0,
@@ -915,7 +924,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "andrey rublev wife",
+          "keyword": "andrey rublev girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -934,15 +943,6 @@
         },
         {
           "keyword": "andrey rublev tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "andrey rublev girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -974,22 +974,22 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "alex de minaur prediction today",
+          "keyword": "alex de minaur and katie boulter wedding",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 73.0
         },
         {
-          "keyword": "alex de minaur quentin halys",
+          "keyword": "alex de minaur and katie boulter",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 70.0
         },
         {
           "keyword": "alex de minaur net worth",
@@ -999,6 +999,15 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        },
+        {
+          "keyword": "alex de minaur ranking",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         },
         {
           "keyword": "alex de minaur prediction",
@@ -1019,16 +1028,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alex de minaur ranking",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alex de minaur height",
+          "keyword": "alex de minaur age",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1101,15 +1101,6 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "arthur fils ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "arthur fils parents",
           "intent": "informational",
           "demand": 58.0,
@@ -1119,7 +1110,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "arthur fils prediction",
+          "keyword": "arthur fils ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1147,6 +1138,15 @@
         },
         {
           "keyword": "arthur fils wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1212,101 +1212,6 @@
       ]
     },
     {
-      "pillar": "terry mclaurin washington commanders update",
-      "cluster": [
-        {
-          "keyword": "terry mclaurin washington commanders update",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "terry mclaurin injury update",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "terry mclaurin injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin fantasy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin status",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "terry mclaurin",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "trump news today iran war",
       "cluster": [
         {
@@ -1355,24 +1260,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "trump news today youtube",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump news today latest",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "trump news today iran",
           "intent": "informational",
           "demand": 64.0,
@@ -1382,7 +1269,25 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "trump news today youtube",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "trump news today x",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump news today latest",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1432,6 +1337,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "daylight savings fall 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "daylight savings 2026",
           "intent": "informational",
           "demand": 58.0,
@@ -1469,15 +1383,6 @@
         },
         {
           "keyword": "daylight savings 2025",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "daylight savings date",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,7 +1473,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "glastonbury tickets registration",
+          "keyword": "glastonbury tickets price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1577,7 +1482,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "glastonbury tickets price",
+          "keyword": "glastonbury tickets registration",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1701,8 +1606,112 @@
       ]
     },
     {
-      "pillar": "f1 qualifying results",
+      "pillar": "terry mclaurin injury",
       "cluster": [
+        {
+          "keyword": "terry mclaurin injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin jersey",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin fantasy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "f1 arcade dc",
+      "cluster": [
+        {
+          "keyword": "f1 arcade dc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "f1 qualifying results",
           "intent": "informational",
@@ -1714,6 +1723,15 @@
         },
         {
           "keyword": "f1 schedule",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "f1 arcade",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1749,7 +1767,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "f1 news",
+          "keyword": "f1 dc",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1773,34 +1791,6 @@
       "cluster": [
         {
           "keyword": "f1tv",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "f150",
-      "cluster": [
-        {
-          "keyword": "f150",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "f16",
-      "cluster": [
-        {
-          "keyword": "f16",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
