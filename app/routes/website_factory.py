@@ -23,6 +23,8 @@ def generate(req:WebsiteRequest,user=Depends(get_current_user)):
 @router.post('/build')
 def build(req:WebsiteRequest,user=Depends(get_current_user)):
     generate(req,user)
+    content_result=subprocess.run([sys.executable,'website_content.py'],capture_output=True,text=True,timeout=30)
+    if content_result.returncode!=0: raise HTTPException(500,content_result.stderr[-2000:])
     result=subprocess.run([sys.executable,'website_builder.py'],capture_output=True,text=True,timeout=30)
     if result.returncode!=0: raise HTTPException(500,result.stderr[-2000:])
-    return {'ok':True,'website_dir':'data/website_factory/site','message':'Static website package generated. Review contact details before publishing.'}
+    return {'ok':True,'website_dir':'data/website_factory/site','content_artifact':'data/website_factory/content.json','message':'Zero-cost website package generated. Review content and contact details before publishing.'}
