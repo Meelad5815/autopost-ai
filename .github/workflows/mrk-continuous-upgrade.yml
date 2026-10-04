@@ -27,6 +27,9 @@ jobs:
       - name: Create reviewable upgrade candidate
         run: python feature_upgrade_engine.py
 
+      - name: Generate isolated feature implementation
+        run: python upgrade_candidate_runner.py
+
       - name: Build current website package
         run: |
           if [ -f data/website_factory/site_spec.json ]; then
@@ -63,6 +66,6 @@ jobs:
         run: |
           git config user.name "MRK Continuous Upgrade"
           git config user.email "actions@users.noreply.github.com"
-          git add data/language_research.json data/feature_gaps.json data/website_factory
+          git add data/language_research.json data/feature_gaps.json data/upgrade_candidates.json data/upgrade_candidate_execution.json data/website_factory
           git diff --cached --quiet || git commit -m "chore: continuous MRK research, gap detection and upgrade"
           git push
