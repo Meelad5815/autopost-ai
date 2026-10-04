@@ -39,6 +39,9 @@ jobs:
             echo "No Website Factory specification yet; research and gap detection completed."
           fi
 
+      - name: Create deployment and rollback manifest
+        run: python deployment/mrk-deployment-manifest.py
+
       - name: Run automated safety and artifact tests
         run: python -m unittest discover -s tests -p "test_*.py" -v
 
@@ -52,6 +55,9 @@ jobs:
               data=json.loads(p.read_text(encoding="utf-8"))
               assert data.get("production_changed") is False
               assert data.get("deployment_allowed") is False
+          manifest=json.loads(Path("data/deployment_manifest.json").read_text(encoding="utf-8"))
+          assert manifest["deployment"]["automatic_deployment"] is False
+          assert manifest["deployment"]["requires_explicit_workflow_dispatch"] is True
           approval=Path("data/upgrade_approval.json")
           if approval.exists():
               raise SystemExit("Approval artifact is not accepted by the continuous research job; deployment requires a separate explicit workflow.")
@@ -82,6 +88,6 @@ jobs:
         run: |
           git config user.name "MRK Continuous Upgrade"
           git config user.email "actions@users.noreply.github.com"
-          git add data/language_research.json data/feature_gaps.json data/upgrade_candidates.json data/upgrade_candidate_execution.json data/website_factory
+          git add data/language_research.json data/feature_gaps.json data/upgrade_candidates.json data/upgrade_candidate_execution.json data/deployment_manifest.json data/website_factory
           git diff --cached --quiet || git commit -m "chore: continuous MRK research, gap detection and upgrade"
           git push
