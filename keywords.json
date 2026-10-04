@@ -55,15 +55,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "anthony richardson height and weight",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "kurt warner hall of fame",
       "intent": "informational",
       "demand": 70.0,
@@ -83,6 +74,15 @@
     },
     {
       "keyword": "portland marathon 2026 bridge closure",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "portland marathon 2026 discount code",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "vienna gas and auto care",
+      "keyword": "vienna ga to atlanta ga",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +163,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amik robertson madden rating",
+      "keyword": "amik robertson net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,15 +253,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "portland marathon 2026 maine",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "xbox game pass ultimate",
       "intent": "informational",
       "demand": 64.0,
@@ -343,16 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "vienna gas and auto",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "deforest buckner madden rating",
+      "keyword": "vienna ga zip code",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonny styles age",
+      "keyword": "sonny styles combine",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonny styles contract",
+      "keyword": "sonny styles number",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonny styles dad",
+      "keyword": "sonny styles college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,15 +415,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amik robertson stats",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "amik robertson contract",
       "intent": "informational",
       "demand": 58.0,
@@ -451,7 +424,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "amik robertson stats",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "amik robertson height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "amik robertson lions",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amik robertson highlights",
+      "keyword": "crime and punishment",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +478,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "crime and punishment",
+      "keyword": "crime radar app",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "crime scene cleaner",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,15 +523,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony richardson draft",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "anthony richardson news",
       "intent": "informational",
       "demand": 58.0,
@@ -550,7 +541,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "anthony richardson draft",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "anthony richardson age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "anthony richardson injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,25 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quentin tarantino feet",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "vienna gas station",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "vienna garden center",
+      "keyword": "quentin tarantino wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -686,6 +677,15 @@
     },
     {
       "keyword": "vienna game chess",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vienna ga weather",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,6 +775,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "deforest buckner wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "sonny styles",
       "intent": "informational",
       "demand": 52.0,
@@ -802,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crime maryland",
+      "keyword": "crime texas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crime washington",
+      "keyword": "crime california",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -830,24 +839,6 @@
     },
     {
       "keyword": "crime junkie",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "crime map",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "crimean war",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vienna garden",
+      "keyword": "vienna ga",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vienna ga",
+      "keyword": "vienna game",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +901,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vienna game",
+      "keyword": "vienna gardens",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vienna gasometers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1103,101 +1103,6 @@
       ]
     },
     {
-      "pillar": "anthony richardson height and weight",
-      "cluster": [
-        {
-          "keyword": "anthony richardson height and weight",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "anthony richardson college stats",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "anthony richardson stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson sr",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson draft",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson trade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony richardson",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "kurt warner hall of fame",
       "cluster": [
         {
@@ -1314,6 +1219,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "portland marathon 2026 discount code",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "portland marathon 2026 route",
           "intent": "informational",
           "demand": 64.0,
@@ -1360,15 +1274,6 @@
         },
         {
           "keyword": "portland marathon 2026 medal",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "portland marathon 2026 maine",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1463,7 +1368,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "quentin tarantino feet",
+          "keyword": "quentin tarantino wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1483,10 +1388,10 @@
       ]
     },
     {
-      "pillar": "vienna gas and auto care",
+      "pillar": "vienna ga to atlanta ga",
       "cluster": [
         {
-          "keyword": "vienna gas and auto care",
+          "keyword": "vienna ga to atlanta ga",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1495,7 +1400,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "vienna gas and auto",
+          "keyword": "vienna ga zip code",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1504,25 +1409,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "vienna gas station",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vienna garden center",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "vienna game chess",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "vienna ga weather",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1540,7 +1436,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vienna garden",
+          "keyword": "vienna ga",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1558,7 +1454,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "vienna ga",
+          "keyword": "vienna game",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1567,7 +1463,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "vienna game",
+          "keyword": "vienna gardens",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "vienna gasometers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1635,7 +1540,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sonny styles age",
+          "keyword": "sonny styles combine",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1549,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sonny styles contract",
+          "keyword": "sonny styles number",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,7 +1558,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sonny styles dad",
+          "keyword": "sonny styles college",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1685,7 +1590,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "amik robertson madden rating",
+          "keyword": "amik robertson net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1703,15 +1608,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amik robertson stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "amik robertson contract",
           "intent": "informational",
           "demand": 58.0,
@@ -1721,7 +1617,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "amik robertson stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "amik robertson height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amik robertson lions",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1748,15 +1662,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amik robertson highlights",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "amik robertson",
           "intent": "informational",
           "demand": 52.0,
@@ -1768,10 +1673,10 @@
       ]
     },
     {
-      "pillar": "deforest buckner madden rating",
+      "pillar": "anthony richardson college stats",
       "cluster": [
         {
-          "keyword": "deforest buckner madden rating",
+          "keyword": "anthony richardson college stats",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1779,6 +1684,178 @@
           "learning_boost": 0.0,
           "learned_score": 59.8
         },
+        {
+          "keyword": "anthony richardson stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson sr",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson draft",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "anthony richardson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "crime and punishment",
+      "cluster": [
+        {
+          "keyword": "crime and punishment",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "crime radar app",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "crime scene cleaner",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "crime 101",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "crime texas",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "crime california",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "crime radar",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "crime junkie",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "crime",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "deforest buckner stats",
+      "cluster": [
         {
           "keyword": "deforest buckner stats",
           "intent": "informational",
@@ -1852,21 +1929,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "deforest buckner",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "crime and punishment",
-      "cluster": [
-        {
-          "keyword": "crime and punishment",
+          "keyword": "deforest buckner wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1875,75 +1938,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "crime 101",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "crime maryland",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "crime washington",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "crime radar",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "crime junkie",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "crime map",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "crime",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "crimean war",
-      "cluster": [
-        {
-          "keyword": "crimean war",
+          "keyword": "deforest buckner",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
