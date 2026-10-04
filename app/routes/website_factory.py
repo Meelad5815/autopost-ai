@@ -19,3 +19,10 @@ def generate(req:WebsiteRequest,user=Depends(get_current_user)):
     if result.returncode!=0: raise HTTPException(500,result.stderr[-2000:])
     spec=Path('data/website_factory/site_spec.json')
     return {'ok':True,'artifact':str(spec),'spec':json.loads(spec.read_text(encoding='utf-8'))}
+
+@router.post('/build')
+def build(req:WebsiteRequest,user=Depends(get_current_user)):
+    generate(req,user)
+    result=subprocess.run([sys.executable,'website_builder.py'],capture_output=True,text=True,timeout=30)
+    if result.returncode!=0: raise HTTPException(500,result.stderr[-2000:])
+    return {'ok':True,'website_dir':'data/website_factory/site','message':'Static website package generated. Review contact details before publishing.'}
