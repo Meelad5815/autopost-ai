@@ -42,6 +42,22 @@ jobs:
       - name: Run automated safety and artifact tests
         run: python -m unittest discover -s tests -p "test_*.py" -v
 
+      - name: Verify isolated deployment gate
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path("data/upgrade_candidate_execution.json")
+          if p.exists():
+              data=json.loads(p.read_text(encoding="utf-8"))
+              assert data.get("production_changed") is False
+              assert data.get("deployment_allowed") is False
+          approval=Path("data/upgrade_approval.json")
+          if approval.exists():
+              raise SystemExit("Approval artifact is not accepted by the continuous research job; deployment requires a separate explicit workflow.")
+          print("Deployment gate verified: blocked by default.")
+          PY
+
       - name: Lightweight SEO and HTML checks
         run: |
           python - <<'PY'
