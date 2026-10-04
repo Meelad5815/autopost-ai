@@ -1,8 +1,61 @@
 {
   "brand": "MRK Digital & Online Services Center",
-  "niche": "Digital, Web, Automation and Online Services",
+  "niche": "Web Development",
   "location": "Mian Channu, Punjab, Pakistan",
-  "primary_keyword": "digital and online services in Mian Channu",
-  "seo_title": "MRK Digital & Online Services Center | Mian Channu",
-  "meta_description": "Digital, web, automation, online government and technical services for clients in Mian Channu and beyond."
+  "mode": "free-first",
+  "pages": [
+    {
+      "name": "Home",
+      "path": "/",
+      "purpose": "Hero, value proposition, services, trust, CTA"
+    },
+    {
+      "name": "Services",
+      "path": "/services/",
+      "purpose": "Detailed services, deliverables, process and CTA"
+    },
+    {
+      "name": "About",
+      "path": "/about/",
+      "purpose": "Business story, expertise, values and trust"
+    },
+    {
+      "name": "Projects",
+      "path": "/projects/",
+      "purpose": "Portfolio/case studies and outcomes"
+    },
+    {
+      "name": "Blog",
+      "path": "/blog/",
+      "purpose": "SEO articles and educational content"
+    },
+    {
+      "name": "FAQ",
+      "path": "/faq/",
+      "purpose": "Common objections and answers"
+    },
+    {
+      "name": "Contact",
+      "path": "/contact/",
+      "purpose": "WhatsApp/email/contact form and service area"
+    }
+  ],
+  "seo": {
+    "primary_keyword": "Web Development services in Mian Channu, Punjab, Pakistan",
+    "title_pattern": "MRK Digital & Online Services Center | Web Development Services in Mian Channu, Punjab, Pakistan",
+    "meta_description": "MRK Digital & Online Services Center provides professional web development services with a clear process, practical solutions and direct contact."
+  },
+  "ctas": [
+    "Get a Free Quote",
+    "WhatsApp Us",
+    "View Services",
+    "View Projects"
+  ],
+  "deployment_targets": [
+    "GitHub Pages",
+    "Vercel",
+    "InfinityFree",
+    "WordPress"
+  ],
+  "human_approval_required": true
 }

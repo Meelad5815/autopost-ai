@@ -1,0 +1,55 @@
+{
+  "home": {
+    "headline": "MRK Digital & Online Services Center — Web Development Solutions",
+    "intro": "Practical, reliable web development services for clients in Mian Channu, Punjab, Pakistan. We focus on clear communication, useful solutions and dependable support.",
+    "cta": "Request a Quote"
+  },
+  "services": [
+    {
+      "title": "Web Development Consultation",
+      "body": "Understand your requirement, define the scope and recommend a practical solution."
+    },
+    {
+      "title": "Web Development Implementation",
+      "body": "Turn an approved requirement into a structured, usable solution with clear deliverables."
+    },
+    {
+      "title": "Troubleshooting & Support",
+      "body": "Diagnose problems, explain the cause clearly and provide actionable next steps."
+    },
+    {
+      "title": "Custom Projects",
+      "body": "Discuss your specific project and receive a tailored plan based on your goals and budget."
+    }
+  ],
+  "about": {
+    "headline": "About MRK Digital & Online Services Center",
+    "body": "MRK Digital & Online Services Center provides web development solutions with an emphasis on practical delivery, transparent communication and long-term client value in Mian Channu, Punjab, Pakistan."
+  },
+  "projects": {
+    "headline": "Projects & Case Studies",
+    "body": "Add completed projects here with the problem, solution, technologies used and measurable result."
+  },
+  "blog": {
+    "headline": "Guides & Insights",
+    "body": "Publish original guides about web development to answer customer questions, demonstrate expertise and build organic search visibility."
+  },
+  "faq": [
+    {
+      "q": "How do I request a quote?",
+      "a": "Use the contact page and describe your requirement, preferred timeline and any important constraints."
+    },
+    {
+      "q": "Can you work remotely?",
+      "a": "Yes, services that can be delivered online can be handled remotely."
+    },
+    {
+      "q": "Can you build a custom solution?",
+      "a": "Yes. Share the requirement first so the scope and deliverables can be reviewed."
+    }
+  ],
+  "contact": {
+    "headline": "Let's discuss your requirement",
+    "body": "Send your requirement, expected timeline and preferred contact method. Review all contact details before publishing."
+  }
+}

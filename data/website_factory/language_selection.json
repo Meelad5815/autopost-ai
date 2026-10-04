@@ -1,0 +1,25 @@
+{
+  "selected": {
+    "language": "TypeScript",
+    "score": 9.35
+  },
+  "alternatives": [
+    {
+      "language": "JavaScript",
+      "score": 9.35
+    },
+    {
+      "language": "Python",
+      "score": 8.45
+    },
+    {
+      "language": "PHP",
+      "score": 8.3
+    },
+    {
+      "language": "C#",
+      "score": 7.85
+    }
+  ],
+  "note": "Selection is based on the maintained matrix; update the matrix when project requirements or ecosystem conditions change."
+}
