@@ -1,47 +1,75 @@
 {
-  "generated_at": "2026-10-04T18:24:06.735304+00:00",
+  "generated_at": "2026-10-04T21:48:52.531133+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "ap poll",
+      "title": "quay walker",
       "source": "google_trends_us"
     },
     {
-      "title": "dj moore",
+      "title": "golden state valkyries",
       "source": "google_trends_us"
     },
     {
-      "title": "george pickens",
+      "title": "rashid shaheed",
       "source": "google_trends_us"
     },
     {
-      "title": "arvell reese",
+      "title": "deebo samuel",
       "source": "google_trends_us"
     },
     {
-      "title": "malachi fields",
+      "title": "plague",
       "source": "google_trends_us"
     },
     {
-      "title": "josh allen wife",
+      "title": "ap rankings college football",
       "source": "google_trends_us"
     },
     {
-      "title": "jaguars game",
+      "title": "landman season 3",
       "source": "google_trends_us"
     },
     {
-      "title": "parker washington",
+      "title": "jed york",
       "source": "google_trends_us"
     },
     {
-      "title": "ireland vs israel",
+      "title": "ashton jeanty",
       "source": "google_trends_us"
     },
     {
-      "title": "najee harris",
+      "title": "connor heyward",
       "source": "google_trends_us"
+    },
+    {
+      "title": "nations league",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "lhuan-dre pretorius",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "earthquake",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "earthquake near me",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "imran khan",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "eagles vs rams",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "pakistan squad",
+      "source": "google_trends_pk"
     },
     {
       "title": "greece vs germany",
@@ -53,34 +81,6 @@
     },
     {
       "title": "portugal vs norway",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "capcom re engine ai plans",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "barcelona vs real madrid",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "pakistan champions",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "wasim qazi",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "comedy wildlife photography awards",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "pti long march di khan",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "kosovo vs austria",
       "source": "google_trends_pk"
     },
     {
@@ -164,7 +164,11 @@
       "source": "google_developers"
     },
     {
-      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - Hartford Business Journal",
+      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - hartfordbusiness.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "10 jobs AI is least likely to replace — and some pay six figures - Yahoo Creators",
       "source": "google_news_ai"
     },
     {
@@ -172,11 +176,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Why Is UiPath (PATH) Pushing Deeper Into AI Automation And Compliance? - Yahoo Finance",
+      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - McKinsey &amp; Company",
       "source": "google_news_ai"
     },
     {
-      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - McKinsey &amp; Company",
+      "title": "Amazon unBoxed 2026: How Amazon is Automating Programmatic Advertising with AI - portada-online.com",
       "source": "google_news_ai"
     },
     {
@@ -184,7 +188,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Why AI, Automation, &amp; Data Are Critical for Manufacturers - designnews.com",
+      "title": "Why AI, Automation, &amp; Data Are Critical for Manufacturers - Design News",
       "source": "google_news_ai"
     },
     {
@@ -193,10 +197,6 @@
     },
     {
       "title": "‘Touchless claims’: State Farm documents reveal intent to automate claims process with AI - NonDoc Media",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Agentic DevSecFinOps : A Practical Guide to Safe Automation - HackerNoon",
       "source": "google_news_ai"
     },
     {
@@ -212,15 +212,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Cigna Group expects $3B in savings driven by AI, automation - Modern Healthcare",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Northrop Grumman is Supercharging Advanced Fighter Production with AI‑Powered Automation - Northrop Grumman",
-      "source": "google_news_ai"
-    },
-    {
       "title": "The $100-Billion SaaS Opportunity Hiding in Cross-System Labor - Bain",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Agentic DevSecFinOps : A Practical Guide to Safe Automation - HackerNoon",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Cigna Group expects $3B in savings driven by AI, automation - modernhealthcare.com",
       "source": "google_news_ai"
     },
     {
@@ -228,27 +228,27 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI Starts with Fiber - pipelinepub.com",
+      "title": "AI Starts with Fiber - Pipeline Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "Worried AI could replace your job? These 10 careers are among the safest — and some pay six figures - Yahoo Creators",
+      "title": "Why Is UiPath (PATH) Pushing Deeper Into AI Automation And Compliance? - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
-      "title": "Letter from the Editor - September 2026 AI &amp; Analytics - pipelinepub.com",
+      "title": "Letter from the Editor - September 2026 AI &amp; Analytics - Pipeline Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "Unlocking AI's Full Potential with Humans in the Loop - pipelinepub.com",
+      "title": "Unlocking AI's Full Potential with Humans in the Loop - Pipeline Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "AI has a visibility problem: Why Trust Will Decide the Future of Autonomous Telecoms - pipelinepub.com",
+      "title": "AI has a visibility problem: Why Trust Will Decide the Future of Autonomous Telecoms - Pipeline Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "Leidos Introduces AI Automation Software for Cybersecurity Teams - Yahoo Finance",
+      "title": "Job postings show early signs of AI automation impact - Federal Reserve Bank of Dallas",
       "source": "google_news_ai"
     },
     {
@@ -256,15 +256,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Leidos Introduces AI Automation Software for Cybersecurity Teams - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "How will AI automation hit — like a crashing wave or a rising tide? - MIT Sloan",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Can we predict the jobs robots will do? - Anthropic",
       "source": "google_news_ai"
     },
     {
-      "title": "EliseAI Raises $350M at $4B Valuation to Expand AI Automation Platform - citybiz",
+      "title": "Closing the Data and Trust Gaps with Explainable AI - MeriTalk",
       "source": "google_news_ai"
     },
     {
-      "title": "Closing the Data and Trust Gaps with Explainable AI - MeriTalk",
+      "title": "EliseAI Raises $350M at $4B Valuation to Expand AI Automation Platform - citybiz",
       "source": "google_news_ai"
     },
     {
@@ -276,14 +284,6 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Leidos launches AI automation tool for cybersecurity operations - Investing.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "NIQ Brings New AI and Automation Capabilities to Retail Space Planning and Merchandising - Business Wire",
-      "source": "google_news_ai"
-    },
-    {
       "title": "How to Rank in Google AI Overviews Without Being Ranked #1 - AFFiNCO",
       "source": "google_news_seo"
     },
@@ -292,11 +292,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "I Stopped Asking AI for SEO Ideas and Started Feeding It Search Console Data Instead - HackerNoon",
+      "title": "Google Shows How Long Crawling, Indexing &amp; Recovery Can Take - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse - Search Engine Journal",
+      "title": "I Stopped Asking AI for SEO Ideas and Started Feeding It Search Console Data Instead - HackerNoon",
       "source": "google_news_seo"
     },
     {
@@ -308,7 +308,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Birch Stream Digital Helps Local Service Businesses Dominate Google Search and Maps in Winston-Salem - WBOC TV",
+      "title": "Birch Stream Digital Helps Local Service Businesses Dominate Google Search and Maps in Winston-Salem - wboc.com",
       "source": "google_news_seo"
     },
     {
@@ -348,7 +348,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Decline Steepened To 40% YoY For Publishers - Search Engine Journal",
+      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -356,11 +356,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy - Search Engine Roundtable",
+      "title": "Some Links in Google AI Overviews Open AI Mode Instead (2026) - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "Some Links in Google AI Overviews Open AI Mode Instead (2026) - ALM Corp",
+      "title": "Google Search Decline Steepened To 40% YoY For Publishers - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -376,11 +380,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Starts Rolling Out Its September 2026 Spam Update - ALM Corp",
+      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
+      "title": "Google Starts Rolling Out Its September 2026 Spam Update - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -388,19 +392,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "How can I get to the top of search pages? 10 ways to rank better in 2026 - hostinger.com",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Search Console performance reports gets multimodal filter - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "How can I get to the top of search pages? 10 ways to rank better in 2026 - Hostinger",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Daily Search Forum Recap: October 1, 2026 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -444,7 +444,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials - CyberSecurityNews",
+      "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials - cybersecuritynews.com",
       "source": "google_news_wordpress"
     },
     {
@@ -456,15 +456,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Security: 22 Ways to Keep Your Website Safe - Hostinger",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In - Search Engine Journal",
+      "title": "WordPress Security: 22 Ways to Keep Your Website Safe - hostinger.com",
       "source": "google_news_wordpress"
     },
     {
       "title": "Hackers start exploiting critical WordPress flaw for code execution - BleepingComputer",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
@@ -476,17 +476,17 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Malware Comes Back After Removal Using a Self-Healing Backdoor - CyberSecurityNews",
+      "title": "Farewell, Singeetham Srinivasa Rao (1931-2026) - Baradwaj Rangan",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Farewell, Singeetham Srinivasa Rao (1931-2026) - Baradwaj Rangan",
+      "title": "WordPress Malware Comes Back After Removal Using a Self-Healing Backdoor - cybersecuritynews.com",
       "source": "google_news_wordpress"
     }
   ],
   "improvement_queue": [
-    "Review local-AI prompts and AI-tool topics for freshness.",
     "Review SEO/content rules against current Google Search guidance.",
+    "Review local-AI prompts and AI-tool topics for freshness.",
     "Refresh WordPress topic clusters."
   ],
   "policy": {
