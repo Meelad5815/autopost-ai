@@ -1,0 +1,39 @@
+name: MRK Continuous Website Upgrade
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mrk-continuous-upgrade
+  cancel-in-progress: true
+
+jobs:
+  research-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Research language ecosystem
+        run: python language_researcher.py --purpose "easy-to-run websites, AI automation and online services"
+
+      - name: Build current MRK website package
+        run: |
+          if [ -f data/website_factory/site_spec.json ]; then
+            python website_content.py
+            python website_builder.py
+          else
+            echo "No Website Factory specification yet; research completed only."
+          fi
+
+      - name: Commit safe upgrades
+        run: |
+          git config user.name "MRK Continuous Upgrade"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/language_research.json data/website_factory
+          git diff --cached --quiet || git commit -m "chore: continuous MRK research and website upgrade"
+          git push
