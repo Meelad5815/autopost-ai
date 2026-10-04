@@ -1,0 +1,43 @@
+name: MRK Website Factory
+
+on:
+  workflow_dispatch:
+    inputs:
+      niche:
+        description: "Website niche"
+        required: true
+        default: "Web Development"
+      business:
+        description: "Business name"
+        required: true
+        default: "MRK Digital & Online Services Center"
+      location:
+        description: "Business location"
+        required: false
+        default: "Mian Channu, Punjab, Pakistan"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate website specification
+        run: python website_factory.py --niche "${{ inputs.niche }}" --business "${{ inputs.business }}" --location "${{ inputs.location }}"
+
+      - name: Generate zero-cost content
+        run: python website_content.py
+
+      - name: Build static website
+        run: python website_builder.py
+
+      - name: Commit generated package
+        run: |
+          git config user.name "MRK Website Factory"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/website_factory/site_spec.json data/website_factory/content.json data/website_factory/site
+          git diff --cached --quiet || git commit -m "Build MRK website package"
+          git push
