@@ -1,6 +1,24 @@
 {
   "keywords": [
     {
+      "keyword": "andrey rublev vs alex de minaur",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "alex de minaur vs quentin halys",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,34 +28,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "what is the social security cola this year",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "will there be a social security cola this year",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "do you have to pay back refund checks",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "alina charaeva vs elena rybakina",
+      "keyword": "arthur fils vs valentin vacherot",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -46,7 +37,16 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "elena rybakina vs alina charaeva",
+      "keyword": "arthur fils vs vacherot prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "andrey rublev vs roman safiullin",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -56,42 +56,6 @@
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "social security cola 2027 announcement date usa",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "social security cola 2027 announcement date october",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "do school refund checks count as income",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "department of treasury bureau of fiscal service",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -118,187 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "kirk ferentz on pat mcafee show",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "jonathan bennett movies and tv shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "texas longhorns football schedule this year",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "texas longhorns football schedule 2026 tickets",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "texas longhorns football schedule 2026 printable",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "texas longhorns football schedule 2026 pdf",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "social security cola announcement date 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "social security cola 2027 announcement date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "social security administration cola announcement date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "social security increase 2026 announcement date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "aca refund checks who gets them",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "department of treasury washington dc mail",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "department of treasury internal revenue service",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "department of treasury letter in mail",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "verity reviews rotten tomatoes",
-      "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "verity reviews r=h www.reddit.com",
-      "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "verity reviews so far",
-      "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "verity reviews no spoilers",
-      "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "alina charaeva vs rybakina",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "alina charaeva vs putintseva",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "elena rybakina vs charaeva",
+      "keyword": "arthur fils vs vacherot",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -316,7 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jonathan bennett movies and shows",
+      "keyword": "terry mclaurin washington commanders update",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -325,7 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "texas longhorns football schedule 2026",
+      "keyword": "trump news today iran war",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -334,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "texas longhorns football schedule 2025",
+      "keyword": "trump news today fox iran",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -343,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "texas longhorns football schedule 2027",
+      "keyword": "alex de minaur prediction today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -352,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "texas longhorns football schedule 2024",
+      "keyword": "alex de minaur quentin halys",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -361,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "texas longhorns football schedule today",
+      "keyword": "alex de minaur net worth",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -370,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "social security cola announcement date",
+      "keyword": "daylight savings time bill passed",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -379,88 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "social security cola date 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "affordable care act rebate checks",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "department of treasury irs letter",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "department of treasury phone number",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "verity reviews movie",
-      "intent": "commercial",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "verity reviews reddit",
-      "intent": "commercial",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "verity reviews rotten",
-      "intent": "commercial",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "verity reviews book",
-      "intent": "commercial",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "verity reviews goodreads",
-      "intent": "commercial",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "kirk ferentz pat mcafee",
+      "keyword": "terry mclaurin injury update",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +172,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kirk ferentz college gameday",
+      "keyword": "pero antic lebron james",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kirk ferentz net worth",
+      "keyword": "trump news today fox",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan bennett mean girls",
+      "keyword": "trump news today live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan bennett general hospital",
+      "keyword": "trump news today cnn",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan bennett net worth",
+      "keyword": "trump news today youtube",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "texas longhorns football schedule",
+      "keyword": "trump news today latest",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "renaissance festival kansas city",
+      "keyword": "trump news today iran",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -532,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alina charaeva ranking 2026",
+      "keyword": "trump news today x",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -541,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alina charaeva match today",
+      "keyword": "glastonbury tickets release date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -550,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alina charaeva tennis live",
+      "keyword": "glastonbury tickets 2027 price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -559,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "elena rybakina match today",
+      "keyword": "glastonbury tickets sign up",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -568,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "elena rybakina net worth",
+      "keyword": "andrey rublev match today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -577,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aca refund checks 2026",
+      "keyword": "alex de minaur prediction",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -586,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aca refund checks reddit",
+      "keyword": "alex de minaur wife",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -595,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aca rebate checks 2025",
+      "keyword": "alex de minaur ranking",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -604,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "department of treasury mail",
+      "keyword": "alex de minaur height",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -613,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "department of treasury letter",
+      "keyword": "alex de minaur wedding",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "department of treasury check",
+      "keyword": "daylight savings ends 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -631,16 +334,52 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "verity reviews",
-      "intent": "commercial",
+      "keyword": "daylight savings time ends",
+      "intent": "informational",
       "demand": 64.0,
-      "competition": 70.0,
-      "ranking_probability": 53.8,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
       "learning_boost": 0.0,
-      "learned_score": 53.8
+      "learned_score": 59.8
     },
     {
-      "keyword": "kirk ferentz age",
+      "keyword": "sepang circuit weather forecast",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "sepang circuit f1 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "sepang circuit events 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "sepang circuit track map",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "terry mclaurin injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kirk ferentz salary",
+      "keyword": "terry mclaurin stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kirk ferentz wife",
+      "keyword": "terry mclaurin news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kirk ferentz news",
+      "keyword": "terry mclaurin fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kirk ferentz contract",
+      "keyword": "terry mclaurin contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan bennett gh",
+      "keyword": "terry mclaurin age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan bennett now",
+      "keyword": "terry mclaurin status",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan bennett husband",
+      "keyword": "trump news today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan bennett movies",
+      "keyword": "glastonbury tickets 2027",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival ohio",
+      "keyword": "glastonbury tickets sale",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival nc",
+      "keyword": "glastonbury tickets 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival mn",
+      "keyword": "glastonbury tickets registration",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival michigan",
+      "keyword": "glastonbury tickets price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival maryland",
+      "keyword": "glastonbury tickets release",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival texas",
+      "keyword": "arthur fils ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival houston",
+      "keyword": "arthur fils parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "renaissance festival hours",
+      "keyword": "arthur fils prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alina charaeva height",
+      "keyword": "arthur fils age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alina charaeva ranking",
+      "keyword": "arthur fils girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alina charaeva age",
+      "keyword": "arthur fils wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elena rybakina height",
+      "keyword": "andrey rublev prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elena rybakina husband",
+      "keyword": "andrey rublev ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elena rybakina age",
+      "keyword": "andrey rublev wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elena rybakina ranking",
+      "keyword": "andrey rublev age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -856,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elena rybakina boyfriend",
+      "keyword": "andrey rublev tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -865,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "aca refund checks",
+      "keyword": "andrey rublev girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -874,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "aca rebate checks",
+      "keyword": "alex de minaur",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -883,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "obamacare refund checks",
+      "keyword": "daylight savings 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -892,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "department of treasury",
+      "keyword": "daylight savings bill",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -901,7 +640,97 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kirk ferentz",
+      "keyword": "daylight savings 2027",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "daylight savings ends",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "daylight savings 2025",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "daylight savings date",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "f1 qualifying results",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sepang circuit weather",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sepang circuit map",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sepang circuit f1",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sepang circuit layout",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sepang circuit bahrain",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "terry mclaurin",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jonathan bennett",
+      "keyword": "glastonbury tickets",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -919,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "renaissance festival",
+      "keyword": "arthur fils",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -928,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "alina charaeva",
+      "keyword": "andrey rublev",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -937,16 +766,296 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "elena rybakina",
+      "keyword": "daylight savings",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
+    },
+    {
+      "keyword": "f1 schedule",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "f1 qualifying",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "f1 standings",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "f1 movie",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "f1 news",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "sepang circuit",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "f1",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "f1tv",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "f150",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "f16",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
     }
   ],
   "clusters": [
+    {
+      "pillar": "andrey rublev vs alex de minaur",
+      "cluster": [
+        {
+          "keyword": "andrey rublev vs alex de minaur",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "andrey rublev vs roman safiullin",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "andrey rublev match today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "andrey rublev prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "alex de minaur vs quentin halys",
+      "cluster": [
+        {
+          "keyword": "alex de minaur vs quentin halys",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "alex de minaur prediction today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "alex de minaur quentin halys",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "alex de minaur net worth",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "alex de minaur prediction",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex de minaur wife",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex de minaur ranking",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex de minaur height",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex de minaur wedding",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex de minaur",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -962,17 +1071,103 @@
       ]
     },
     {
-      "pillar": "what is the social security cola this year",
+      "pillar": "arthur fils vs valentin vacherot",
       "cluster": [
         {
-          "keyword": "what is the social security cola this year",
+          "keyword": "arthur fils vs valentin vacherot",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 76.0
+          "learned_score": 75.4
         },
+        {
+          "keyword": "arthur fils vs vacherot prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "arthur fils vs vacherot",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "arthur fils ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "arthur fils",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "what is the price of website development",
+      "cluster": [
         {
           "keyword": "what is the price of website development",
           "intent": "informational",
@@ -981,405 +1176,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "will there be a social security cola this year",
-      "cluster": [
-        {
-          "keyword": "will there be a social security cola this year",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        }
-      ]
-    },
-    {
-      "pillar": "do you have to pay back refund checks",
-      "cluster": [
-        {
-          "keyword": "do you have to pay back refund checks",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "do school refund checks count as income",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "alina charaeva vs elena rybakina",
-      "cluster": [
-        {
-          "keyword": "alina charaeva vs elena rybakina",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "alina charaeva vs rybakina",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "alina charaeva vs putintseva",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "alina charaeva ranking 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alina charaeva match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alina charaeva tennis live",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alina charaeva height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alina charaeva ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alina charaeva age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alina charaeva",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "elena rybakina vs alina charaeva",
-      "cluster": [
-        {
-          "keyword": "elena rybakina vs alina charaeva",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "elena rybakina vs charaeva",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "elena rybakina match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "elena rybakina net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "elena rybakina height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "elena rybakina husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "elena rybakina age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "elena rybakina ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "elena rybakina boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "elena rybakina",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "social security cola 2027 announcement date usa",
-      "cluster": [
-        {
-          "keyword": "social security cola 2027 announcement date usa",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "social security cola 2027 announcement date october",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "social security cola announcement date 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "social security cola 2027 announcement date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "social security administration cola announcement date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "social security increase 2026 announcement date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "social security cola announcement date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "social security cola date 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "department of treasury bureau of fiscal service",
-      "cluster": [
-        {
-          "keyword": "department of treasury bureau of fiscal service",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "department of treasury washington dc mail",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "department of treasury internal revenue service",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "department of treasury letter in mail",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "department of treasury irs letter",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "department of treasury phone number",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "department of treasury mail",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "department of treasury letter",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "department of treasury check",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "department of treasury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1416,19 +1212,19 @@
       ]
     },
     {
-      "pillar": "kirk ferentz on pat mcafee show",
+      "pillar": "terry mclaurin washington commanders update",
       "cluster": [
         {
-          "keyword": "kirk ferentz on pat mcafee show",
+          "keyword": "terry mclaurin washington commanders update",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 67.0
         },
         {
-          "keyword": "kirk ferentz pat mcafee",
+          "keyword": "terry mclaurin injury update",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1437,25 +1233,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "kirk ferentz college gameday",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kirk ferentz net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kirk ferentz age",
+          "keyword": "terry mclaurin injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1464,7 +1242,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kirk ferentz salary",
+          "keyword": "terry mclaurin stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1473,7 +1251,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kirk ferentz wife",
+          "keyword": "terry mclaurin news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1482,7 +1260,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kirk ferentz news",
+          "keyword": "terry mclaurin fantasy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1491,7 +1269,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kirk ferentz contract",
+          "keyword": "terry mclaurin contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1500,7 +1278,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kirk ferentz",
+          "keyword": "terry mclaurin age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin status",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "terry mclaurin",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1511,19 +1307,10 @@
       ]
     },
     {
-      "pillar": "jonathan bennett movies and tv shows",
+      "pillar": "trump news today iran war",
       "cluster": [
         {
-          "keyword": "jonathan bennett movies and tv shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "jonathan bennett movies and shows",
+          "keyword": "trump news today iran war",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1532,7 +1319,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jonathan bennett mean girls",
+          "keyword": "trump news today fox iran",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "trump news today fox",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1541,7 +1337,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jonathan bennett general hospital",
+          "keyword": "trump news today live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1550,7 +1346,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jonathan bennett net worth",
+          "keyword": "trump news today cnn",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1559,7 +1355,84 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jonathan bennett gh",
+          "keyword": "trump news today youtube",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump news today latest",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump news today iran",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump news today x",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump news today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "daylight savings time bill passed",
+      "cluster": [
+        {
+          "keyword": "daylight savings time bill passed",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "daylight savings ends 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "daylight savings time ends",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "daylight savings 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,7 +1441,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonathan bennett now",
+          "keyword": "daylight savings bill",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1577,7 +1450,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonathan bennett husband",
+          "keyword": "daylight savings 2027",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1586,7 +1459,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonathan bennett movies",
+          "keyword": "daylight savings ends",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1595,7 +1468,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonathan bennett",
+          "keyword": "daylight savings 2025",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "daylight savings date",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "daylight savings",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1606,91 +1497,10 @@
       ]
     },
     {
-      "pillar": "texas longhorns football schedule this year",
+      "pillar": "pero antic lebron james",
       "cluster": [
         {
-          "keyword": "texas longhorns football schedule this year",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2026 tickets",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2026 printable",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2026 pdf",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2025",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2027",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "texas longhorns football schedule 2024",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "texas longhorns football schedule today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "texas longhorns football schedule",
+          "keyword": "pero antic lebron james",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1701,19 +1511,10 @@
       ]
     },
     {
-      "pillar": "aca refund checks who gets them",
+      "pillar": "glastonbury tickets release date",
       "cluster": [
         {
-          "keyword": "aca refund checks who gets them",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "aca refund checks 2026",
+          "keyword": "glastonbury tickets release date",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1722,7 +1523,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aca refund checks reddit",
+          "keyword": "glastonbury tickets 2027 price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1731,7 +1532,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aca rebate checks 2025",
+          "keyword": "glastonbury tickets sign up",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1740,7 +1541,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aca refund checks",
+          "keyword": "glastonbury tickets 2027",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1749,139 +1550,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "aca rebate checks",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "verity reviews rotten tomatoes",
-      "cluster": [
-        {
-          "keyword": "verity reviews rotten tomatoes",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "verity reviews r=h www.reddit.com",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "verity reviews so far",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "verity reviews no spoilers",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "verity reviews movie",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "verity reviews reddit",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "verity reviews rotten",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "verity reviews book",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "verity reviews goodreads",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "verity reviews",
-          "intent": "commercial",
-          "demand": 64.0,
-          "competition": 70.0,
-          "ranking_probability": 53.8,
-          "learning_boost": 0.0,
-          "learned_score": 53.8
-        }
-      ]
-    },
-    {
-      "pillar": "affordable care act rebate checks",
-      "cluster": [
-        {
-          "keyword": "affordable care act rebate checks",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "renaissance festival kansas city",
-      "cluster": [
-        {
-          "keyword": "renaissance festival kansas city",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "renaissance festival ohio",
+          "keyword": "glastonbury tickets sale",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1890,7 +1559,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival nc",
+          "keyword": "glastonbury tickets 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1899,7 +1568,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival mn",
+          "keyword": "glastonbury tickets registration",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1908,7 +1577,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival michigan",
+          "keyword": "glastonbury tickets price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1917,7 +1586,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival maryland",
+          "keyword": "glastonbury tickets release",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1926,34 +1595,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "renaissance festival texas",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "renaissance festival houston",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "renaissance festival hours",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "renaissance festival",
+          "keyword": "glastonbury tickets",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1964,16 +1606,207 @@
       ]
     },
     {
-      "pillar": "obamacare refund checks",
+      "pillar": "sepang circuit weather forecast",
       "cluster": [
         {
-          "keyword": "obamacare refund checks",
+          "keyword": "sepang circuit weather forecast",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sepang circuit f1 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sepang circuit events 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sepang circuit track map",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sepang circuit weather",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "sepang circuit map",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sepang circuit f1",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sepang circuit layout",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sepang circuit bahrain",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sepang circuit",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "f1 qualifying results",
+      "cluster": [
+        {
+          "keyword": "f1 qualifying results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "f1 schedule",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "f1 qualifying",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "f1 standings",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "f1 movie",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "f1 news",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "f1",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "f1tv",
+      "cluster": [
+        {
+          "keyword": "f1tv",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "f150",
+      "cluster": [
+        {
+          "keyword": "f150",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "f16",
+      "cluster": [
+        {
+          "keyword": "f16",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     }
