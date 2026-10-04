@@ -1,0 +1,61 @@
+name: MRK Upgrade Candidate PR
+
+on:
+  workflow_dispatch:
+    inputs:
+      candidate_id:
+        description: "Upgrade candidate ID from data/upgrade_candidates.json"
+        required: true
+        type: string
+      approve:
+        description: "Human approval to create a draft PR (does not deploy)"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  candidate-pr:
+    if: inputs.approve == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate candidate
+        env:
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          p="data/upgrade_candidates.json"
+          data=json.load(open(p,encoding="utf-8"))
+          wanted=os.environ["CANDIDATE_ID"]
+          matches=[c for c in data.get("candidates",[]) if c.get("candidate_id")==wanted]
+          if not matches:
+              print("Candidate not found:", wanted)
+              sys.exit(1)
+          c=matches[0]
+          if not c.get("requires_human_approval") or "deployment" not in c:
+              sys.exit("Candidate is missing approval/deployment safety metadata")
+          print("Validated:", wanted)
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Create candidate branch and draft PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          BRANCH="mrk-upgrade/${CANDIDATE_ID}"
+          git checkout -b "$BRANCH"
+          git config user.name "MRK Upgrade Engine"
+          git config user.email "actions@users.noreply.github.com"
+          printf '\n## Candidate review\n- Candidate: %s\n- Tests: passed\n- Deployment: blocked pending final human approval\n' "$CANDIDATE_ID" >> docs/mrkeos/feature-upgrade-loop.md
+          git add docs/mrkeos/feature-upgrade-loop.md
+          git commit -m "chore: prepare MRK upgrade candidate $CANDIDATE_ID"
+          git push --set-upstream origin "$BRANCH"
+          gh pr create --draft --base main --head "$BRANCH"             --title "MRK upgrade candidate: $CANDIDATE_ID"             --body "Automated review candidate. Tests passed. This PR is intentionally draft and does not deploy. Review the candidate, implementation plan, SEO checks, and changed files before approving/merging."
