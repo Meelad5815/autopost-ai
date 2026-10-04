@@ -1,0 +1,64 @@
+name: MRK Explicit Website Deployment
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm_deploy:
+        description: "Type DEPLOY to authorize this one deployment"
+        required: true
+        type: string
+      source_ref:
+        description: "Branch or tag containing the approved website package"
+        required: false
+        default: "main"
+        type: string
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: mrk-pages-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: inputs.confirm_deploy == 'DEPLOY'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - name: Checkout approved source
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.source_ref }}
+      - name: Build website package
+        run: |
+          set -euo pipefail
+          test -f data/website_factory/site_spec.json
+          python website_content.py
+          python website_builder.py
+          python upgrade_candidate_runner.py
+          python deployment/mrk-deployment-manifest.py
+      - name: Verify deployment safety gate
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          manifest=json.loads(Path('data/deployment_manifest.json').read_text(encoding='utf-8'))
+          gate=manifest['deployment']
+          assert gate['production_changed'] is False
+          assert gate['requires_explicit_workflow_dispatch'] is True
+          assert manifest['file_count'] > 0
+          print(f"Verified {manifest['file_count']} website files.")
+          PY
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: data/website_factory/site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
