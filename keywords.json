@@ -1,51 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "ecuador vs panama where to watch",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "saints vs falcons last 5 games",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "falcons vs saints last 5 games",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "donna vekic vs iga swiatek live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "donna vekic vs iga swiatek h2h",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -55,88 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "iva jovic vs kamilla rakhimova",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ecuador vs panama en vivo",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ecuador vs panama live stream",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "saints vs falcons last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "saints vs falcons injury report",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "saints vs falcons score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "falcons vs saints score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "falcons vs saints last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "falcons vs saints injury report",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "donna vekic vs iga swiatek",
+      "keyword": "sun xinran vs coco gauff",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -172,175 +46,31 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "iva jovic vs rakhimova",
+      "keyword": "xbox game pass october games leaving",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "ecuador vs panama 2026",
+      "keyword": "xbox game pass ultimate 12 months",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "ecuador vs panama live",
+      "keyword": "spcx stock price today per share",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ecuador vs panama today",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ecuador vs panama prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ecuador vs panama score",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ecuador vs panama hora",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "iga świątek vs rybakina",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "saints vs falcons predictions",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "saints vs falcons 2026",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "saints vs falcons 2025",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "saints vs falcons history",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "saints vs falcons spread",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "falcons vs saints prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "falcons vs saints 2026",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "falcons vs saints 2025",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "falcons vs saints history",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "falcons vs saints odds",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "donna vekic vs swiatek",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -352,7 +82,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "alex rodriguez hall of fame",
+      "keyword": "prince harry news daily mail",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -361,7 +91,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "donna vekic where to watch",
+      "keyword": "sun xinran wta tour debut",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -370,43 +100,97 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "iva jovic vs",
+      "keyword": "chatgpt login with gmail account",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "ecuador vs panama",
+      "keyword": "xbox game pass games list",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "saints vs falcons",
+      "keyword": "xbox game pass new games",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "falcons vs saints",
+      "keyword": "djia today - google search",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "iva jovic net worth",
+      "keyword": "grand central parkway las vegas",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "grand central parkway traffic now",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "grand central parkway new york",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "spcx stock price prediction 2030",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "spcx stock price today live",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "spcx stock price after hours",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "prince harry news today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "iga świątek next match",
+      "keyword": "prince harry news health",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "iga świątek net worth",
+      "keyword": "prince harry news bbc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "iga świątek us open",
+      "keyword": "prince harry news accident",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "iga świątek ranking wta",
+      "keyword": "prince harry news latest",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex rodriguez net worth",
+      "keyword": "prince harry news reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex rodriguez rookie card",
+      "keyword": "prince harry news now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "derek jeter rookie card",
+      "keyword": "sun xinran us open",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "derek jeter net worth",
+      "keyword": "chatgpt login with google",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "donna vekic iga swiatek",
+      "keyword": "chatgpt login issues today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nfc south standings 2026",
+      "keyword": "chatgpt login with email",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nfc south standings 2025",
+      "keyword": "chatgpt login with password",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nfc south predictions 2026",
+      "keyword": "xbox game pass ultimate",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,7 +307,259 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "iva jovic age",
+      "keyword": "xbox game pass price",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "xbox game pass pc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "xbox game pass essential",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "xbox game pass premium",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "cleveland cavaliers roster 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "cleveland cavaliers depth chart",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "cleveland cavaliers trade rumors",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "djia today chart live",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "djia today now news",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "microsoft stock price today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "microsoft stock price target",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "microsoft stock price prediction",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "grand central parkway accident",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "grand central parkway traffic",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "grand central parkway queens",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "grand central parkway exits",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "grand central parkway map",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "grand central parkway school",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "spcx stock price live",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "spcx stock price today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "spcx stock price chart",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "spcx stock price target",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "spcx stock price now",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pete hegseth military service",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pete hegseth net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pete hegseth princeton basketball",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pete hegseth college basketball",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pete hegseth military career",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "prince harry news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iva jovic ranking",
+      "keyword": "prince harry newsweek",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iva jovic prediction",
+      "keyword": "sun xinran tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iva jovic height",
+      "keyword": "sun xinran height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iva jovic parents",
+      "keyword": "sun xinran utr",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis us",
+      "keyword": "sun xinran age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis reddit",
+      "keyword": "sun xinran wta",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis suzerain",
+      "keyword": "sun xinran itf",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis 1980s",
+      "keyword": "chatgpt login page",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis greece",
+      "keyword": "chatgpt login account",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis zzz",
+      "keyword": "chatgpt login free",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis countries",
+      "keyword": "chatgpt login gmail",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis news",
+      "keyword": "xbox game pass",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "debt crisis meaning",
+      "keyword": "cleveland cavaliers players",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iga świątek ranking",
+      "keyword": "cleveland cavaliers roster",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iga świątek prediction",
+      "keyword": "cleveland cavaliers schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iga świątek husband",
+      "keyword": "cleveland cavaliers news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "iga świątek height",
+      "keyword": "cleveland cavaliers tickets",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex rodriguez stats",
+      "keyword": "cleveland cavaliers championships",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex rodriguez ethnicity",
+      "keyword": "djia today live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex rodriguez girlfriend",
+      "keyword": "djia today now",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex rodriguez wife",
+      "keyword": "djia today chart",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex rodriguez age",
+      "keyword": "djia today close",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex rodriguez height",
+      "keyword": "djia today news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter wife",
+      "keyword": "djia today graph",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter height",
+      "keyword": "microsoft stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter stats",
+      "keyword": "microsoft stock today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +802,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter ethnicity",
+      "keyword": "microsoft stock forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter parents",
+      "keyword": "microsoft stock dividend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +820,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter kids",
+      "keyword": "microsoft stock news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +829,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "derek jeter young",
+      "keyword": "microsoft stock reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +838,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "donna vekic ranking",
+      "keyword": "grand central parkway",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +847,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "donna vekic age",
+      "keyword": "spcx stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +856,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "donna vekic partner",
+      "keyword": "pete hegseth speech",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +865,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfc south standings",
+      "keyword": "pete hegseth basketball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +874,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfc south teams",
+      "keyword": "pete hegseth wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,7 +883,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfc south division",
+      "keyword": "pete hegseth news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -856,34 +892,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfc south predictions",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nfc south odds",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nfc south 2025",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "iva jovic",
+      "keyword": "sun xinran",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "debt crisis",
+      "keyword": "chatgpt login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "iga świątek",
+      "keyword": "cleveland cavaliers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +919,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "alex rodriguez",
+      "keyword": "djia today",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -919,7 +928,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "derek jeter",
+      "keyword": "microsoft stock",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -928,16 +937,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "donna vekic",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nfc south",
+      "keyword": "pete hegseth",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -947,386 +947,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "ecuador vs panama where to watch",
-      "cluster": [
-        {
-          "keyword": "ecuador vs panama where to watch",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "ecuador vs panama en vivo",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ecuador vs panama live stream",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ecuador vs panama 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ecuador vs panama live",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ecuador vs panama today",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ecuador vs panama prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ecuador vs panama score",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ecuador vs panama hora",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ecuador vs panama",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "saints vs falcons last 5 games",
-      "cluster": [
-        {
-          "keyword": "saints vs falcons last 5 games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "saints vs falcons last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "saints vs falcons injury report",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "saints vs falcons score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "saints vs falcons predictions",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "saints vs falcons 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "saints vs falcons 2025",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "saints vs falcons history",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "saints vs falcons spread",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "saints vs falcons",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "falcons vs saints last 5 games",
-      "cluster": [
-        {
-          "keyword": "falcons vs saints last 5 games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "falcons vs saints score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "falcons vs saints last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "falcons vs saints injury report",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "falcons vs saints prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "falcons vs saints 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "falcons vs saints 2025",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "falcons vs saints history",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "falcons vs saints odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "falcons vs saints",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "donna vekic vs iga swiatek live",
-      "cluster": [
-        {
-          "keyword": "donna vekic vs iga swiatek live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "donna vekic vs iga swiatek h2h",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "donna vekic vs iga swiatek",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "donna vekic vs swiatek",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "donna vekic where to watch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "donna vekic iga swiatek",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "donna vekic ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "donna vekic age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "donna vekic partner",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "donna vekic",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1342,10 +962,10 @@
       ]
     },
     {
-      "pillar": "iva jovic vs kamilla rakhimova",
+      "pillar": "sun xinran vs coco gauff",
       "cluster": [
         {
-          "keyword": "iva jovic vs kamilla rakhimova",
+          "keyword": "sun xinran vs coco gauff",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1354,25 +974,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "iva jovic vs rakhimova",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "iva jovic vs",
+          "keyword": "sun xinran wta tour debut",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 67.0
         },
         {
-          "keyword": "iva jovic net worth",
+          "keyword": "sun xinran us open",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1381,7 +992,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "iva jovic age",
+          "keyword": "sun xinran tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1390,7 +1001,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iva jovic ranking",
+          "keyword": "sun xinran height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1399,7 +1010,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iva jovic prediction",
+          "keyword": "sun xinran utr",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1408,7 +1019,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iva jovic height",
+          "keyword": "sun xinran age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1417,7 +1028,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iva jovic parents",
+          "keyword": "sun xinran wta",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1426,7 +1037,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "iva jovic",
+          "keyword": "sun xinran itf",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sun xinran",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1483,105 +1103,28 @@
       ]
     },
     {
-      "pillar": "iga świątek vs rybakina",
+      "pillar": "xbox game pass october games leaving",
       "cluster": [
         {
-          "keyword": "iga świątek vs rybakina",
+          "keyword": "xbox game pass october games leaving",
           "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 70.0
         },
         {
-          "keyword": "iga świątek next match",
+          "keyword": "xbox game pass ultimate 12 months",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 70.0
         },
         {
-          "keyword": "iga świątek net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "iga świątek us open",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "iga świątek ranking wta",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "iga świątek ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iga świątek prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iga świątek husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iga świątek height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "iga świątek",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "alex rodriguez hall of fame",
-      "cluster": [
-        {
-          "keyword": "alex rodriguez hall of fame",
+          "keyword": "xbox game pass games list",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1590,7 +1133,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "alex rodriguez net worth",
+          "keyword": "xbox game pass new games",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "xbox game pass ultimate",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1599,7 +1151,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alex rodriguez rookie card",
+          "keyword": "xbox game pass price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1608,7 +1160,215 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alex rodriguez stats",
+          "keyword": "xbox game pass pc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "xbox game pass essential",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "xbox game pass premium",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "xbox game pass",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "spcx stock price today per share",
+      "cluster": [
+        {
+          "keyword": "spcx stock price today per share",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "spcx stock price prediction 2030",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "spcx stock price today live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "spcx stock price after hours",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "spcx stock price live",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spcx stock price today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spcx stock price chart",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spcx stock price target",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spcx stock price now",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spcx stock price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "prince harry news daily mail",
+      "cluster": [
+        {
+          "keyword": "prince harry news daily mail",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "prince harry news today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news health",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news bbc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news accident",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news latest",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news now",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "prince harry news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1617,7 +1377,66 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex rodriguez ethnicity",
+          "keyword": "prince harry newsweek",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "chatgpt login with gmail account",
+      "cluster": [
+        {
+          "keyword": "chatgpt login with gmail account",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "chatgpt login with google",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "chatgpt login issues today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "chatgpt login with email",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "chatgpt login with password",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "chatgpt login page",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1626,7 +1445,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex rodriguez girlfriend",
+          "keyword": "chatgpt login account",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1635,7 +1454,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex rodriguez wife",
+          "keyword": "chatgpt login free",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1463,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex rodriguez age",
+          "keyword": "chatgpt login gmail",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,16 +1472,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex rodriguez height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alex rodriguez",
+          "keyword": "chatgpt login",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1673,10 +1483,19 @@
       ]
     },
     {
-      "pillar": "derek jeter rookie card",
+      "pillar": "djia today - google search",
       "cluster": [
         {
-          "keyword": "derek jeter rookie card",
+          "keyword": "djia today - google search",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "djia today chart live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1685,7 +1504,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "derek jeter net worth",
+          "keyword": "djia today now news",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1694,7 +1513,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "derek jeter wife",
+          "keyword": "djia today live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1703,7 +1522,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "derek jeter height",
+          "keyword": "djia today now",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1712,7 +1531,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "derek jeter stats",
+          "keyword": "djia today chart",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1721,7 +1540,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "derek jeter ethnicity",
+          "keyword": "djia today close",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1730,7 +1549,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "derek jeter parents",
+          "keyword": "djia today news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1739,7 +1558,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "derek jeter kids",
+          "keyword": "djia today graph",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1748,16 +1567,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "derek jeter young",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "derek jeter",
+          "keyword": "djia today",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1768,10 +1578,37 @@
       ]
     },
     {
-      "pillar": "nfc south standings 2026",
+      "pillar": "grand central parkway las vegas",
       "cluster": [
         {
-          "keyword": "nfc south standings 2026",
+          "keyword": "grand central parkway las vegas",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "grand central parkway traffic now",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "grand central parkway new york",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "grand central parkway accident",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1780,7 +1617,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nfc south standings 2025",
+          "keyword": "grand central parkway traffic",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1789,7 +1626,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nfc south predictions 2026",
+          "keyword": "grand central parkway queens",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1798,7 +1635,75 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nfc south standings",
+          "keyword": "grand central parkway exits",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "grand central parkway map",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "grand central parkway school",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "grand central parkway",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "cleveland cavaliers roster 2026",
+      "cluster": [
+        {
+          "keyword": "cleveland cavaliers roster 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cleveland cavaliers depth chart",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cleveland cavaliers trade rumors",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cleveland cavaliers players",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1807,7 +1712,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfc south teams",
+          "keyword": "cleveland cavaliers roster",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1816,7 +1721,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfc south division",
+          "keyword": "cleveland cavaliers schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1825,7 +1730,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfc south predictions",
+          "keyword": "cleveland cavaliers news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1834,7 +1739,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfc south odds",
+          "keyword": "cleveland cavaliers tickets",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1843,7 +1748,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfc south 2025",
+          "keyword": "cleveland cavaliers championships",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1852,7 +1757,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfc south",
+          "keyword": "cleveland cavaliers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1863,10 +1768,37 @@
       ]
     },
     {
-      "pillar": "debt crisis us",
+      "pillar": "microsoft stock price today",
       "cluster": [
         {
-          "keyword": "debt crisis us",
+          "keyword": "microsoft stock price today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "microsoft stock price target",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "microsoft stock price prediction",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "microsoft stock price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1875,7 +1807,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis reddit",
+          "keyword": "microsoft stock today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1884,7 +1816,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis suzerain",
+          "keyword": "microsoft stock forecast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1893,7 +1825,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis 1980s",
+          "keyword": "microsoft stock dividend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1902,7 +1834,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis greece",
+          "keyword": "microsoft stock news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1911,7 +1843,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis zzz",
+          "keyword": "microsoft stock reddit",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1920,7 +1852,66 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis countries",
+          "keyword": "microsoft stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "pete hegseth military service",
+      "cluster": [
+        {
+          "keyword": "pete hegseth military service",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth princeton basketball",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth college basketball",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth military career",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth speech",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1929,7 +1920,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis news",
+          "keyword": "pete hegseth basketball",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1938,7 +1929,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis meaning",
+          "keyword": "pete hegseth wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1947,7 +1938,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "debt crisis",
+          "keyword": "pete hegseth news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pete hegseth",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
