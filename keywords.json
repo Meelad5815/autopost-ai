@@ -181,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "spcx stock price after hours",
+      "keyword": "pete hegseth department of war",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -191,6 +191,15 @@
     },
     {
       "keyword": "prince harry news today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "prince harry news reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,15 +226,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "prince harry news accident",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "prince harry news latest",
       "intent": "informational",
       "demand": 64.0,
@@ -235,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "prince harry news reddit",
+      "keyword": "prince harry news now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +244,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "prince harry news now",
+      "keyword": "prince harry news baby",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "sun xinran coco gauff",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,6 +496,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "spcx stock price prediction",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "spcx stock price chart",
       "intent": "informational",
       "demand": 64.0,
@@ -541,24 +559,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pete hegseth college basketball",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pete hegseth military career",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "prince harry news",
       "intent": "informational",
       "demand": 58.0,
@@ -577,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sun xinran tennis",
+      "keyword": "sun xinran height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sun xinran height",
+      "keyword": "sun xinran tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,15 +622,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sun xinran itf",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "chatgpt login page",
       "intent": "informational",
       "demand": 58.0,
@@ -640,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chatgpt login account",
+      "keyword": "chatgpt login free",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chatgpt login free",
+      "keyword": "chatgpt login account",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -892,6 +883,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "pete hegseth eagle",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "sun xinran",
       "intent": "informational",
       "demand": 52.0,
@@ -983,6 +983,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "sun xinran coco gauff",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "sun xinran us open",
           "intent": "informational",
           "demand": 64.0,
@@ -992,7 +1001,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "sun xinran tennis",
+          "keyword": "sun xinran height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1001,7 +1010,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sun xinran height",
+          "keyword": "sun xinran tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1029,15 +1038,6 @@
         },
         {
           "keyword": "sun xinran wta",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sun xinran itf",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1228,15 +1228,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "spcx stock price after hours",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "spcx stock price live",
           "intent": "informational",
           "demand": 64.0,
@@ -1247,6 +1238,15 @@
         },
         {
           "keyword": "spcx stock price today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spcx stock price prediction",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1314,6 +1314,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "prince harry news reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "prince harry news health",
           "intent": "informational",
           "demand": 64.0,
@@ -1332,15 +1341,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "prince harry news accident",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "prince harry news latest",
           "intent": "informational",
           "demand": 64.0,
@@ -1350,7 +1350,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "prince harry news reddit",
+          "keyword": "prince harry news now",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1359,7 +1359,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "prince harry news now",
+          "keyword": "prince harry news baby",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1445,7 +1445,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chatgpt login account",
+          "keyword": "chatgpt login free",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1454,7 +1454,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chatgpt login free",
+          "keyword": "chatgpt login account",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1673,6 +1673,101 @@
       ]
     },
     {
+      "pillar": "pete hegseth department of war",
+      "cluster": [
+        {
+          "keyword": "pete hegseth department of war",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pete hegseth military service",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth princeton basketball",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pete hegseth speech",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pete hegseth basketball",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pete hegseth wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pete hegseth news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pete hegseth eagle",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pete hegseth",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "cleveland cavaliers roster 2026",
       "cluster": [
         {
@@ -1853,101 +1948,6 @@
         },
         {
           "keyword": "microsoft stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "pete hegseth military service",
-      "cluster": [
-        {
-          "keyword": "pete hegseth military service",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pete hegseth net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pete hegseth princeton basketball",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pete hegseth college basketball",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pete hegseth military career",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pete hegseth speech",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pete hegseth basketball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pete hegseth wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pete hegseth news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pete hegseth",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
