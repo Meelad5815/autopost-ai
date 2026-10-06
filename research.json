@@ -1,87 +1,91 @@
 {
-  "generated_at": "2026-10-06T09:16:34.218799+00:00",
+  "generated_at": "2026-10-06T16:10:24.129486+00:00",
   "feed_count": 8,
-  "item_count": 160,
+  "item_count": 159,
   "items": [
     {
-      "title": "car",
+      "title": "publix",
       "source": "google_trends_us"
     },
     {
-      "title": "sinja kraus",
+      "title": "national coaches day",
       "source": "google_trends_us"
     },
     {
-      "title": "raw results",
+      "title": "riots in france",
       "source": "google_trends_us"
     },
     {
-      "title": "servicio de ciudadanía e inmigración de los estados unidos",
+      "title": "pieper high school",
       "source": "google_trends_us"
     },
     {
-      "title": "ben affleck",
+      "title": "how old is michael douglas",
       "source": "google_trends_us"
     },
     {
-      "title": "flight cancellation and delay",
+      "title": "taylor swift travis kelce nyc dinner",
       "source": "google_trends_us"
     },
     {
-      "title": "karolina muchova",
+      "title": "sam mcdowell",
       "source": "google_trends_us"
     },
     {
-      "title": "clayton iley",
+      "title": "kyle whittingham",
       "source": "google_trends_us"
     },
     {
-      "title": "kyrian jacquet",
+      "title": "naman dhir",
       "source": "google_trends_us"
     },
     {
-      "title": "measles outbreak new york",
+      "title": "amber heard",
       "source": "google_trends_us"
     },
     {
-      "title": "nic maddinson",
+      "title": "protest",
       "source": "google_trends_pk"
     },
     {
-      "title": "agriculture",
+      "title": "bangladesh women&apos;s national under-19 cricket team",
       "source": "google_trends_pk"
     },
     {
-      "title": "saudi arabia pakistan",
+      "title": "maryam nawaz un habitat award",
       "source": "google_trends_pk"
     },
     {
-      "title": "the batman",
+      "title": "matthew forde",
       "source": "google_trends_pk"
     },
     {
-      "title": "world championship of legends cricket",
+      "title": "world space week 2026",
       "source": "google_trends_pk"
     },
     {
-      "title": "money laundering",
+      "title": "shehbaz sharif",
       "source": "google_trends_pk"
     },
     {
-      "title": "mongolia vs kuwait",
+      "title": "india vs uruguay",
       "source": "google_trends_pk"
     },
     {
-      "title": "oppo f35 pro 5g",
+      "title": "rovman powell",
       "source": "google_trends_pk"
     },
     {
-      "title": "capital punishment",
+      "title": "romania vs sweden",
       "source": "google_trends_pk"
     },
     {
-      "title": "the social reckoning",
-      "source": "google_trends_pk"
+      "title": "EmbeddingGemma 2: The Developer Guide",
+      "source": "google_developers"
+    },
+    {
+      "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "source": "google_developers"
     },
     {
       "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
@@ -156,14 +160,6 @@
       "source": "google_developers"
     },
     {
-      "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
-      "source": "google_developers"
-    },
-    {
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-      "source": "google_developers"
-    },
-    {
       "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
       "source": "google_news_ai"
     },
@@ -176,11 +172,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "FANUC America Brings AI-Powered Robotics and Intelligent Packaging Automation to PACK EXPO International 2026 - Morningstar",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Teradyne invests in Bright Machines to bring robotics to AI infrastructure manufacturing - The Robot Report",
       "source": "google_news_ai"
     },
     {
-      "title": "Agentic AI moves into enterprise execution - siliconangle.com",
+      "title": "This Week: AI Gets Serious About Running Workflows - UC Today",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Agentic AI moves into enterprise execution - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ServiceNow takes aim at enterprise AI’s workflow bottleneck with AI Workflow Factory - CIO",
       "source": "google_news_ai"
     },
     {
@@ -188,7 +196,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - techcrunch.com",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - TechCrunch",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "No. 35: AI and Effective Automation - Qualified Remodeler",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "SailPoint adds AI agent discovery, temporary access and compliance automation - Help Net Security",
       "source": "google_news_ai"
     },
     {
@@ -196,7 +212,27 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Beyond Automation: Rethinking Work, Human Value in Age of AI - Mexico Business News",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Techman Robot strengthens cybersecurity for trusted Physical AI deployment - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "International Federation of Robotics - IFR International Federation of Robotics",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Deutsche Telekom Targets $2.8 Billion in Savings as AI and Automation Reshape Telecom Operations - Spherical Insights",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Perplexity and American Express Launch AI Skills for Business Automation - Konsulteer",
       "source": "google_news_ai"
     },
     {
@@ -208,47 +244,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "2027 manufacturing conferences and trade shows - Manufacturing Dive",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Automation of Office Tasks: AI Replacing Traditional Duties in Europe - Nacionale News",
+      "source": "google_news_ai"
+    },
+    {
       "title": "HCLSoftware To Acquire Robotiq.ai To Expand Agentic Automation Platform - Pulse 2.0",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Public Sector AI Starts with Better Processes - Forvis Mazars US",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Collibra Acquires trail ML to Automate AI Governance from Policy to Production - HPCwire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AWS seeks to automate cloud optimization with new AI agent - cio.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "These Are the 4 Tasks AI Shouldn’t Do For Your Business Yet - CPA Practice Advisor",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Year of the pivot: Repositioning around AI, software and other factors impacting industrial automation - controlglobal.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Robotics, Automation &amp; AI Rising Star Awards Winner 2026: Sanjuksha Nirgude - Tech Briefs",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "BMA Conventions Reveals Dallas as Host City for 2027 Smart Manufacturing &amp; AI Automation Conference - StreetInsider",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies - Dark Reading",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Cognex Set to Buy RealSense for Robot Vision Tech - designnews.com",
       "source": "google_news_ai"
     },
     {
@@ -256,35 +260,27 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens, TD SYNNEX Announce Partnership For IT/OT Convergence, Physical AI Adoption - Automation World",
+      "title": "Public Sector AI Starts with Better Processes - Forvis Mazars US",
       "source": "google_news_ai"
     },
     {
-      "title": "This Week: AI Gets Serious About Running Workflows - UC Today",
+      "title": "These Are the 4 Tasks AI Shouldn’t Do For Your Business Yet - CPA Practice Advisor",
       "source": "google_news_ai"
     },
     {
-      "title": "TikTok expands AI push with shopping, search and ad automation - Performance Marketing World",
+      "title": "Collibra Acquires trail ML to Automate AI Governance from Policy to Production - HPCwire",
       "source": "google_news_ai"
     },
     {
-      "title": "Collibra Acquires trail ML to Automate AI Governance From Policy to Production - citybiz",
+      "title": "Form Follows Function - IFR International Federation of Robotics",
       "source": "google_news_ai"
     },
     {
-      "title": "Balancing speed, security, and control across commercial workflows - cio.com",
+      "title": "Industry Insights: This Disembodied Robot Hand Moves on its Own - A3 Association for Advancing Automation",
       "source": "google_news_ai"
     },
     {
-      "title": "Why Is UiPath (PATH) Pushing Deeper Into AI Automation And Compliance? - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Okuma America Debuts New Machines, Controls and Automation Systems From: Okuma America Corporation - Industrial Equipment News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google: How Long It Takes Google Search For Crawling, Indexing &amp; Serving - seroundtable.com",
+      "title": "Google: How Long It Takes Google Search For Crawling, Indexing &amp; Serving - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -292,23 +288,39 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Spam Updates Use AI To Find AI Spam &amp; More - seroundtable.com",
+      "title": "Google Search Spam Updates Use AI To Find AI Spam &amp; More - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Dark Mode Coming To Google Search Console - seroundtable.com",
+      "title": "Google On Large Product Aggregator Websites Rankings - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google AI Overviews Are Cutting Website Clicks in Half: What That Means for Your Business - The Daily Tribune News",
+      "title": "Dark Mode Coming To Google Search Console - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Add Social Profiles to Search Console - Practical Ecommerce",
+      "title": "Google Search Console Performance Report Multi-Select Country Filters - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Automated SEO Software to Rank on Google and ChatGPT – Sorank - usatoday.com",
+      "title": "Google Search Console Search Generative AI Control Page Adds Top-Level Notice - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "AI scraping puts SEO trackers in Google’s defensive line - YourStory.com",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Console lets sites view several countries as one total - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Amit Gupta SEO Services Expands Its SEO Approach for Google and AI-Powered Search - The Tribune",
       "source": "google_news_seo"
     },
     {
@@ -316,23 +328,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Why Google is pushing advertisers toward demand-led budgeting - Search Engine Land",
+      "title": "Automated SEO Software to Rank on Google and ChatGPT – Sorank - USA Today",
       "source": "google_news_seo"
     },
     {
-      "title": "Explaining GEO - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "How AI summaries make it harder for NJ companies to reach consumers - mycentraljersey.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Birch Stream Digital Helps Local Service Businesses Dominate Google Search and Maps in Winston-Salem - WBOC TV",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse - Search Engine Journal",
+      "title": "Google AI Overviews Are Cutting Website Clicks in Half: What That Means for Your Business - lincolnjournal.com",
       "source": "google_news_seo"
     },
     {
@@ -344,19 +344,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Tells Sites To Fact-Check AI Content Before Publishing - Search Engine Journal",
+      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Adds Fake Author Warning To Helpful Content Guidance - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Generative engine optimization (GEO): How to win AI mentions - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Video: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad &amp; Terrible and more - seroundtable.com",
+      "title": "Google Warns Against Deceptive Authorship Information Within Content - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -364,43 +356,47 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google September 2026 Spam Update Phase Three Hit October 4 - 6 - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Adds Fake Author Warning To Helpful Content Guidance - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Add Social Profiles to Search Console - Practical Ecommerce",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Tells Sites To Fact-Check AI Content Before Publishing - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Why Google is pushing advertisers toward demand-led budgeting - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Generative engine optimization (GEO): How to win AI mentions - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Video: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad &amp; Terrible and more - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "How AI summaries make it harder for NJ companies to reach consumers - Central New Jersey News",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Birch Stream Digital Helps Local Service Businesses Dominate Google Search and Maps in Winston-Salem - WBOC TV",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Helpful Content Doc With New Main Content &amp; EOT/SA Sections - seroundtable.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google AI Overviews cut self-ranking listicle citations 38%, Lily Ray finds - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Zoom user stats: How Many people use Zoom? - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Explains What AI Search Optimization Requires - thekeyword.co",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Decline Steepened To 40% YoY For Publishers - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google: Manually Factcheck &amp; Review AI-Generated Content For Accuracy - seroundtable.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google may skip sitemaps on sites it deems low quality - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "What Do AI Overviews Mean for SEO in 2025? - Exploding Topics",
+      "title": "Explaining GEO - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -408,11 +404,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress libheif Exploit Chain Turns Malicious HEIC Uploads Into Remote Code Execution - cyberpress.org",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Cloudflare Details its Migration to \"WordPress Successor\" EmDash - infoq.com",
+      "title": "Malicious HEIC Images Can Trigger Remote Code Execution on WordPress Servers - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
@@ -424,11 +416,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
+      "title": "Cloudflare Details its Migration to \"WordPress Successor\" EmDash - infoq.com",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Elementor WordPress flaw lets attackers create admin accounts - BleepingComputer",
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -436,7 +428,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks - BleepingComputer",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Elementor WordPress flaw lets attackers create admin accounts - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
@@ -448,23 +448,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Malicious HEIC Images Can Trigger Remote Code Execution on WordPress Servers - CyberSecurityNews",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "WordPress Accessibility Issues That Are Getting Sites Sued in 2026 - SitePoint",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress libheif RCE Exploit Chain Goes Public - cyberkendra.com",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "MCP Adapter lands on WordPress, the official plugin for AI agents - Pasquale Pillitteri",
+      "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
       "title": "What Is WordPress Hosting? Quick Guide - Miami Herald",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Cheap WordPress hosting that’s actually worth it in 2026 - Cybernews",
       "source": "google_news_wordpress"
     },
     {
@@ -476,17 +472,21 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Security: 22 Ways to Keep Your Website Safe - Hostinger",
+      "title": "MCP Adapter lands on WordPress, the official plugin for AI agents - pasqualepillitteri.it",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Buying Time, Burning Gas - Energy Institute Blog",
+      "title": "WordPress Export Posts: 4 Methods That Work - Hostinger",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "When Gilded Age New York City went to war against banana peels - Ephemeral New York",
       "source": "google_news_wordpress"
     }
   ],
   "improvement_queue": [
-    "Review local-AI prompts and AI-tool topics for freshness.",
     "Review SEO/content rules against current Google Search guidance.",
+    "Review local-AI prompts and AI-tool topics for freshness.",
     "Refresh WordPress topic clusters."
   ],
   "policy": {
