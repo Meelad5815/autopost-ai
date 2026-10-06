@@ -37,6 +37,15 @@
       "learned_score": 73.0
     },
     {
+      "keyword": "pieper high school san antonio lockdown today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
       "keyword": "how old is michael douglas the actor",
       "intent": "informational",
       "demand": 70.0,
@@ -64,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pieper high school football schedule 2026",
+      "keyword": "riots in france today fox news",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pieper high school on lockdown today",
+      "keyword": "pieper high school comal isd lockdown",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -154,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "national coaches day gift ideas",
+      "keyword": "national coaches day 2026 image",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,25 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "riots in france right now",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "riots in france today live",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "riots in france last night",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +199,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pieper high school football schedule",
+      "keyword": "pieper high school lockdown today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "pieper high school lockdown news",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -236,15 +236,6 @@
     },
     {
       "keyword": "taylor swift highest grossing tour",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "sam mcdowell hall of fame",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day post",
+      "keyword": "national coaches day quotes",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day soccer",
+      "keyword": "national coaches day post",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,6 +316,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "national coaches day soccer",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "national coaches day usag",
       "intent": "informational",
       "demand": 64.0,
@@ -334,16 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day 2027",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "national coaches day trips",
+      "keyword": "national coaches day gymnastics",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france now",
+      "keyword": "riots in france cause",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +379,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france yesterday",
+      "keyword": "riots in france reddit",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "riots in france now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,15 +406,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school football",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "pieper high school shooting",
       "intent": "informational",
       "demand": 64.0,
@@ -424,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school photos",
+      "keyword": "pieper high school news",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school texas",
+      "keyword": "pieper high school football",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,16 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sam mcdowell net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "sam mcdowell career stats",
+      "keyword": "sam mcdowell sam malone",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -604,15 +586,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell stats",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "sam mcdowell dead",
       "intent": "informational",
       "demand": 58.0,
@@ -622,7 +595,34 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell knives",
+      "keyword": "sam mcdowell pirates",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sam mcdowell stats",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sam mcdowell yankees",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sam mcdowell dies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,6 +739,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "amber heard spain",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "amber heard kids",
       "intent": "informational",
       "demand": 58.0,
@@ -776,15 +785,6 @@
     },
     {
       "keyword": "amber heard age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber heard spain",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1012,6 +1012,101 @@
       ]
     },
     {
+      "pillar": "pieper high school san antonio lockdown today",
+      "cluster": [
+        {
+          "keyword": "pieper high school san antonio lockdown today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "pieper high school comal isd lockdown",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "pieper high school san antonio",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pieper high school lockdown today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pieper high school lockdown news",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pieper high school lockdown",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pieper high school shooting",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pieper high school news",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pieper high school football",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pieper high school",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "wordpress website development price in pakistan",
       "cluster": [
         {
@@ -1044,10 +1139,10 @@
       ]
     },
     {
-      "pillar": "pieper high school football schedule 2026",
+      "pillar": "riots in france today fox news",
       "cluster": [
         {
-          "keyword": "pieper high school football schedule 2026",
+          "keyword": "riots in france today fox news",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1056,16 +1151,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "pieper high school on lockdown today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pieper high school san antonio",
+          "keyword": "riots in france october 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1074,7 +1160,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "pieper high school football schedule",
+          "keyword": "riots in france today live",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1083,7 +1169,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "pieper high school lockdown",
+          "keyword": "riots in france today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1092,7 +1178,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pieper high school football",
+          "keyword": "riots in france why",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1101,7 +1187,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pieper high school shooting",
+          "keyword": "riots in france 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1110,7 +1196,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pieper high school photos",
+          "keyword": "riots in france cause",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1119,7 +1205,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pieper high school texas",
+          "keyword": "riots in france reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1128,7 +1214,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pieper high school",
+          "keyword": "riots in france now",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "riots in france",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1180,10 +1275,10 @@
       ]
     },
     {
-      "pillar": "national coaches day gift ideas",
+      "pillar": "national coaches day 2026 image",
       "cluster": [
         {
-          "keyword": "national coaches day gift ideas",
+          "keyword": "national coaches day 2026 image",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1201,7 +1296,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "national coaches day post",
+          "keyword": "national coaches day quotes",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1219,7 +1314,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "national coaches day soccer",
+          "keyword": "national coaches day post",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1237,6 +1332,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "national coaches day soccer",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "national coaches day usag",
           "intent": "informational",
           "demand": 64.0,
@@ -1246,16 +1350,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "national coaches day 2027",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day trips",
+          "keyword": "national coaches day gymnastics",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1271,196 +1366,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "riots in france october 2026",
-      "cluster": [
-        {
-          "keyword": "riots in france october 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "riots in france right now",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "riots in france today live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "riots in france last night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "riots in france today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france why",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france now",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france yesterday",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "sam mcdowell hall of fame",
-      "cluster": [
-        {
-          "keyword": "sam mcdowell hall of fame",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "sam mcdowell net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sam mcdowell career stats",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sam mcdowell baseball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell obit",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell dead",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell knives",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1550,6 +1455,101 @@
         },
         {
           "keyword": "kyle whittingham",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "sam mcdowell sam malone",
+      "cluster": [
+        {
+          "keyword": "sam mcdowell sam malone",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sam mcdowell baseball",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell obit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell dead",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell pirates",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell yankees",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell dies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sam mcdowell",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1685,6 +1685,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "amber heard spain",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "amber heard kids",
           "intent": "informational",
           "demand": 58.0,
@@ -1722,15 +1731,6 @@
         },
         {
           "keyword": "amber heard age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard spain",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
