@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:59:51.698335+00:00",
+  "generated_at": "2026-10-06T06:14:37.795012+00:00",
   "status": "needs_review",
   "checks": [
     {
@@ -26,7 +26,7 @@
         "-q"
       ],
       "returncode": 1,
-      "stdout": "......F                                                                  [100%]\n=================================== FAILURES ===================================\n_________ test_generated_html_has_accessibility_and_canonical_markers __________\n\n    def test_generated_html_has_accessibility_and_canonical_markers():\n        root=Path(\"data/website_factory/site\")\n        if root.exists():\n            pages=list(root.glob(\"*.html\"))\n            for p in pages:\n                s=p.read_text(encoding=\"utf-8\")\n>               assert 'class=\"skip-link\"' in s\nE               assert 'class=\"skip-link\"' in '<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-...</main><footer>© MRK Digital &amp; Online Services Center — Built with MRK Free Website Factory</footer></body></html>'\n\ntests/test_mrk_upgrade.py:40: AssertionError\n=========================== short test summary info ============================\nFAILED tests/test_mrk_upgrade.py::test_generated_html_has_accessibility_and_canonical_markers - assert 'class=\"skip-link\"' in '<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-...</main><footer>© MRK Digital &amp; Online Services Center — Built with MRK Free Website Factory</footer></body></html>'\n1 failed, 6 passed in 0.05s\n",
+      "stdout": "......F                                                                  [100%]\n=================================== FAILURES ===================================\n_________ test_generated_html_has_accessibility_and_canonical_markers __________\n\n    def test_generated_html_has_accessibility_and_canonical_markers():\n        root=Path(\"data/website_factory/site\")\n        if root.exists():\n            pages=list(root.glob(\"*.html\"))\n            for p in pages:\n                s=p.read_text(encoding=\"utf-8\")\n>               assert 'class=\"skip-link\"' in s\nE               assert 'class=\"skip-link\"' in '<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-...</main><footer>© MRK Digital &amp; Online Services Center — Built with MRK Free Website Factory</footer></body></html>'\n\ntests/test_mrk_upgrade.py:40: AssertionError\n=========================== short test summary info ============================\nFAILED tests/test_mrk_upgrade.py::test_generated_html_has_accessibility_and_canonical_markers - assert 'class=\"skip-link\"' in '<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-...</main><footer>© MRK Digital &amp; Online Services Center — Built with MRK Free Website Factory</footer></body></html>'\n1 failed, 6 passed in 0.04s\n",
       "stderr": ""
     }
   ],
