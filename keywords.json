@@ -82,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "josh jacobs green bay packers news",
+      "keyword": "josh jacobs green bay packers status",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,7 +91,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "josh jacobs green bay packers status",
+      "keyword": "josh jacobs green bay packers news",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "30 year treasury yield history",
+      "keyword": "30 year treasury yield rate",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "30 year treasury yield rate",
+      "keyword": "30 year treasury yield history",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -343,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jeremy allen white kids",
+      "keyword": "jeremy allen white parents",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jeremy allen white parents",
+      "keyword": "jeremy allen white kids",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +406,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "billie lourd kids",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "billie lourd ahs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "billie lourd grandmother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,25 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "billie lourd children",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "billie lourd movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "billie lourd father",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tormenta tropical florida",
+      "keyword": "tormenta en florida",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tormenta en florida",
+      "keyword": "tormenta in english",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1001,7 +1001,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "30 year treasury yield history",
+          "keyword": "30 year treasury yield rate",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1010,7 +1010,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "30 year treasury yield rate",
+          "keyword": "30 year treasury yield history",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1074,7 +1074,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "josh jacobs green bay packers news",
+          "keyword": "josh jacobs green bay packers status",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1083,7 +1083,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "josh jacobs green bay packers status",
+          "keyword": "josh jacobs green bay packers news",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1214,7 +1214,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jeremy allen white kids",
+          "keyword": "jeremy allen white parents",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1223,7 +1223,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jeremy allen white parents",
+          "keyword": "jeremy allen white kids",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1409,7 +1409,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "billie lourd kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "billie lourd ahs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "billie lourd grandmother",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,25 +1445,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "billie lourd children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "billie lourd movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "billie lourd father",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1703,7 +1703,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tormenta tropical florida",
+          "keyword": "tormenta en florida",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1712,7 +1712,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tormenta en florida",
+          "keyword": "tormenta in english",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
