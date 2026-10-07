@@ -91,7 +91,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "josh jacobs green bay packers girlfriend",
+      "keyword": "josh jacobs green bay packers status",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "josh jacobs green bay packers status",
+      "keyword": "josh jacobs green bay packers girlfriend",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "30 year treasury yield rate",
+      "keyword": "30 year treasury yield history",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "30 year treasury yield history",
+      "keyword": "30 year treasury yield rate",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,6 +244,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "jeremy allen white new movie",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "jeremy allen white gene wilder",
       "intent": "informational",
       "demand": 70.0,
@@ -263,15 +272,6 @@
     },
     {
       "keyword": "billie lourd star wars",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "billie lourd ahs 13",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,15 +361,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jeremy allen white mandalorian",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "brit hume net worth",
       "intent": "informational",
       "demand": 64.0,
@@ -406,6 +397,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "billie lourd husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "billie lourd ahs",
       "intent": "informational",
       "demand": 58.0,
@@ -424,15 +424,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "billie lourd husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "billie lourd children",
       "intent": "informational",
       "demand": 58.0,
@@ -443,6 +434,15 @@
     },
     {
       "keyword": "billie lourd movies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "billie lourd father",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,15 +478,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tormenta tropical florida",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tormenta tropical isaias",
       "intent": "informational",
       "demand": 58.0,
@@ -496,7 +487,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tormenta in english",
+      "keyword": "tormenta tropical hoy",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tormenta tropical florida",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tormenta en florida",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rupert murdoch children",
+      "keyword": "rupert murdoch wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rupert murdoch wife",
+      "keyword": "rupert murdoch children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -794,15 +803,6 @@
     },
     {
       "keyword": "tormenta isaias",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tormenta fc",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1001,7 +1001,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "30 year treasury yield rate",
+          "keyword": "30 year treasury yield history",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1010,7 +1010,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "30 year treasury yield history",
+          "keyword": "30 year treasury yield rate",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1083,7 +1083,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "josh jacobs green bay packers girlfriend",
+          "keyword": "josh jacobs green bay packers status",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1092,7 +1092,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "josh jacobs green bay packers status",
+          "keyword": "josh jacobs green bay packers girlfriend",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1178,6 +1178,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "jeremy allen white new movie",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "jeremy allen white gene wilder",
           "intent": "informational",
           "demand": 70.0,
@@ -1215,15 +1224,6 @@
         },
         {
           "keyword": "jeremy allen white parents",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jeremy allen white mandalorian",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1391,16 +1391,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "billie lourd ahs 13",
+          "keyword": "billie lourd parents",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "billie lourd parents",
+          "keyword": "billie lourd husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,15 +1427,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "billie lourd husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "billie lourd children",
           "intent": "informational",
           "demand": 58.0,
@@ -1446,6 +1437,15 @@
         },
         {
           "keyword": "billie lourd movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "billie lourd father",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1477,7 +1477,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "rupert murdoch children",
+          "keyword": "rupert murdoch wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1486,7 +1486,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rupert murdoch wife",
+          "keyword": "rupert murdoch children",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1685,15 +1685,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tormenta tropical florida",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "tormenta tropical isaias",
           "intent": "informational",
           "demand": 58.0,
@@ -1703,7 +1694,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tormenta in english",
+          "keyword": "tormenta tropical hoy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tormenta tropical florida",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tormenta en florida",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1722,15 +1731,6 @@
         },
         {
           "keyword": "tormenta isaias",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tormenta fc",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
