@@ -424,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "billie lourd grandmother",
+      "keyword": "billie lourd mom",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "billie lourd mom",
+      "keyword": "billie lourd grandma",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,15 +487,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tormenta tropical hoy",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tormenta en florida",
       "intent": "informational",
       "demand": 58.0,
@@ -505,7 +496,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tormenta in english",
+      "keyword": "tormenta isaias 2026",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tormenta tropical hoy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1427,7 +1427,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "billie lourd grandmother",
+          "keyword": "billie lourd mom",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1436,7 +1436,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "billie lourd mom",
+          "keyword": "billie lourd grandma",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1694,15 +1694,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tormenta tropical hoy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "tormenta en florida",
           "intent": "informational",
           "demand": 58.0,
@@ -1712,7 +1703,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tormenta in english",
+          "keyword": "tormenta isaias 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tormenta tropical hoy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
