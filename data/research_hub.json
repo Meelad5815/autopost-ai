@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:42:55.719348+00:00",
+  "generated_at": "2026-10-07T17:26:41.281099+00:00",
   "queries": [
     "wordpress website development tools",
     "web development automation tools",
@@ -40,7 +40,7 @@
       "language": null,
       "license": "BSL-1.0",
       "url": "https://github.com/BabyJ723/blast-ON",
-      "updated_at": "2026-09-30T22:33:11Z",
+      "updated_at": "2026-10-07T09:48:42Z",
       "query": "wordpress website development tools"
     },
     {
@@ -183,7 +183,7 @@
       "language": "JavaScript",
       "license": "NOASSERTION",
       "url": "https://github.com/rxmna8502/vybe-intelligence-vault",
-      "updated_at": "2026-10-07T07:03:26Z",
+      "updated_at": "2026-10-07T16:18:13Z",
       "query": "web development automation tools"
     },
     {
@@ -234,11 +234,11 @@
       "source": "github",
       "name": "ericosiu/ai-marketing-skills",
       "description": "Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "stars": 3612,
+      "stars": 3614,
       "language": "Python",
       "license": "MIT",
       "url": "https://github.com/ericosiu/ai-marketing-skills",
-      "updated_at": "2026-10-07T07:53:40Z",
+      "updated_at": "2026-10-07T12:59:36Z",
       "query": "SEO automation open source"
     },
     {
@@ -256,11 +256,11 @@
       "source": "github",
       "name": "garrettjsmith/localseoskills",
       "description": "Open-source Claude SEO tool for local search visibility — skills, tool integrations, and automation templates that turn Claude into a Local SEO expert.",
-      "stars": 113,
+      "stars": 114,
       "language": "PowerShell",
       "license": "MIT",
       "url": "https://github.com/garrettjsmith/localseoskills",
-      "updated_at": "2026-10-07T08:12:05Z",
+      "updated_at": "2026-10-07T12:38:39Z",
       "query": "SEO automation open source"
     },
     {
@@ -344,11 +344,11 @@
       "source": "github",
       "name": "enescingoz/awesome-n8n-templates",
       "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
-      "stars": 25778,
+      "stars": 25783,
       "language": null,
       "license": "NOASSERTION",
       "url": "https://github.com/enescingoz/awesome-n8n-templates",
-      "updated_at": "2026-10-07T07:32:27Z",
+      "updated_at": "2026-10-07T15:45:17Z",
       "query": "social media automation open source"
     },
     {
@@ -454,121 +454,121 @@
       "source": "github",
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144071,
+      "stars": 144077,
       "language": null,
       "license": "GPL-3.0",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "updated_at": "2026-10-07T07:53:40Z",
+      "updated_at": "2026-10-07T17:25:32Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "career-ops-hq/career-ops",
       "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
-      "stars": 73665,
+      "stars": 73701,
       "language": "JavaScript",
       "license": "MIT",
       "url": "https://github.com/career-ops-hq/career-ops",
-      "updated_at": "2026-10-07T08:41:33Z",
+      "updated_at": "2026-10-07T17:22:59Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 64802,
+      "stars": 64940,
       "language": "Python",
       "license": "AGPL-3.0",
       "url": "https://github.com/calesthio/OpenMontage",
-      "updated_at": "2026-10-07T08:42:02Z",
+      "updated_at": "2026-10-07T17:25:17Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 55025,
+      "stars": 55037,
       "language": "Rust",
       "license": "Apache-2.0",
       "url": "https://github.com/aaif-goose/goose",
-      "updated_at": "2026-10-07T08:23:32Z",
+      "updated_at": "2026-10-07T16:50:51Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "LibreChat-AI/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "stars": 45357,
+      "stars": 45371,
       "language": "TypeScript",
       "license": "MIT",
       "url": "https://github.com/LibreChat-AI/LibreChat",
-      "updated_at": "2026-10-07T08:16:26Z",
+      "updated_at": "2026-10-07T16:33:26Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "ToolJet/ToolJet",
       "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
-      "stars": 41046,
+      "stars": 41045,
       "language": "JavaScript",
       "license": "AGPL-3.0",
       "url": "https://github.com/ToolJet/ToolJet",
-      "updated_at": "2026-10-07T07:08:47Z",
+      "updated_at": "2026-10-07T16:17:02Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "continuedev/continue",
       "description": "open-source coding agent",
-      "stars": 36144,
+      "stars": 36148,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/continuedev/continue",
-      "updated_at": "2026-10-07T07:17:25Z",
+      "updated_at": "2026-10-07T12:50:11Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "iOfficeAI/AionUi",
       "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "stars": 33347,
+      "stars": 33357,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/iOfficeAI/AionUi",
-      "updated_at": "2026-10-07T07:57:30Z",
+      "updated_at": "2026-10-07T15:24:31Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28340,
+      "stars": 28342,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/QwenLM/qwen-code",
-      "updated_at": "2026-10-07T08:29:37Z",
+      "updated_at": "2026-10-07T17:12:58Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "stars": 27683,
+      "stars": 27768,
       "language": "Swift",
       "license": "NOASSERTION",
       "url": "https://github.com/manaflow-ai/cmux",
-      "updated_at": "2026-10-07T08:38:55Z",
+      "updated_at": "2026-10-07T17:25:11Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "matomo-org/matomo",
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
-      "stars": 21930,
+      "stars": 21932,
       "language": "PHP",
       "license": "GPL-3.0",
       "url": "https://github.com/matomo-org/matomo",
-      "updated_at": "2026-10-07T08:00:03Z",
+      "updated_at": "2026-10-07T17:10:58Z",
       "query": "website analytics open source"
     },
     {
@@ -590,7 +590,7 @@
       "language": "TypeScript",
       "license": "AGPL-3.0",
       "url": "https://github.com/Swetrix/swetrix",
-      "updated_at": "2026-10-07T05:21:26Z",
+      "updated_at": "2026-10-07T14:51:44Z",
       "query": "website analytics open source"
     },
     {
@@ -623,7 +623,7 @@
       "language": "PHP",
       "license": "GPL-3.0",
       "url": "https://github.com/matomo-org/tag-manager",
-      "updated_at": "2026-10-07T00:24:51Z",
+      "updated_at": "2026-10-07T11:49:34Z",
       "query": "website analytics open source"
     },
     {
