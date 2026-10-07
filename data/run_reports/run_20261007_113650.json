@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-10-07T11:36:50.993920+00:00",
+  "summary": {
+    "success": 0,
+    "updated": 0,
+    "skipped": 1
+  },
+  "results": [
+    {
+      "status": "skipped",
+      "reason": "quality_gate",
+      "topic": "AI tools that can run locally without paid APIs",
+      "title": "SEO automation: Complete Practical Guide (2026)",
+      "quality_reasons": [
+        "insufficient_headings",
+        "insufficient_paragraphs",
+        "topic_alignment"
+      ]
+    }
+  ]
+}

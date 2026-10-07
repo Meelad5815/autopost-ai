@@ -1,6 +1,33 @@
 {
   "keywords": [
     {
+      "keyword": "iga swiatek vs iva jovic prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "iga swiatek vs iva jovic h2h",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "iva jovic vs iga swiatek h2h",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,43 +37,79 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "how old is michael douglas and catherine zeta jones",
+      "keyword": "nikoloz basilashvili vs liam draxl",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
       "learning_boost": 0.0,
-      "learned_score": 76.0
+      "learned_score": 75.4
     },
     {
-      "keyword": "how old is michael douglas and his wife",
+      "keyword": "adrian mannarino vs nikoloz basilashvili",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
       "learning_boost": 0.0,
-      "learned_score": 76.0
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "iga swiatek vs iva jovic",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "iga swiatek vs elena rybakina",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "iga swiatek vs jovic prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "iva jovic vs iga swiatek",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "jaime faria vs arthur gea",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "jaime faria vs gea prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "pieper high school san antonio lockdown today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "how old is michael douglas the actor",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -73,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "riots in france today fox news",
+      "keyword": "julio iglesias con la misma piedra",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,7 +145,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pieper high school comal isd lockdown",
+      "keyword": "cia officer gold bars plea deal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "how old is michael douglas wife",
+      "keyword": "cia officer gold bars romantic relationship",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,7 +163,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "how old is michael douglas now",
+      "keyword": "cia official gold bars david rush",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,49 +172,58 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "how old is michael douglas jr",
+      "keyword": "nikoloz basilashvili vs mannarino",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "how old is michael douglas kids",
+      "keyword": "adrian mannarino vs nikoloz",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "how old is michael douglas son",
+      "keyword": "iva jovic vs swiatek",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "taylor swift travis kelce nyc dinner",
+      "keyword": "iga świątek vs jovic",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "taylor swift travis kelce nyc restaurant",
+      "keyword": "iga świątek vs rybakina",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "jaime faria vs gea",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -163,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "national coaches day 2026 image",
+      "keyword": "jaguar type 01 electric car",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "riots in france october 2026",
+      "keyword": "jaguar type 01 release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "riots in france today live",
+      "keyword": "cia officer gold bars arrested",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pieper high school san antonio",
+      "keyword": "cia officer gold bars case",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pieper high school lockdown today",
+      "keyword": "cia official gold bars arrest",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pieper high school lockdown news",
+      "keyword": "former cia officer gold bars",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,61 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "how old is michael douglas",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "how old is michael douglass",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "taylor swift highest grossing tour",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kyle whittingham press conference today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kyle whittingham monday press conference",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kyle whittingham buyout",
-      "intent": "commercial",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "national coaches day 2026",
+      "keyword": "nikoloz basilashvili tennis ranking",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day quotes",
+      "keyword": "nikoloz basilashvili live score",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day images",
+      "keyword": "nikoloz basilashvili tennis tonic",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day post",
+      "keyword": "adrian mannarino nikoloz basilashvili",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day baseball",
+      "keyword": "adrian mannarino string tension",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day soccer",
+      "keyword": "adrian mannarino with hair",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day usag",
+      "keyword": "julio iglesias net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "national coaches day gymnastics",
+      "keyword": "jaguar type 01 price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france today",
+      "keyword": "jaguar type 01 reveal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france why",
+      "keyword": "jaguar type 01 interior",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france 2026",
+      "keyword": "jaguar type 01 ev",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france cause",
+      "keyword": "jaguar type 01 frunk",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france reddit",
+      "keyword": "jaguar type 01 dimensions",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "riots in france now",
+      "keyword": "jaguar type 01 msrp",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school lockdown",
+      "keyword": "kiara advani first child",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school shooting",
+      "keyword": "kiara advani second child",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school news",
+      "keyword": "iga swiatek next match",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pieper high school football",
+      "keyword": "cia officer gold bars",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "taylor swift concerts chicago",
+      "keyword": "cia agent gold bars",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sam mcdowell sam malone",
+      "keyword": "iva jovic net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kyle whittingham press conference",
+      "keyword": "iga świątek net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "naman dhir net worth",
+      "keyword": "iga świątek next match",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +487,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "naman dhir bowling speed",
+      "keyword": "iga świątek us open",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +496,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber heard movies list",
+      "keyword": "jaime faria prediction today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +505,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber heard net worth",
+      "keyword": "jaime faria tennis ranking",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,16 +514,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber heard elon musk",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "publix near me",
+      "keyword": "nikoloz basilashvili ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "publix weekly ad",
+      "keyword": "nikoloz basilashvili tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "publix pharmacy hours",
+      "keyword": "nikoloz basilashvili flashscore",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "national coaches day",
+      "keyword": "nikoloz basilashvili prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "riots in france",
+      "keyword": "adrian mannarino prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pieper high school",
+      "keyword": "adrian mannarino ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell baseball",
+      "keyword": "adrian mannarino tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell obit",
+      "keyword": "adrian mannarino wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell wife",
+      "keyword": "julio iglesias jr",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell dead",
+      "keyword": "julio iglesias songs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell pirates",
+      "keyword": "julio iglesias puga",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell stats",
+      "keyword": "julio iglesias children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell yankees",
+      "keyword": "julio iglesias son",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam mcdowell dies",
+      "keyword": "julio iglesias wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kyle whittingham contract",
+      "keyword": "julio iglesias age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kyle whittingham salary",
+      "keyword": "jaguar type 01",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kyle whittingham michigan",
+      "keyword": "kiara advani age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kyle whittingham wife",
+      "keyword": "kiara advani baby",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kyle whittingham age",
+      "keyword": "kiara advani kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir stats",
+      "keyword": "kiara advani pregnant",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir caste",
+      "keyword": "kiara advani movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir height",
+      "keyword": "kiara advani pregnancy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir wikipedia",
+      "keyword": "kiara advani daughter",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir wife",
+      "keyword": "iga swiatek prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir 173",
+      "keyword": "iga swiatek partner",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naman dhir bowling",
+      "keyword": "iga swiatek height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber heard spain",
+      "keyword": "iva jovic age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber heard kids",
+      "keyword": "iva jovic prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber heard now",
+      "keyword": "iva jovic ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber heard children",
+      "keyword": "iva jovic height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber heard movies",
+      "keyword": "iva jovic parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber heard age",
+      "keyword": "iga świątek ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +802,70 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "publix pharmacy",
+      "keyword": "iga świątek height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "iga świątek husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "iga świątek age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaime faria prediction",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaime faria tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaime faria rank",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaime faria flashscore",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nikoloz basilashvili",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "publix bogo",
+      "keyword": "adrian mannarino",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "publix careers",
+      "keyword": "julio iglesias",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "publix hours",
+      "keyword": "kiara advani",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "publix passport",
+      "keyword": "iga swiatek",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "publix cakes",
+      "keyword": "iva jovic",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +919,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sam mcdowell",
+      "keyword": "iga świątek",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,43 +928,296 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kyle whittingham",
+      "keyword": "jaime faria",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "naman dhir",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "amber heard",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "publix",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
+    {
+      "pillar": "iga swiatek vs iva jovic prediction",
+      "cluster": [
+        {
+          "keyword": "iga swiatek vs iva jovic prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "iga swiatek vs iva jovic h2h",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "iga swiatek vs iva jovic",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "iga swiatek vs elena rybakina",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "iga swiatek vs jovic prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "iga świątek vs jovic",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "iga świątek vs rybakina",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "iga swiatek next match",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iga świątek net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iga świątek next match",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iga świątek us open",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iga swiatek prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga swiatek partner",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga swiatek height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga świątek ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga świątek height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga świątek husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga świątek age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iga swiatek",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "iga świątek",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "iva jovic vs iga swiatek h2h",
+      "cluster": [
+        {
+          "keyword": "iva jovic vs iga swiatek h2h",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "iva jovic vs iga swiatek",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "iva jovic vs swiatek",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "iva jovic net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iva jovic age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iva jovic prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iva jovic ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iva jovic height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iva jovic parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "iva jovic",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -904,96 +1229,291 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        },
+        }
+      ]
+    },
+    {
+      "pillar": "nikoloz basilashvili vs liam draxl",
+      "cluster": [
         {
-          "keyword": "how old is michael douglas and catherine zeta jones",
+          "keyword": "nikoloz basilashvili vs liam draxl",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "how old is michael douglas and his wife",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "how old is michael douglas the actor",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "how old is michael douglas wife",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "how old is michael douglas now",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "how old is michael douglas jr",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "how old is michael douglas kids",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "how old is michael douglas son",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "how old is michael douglas",
-          "intent": "informational",
-          "demand": 70.0,
+          "demand": 82.0,
           "competition": 40.0,
-          "ranking_probability": 67.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 75.4
         },
         {
-          "keyword": "how old is michael douglass",
+          "keyword": "nikoloz basilashvili vs mannarino",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "nikoloz basilashvili tennis ranking",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nikoloz basilashvili live score",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nikoloz basilashvili tennis tonic",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nikoloz basilashvili ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nikoloz basilashvili tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nikoloz basilashvili flashscore",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nikoloz basilashvili prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nikoloz basilashvili",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "adrian mannarino vs nikoloz basilashvili",
+      "cluster": [
+        {
+          "keyword": "adrian mannarino vs nikoloz basilashvili",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "adrian mannarino vs nikoloz",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "adrian mannarino nikoloz basilashvili",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "adrian mannarino string tension",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "adrian mannarino with hair",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "adrian mannarino prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "adrian mannarino ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "adrian mannarino tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "adrian mannarino wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "adrian mannarino",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jaime faria vs arthur gea",
+      "cluster": [
+        {
+          "keyword": "jaime faria vs arthur gea",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "jaime faria vs gea prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "jaime faria vs gea",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "jaime faria prediction today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaime faria tennis ranking",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaime faria prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jaime faria tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jaime faria rank",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jaime faria flashscore",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jaime faria",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1008,101 +1528,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "pieper high school san antonio lockdown today",
-      "cluster": [
-        {
-          "keyword": "pieper high school san antonio lockdown today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "pieper high school comal isd lockdown",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pieper high school san antonio",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pieper high school lockdown today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pieper high school lockdown news",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pieper high school lockdown",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pieper high school shooting",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pieper high school news",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pieper high school football",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pieper high school",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1139,10 +1564,10 @@
       ]
     },
     {
-      "pillar": "riots in france today fox news",
+      "pillar": "julio iglesias con la misma piedra",
       "cluster": [
         {
-          "keyword": "riots in france today fox news",
+          "keyword": "julio iglesias con la misma piedra",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1151,25 +1576,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "riots in france october 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "riots in france today live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "riots in france today",
+          "keyword": "julio iglesias net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1178,66 +1585,84 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "riots in france why",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france cause",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france reddit",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france now",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "riots in france",
+          "keyword": "julio iglesias jr",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias puga",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias son",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julio iglesias",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "taylor swift travis kelce nyc dinner",
+      "pillar": "cia officer gold bars plea deal",
       "cluster": [
         {
-          "keyword": "taylor swift travis kelce nyc dinner",
+          "keyword": "cia officer gold bars plea deal",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1246,7 +1671,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "taylor swift travis kelce nyc restaurant",
+          "keyword": "cia officer gold bars romantic relationship",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1255,7 +1680,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "taylor swift highest grossing tour",
+          "keyword": "cia official gold bars david rush",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cia officer gold bars arrested",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1264,21 +1698,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "taylor swift concerts chicago",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "national coaches day 2026 image",
-      "cluster": [
-        {
-          "keyword": "national coaches day 2026 image",
+          "keyword": "cia officer gold bars case",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1287,93 +1707,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "national coaches day 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day quotes",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day images",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day post",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day baseball",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day soccer",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day usag",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day gymnastics",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "national coaches day",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "kyle whittingham press conference today",
-      "cluster": [
-        {
-          "keyword": "kyle whittingham press conference today",
+          "keyword": "cia official gold bars arrest",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1382,7 +1716,30 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "kyle whittingham monday press conference",
+          "keyword": "cia officer gold bars",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cia agent gold bars",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "jaguar type 01 electric car",
+      "cluster": [
+        {
+          "keyword": "jaguar type 01 electric car",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1391,16 +1748,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "kyle whittingham buyout",
-          "intent": "commercial",
+          "keyword": "jaguar type 01 release date",
+          "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 67.0
         },
         {
-          "keyword": "kyle whittingham press conference",
+          "keyword": "jaguar type 01 price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1409,161 +1766,89 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "kyle whittingham contract",
+          "keyword": "jaguar type 01 reveal",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguar type 01 interior",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguar type 01 ev",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguar type 01 frunk",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguar type 01 dimensions",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguar type 01 msrp",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguar type 01",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham michigan",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "sam mcdowell sam malone",
+      "pillar": "former cia officer gold bars",
       "cluster": [
         {
-          "keyword": "sam mcdowell sam malone",
+          "keyword": "former cia officer gold bars",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sam mcdowell baseball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell obit",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell dead",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell pirates",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell yankees",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell dies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sam mcdowell",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 67.0
         }
       ]
     },
     {
-      "pillar": "naman dhir net worth",
+      "pillar": "kiara advani first child",
       "cluster": [
         {
-          "keyword": "naman dhir net worth",
+          "keyword": "kiara advani first child",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1572,7 +1857,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "naman dhir bowling speed",
+          "keyword": "kiara advani second child",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1581,7 +1866,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "naman dhir stats",
+          "keyword": "kiara advani age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1590,7 +1875,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir caste",
+          "keyword": "kiara advani baby",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1599,7 +1884,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir height",
+          "keyword": "kiara advani kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1608,7 +1893,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir wikipedia",
+          "keyword": "kiara advani pregnant",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1617,7 +1902,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir wife",
+          "keyword": "kiara advani movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1626,7 +1911,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir 173",
+          "keyword": "kiara advani pregnancy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1635,7 +1920,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir bowling",
+          "keyword": "kiara advani daughter",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,203 +1929,13 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naman dhir",
+          "keyword": "kiara advani",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "amber heard movies list",
-      "cluster": [
-        {
-          "keyword": "amber heard movies list",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amber heard net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amber heard elon musk",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amber heard spain",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard now",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber heard",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "publix near me",
-      "cluster": [
-        {
-          "keyword": "publix near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "publix weekly ad",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "publix pharmacy hours",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "publix pharmacy",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "publix bogo",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "publix careers",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "publix hours",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "publix passport",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "publix cakes",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "publix",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
