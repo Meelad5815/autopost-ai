@@ -1,50 +1,62 @@
 {
-  "generated_at": "2026-10-07T19:52:52.830340+00:00",
+  "generated_at": "2026-10-08T00:03:52.088626+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "stephen a smith",
+      "title": "teoscar hernandez",
       "source": "google_trends_us"
     },
     {
-      "title": "arc raiders update",
+      "title": "breanna stewart",
       "source": "google_trends_us"
     },
     {
-      "title": "guardians vs white sox",
+      "title": "ryan seacrest",
       "source": "google_trends_us"
     },
     {
-      "title": "maricarmen",
+      "title": "danny trejo",
       "source": "google_trends_us"
     },
     {
-      "title": "hurricane rachel",
+      "title": "freddie freeman",
       "source": "google_trends_us"
     },
     {
-      "title": "week 5 start em sit em",
+      "title": "glen powell",
       "source": "google_trends_us"
     },
     {
-      "title": "tank dell",
+      "title": "nick martinez",
       "source": "google_trends_us"
     },
     {
-      "title": "2027",
+      "title": "judge judy",
       "source": "google_trends_us"
     },
     {
-      "title": "haiku 5.5",
+      "title": "gta6",
       "source": "google_trends_us"
     },
     {
-      "title": "robert gasser",
+      "title": "cunningham wnba",
       "source": "google_trends_us"
     },
     {
-      "title": "usa vs uae cricket",
+      "title": "vpn free",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "electric vehicle",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "monank patel",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "fomc minutes today",
       "source": "google_trends_pk"
     },
     {
@@ -69,18 +81,6 @@
     },
     {
       "title": "f",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "dananeer mobeen",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "muse",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "cm afridi",
       "source": "google_trends_pk"
     },
     {
@@ -164,10 +164,6 @@
       "source": "google_developers"
     },
     {
-      "title": "Beyond hours saved: Building the business case for agentic automation - Amazon Web Services (AWS)",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
       "source": "google_news_ai"
     },
@@ -192,11 +188,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Classic marketing automation is dead: What’s next? - MarTech",
+      "title": "Beyond hours saved: Building the business case for agentic automation - Amazon Web Services (AWS)",
       "source": "google_news_ai"
     },
     {
       "title": "AI, Robotics Reshape Northrop Grumman’s F-35 Production - Thomasnet",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Beyond chips and servers: Taiwan’s manufacturing role in scaling AI infrastructure - VentureBeat",
       "source": "google_news_ai"
     },
     {
@@ -212,19 +212,27 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Automation, AI agents or people? Sorting out who handles each security finding - Help Net Security",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Manufacturability, costing cited as key areas of AI impact: Xometry survey - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "title": "How AI Is Changing the MSP Business - Channel Insider",
       "source": "google_news_ai"
     },
     {
-      "title": "Tungsten Automation Launches AI Invoice-to-Pay Platform - Supply &amp; Demand Chain Executive",
+      "title": "Automation, AI agents or people? Sorting out who handles each security finding - Help Net Security",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "The Next Great Leap in Automation - Brownstone Research",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Tungsten Automation Unveils Invoice-to-Pay Platform - Supply &amp; Demand Chain Executive",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
       "source": "google_news_ai"
     },
     {
@@ -240,6 +248,26 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Schneider Electric Nabs PTC for $22.6B to Drive Industrial AI - Design News",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Stellar Cyber 7.0 Adds AI Triage and MSSP Automation - Channel Insider",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Midwest Wheel builds toward AI agents that fix problems - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "News: How Can Robot Safety Keep Up with AI? | SRES Fireside Chat - A3 Association for Advancing Automation",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Stuut cashes in on agentic order-to-cash automation with $52.5M in funding - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Automation Anywhere Agrees to Acquire Conversational AI Firm Boost.ai - Unite.AI",
       "source": "google_news_ai"
     },
@@ -252,35 +280,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Keysight Introduces Velocity 4900 Series to Accelerate Test Lab Modernization for AI and 6G - Morningstar",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Midwest Wheel builds toward AI agents that fix problems - SiliconANGLE",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Stuut cashes in on agentic order-to-cash automation with $52.5M in funding - SiliconANGLE",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Customer service shifts toward agentic AI - SiliconANGLE",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Conversational AI Is Finally Connected to the Work: Automation Anywhere to Acquire Boost.ai - PR Newswire UK",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Infrastructure Modernization in Action: How Organizations Are Transforming IT to Meet the Demands of AI, Automation, and Rising Workloads - Lenovo StoryHub",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The 9 best accounts receivable automation software platforms for 2026 - The Next Web",
       "source": "google_news_ai"
     },
     {
@@ -289,10 +289,6 @@
     },
     {
       "title": "What To Expect From Google’s Next Search Ranking Update - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Breaking into SEO starts with creating your own opportunities - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -316,7 +312,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Lets You Filter By Multiple Countries - Search Engine Journal",
+      "title": "Google Shows How Long Crawling, Indexing &amp; Recovery Can Take - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Breaking into SEO starts with creating your own opportunities - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -352,19 +352,23 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Generative engine optimization (GEO): How to win AI mentions - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Console Lets You Filter By Multiple Countries - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google says fake author profiles signal a low-quality page - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Why Google is pushing advertisers toward demand-led budgeting - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Explaining URL Inspection tool - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Shows How Long Crawling, Indexing &amp; Recovery Can Take - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Generative engine optimization (GEO): How to win AI mentions - Search Engine Land",
+      "title": "Google Warns Against Deceptive Authorship Information Within Content - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -372,7 +376,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Warns Against Deceptive Authorship Information Within Content - Search Engine Roundtable",
+      "title": "Google Opens Search Profiles In India &amp; Canada, Brazil Next - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -384,14 +388,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Opens Search Profiles In India &amp; Canada, Brazil Next - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Console lets sites view several countries as one total - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Add Social Profiles to Search Console - Practical Ecommerce",
       "source": "google_news_seo"
     },
@@ -400,7 +396,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Nano Banana 2.1 In Google AI Mode In Search - Search Engine Roundtable",
+      "title": "Google Search Crawl Rate Doc Adds Retry-After HTTP &amp; More - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Console lets sites view several countries as one total - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -448,11 +448,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "Critical Wordpress Vulnerabilities Enable XSS, SQL Injection and Data Disclosure Attacks - CyberSecurityNews",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "How Baltimore became a city plagued with poverty and civil unrest - WordPress.com",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical Wordpress Vulnerabilities Enable XSS, SQL Injection and Data Disclosure Attacks - CyberSecurityNews",
+      "title": "WP Buzz Posts Fastest WordPress Load Times in 2026 WordPress Hosting Benchmarks - The National Law Review",
       "source": "google_news_wordpress"
     },
     {
@@ -461,6 +465,10 @@
     },
     {
       "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Cheap WordPress hosting that’s actually worth it in 2026 - Cybernews",
       "source": "google_news_wordpress"
     },
     {
@@ -474,19 +482,11 @@
     {
       "title": "“Addresses some of Kingsolver’s favourite preoccupations” – Partita by Barbara Kingsolver - Bookmunch",
       "source": "google_news_wordpress"
-    },
-    {
-      "title": "When Gilded Age New York City went to war against banana peels - Ephemeral New York",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "REVIEW: Last Seen (S1 E6/6 The Choice) - The Killing Times",
-      "source": "google_news_wordpress"
     }
   ],
   "improvement_queue": [
-    "Review local-AI prompts and AI-tool topics for freshness.",
     "Review SEO/content rules against current Google Search guidance.",
+    "Review local-AI prompts and AI-tool topics for freshness.",
     "Refresh WordPress topic clusters."
   ],
   "policy": {
