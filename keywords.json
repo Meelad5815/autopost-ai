@@ -10,7 +10,25 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "how did trump get the republican nomination in 2016",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "pokemon ruby sapphire emerald switch r=h www.reddit.com",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +82,16 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pokemon ruby sapphire emerald switch 2",
+      "keyword": "pokemon ruby sapphire switch r=h www.reddit.com",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "donald trump republican voter enthusiasm gap",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -208,6 +235,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "prince harry memories of diana",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "prince harry net worth 2026",
       "intent": "informational",
       "demand": 70.0,
@@ -236,6 +272,15 @@
     },
     {
       "keyword": "trump iran war news",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "trump iran news today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,15 +370,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon ruby sapphire ports",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "ynon kreiz net worth",
       "intent": "informational",
       "demand": 64.0,
@@ -352,6 +388,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "comic con nyc hours",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "comic con nyc dates",
       "intent": "informational",
       "demand": 64.0,
@@ -362,15 +407,6 @@
     },
     {
       "keyword": "comic con nyc tickets",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "comic con nyc guests",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -434,15 +470,6 @@
     },
     {
       "keyword": "trump iran deal",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "trump iran comments",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +568,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "ynon kreiz salary",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ynon kreiz idf",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ynon kreiz skydance",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,15 +604,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz israel",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "ynon kreiz daughter",
       "intent": "informational",
       "demand": 58.0,
@@ -577,25 +613,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz religion",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ynon kreiz salary",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "ynon kreiz kids",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ynon kreiz family",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,15 +694,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "prince harry children",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "ashley judd movies",
       "intent": "informational",
       "demand": 58.0,
@@ -703,6 +721,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "ashley judd today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ashley judd husband",
       "intent": "informational",
       "demand": 58.0,
@@ -713,15 +740,6 @@
     },
     {
       "keyword": "ashley judd father",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ashley judd today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -868,6 +886,15 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        },
+        {
+          "keyword": "how did trump get the republican nomination in 2016",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
         }
       ]
     },
@@ -882,6 +909,101 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "pokemon ruby sapphire emerald switch r=h www.reddit.com",
+      "cluster": [
+        {
+          "keyword": "pokemon ruby sapphire emerald switch r=h www.reddit.com",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire switch port rumors",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire switch r=h www.reddit.com",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire emerald switch",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire switch 2",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire october 8th",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire release date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pokemon ruby sapphire switch",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon ruby sapphire emerald",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pokemon ruby sapphire",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1013,97 +1135,16 @@
       ]
     },
     {
-      "pillar": "pokemon ruby sapphire switch port rumors",
+      "pillar": "donald trump republican voter enthusiasm gap",
       "cluster": [
         {
-          "keyword": "pokemon ruby sapphire switch port rumors",
+          "keyword": "donald trump republican voter enthusiasm gap",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire emerald switch 2",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire emerald switch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire switch 2",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire october 8th",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire switch",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pokemon ruby sapphire emerald",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pokemon ruby sapphire ports",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pokemon ruby sapphire",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1251,6 +1292,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "comic con nyc hours",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "comic con nyc dates",
           "intent": "informational",
           "demand": 64.0,
@@ -1261,15 +1311,6 @@
         },
         {
           "keyword": "comic con nyc tickets",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "comic con nyc guests",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1311,6 +1352,15 @@
         },
         {
           "keyword": "prince harry and meghan markle",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "prince harry memories of diana",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1373,15 +1423,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "prince harry children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "prince harry",
           "intent": "informational",
           "demand": 52.0,
@@ -1423,6 +1464,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "trump iran news today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "trump iran news",
           "intent": "informational",
           "demand": 58.0,
@@ -1451,15 +1501,6 @@
         },
         {
           "keyword": "trump iran deal",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump iran comments",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1604,7 +1645,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ynon kreiz salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ynon kreiz idf",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ynon kreiz skydance",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1622,15 +1681,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ynon kreiz israel",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "ynon kreiz daughter",
           "intent": "informational",
           "demand": 58.0,
@@ -1640,25 +1690,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ynon kreiz religion",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "ynon kreiz kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ynon kreiz family",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1717,6 +1758,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ashley judd today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ashley judd husband",
           "intent": "informational",
           "demand": 58.0,
@@ -1727,15 +1777,6 @@
         },
         {
           "keyword": "ashley judd father",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
