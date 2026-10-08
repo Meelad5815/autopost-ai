@@ -244,15 +244,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump iran news today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "refinance home loan rates",
       "intent": "informational",
       "demand": 64.0,
@@ -415,16 +406,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ashley judd tv shows",
+      "keyword": "trump iran news",
       "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
       "learning_boost": 0.0,
-      "learned_score": 59.8
+      "learned_score": 52.6
     },
     {
-      "keyword": "trump iran news",
+      "keyword": "trump iran california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,15 +487,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "josh brolin dad",
       "intent": "informational",
       "demand": 58.0,
@@ -514,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin mom",
+      "keyword": "josh brolin height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -524,6 +506,15 @@
     },
     {
       "keyword": "josh brolin wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "josh brolin mom",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd today",
+      "keyword": "ashley judd husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +712,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd young",
+      "keyword": "ashley judd father",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ashley judd today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd children",
+      "keyword": "ashley judd young",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1423,16 +1423,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "trump iran news today",
+          "keyword": "trump iran news",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "trump iran news",
+          "keyword": "trump iran california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1536,15 +1536,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "josh brolin height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "josh brolin dad",
           "intent": "informational",
           "demand": 58.0,
@@ -1554,7 +1545,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "josh brolin mom",
+          "keyword": "josh brolin height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1564,6 +1555,15 @@
         },
         {
           "keyword": "josh brolin wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "josh brolin mom",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1690,15 +1690,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ashley judd tv shows",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "ashley judd movies",
           "intent": "informational",
           "demand": 58.0,
@@ -1726,7 +1717,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ashley judd today",
+          "keyword": "ashley judd husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1735,7 +1726,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ashley judd young",
+          "keyword": "ashley judd father",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ashley judd today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1753,7 +1753,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ashley judd children",
+          "keyword": "ashley judd young",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
