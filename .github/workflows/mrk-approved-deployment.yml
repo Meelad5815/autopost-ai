@@ -1,0 +1,48 @@
+name: MRK Approved Deployment Gate
+
+on:
+  workflow_dispatch:
+    inputs:
+      candidate_id:
+        description: "Candidate ID to deploy"
+        required: true
+        type: string
+      approve:
+        description: "Explicit final human approval"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  gate:
+    if: inputs.approve == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify candidate safety
+        env:
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          cid=os.environ["CANDIDATE_ID"]
+          cands=json.load(open("data/upgrade_candidates.json",encoding="utf-8")).get("candidates",[])
+          c=next((x for x in cands if x.get("candidate_id")==cid),None)
+          if not c:
+              sys.exit("Candidate not found")
+          if not c.get("requires_human_approval"):
+              sys.exit("Candidate is not approval-gated")
+          if c.get("deployment") != "blocked until explicit human approval":
+              sys.exit("Unexpected deployment state")
+          print("Final approval gate passed for",cid)
+          PY
+      - name: Run full safety tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+      - name: Stop before production deployment
+        run: |
+          echo "Safety gate verified."
+          echo "No deployment adapter is executed automatically by this workflow."
+          echo "Merge/deployment must be performed through an explicitly reviewed production process."
