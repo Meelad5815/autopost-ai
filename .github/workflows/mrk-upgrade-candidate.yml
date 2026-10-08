@@ -30,20 +30,44 @@ jobs:
         run: |
           python - <<'PY'
           import json, os, sys
-          p="data/upgrade_candidates.json"
-          data=json.load(open(p,encoding="utf-8"))
+          data=json.load(open("data/upgrade_candidates.json",encoding="utf-8"))
           wanted=os.environ["CANDIDATE_ID"]
           matches=[c for c in data.get("candidates",[]) if c.get("candidate_id")==wanted]
           if not matches:
-              print("Candidate not found:", wanted)
-              sys.exit(1)
+              sys.exit("Candidate not found: "+wanted)
           c=matches[0]
-          if not c.get("requires_human_approval") or "deployment" not in c:
+          if not c.get("requires_human_approval") or c.get("deployment") != "blocked until explicit human approval":
               sys.exit("Candidate is missing approval/deployment safety metadata")
           print("Validated:", wanted)
+          PY
+
+      - name: Build current website package
+        run: |
+          if [ -f data/website_factory/site_spec.json ] && [ -f data/website_factory/content.json ]; then
+            python website_builder.py
+          else
+            echo "No website factory spec/content; candidate can still be reviewed."
+          fi
+
+      - name: Generate isolated feature code
+        run: python feature_code_generator.py --candidate data/upgrade_candidates.json
 
       - name: Run tests
         run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Build rollback metadata
+        env:
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          python - <<'PY'
+          import json, os, subprocess
+          p="data/upgrade_candidate_execution.json"
+          d=json.load(open(p,encoding="utf-8"))
+          d["candidate_id"]=os.environ["CANDIDATE_ID"]
+          d["base_commit"]=subprocess.check_output(["git","rev-parse","HEAD"],text=True).strip()
+          d["rollback"]="Revert this candidate PR commit. Production remains unchanged until a separate reviewed merge/deployment process."
+          json.dump(d,open(p,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+          PY
 
       - name: Create candidate branch and draft PR
         env:
@@ -54,8 +78,8 @@ jobs:
           git checkout -b "$BRANCH"
           git config user.name "MRK Upgrade Engine"
           git config user.email "actions@users.noreply.github.com"
-          printf '\n## Candidate review\n- Candidate: %s\n- Tests: passed\n- Deployment: blocked pending final human approval\n' "$CANDIDATE_ID" >> docs/mrkeos/feature-upgrade-loop.md
-          git add docs/mrkeos/feature-upgrade-loop.md
-          git commit -m "chore: prepare MRK upgrade candidate $CANDIDATE_ID"
+          printf '\n## Candidate review\n- Candidate: %s\n- Tests: passed\n- Feature code: generated in isolated candidate branch\n- Rollback metadata: recorded\n- Deployment: blocked pending final human approval\n' "$CANDIDATE_ID" >> docs/mrkeos/feature-upgrade-loop.md
+          git add .
+          git commit -m "feat: generate MRK upgrade candidate $CANDIDATE_ID"
           git push --set-upstream origin "$BRANCH"
-          gh pr create --draft --base main --head "$BRANCH"             --title "MRK upgrade candidate: $CANDIDATE_ID"             --body "Automated review candidate. Tests passed. This PR is intentionally draft and does not deploy. Review the candidate, implementation plan, SEO checks, and changed files before approving/merging."
+          gh pr create --draft --base main --head "$BRANCH" --title "MRK upgrade candidate: $CANDIDATE_ID" --body "Automated review candidate. Tests passed and isolated feature code was generated. This PR is intentionally draft and does not deploy. Review changed files and rollback metadata before approving/merging."
