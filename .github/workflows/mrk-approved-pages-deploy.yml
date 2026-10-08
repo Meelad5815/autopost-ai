@@ -1,0 +1,76 @@
+name: MRK Approved GitHub Pages Deployment
+
+on:
+  workflow_dispatch:
+    inputs:
+      candidate_id:
+        description: "Merged candidate ID"
+        required: true
+        type: string
+      approve:
+        description: "Explicit final human approval to deploy"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    if: inputs.approve == true
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify merged candidate
+        env:
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          d=json.load(open("data/upgrade_history.json",encoding="utf-8"))
+          e=next((x for x in d.get("upgrades",[]) if x.get("candidate_id")==os.environ["CANDIDATE_ID"]),None)
+          if not e or e.get("status") != "merged":
+              sys.exit("Candidate is not recorded as merged")
+          print("Verified:", os.environ["CANDIDATE_ID"])
+          PY
+
+      - name: Build static package
+        run: |
+          test -f data/website_factory/site_spec.json
+          test -f data/website_factory/content.json
+          python website_builder.py
+
+      - name: Validate static package
+        run: |
+          test -d data/website_factory/site
+          test -n "$(find data/website_factory/site -maxdepth 1 -name '*.html' -print -quit)"
+          python - <<'PY'
+          from pathlib import Path
+          pages=list(Path("data/website_factory/site").glob("*.html"))
+          assert pages, "No HTML pages generated"
+          for p in pages:
+              s=p.read_text(encoding="utf-8")
+              assert "<title>" in s and "</title>" in s, p
+              assert 'name="description"' in s, p
+              assert "<html" in s and "</html>" in s, p
+          print("Package validation passed:",len(pages),"pages")
+          PY
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: data/website_factory/site
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
