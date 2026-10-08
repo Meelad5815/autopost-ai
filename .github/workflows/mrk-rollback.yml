@@ -1,0 +1,65 @@
+name: MRK Rollback Candidate
+
+on:
+  workflow_dispatch:
+    inputs:
+      candidate_id:
+        description: "Merged candidate ID"
+        required: true
+        type: string
+      approve:
+        description: "Explicit human approval to prepare rollback PR"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  rollback:
+    if: inputs.approve == true
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve rollback commit
+        env:
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          d=json.load(open("data/upgrade_history.json",encoding="utf-8"))
+          e=next((x for x in d.get("upgrades",[]) if x.get("candidate_id")==os.environ["CANDIDATE_ID"]),None)
+          if not e or e.get("status") != "merged":
+              sys.exit("Candidate is not recorded as merged")
+          sha=e.get("merge_commit")
+          if not sha:
+              sys.exit("No merge commit recorded")
+          open("/tmp/rollback_sha","w").write(sha)
+          print("Rollback commit:",sha)
+          PY
+
+      - name: Prepare revert branch
+        env:
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          git fetch origin main
+          git checkout -b "mrk-rollback/$CANDIDATE_ID" origin/main
+          git config user.name "MRK Rollback Engine"
+          git config user.email "actions@users.noreply.github.com"
+          git revert --no-edit "$(cat /tmp/rollback_sha)"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Open rollback PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CANDIDATE_ID: ${{ inputs.candidate_id }}
+        run: |
+          git push --set-upstream origin "mrk-rollback/$CANDIDATE_ID"
+          gh pr create --base main --head "mrk-rollback/$CANDIDATE_ID" --title "MRK rollback: $CANDIDATE_ID" --body "Rollback PR prepared after explicit human approval. Tests passed. This workflow never auto-merges or auto-deploys the rollback."
