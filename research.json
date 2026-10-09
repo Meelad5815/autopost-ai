@@ -1,82 +1,86 @@
 {
-  "generated_at": "2026-10-09T18:17:51.081629+00:00",
+  "generated_at": "2026-10-09T22:48:44.516385+00:00",
   "feed_count": 8,
-  "item_count": 158,
+  "item_count": 159,
   "items": [
     {
-      "title": "jim farley",
+      "title": "personal trainer",
       "source": "google_trends_us"
     },
     {
-      "title": "anne, princess royal",
+      "title": "justine may",
       "source": "google_trends_us"
     },
     {
-      "title": "psv vs heerenveen",
+      "title": "abandoned cats in plastic boxes",
       "source": "google_trends_us"
     },
     {
-      "title": "ambani",
+      "title": "coastal flood warning",
       "source": "google_trends_us"
+    },
+    {
+      "title": "mlb tonight",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "southwest airlines computer system failure",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "monte dutton",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "columbia vs marist",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "instituto - boca juniors",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "penguins vs blue jackets",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "epl",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "west ham vs qpr",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "reporting live",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "pradhama drishtiya kuttakkar",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "thunderstorm",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "megan fox",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "premier league",
+      "source": "google_trends_pk"
     },
     {
       "title": "dortmund vs werder",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "austin abrams",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "newport beach",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "hunger games",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "colin donnell chicago med return",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "al-nassr vs diriyah",
-      "source": "google_trends_us"
+      "source": "google_trends_pk"
     },
     {
       "title": "australia champions vs south africa",
       "source": "google_trends_pk"
     },
     {
-      "title": "naman dhir",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "kuldeep yadav",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ind vs wi",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "uae vs nam",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "mayank yadav",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "shimron hetmyer",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "protest",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "shamar springer",
+      "title": "al-nassr vs diriyah",
       "source": "google_trends_pk"
     },
     {
@@ -176,10 +180,6 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Zalando Expands Robotics Arsenal to Returns - WWD",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team - Supply Chain Dive",
       "source": "google_news_ai"
     },
@@ -200,7 +200,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "California Enacts New Laws Governing Employer Use of AI - Morgan Lewis",
+      "source": "google_news_ai"
+    },
+    {
       "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices - Ogletree",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "CERM reports strong response to cloud-based MIS, AI automation at LOUPE Americas - Label and Narrow Web",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Q&amp;A: How does AI affect our engagement at work? - Phys.org",
       "source": "google_news_ai"
     },
     {
@@ -212,7 +224,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Comments to NIST Regarding Modernizing the National Vulnerability Database in the Age of AI - Information Technology and Innovation Foundation",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "These 10 jobs are among the hardest for AI to replace — and some pay six figures - Yahoo Creators",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Physical AI in manufacturing: From intelligent machines to coordinated operations - Microsoft",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "TwinThread Launches AI-Powered Anomaly Detection Solution For Industrial Operations - Automation World",
       "source": "google_news_ai"
     },
     {
@@ -220,15 +244,11 @@
       "source": "google_news_ai"
     },
     {
+      "title": "SRP Americas: AI shifts structured products focus towards workflow automation - SRP Structured Products",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Is AI Loan Automation Altering The Investment Case For Enova International Stock (ENVA)? - Simply Wall Street",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Comfygen brings AI-based logistics automation into courier delivery platforms - American Journal of Transportation",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Workday (WDAY) Broadens Cash Cycle Automation For Finance Customers - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -236,23 +256,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "A Bad AI Recommendation Can Cost You a Sale - Newsweek",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workday (WDAY) Broadens Cash Cycle Automation For Finance Customers - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Infrastructure Modernization in Action: How Organizations Are Transforming IT to Meet the Demands of AI, Automation, and Rising Workloads - Lenovo StoryHub",
       "source": "google_news_ai"
     },
     {
-      "title": "AI, automation and connectivity could drive the next era of shipping - safety4sea",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Automation, AI agents or people? Sorting out who handles each security finding - Help Net Security",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Pervaziv AI Brings Continuous, Coordinated Work to Cortex, Extending Enterprise AI Across Time and Tools - AiThority",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - Hartford Business Journal",
+      "title": "Comfygen brings AI-based logistics automation into courier delivery platforms - American Journal of Transportation",
       "source": "google_news_ai"
     },
     {
@@ -260,19 +276,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Fospha unveils its complete measurement system at AdWeek, uniting MMA, MMM, incrementality testing and AI-powered automation - PR Newswire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "3 AI Automation Stocks With Revenue Growth Up To 26% - Simply Wall Street",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Sereact, Zalando and CEVA Logistics start AI-powered, automated returns handling in Germany and Poland - CEVA Logistics",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "CloudPay launches MCP programme for AI payroll automation - The Paypers",
+      "title": "AI, automation and connectivity could drive the next era of shipping - safety4sea",
       "source": "google_news_ai"
     },
     {
@@ -284,6 +288,14 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Ads adds new AI Max columns for deeper campaign analysis - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google opens Conversion Lift to Search and Performance Max - Search Engine Land",
       "source": "google_news_seo"
     },
@@ -292,19 +304,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads adds new AI Max columns for deeper campaign analysis - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google On Large Product Aggregator Websites Rankings - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Generative AI Control Page Adds Top-Level Domain Details - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Console Performance Report Multi-Select Country Filters - Search Engine Roundtable",
+      "title": "Google Search Console Lets You Filter By Multiple Countries - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -312,7 +312,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Lets You Filter By Multiple Countries - Search Engine Journal",
+      "title": "Google Ads adds automatic text overlays to Demand Gen video ads - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Shares Preferred Source Numbers With Publishers (2026) - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -324,23 +328,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google launches Display &amp; Video 360 Structured Data Files v11 with expanded targeting - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "What To Expect From Google’s Next Search Ranking Update - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Rolls Out Its UCP Hub for U.S. Merchants (2026) - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Ranktracker Restores Google Top 100 Rankings as SEO Platforms Face Widespread Disruptions - The National Law Review",
       "source": "google_news_seo"
     },
     {
-      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
+      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Console Performance Report Multi-Select Country Filters - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -348,11 +344,23 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google launches Display &amp; Video 360 Structured Data Files v11 with expanded targeting - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "What to Expect From Google’s Next Search Ranking Update - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads adds video impressions and funnel reporting to Overview page - Search Engine Land",
+      "title": "Google On Large Product Aggregator Websites Rankings - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Rolls Out Its UCP Hub for U.S. Merchants (2026) - ALM Corp",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Generative AI Control Page Adds Top-Level Domain Details - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -368,11 +376,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Spam Updates Use AI To Find AI Spam &amp; More - Search Engine Roundtable",
+      "title": "Google Ads adds video impressions and funnel reporting to Overview page - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Drops Review Snippets For Healthcare Web Pages - Search Engine Roundtable",
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Spam Updates Use AI To Find AI Spam &amp; More - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -380,19 +392,11 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Drops Review Snippets For Healthcare Web Pages - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Daily Search Forum Recap: October 7, 2026 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Reveals The UGC Fresh Data Program - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Automated SEO Software to Rank on Google and ChatGPT – Sorank - USA Today",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "I Stopped Asking AI for SEO Ideas and Started Feeding It Search Console Data Instead - HackerNoon",
       "source": "google_news_seo"
     },
     {
@@ -436,19 +440,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "US network to remake Ludwig - The Killing Times",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "9 Best AI Plugins for WordPress (2026): What Each One Can Change - Themeisle",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Candidate Forum: Kansas House 60th District - KVOE",
+      "title": "Critical WordPress Flaw Draws Exploit Attempts Within 5 Hours of Patch - DesignRush",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical WordPress Flaw Draws Exploit Attempts Within 5 Hours of Patch - DesignRush",
+      "title": "US network to remake Ludwig - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Candidate Forum: Kansas House 60th District - KVOE",
       "source": "google_news_wordpress"
     },
     {
@@ -468,7 +472,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "NORDIC NOIR: Icelandic crime drama Elma set to launch this month - The Killing Times",
+      "title": "Cheap WordPress hosting that’s actually worth it in 2026 - Cybernews",
       "source": "google_news_wordpress"
     },
     {
@@ -476,11 +480,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Is WordPress free? An overview of contributing factors - Hostinger",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Malicious HEIC Images Can Trigger Remote Code Execution on WordPress Servers - CyberSecurityNews",
+      "title": "Ceadach O’Neill, Andre Harriman-Annous and Marcell Washington train with Arsenal first-team ahead of Leeds game - Jeorge Bird's Arsenal Youth",
       "source": "google_news_wordpress"
     }
   ],
