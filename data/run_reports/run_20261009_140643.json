@@ -1,0 +1,21 @@
+{
+  "started_at": "2026-10-09T14:06:43.582042+00:00",
+  "summary": {
+    "success": 0,
+    "updated": 0,
+    "skipped": 1
+  },
+  "results": [
+    {
+      "status": "skipped",
+      "reason": "quality_gate",
+      "topic": "WordPress website development and cost in Pakistan",
+      "title": "SEO automation \u2014 Mukammal Rehnumai aur Practical Guide (2026)",
+      "quality_reasons": [
+        "insufficient_headings",
+        "insufficient_paragraphs",
+        "topic_alignment"
+      ]
+    }
+  ]
+}
