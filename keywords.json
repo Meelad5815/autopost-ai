@@ -163,15 +163,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "iga świątek vs mertens",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "iga świątek vs rybakina",
       "intent": "informational",
       "demand": 76.0,
@@ -190,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "iga swiatek us open 2026",
+      "keyword": "$500 check from trump states",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,7 +289,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "iga świątek ranking wta",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "iga swiatek us open",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "iga swiatek next game",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -649,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manchester united news",
+      "keyword": "manchester united roster",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manchester united roster",
+      "keyword": "manchester united news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -871,15 +880,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "iga świątek vs mertens",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
           "keyword": "iga świątek vs rybakina",
           "intent": "informational",
           "demand": 76.0,
@@ -887,15 +887,6 @@
           "ranking_probability": 68.2,
           "learning_boost": 0.0,
           "learned_score": 68.2
-        },
-        {
-          "keyword": "iga swiatek us open 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
         },
         {
           "keyword": "iga świątek next match",
@@ -925,7 +916,25 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "iga świątek ranking wta",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "iga swiatek us open",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iga swiatek next game",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1204,6 +1213,29 @@
       ]
     },
     {
+      "pillar": "$500 check from trump states",
+      "cluster": [
+        {
+          "keyword": "$500 check from trump states",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "$500 check from trump",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
       "pillar": "9-1-1 season 10 premiere date",
       "cluster": [
         {
@@ -1258,20 +1290,6 @@
         },
         {
           "keyword": "trump xi summit taiwan",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "$500 check from trump",
-      "cluster": [
-        {
-          "keyword": "$500 check from trump",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1425,7 +1443,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manchester united news",
+          "keyword": "manchester united roster",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1434,7 +1452,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manchester united roster",
+          "keyword": "manchester united news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
