@@ -10,25 +10,25 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "how did trump get the republican nomination in 2016",
+      "keyword": "andrey rublev vs rei sakamoto",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
       "learning_boost": 0.0,
-      "learned_score": 76.0
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "andrey rublev vs sakamoto prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "pokemon ruby sapphire emerald switch r=h www.reddit.com",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -55,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "refinance home loan with bad credit",
+      "keyword": "28 days later movies in order",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -64,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "refinance home loan no closing costs",
+      "keyword": "28 days later where to watch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pokemon ruby sapphire switch port rumors",
+      "keyword": "28 days later the aftermath film",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pokemon ruby sapphire switch r=h www.reddit.com",
+      "keyword": "the boxer anime where to watch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,16 +91,34 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "donald trump republican voter enthusiasm gap",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "keyword": "spokesman review phone number",
+      "intent": "commercial",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "petroleum jelly vs vaseline",
+      "keyword": "spokesman review death notices",
+      "intent": "commercial",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "andrey rublev vs sakamoto",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "andrey rublev vs rei",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -118,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "refinance home loan rates today",
+      "keyword": "28 days later bone temple",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "refinance home loan interest rates",
+      "keyword": "beach hazards statement santa cruz",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "refinance home loan cash out",
+      "keyword": "beach hazards statement san diego",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon ruby sapphire emerald switch",
+      "keyword": "beach hazards statement san francisco",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon ruby sapphire switch 2",
+      "keyword": "beach hazards statement en español",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon ruby sapphire october 8th",
+      "keyword": "beach hazards statement laguna beach",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon ruby sapphire release date",
+      "keyword": "beach hazards statement santa barbara",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "comic con nyc 2026 tickets",
+      "keyword": "the boxer anime release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "comic con nyc 2026 hours",
+      "keyword": "the boxer anime episode 1",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "comic con nyc 2026 dates",
+      "keyword": "shanghai masters where to watch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,52 +226,70 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "comic con nyc 2026 guests",
-      "intent": "informational",
+      "keyword": "spokesman review obituaries",
+      "intent": "commercial",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "prince harry duke of sussex",
-      "intent": "informational",
+      "keyword": "spokesman review login",
+      "intent": "commercial",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "prince harry and meghan markle",
-      "intent": "informational",
+      "keyword": "spokesman review newspaper",
+      "intent": "commercial",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "prince harry memories of diana",
-      "intent": "informational",
+      "keyword": "spokesman review spokane",
+      "intent": "commercial",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "prince harry net worth 2026",
-      "intent": "informational",
+      "keyword": "spokesman review sports",
+      "intent": "commercial",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "trump iran san diego",
+      "keyword": "spokesman review archives",
+      "intent": "commercial",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "spokesman review jobs",
+      "intent": "commercial",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "james mcavoy tv shows",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump iran los angeles",
+      "keyword": "james mcavoy new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump iran war news",
+      "keyword": "james mcavoy professor x",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump iran news today",
+      "keyword": "28 days later cast",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "refinance home loan rates",
+      "keyword": "28 days later series",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "refinance home loan calculator",
+      "keyword": "28 days later streaming",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "refinance home loan meaning",
+      "keyword": "28 days later movies",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "refinance home loan reddit",
+      "keyword": "28 days later franchise",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh brolin net worth",
+      "keyword": "beach hazards statement meaning",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh brolin tv shows",
+      "keyword": "beach hazards statement california",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "josh brolin new movie",
+      "keyword": "beach hazards statement chicago",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon ruby sapphire switch",
+      "keyword": "andrey rublev match today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon ruby sapphire emerald",
+      "keyword": "the boxer anime studio",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ynon kreiz net worth",
+      "keyword": "the boxer anime adaptation",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "comic con nyc 2026",
+      "keyword": "the boxer anime trailer",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "comic con nyc hours",
+      "keyword": "the boxer anime release",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "comic con nyc dates",
+      "keyword": "the boxer anime reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "comic con nyc tickets",
+      "keyword": "the boxer anime announcement",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "prince harry net worth",
+      "keyword": "shanghai masters 2026 schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "prince harry and meghan",
+      "keyword": "shanghai masters prize money",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,16 +469,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ashley judd net worth",
-      "intent": "informational",
+      "keyword": "spokesman review",
+      "intent": "commercial",
       "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
+      "competition": 70.0,
+      "ranking_probability": 53.8,
       "learning_boost": 0.0,
-      "learned_score": 59.8
+      "learned_score": 53.8
     },
     {
-      "keyword": "trump iran news",
+      "keyword": "james mcavoy movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump iran california",
+      "keyword": "james mcavoy height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump iran war",
+      "keyword": "james mcavoy age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump iran deal",
+      "keyword": "james mcavoy sr",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump iran quote",
+      "keyword": "james mcavoy split",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "refinance home loan",
+      "keyword": "james mcavoy wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin movies",
+      "keyword": "dalton knecht stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin goonies",
+      "keyword": "dalton knecht contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin dad",
+      "keyword": "dalton knecht trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin height",
+      "keyword": "dalton knecht news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin wife",
+      "keyword": "dalton knecht agent",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "josh brolin mom",
+      "keyword": "dalton knecht girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pokemon ruby sapphire",
+      "keyword": "dalton knecht height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz wife",
+      "keyword": "dalton knecht draft",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz salary",
+      "keyword": "dalton knecht salary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz idf",
+      "keyword": "28 days later",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz skydance",
+      "keyword": "jake laravia stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz mattel",
+      "keyword": "jake laravia contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz daughter",
+      "keyword": "jake laravia height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz kids",
+      "keyword": "jake laravia wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ynon kreiz family",
+      "keyword": "jake laravia college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "petroleum engineer salary",
+      "keyword": "jake laravia ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "petroleum jelly vaseline",
+      "keyword": "jake laravia trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "comic con nyc",
+      "keyword": "jake laravia lakers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "comic con nycc",
+      "keyword": "jake laravia age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "prince harry news",
+      "keyword": "beach hazards statement",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "prince harry kids",
+      "keyword": "andrey rublev prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "prince harry wife",
+      "keyword": "andrey rublev wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd movies",
+      "keyword": "andrey rublev ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd face",
+      "keyword": "andrey rublev age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd age",
+      "keyword": "acabar in english",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd today",
+      "keyword": "acabo in english",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd husband",
+      "keyword": "aceable drivers ed",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd father",
+      "keyword": "acabame de matar",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd 2026",
+      "keyword": "the boxer anime",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashley judd young",
+      "keyword": "shanghai masters 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +802,52 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump iran",
+      "keyword": "shanghai masters schedule",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "shanghai masters tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "shanghai masters 2025",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "shanghai masters draw",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "shanghai masters djokovic",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "james mcavoy",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "josh brolin",
+      "keyword": "dalton knecht",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ynon kreiz",
+      "keyword": "jake laravia",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "petroleum jelly",
+      "keyword": "andrey rublev",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "petroleum engineering",
+      "keyword": "aceable driving",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "petroleum ether",
+      "keyword": "shanghai masters",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,52 +901,43 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "petroleum club",
+      "keyword": "acab",
       "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
       "learning_boost": 0.0,
-      "learned_score": 45.4
+      "learned_score": 38.2
     },
     {
-      "keyword": "petroleum gauze",
+      "keyword": "aceable",
       "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
       "learning_boost": 0.0,
-      "learned_score": 45.4
+      "learned_score": 38.2
     },
     {
-      "keyword": "petroleum distillates",
+      "keyword": "acabar",
       "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
       "learning_boost": 0.0,
-      "learned_score": 45.4
+      "learned_score": 38.2
     },
     {
-      "keyword": "prince harry",
+      "keyword": "acaba",
       "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
       "learning_boost": 0.0,
-      "learned_score": 45.4
+      "learned_score": 38.2
     },
     {
-      "keyword": "ashley judd",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "petroleum",
+      "keyword": "acabo",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -886,15 +958,101 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        }
+      ]
+    },
+    {
+      "pillar": "andrey rublev vs rei sakamoto",
+      "cluster": [
+        {
+          "keyword": "andrey rublev vs rei sakamoto",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
         },
         {
-          "keyword": "how did trump get the republican nomination in 2016",
+          "keyword": "andrey rublev vs sakamoto prediction",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 76.0
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "andrey rublev vs sakamoto",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "andrey rublev vs rei",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "andrey rublev match today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "andrey rublev prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "andrey rublev",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -909,101 +1067,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "pokemon ruby sapphire emerald switch r=h www.reddit.com",
-      "cluster": [
-        {
-          "keyword": "pokemon ruby sapphire emerald switch r=h www.reddit.com",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire switch port rumors",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire switch r=h www.reddit.com",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire emerald switch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire switch 2",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire october 8th",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pokemon ruby sapphire switch",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pokemon ruby sapphire emerald",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pokemon ruby sapphire",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1040,10 +1103,10 @@
       ]
     },
     {
-      "pillar": "refinance home loan with bad credit",
+      "pillar": "28 days later movies in order",
       "cluster": [
         {
-          "keyword": "refinance home loan with bad credit",
+          "keyword": "28 days later movies in order",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1052,7 +1115,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "refinance home loan no closing costs",
+          "keyword": "28 days later where to watch",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1061,7 +1124,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "refinance home loan rates today",
+          "keyword": "28 days later the aftermath film",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "28 days later bone temple",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1070,25 +1142,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "refinance home loan interest rates",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "refinance home loan cash out",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "refinance home loan rates",
+          "keyword": "28 days later cast",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1097,7 +1151,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "refinance home loan calculator",
+          "keyword": "28 days later series",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1106,7 +1160,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "refinance home loan meaning",
+          "keyword": "28 days later streaming",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1115,7 +1169,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "refinance home loan reddit",
+          "keyword": "28 days later movies",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1124,7 +1178,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "refinance home loan",
+          "keyword": "28 days later franchise",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "28 days later",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1135,25 +1198,106 @@
       ]
     },
     {
-      "pillar": "donald trump republican voter enthusiasm gap",
+      "pillar": "the boxer anime where to watch",
       "cluster": [
         {
-          "keyword": "donald trump republican voter enthusiasm gap",
+          "keyword": "the boxer anime where to watch",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
+        },
+        {
+          "keyword": "the boxer anime release date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "the boxer anime episode 1",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "the boxer anime studio",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the boxer anime adaptation",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the boxer anime trailer",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the boxer anime release",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the boxer anime reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the boxer anime announcement",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the boxer anime",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "petroleum jelly vs vaseline",
+      "pillar": "spokesman review phone number",
       "cluster": [
         {
-          "keyword": "petroleum jelly vs vaseline",
-          "intent": "informational",
+          "keyword": "spokesman review phone number",
+          "intent": "commercial",
           "demand": 76.0,
           "competition": 50.0,
           "ranking_probability": 68.2,
@@ -1161,7 +1305,215 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "petroleum engineer salary",
+          "keyword": "spokesman review death notices",
+          "intent": "commercial",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "spokesman review obituaries",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review login",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review newspaper",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review spokane",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review sports",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review archives",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review jobs",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "spokesman review",
+          "intent": "commercial",
+          "demand": 64.0,
+          "competition": 70.0,
+          "ranking_probability": 53.8,
+          "learning_boost": 0.0,
+          "learned_score": 53.8
+        }
+      ]
+    },
+    {
+      "pillar": "beach hazards statement santa cruz",
+      "cluster": [
+        {
+          "keyword": "beach hazards statement santa cruz",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "beach hazards statement san diego",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "beach hazards statement san francisco",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "beach hazards statement en español",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "beach hazards statement laguna beach",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "beach hazards statement santa barbara",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "beach hazards statement meaning",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "beach hazards statement california",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "beach hazards statement chicago",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "beach hazards statement",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "shanghai masters where to watch",
+      "cluster": [
+        {
+          "keyword": "shanghai masters where to watch",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "shanghai masters 2026 schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "shanghai masters prize money",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "shanghai masters 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1170,7 +1522,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "petroleum jelly vaseline",
+          "keyword": "shanghai masters schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1179,61 +1531,351 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "petroleum jelly",
+          "keyword": "shanghai masters tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "shanghai masters 2025",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "shanghai masters draw",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "shanghai masters djokovic",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "shanghai masters",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "james mcavoy tv shows",
+      "cluster": [
+        {
+          "keyword": "james mcavoy tv shows",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         },
         {
-          "keyword": "petroleum engineering",
+          "keyword": "james mcavoy new movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "james mcavoy professor x",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "james mcavoy movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james mcavoy height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james mcavoy age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james mcavoy sr",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james mcavoy split",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james mcavoy wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james mcavoy",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "dalton knecht stats",
+      "cluster": [
+        {
+          "keyword": "dalton knecht stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
-          "keyword": "petroleum ether",
+          "keyword": "dalton knecht contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht agent",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht draft",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dalton knecht",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jake laravia stats",
+      "cluster": [
+        {
+          "keyword": "jake laravia stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
-          "keyword": "petroleum club",
+          "keyword": "jake laravia contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia ethnicity",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia lakers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jake laravia",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
+        }
+      ]
+    },
+    {
+      "pillar": "acabar in english",
+      "cluster": [
         {
-          "keyword": "petroleum gauze",
+          "keyword": "acabar in english",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 52.6
         },
         {
-          "keyword": "petroleum distillates",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "petroleum",
+          "keyword": "acabar",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1244,82 +1886,10 @@
       ]
     },
     {
-      "pillar": "comic con nyc 2026 tickets",
+      "pillar": "acabo in english",
       "cluster": [
         {
-          "keyword": "comic con nyc 2026 tickets",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "comic con nyc 2026 hours",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "comic con nyc 2026 dates",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "comic con nyc 2026 guests",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "comic con nyc 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "comic con nyc hours",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "comic con nyc dates",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "comic con nyc tickets",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "comic con nyc",
+          "keyword": "acabo in english",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1328,7 +1898,53 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "comic con nycc",
+          "keyword": "acabo",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "aceable drivers ed",
+      "cluster": [
+        {
+          "keyword": "aceable drivers ed",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "aceable driving",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "aceable",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "acabame de matar",
+      "cluster": [
+        {
+          "keyword": "acabame de matar",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1339,477 +1955,30 @@
       ]
     },
     {
-      "pillar": "prince harry duke of sussex",
+      "pillar": "acab",
       "cluster": [
         {
-          "keyword": "prince harry duke of sussex",
+          "keyword": "acab",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "prince harry and meghan markle",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "prince harry memories of diana",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "prince harry net worth 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "prince harry net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "prince harry and meghan",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "prince harry news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "prince harry kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "prince harry wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "prince harry",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "trump iran san diego",
+      "pillar": "acaba",
       "cluster": [
         {
-          "keyword": "trump iran san diego",
+          "keyword": "acaba",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump iran los angeles",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump iran war news",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump iran news today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump iran news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump iran california",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump iran war",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump iran deal",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump iran quote",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump iran",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "josh brolin net worth",
-      "cluster": [
-        {
-          "keyword": "josh brolin net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "josh brolin tv shows",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "josh brolin new movie",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "josh brolin movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh brolin goonies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh brolin dad",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh brolin height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh brolin wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh brolin mom",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "josh brolin",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "ynon kreiz net worth",
-      "cluster": [
-        {
-          "keyword": "ynon kreiz net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ynon kreiz wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz idf",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz skydance",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz mattel",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz daughter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz family",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ynon kreiz",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "ashley judd net worth",
-      "cluster": [
-        {
-          "keyword": "ashley judd net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ashley judd movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd face",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd father",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd young",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashley judd",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 38.2
         }
       ]
     }
