@@ -1,16 +1,25 @@
 {
   "keywords": [
     {
-      "keyword": "arizona vs west virginia best bet",
-      "intent": "commercial",
-      "demand": 94.0,
-      "competition": 30.0,
-      "ranking_probability": 86.8,
+      "keyword": "arizona vs west virginia last 5 games",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
       "learning_boost": 0.0,
-      "learned_score": 86.8
+      "learned_score": 81.4
     },
     {
       "keyword": "arizona vs west virginia last game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "arizona vs west virginia score prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -37,15 +46,6 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "arizona vs west virginia score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -64,6 +64,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "arizona vs west virginia football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "arizona vs west virginia pickdawgz",
       "intent": "informational",
       "demand": 82.0,
@@ -73,16 +82,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "arizona vs west virginia odds",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "arizona vs west virginia spread",
+      "keyword": "arizona vs west virginia pick",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -154,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "bob chesney ucla football turnaround",
+      "keyword": "john husted jr net worth",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jon husted voting record",
+      "keyword": "jon husted political party",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jon husted political party",
+      "keyword": "jon husted data centers",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "john husted net worth",
+      "keyword": "john husted jr wikipedia",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "john husted phone number",
+      "keyword": "john husted data centers",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +289,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "bob chesney dante moore",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "pat narduzzi coaching record",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pat narduzzi defensive scheme",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,15 +325,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "georgia tech football tickets",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "georgia tech football roster",
       "intent": "informational",
       "demand": 64.0,
@@ -325,16 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "georgia tech football stadium",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "georgia tech football coaches",
+      "keyword": "georgia tech football tickets",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +352,25 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "georgia tech football score",
+      "keyword": "georgia tech football coaches",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "georgia tech football stadium",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "georgia tech football today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,22 +406,22 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nvidia rtx spark n1x",
+      "keyword": "jon husted ohio",
       "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
       "learning_boost": 0.0,
-      "learned_score": 59.8
+      "learned_score": 52.6
     },
     {
-      "keyword": "alani bankhead birth place",
+      "keyword": "jon husted polls",
       "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
       "learning_boost": 0.0,
-      "learned_score": 59.8
+      "learned_score": 52.6
     },
     {
       "keyword": "jon husted religion",
@@ -415,25 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jon husted ohio",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jon husted wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jon husted age",
+      "keyword": "jon husted senator",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,15 +460,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john husted polls",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "john husted jr",
       "intent": "informational",
       "demand": 58.0,
@@ -478,16 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john husted contact",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john husted aipac",
+      "keyword": "john husted polls",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -497,6 +479,15 @@
     },
     {
       "keyword": "john husted party",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jon husted opponent",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bob chesney dad",
+      "keyword": "bob chesney coach",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat narduzzi contract",
+      "keyword": "pat narduzzi pitt",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat narduzzi pitt",
+      "keyword": "pat narduzzi contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat narduzzi daughter",
+      "keyword": "pat narduzzi defense",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -596,15 +587,6 @@
     },
     {
       "keyword": "pat narduzzi twitter",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pat narduzzi age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "khalil mack trade",
+      "keyword": "khalil mack contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,16 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "khalil mack raiders",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "khalil mack contract",
+      "keyword": "khalil mack trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,6 +649,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "khalil mack 49ers",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "khalil mack news",
       "intent": "informational",
       "demand": 58.0,
@@ -685,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "khalil mack age",
+      "keyword": "khalil mack raiders",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "khalil mack cowboys",
+      "keyword": "khalil mack rumors",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alani bankhead montana",
+      "keyword": "nvidia rtx 5080",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +802,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alani bankhead husband",
+      "keyword": "alani bankhead montana",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +820,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alani bankhead bio",
+      "keyword": "alani bankhead husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -848,6 +830,15 @@
     },
     {
       "keyword": "alani bankhead reddit",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "alani bankhead bio",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -948,19 +939,28 @@
   ],
   "clusters": [
     {
-      "pillar": "arizona vs west virginia best bet",
+      "pillar": "arizona vs west virginia last 5 games",
       "cluster": [
         {
-          "keyword": "arizona vs west virginia best bet",
-          "intent": "commercial",
-          "demand": 94.0,
-          "competition": 30.0,
-          "ranking_probability": 86.8,
+          "keyword": "arizona vs west virginia last 5 games",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
           "learning_boost": 0.0,
-          "learned_score": 86.8
+          "learned_score": 81.4
         },
         {
           "keyword": "arizona vs west virginia last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "arizona vs west virginia score prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -987,16 +987,16 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "arizona vs west virginia score prediction",
+          "keyword": "arizona vs west virginia prediction",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 78.4
+          "learned_score": 75.4
         },
         {
-          "keyword": "arizona vs west virginia prediction",
+          "keyword": "arizona vs west virginia football",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1014,16 +1014,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "arizona vs west virginia odds",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "arizona vs west virginia spread",
+          "keyword": "arizona vs west virginia pick",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1115,25 +1106,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "alani bankhead birth place",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "alani bankhead montana",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alani bankhead husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1151,7 +1124,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alani bankhead bio",
+          "keyword": "alani bankhead husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1161,6 +1134,15 @@
         },
         {
           "keyword": "alani bankhead reddit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alani bankhead bio",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1228,15 +1210,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nvidia rtx spark n1x",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "nvidia rtx spark",
           "intent": "informational",
           "demand": 58.0,
@@ -1282,6 +1255,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "nvidia rtx 5080",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "nvidia rtx",
           "intent": "informational",
           "demand": 52.0,
@@ -1293,10 +1275,10 @@
       ]
     },
     {
-      "pillar": "bob chesney ucla football turnaround",
+      "pillar": "john husted jr net worth",
       "cluster": [
         {
-          "keyword": "bob chesney ucla football turnaround",
+          "keyword": "john husted jr net worth",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1305,7 +1287,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "bob chesney coaching career",
+          "keyword": "john husted jackie kennedy",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1314,7 +1296,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "bob chesney penn state",
+          "keyword": "john husted jr wikipedia",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1323,7 +1305,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "bob chesney ucla",
+          "keyword": "john husted data centers",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "john husted ohio",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1332,7 +1323,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bob chesney wife",
+          "keyword": "john husted jr",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1341,7 +1332,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bob chesney sr",
+          "keyword": "john husted polls",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1350,7 +1341,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bob chesney salary",
+          "keyword": "john husted party",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1359,25 +1350,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bob chesney dad",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bob chesney height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bob chesney",
+          "keyword": "john husted",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1418,7 +1391,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pat narduzzi contract",
+          "keyword": "pat narduzzi defensive scheme",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pat narduzzi pitt",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,7 +1409,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "pat narduzzi pitt",
+          "keyword": "pat narduzzi contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1445,7 +1427,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "pat narduzzi daughter",
+          "keyword": "pat narduzzi defense",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1455,15 +1437,6 @@
         },
         {
           "keyword": "pat narduzzi twitter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pat narduzzi age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1513,15 +1486,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "georgia tech football tickets",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "georgia tech football roster",
           "intent": "informational",
           "demand": 64.0,
@@ -1531,16 +1495,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "georgia tech football stadium",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "georgia tech football coaches",
+          "keyword": "georgia tech football tickets",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1558,7 +1513,25 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "georgia tech football score",
+          "keyword": "georgia tech football coaches",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "georgia tech football stadium",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "georgia tech football today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1599,15 +1572,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jon husted voting record",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "jon husted political party",
           "intent": "informational",
           "demand": 64.0,
@@ -1617,13 +1581,13 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jon husted religion",
+          "keyword": "jon husted data centers",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
           "keyword": "jon husted ohio",
@@ -1635,7 +1599,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jon husted wife",
+          "keyword": "jon husted polls",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1608,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jon husted age",
+          "keyword": "jon husted religion",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon husted senator",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1654,6 +1627,15 @@
         },
         {
           "keyword": "jon husted ad",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon husted opponent",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1673,10 +1655,10 @@
       ]
     },
     {
-      "pillar": "john husted jackie kennedy",
+      "pillar": "bob chesney coaching career",
       "cluster": [
         {
-          "keyword": "john husted jackie kennedy",
+          "keyword": "bob chesney coaching career",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1685,7 +1667,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john husted net worth",
+          "keyword": "bob chesney penn state",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1694,7 +1676,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john husted phone number",
+          "keyword": "bob chesney dante moore",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1703,7 +1685,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john husted ohio",
+          "keyword": "bob chesney ucla",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1712,7 +1694,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted polls",
+          "keyword": "bob chesney wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1721,7 +1703,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted jr",
+          "keyword": "bob chesney sr",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1730,7 +1712,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted contact",
+          "keyword": "bob chesney salary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1739,7 +1721,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted aipac",
+          "keyword": "bob chesney coach",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1748,7 +1730,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted party",
+          "keyword": "bob chesney height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1757,7 +1739,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted",
+          "keyword": "bob chesney",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1875,7 +1857,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "khalil mack trade",
+          "keyword": "khalil mack contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1893,16 +1875,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "khalil mack raiders",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "khalil mack contract",
+          "keyword": "khalil mack trade",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1920,6 +1893,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "khalil mack 49ers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "khalil mack news",
           "intent": "informational",
           "demand": 58.0,
@@ -1929,7 +1911,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "khalil mack age",
+          "keyword": "khalil mack raiders",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1938,7 +1920,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "khalil mack cowboys",
+          "keyword": "khalil mack rumors",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
