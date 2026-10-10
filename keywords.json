@@ -190,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "georgia tech football depth chart",
+      "keyword": "georgia tech football game today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -263,15 +263,6 @@
     },
     {
       "keyword": "john husted phone number",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "john husted data centers",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -461,6 +452,15 @@
     },
     {
       "keyword": "john husted ohio",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "john husted polls",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +820,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alani bankhead polls",
+      "keyword": "alani bankhead husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +829,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alani bankhead husband",
+      "keyword": "alani bankhead polls",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1133,7 +1133,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alani bankhead polls",
+          "keyword": "alani bankhead husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1142,7 +1142,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alani bankhead husband",
+          "keyword": "alani bankhead polls",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1495,7 +1495,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "georgia tech football depth chart",
+          "keyword": "georgia tech football game today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1703,16 +1703,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john husted data centers",
+          "keyword": "john husted ohio",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "john husted ohio",
+          "keyword": "john husted polls",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
