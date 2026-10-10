@@ -1,0 +1,61 @@
+{
+  "status": "ok",
+  "checks": {
+    "audited_at": "2026-10-10T10:44:22.854296+00:00",
+    "wp_url": "https://dev-mrkofficial786.pantheonsite.io/",
+    "home_reachable": false,
+    "home_status": 0,
+    "wp_json_reachable": true,
+    "robots_status": 200,
+    "sitemap_status": 0,
+    "published_posts_count": 3,
+    "duplicate_titles": 0,
+    "low_word_posts": 0,
+    "no_featured_image_posts": 0,
+    "weak_internal_links_posts": 0,
+    "missing_author_signature_posts": 3,
+    "empty_categories_posts": 0,
+    "empty_tags_posts": 0,
+    "seo_signals": {
+      "title_present": 0,
+      "meta_description_present": 0,
+      "canonical_present": 0,
+      "posts_with_one_h1": 3,
+      "posts_with_alt_complete": 3,
+      "posts_with_2plus_internal_links": 2
+    },
+    "seo_health_score": 33,
+    "scheduler_log_exists": true,
+    "recent_scheduler_errors": 0
+  },
+  "issues": [
+    {
+      "severity": "critical",
+      "code": "site_unreachable",
+      "message": "Website homepage is not reachable (non-200 response).",
+      "recommended_fix": "Fix domain/DNS/hosting uptime first. Without this, monetization is blocked."
+    },
+    {
+      "severity": "high",
+      "code": "sitemap_missing",
+      "message": "wp-sitemap.xml is missing or inaccessible.",
+      "recommended_fix": "Enable XML sitemap and submit it in Google Search Console."
+    },
+    {
+      "severity": "high",
+      "code": "author_signature_missing",
+      "message": "3 posts missing mandatory author blocks.",
+      "recommended_fix": "Enforce author signature rule before publish and abort if missing."
+    },
+    {
+      "severity": "medium",
+      "code": "seo_health_gaps",
+      "message": "Deterministic technical/on-page SEO health score is 33/100.",
+      "recommended_fix": "Fix metadata, canonical signals, H1 structure, image alt text, and internal links."
+    }
+  ],
+  "summary": {
+    "monetization_readiness_score": 33,
+    "issue_count": 4
+  }
+}
