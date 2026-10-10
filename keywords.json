@@ -145,6 +145,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "atp shanghai where to watch",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "dalibor svrcina tomas martin etcheverry",
       "intent": "informational",
       "demand": 70.0,
@@ -181,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "vandenberg launch today live",
+      "keyword": "vandenberg launch schedule 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -190,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "vandenberg launch schedule 2026",
+      "keyword": "vandenberg launch today live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "atp shanghai 2026 schedule",
+      "keyword": "atp shanghai open 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -542,15 +551,6 @@
     },
     {
       "keyword": "atp shanghai schedule",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "atp shanghai scores",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1391,7 +1391,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "vandenberg launch today live",
+          "keyword": "vandenberg launch schedule 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1400,7 +1400,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "vandenberg launch schedule 2026",
+          "keyword": "vandenberg launch today live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1592,10 +1592,19 @@
       ]
     },
     {
-      "pillar": "atp shanghai 2026 schedule",
+      "pillar": "atp shanghai where to watch",
       "cluster": [
         {
-          "keyword": "atp shanghai 2026 schedule",
+          "keyword": "atp shanghai where to watch",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "atp shanghai open 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1641,15 +1650,6 @@
         },
         {
           "keyword": "atp shanghai schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "atp shanghai scores",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
