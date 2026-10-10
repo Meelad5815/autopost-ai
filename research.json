@@ -1,58 +1,78 @@
 {
-  "generated_at": "2026-10-09T22:48:44.516385+00:00",
+  "generated_at": "2026-10-10T02:10:27.935252+00:00",
   "feed_count": 8,
   "item_count": 159,
   "items": [
     {
-      "title": "personal trainer",
+      "title": "wnba finals",
       "source": "google_trends_us"
     },
     {
-      "title": "justine may",
+      "title": "john boorman",
       "source": "google_trends_us"
     },
     {
-      "title": "abandoned cats in plastic boxes",
+      "title": "fire country",
       "source": "google_trends_us"
     },
     {
-      "title": "coastal flood warning",
+      "title": "sergei murashov",
       "source": "google_trends_us"
     },
     {
-      "title": "mlb tonight",
+      "title": "marine fauthoux",
       "source": "google_trends_us"
     },
     {
-      "title": "southwest airlines computer system failure",
+      "title": "cam talbot",
       "source": "google_trends_us"
     },
     {
-      "title": "monte dutton",
+      "title": "tigres vs toluca",
       "source": "google_trends_us"
     },
     {
-      "title": "columbia vs marist",
+      "title": "massillon football",
       "source": "google_trends_us"
     },
     {
-      "title": "instituto - boca juniors",
+      "title": "robert griffin iii",
       "source": "google_trends_us"
     },
     {
-      "title": "penguins vs blue jackets",
+      "title": "blade",
       "source": "google_trends_us"
     },
     {
-      "title": "epl",
+      "title": "weather",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "el nino polar vortex",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "موسم",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "بارش",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "rain",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "petrol price in pakistan",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "barcelona",
       "source": "google_trends_pk"
     },
     {
       "title": "west ham vs qpr",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "reporting live",
       "source": "google_trends_pk"
     },
     {
@@ -61,26 +81,6 @@
     },
     {
       "title": "thunderstorm",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "megan fox",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "premier league",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "dortmund vs werder",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "australia champions vs south africa",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "al-nassr vs diriyah",
       "source": "google_trends_pk"
     },
     {
@@ -172,10 +172,6 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Thunk.AI Publishes Open Benchmark for AI Automation in Pharmacovigilance Case Intake, Demonstrates 99%+ AI Reliability - BioSpace",
-      "source": "google_news_ai"
-    },
-    {
       "title": "ServiceNow Launches AI Workflow Factory for Enterprise Automation - HPCwire",
       "source": "google_news_ai"
     },
@@ -204,11 +200,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices - Ogletree",
+      "title": "CERM reports strong response to cloud-based MIS, AI automation at LOUPE Americas - Label and Narrow Web",
       "source": "google_news_ai"
     },
     {
-      "title": "CERM reports strong response to cloud-based MIS, AI automation at LOUPE Americas - Label and Narrow Web",
+      "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices - Ogletree",
       "source": "google_news_ai"
     },
     {
@@ -216,11 +212,23 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Emerson Advances Automation in the Age of AI - ARC Advisory Group",
+      "title": "IBM brings enterprise AI orchestration to TechXchange’s agenda - SiliconANGLE",
       "source": "google_news_ai"
     },
     {
       "title": "BA-parent IAG applies a 3-question test for AI automation - PhocusWire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Emerson Advances Automation in the Age of AI - ARC Advisory Group",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Physical AI in warehousing: closing the loop between perception, reasoning, and action - Kearney",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Physical AI in manufacturing: From intelligent machines to coordinated operations - Microsoft",
       "source": "google_news_ai"
     },
     {
@@ -232,7 +240,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Physical AI in manufacturing: From intelligent machines to coordinated operations - Microsoft",
+      "title": "How Investors Are Reacting To TeamViewer (XTRA:TMV) AI IT Automation Launch - Simply Wall Street",
       "source": "google_news_ai"
     },
     {
@@ -240,7 +248,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Thunk.AI Publishes Open Benchmark for AI Automation in Pharmacovigilance Case Intake, Demonstrates 99%+ AI Reliability - BioSpace",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Bechtel Advances AI, Robotics and Automation in Construction - Construction Owners",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Nichols Career Center students learn hands-on trades, while AI automation booms - KRCG",
       "source": "google_news_ai"
     },
     {
@@ -252,23 +268,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Nichols Career Center students learn hands-on trades, while AI automation booms - KRCG",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "A Bad AI Recommendation Can Cost You a Sale - Newsweek",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Workday (WDAY) Broadens Cash Cycle Automation For Finance Customers - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Infrastructure Modernization in Action: How Organizations Are Transforming IT to Meet the Demands of AI, Automation, and Rising Workloads - Lenovo StoryHub",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Comfygen brings AI-based logistics automation into courier delivery platforms - American Journal of Transportation",
       "source": "google_news_ai"
     },
     {
@@ -276,7 +276,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI, automation and connectivity could drive the next era of shipping - safety4sea",
+      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - Hartford Business Journal",
       "source": "google_news_ai"
     },
     {
@@ -308,11 +308,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google September 2026 Spam Update Phase Three Hit October 4 - 6 - Search Engine Roundtable",
+      "title": "SEO Has Changed Part 2: What Google Is Really Looking For - Supply House Times",
       "source": "google_news_seo"
     },
     {
       "title": "Google Ads adds automatic text overlays to Demand Gen video ads - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -321,10 +325,6 @@
     },
     {
       "title": "DigitalGuider Weighs In on Google's New Search Console Multimodal Search Data - EIN Presswire",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -356,11 +356,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Rolls Out Its UCP Hub for U.S. Merchants (2026) - ALM Corp",
+      "title": "Google Search Generative AI Control Page Adds Top-Level Domain Details - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Generative AI Control Page Adds Top-Level Domain Details - Search Engine Roundtable",
+      "title": "Google Rolls Out Its UCP Hub for U.S. Merchants (2026) - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -369,10 +369,6 @@
     },
     {
       "title": "Google: How Long It Takes Google Search For Crawling, Indexing &amp; Serving - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Daily Search Forum Recap: October 8, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -393,6 +389,10 @@
     },
     {
       "title": "Google Drops Review Snippets For Healthcare Web Pages - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Reveals The UGC Fresh Data Program - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -452,10 +452,6 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Candidate Forum: Kansas House 60th District - KVOE",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "WP Buzz Posts Fastest WordPress Load Times in 2026 WordPress Hosting Benchmarks - The National Law Review",
       "source": "google_news_wordpress"
     },
@@ -464,7 +460,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "How to Check WordPress Version of Your Website: 4 Methods - Hostinger",
+      "title": "Is WordPress free? An overview of contributing factors - Hostinger",
       "source": "google_news_wordpress"
     },
     {
@@ -481,6 +477,10 @@
     },
     {
       "title": "Ceadach O’Neill, Andre Harriman-Annous and Marcell Washington train with Arsenal first-team ahead of Leeds game - Jeorge Bird's Arsenal Youth",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "How to Check WordPress Version of Your Website: 4 Methods - Hostinger",
       "source": "google_news_wordpress"
     }
   ],
