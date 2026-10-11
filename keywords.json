@@ -1,24 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "bangladesh vs afghanistan head to head odi",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "hubert hurkacz vs yi zhou prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -28,70 +10,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "hubert hurkacz vs novak djokovic",
+      "keyword": "what is a long snapper in the nfl",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "hubert hurkacz vs yi zhou",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bangladesh vs afghanistan live today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bangladesh vs afghanistan cricket match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bangladesh vs afghanistan series 2026",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "flash flood warning vs watch",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "is tee higgins playing week 5 reddit",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -118,79 +46,16 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "anthony mackie movies and tv shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "keyword": "billy crystal 860 reviews",
+      "intent": "commercial",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "is tee higgins playing week 5",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "is tee higgins playing this week",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "why is tee higgins not playing",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "jeffrey epstein the financier conan clip",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "is caleb williams playing this week",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "is caleb williams playing this weekend",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "is caleb williams playing this sunday",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "bangladesh vs afghanistan test",
+      "keyword": "christopher columbus high school",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -199,7 +64,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "bangladesh vs afghanistan football",
+      "keyword": "christopher columbus real name",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -208,25 +73,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "bangladesh vs afghanistan live",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bangladesh vs afghanistan t20",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bangladesh vs afghanistan 2026",
+      "keyword": "christopher columbus discovered america",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -244,7 +91,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "hubert hurkacz novak djokovic shanghai",
+      "keyword": "powerball jackpot analysis usa mega",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "will shipley or dameon pierce",
+      "keyword": "kelly piquet and max verstappen",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,115 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "will shipley or braelon allen",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "will shipley or keaton mitchell",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "will shipley or ollie gordon",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "will shipley or rj harvey",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "anthony mackie movies and shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "did tee higgins play today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "jeffrey epstein files pdf doj",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "flash flood warning san francisco",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "flash flood warning los angeles",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "flash flood warning near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "flash flood warning las vegas",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "is quinnen williams playing tonight",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "bangladesh vs afghanistan",
+      "keyword": "christopher columbus day",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -379,7 +118,61 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "hubert hurkacz next match",
+      "keyword": "christopher columbus nationality",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "christopher columbus ships",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "christopher columbus statue",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "christopher columbus park",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "christopher columbus religion",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "jaguars vs eagles",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "jaguars long snapper contract",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "hubert hurkacz match today",
+      "keyword": "jaguars long snapper injury",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "will shipley week 5",
+      "keyword": "jaguars long snapper history",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "anthony mackie son meme",
+      "keyword": "jacksonville jaguars long snapper",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "anthony mackie net worth",
+      "keyword": "billy crystal princess bride",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "anthony mackie captain america",
+      "keyword": "billy crystal tv shows",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "is tee higgins playing",
+      "keyword": "billy crystal net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jeffrey epstein files pdf",
+      "keyword": "travis hunter fantasy outlook",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jeffrey epstein quarter zip",
+      "keyword": "travis hunter net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katie volynets match today",
+      "keyword": "powerball jackpot next drawing",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flash flood warning atlanta",
+      "keyword": "kelly piquet daniil kvyat",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flash flood warning utah",
+      "keyword": "kelly piquet ex husband",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flash flood warning meaning",
+      "keyword": "nick sirianni mount union",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flash flood warning nyc",
+      "keyword": "patty hearst net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "is williams playing today",
+      "keyword": "american marathon record holder",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,7 +307,88 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "hubert hurkacz ranking",
+      "keyword": "american marathon record female",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record list",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record male",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record progression",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record pace",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record time",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record history",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "american marathon record boston",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "christopher columbus",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 70.0,
+      "ranking_probability": 53.8,
+      "learning_boost": 0.0,
+      "learned_score": 53.8
+    },
+    {
+      "keyword": "jaguars long snapper",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hubert hurkacz wife",
+      "keyword": "billy crystal 860",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hubert hurkacz today",
+      "keyword": "billy crystal broadway",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "will shipley stats",
+      "keyword": "billy crystal movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "will shipley fantasy",
+      "keyword": "billy crystal show",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "will shipley highlights",
+      "keyword": "billy crystal age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie meme",
+      "keyword": "travis hunter wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie movies",
+      "keyword": "travis hunter stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie son",
+      "keyword": "travis hunter fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie height",
+      "keyword": "travis hunter injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp schedule 2026",
+      "keyword": "travis hunter pff",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp no spoiler",
+      "keyword": "travis hunter contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp results today",
+      "keyword": "travis hunter juke",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp video pass",
+      "keyword": "powerball jackpot today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jeffrey epstein files",
+      "keyword": "powerball jackpot analysis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jeffrey epstein jacket",
+      "keyword": "powerball jackpot tonight",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jeffrey epstein news",
+      "keyword": "powerball jackpot amount",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jeffrey epstein dead",
+      "keyword": "powerball jackpot now",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jeffrey epstein funeral",
+      "keyword": "powerball jackpot payout",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets ranking",
+      "keyword": "powerball jackpot numbers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets tennis",
+      "keyword": "kelly piquet age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets husband",
+      "keyword": "kelly piquet ex",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets boyfriend",
+      "keyword": "kelly piquet pregnant",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets score",
+      "keyword": "kelly piquet dad",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets fiance",
+      "keyword": "kelly piquet daughter",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets coach",
+      "keyword": "kelly piquet children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets age",
+      "keyword": "nick sirianni wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flash flood warning",
+      "keyword": "nick sirianni salary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +640,169 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hubert hurkacz",
+      "keyword": "nick sirianni chatgpt",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nick sirianni crying",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nick sirianni contract",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nick sirianni record",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nick sirianni kids",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nick sirianni age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst now",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst movies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst kidnapping",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst syndrome",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst wikipedia",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst kidnappers",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst documentary",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaguars depth chart",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaguar type 01",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jaguar f type",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "american marathon record",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "billy crystal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "will shipley",
+      "keyword": "travis hunter",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "anthony mackie",
+      "keyword": "powerball jackpot",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp schedule",
+      "keyword": "kelly piquet",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp standings",
+      "keyword": "nick sirianni",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp news",
+      "keyword": "patty hearst",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp sprint",
+      "keyword": "jaguars schedule",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp results",
+      "keyword": "jaguars standings",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jeffrey epstein",
+      "keyword": "jaguar car",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "katie volynets",
+      "keyword": "jaguar animal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +892,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp",
+      "keyword": "jaguars",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "jaguarundi",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -866,196 +911,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "bangladesh vs afghanistan head to head odi",
-      "cluster": [
-        {
-          "keyword": "bangladesh vs afghanistan head to head odi",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "bangladesh vs afghanistan live today",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "bangladesh vs afghanistan cricket match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "bangladesh vs afghanistan series 2026",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "bangladesh vs afghanistan test",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bangladesh vs afghanistan football",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bangladesh vs afghanistan live",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bangladesh vs afghanistan t20",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bangladesh vs afghanistan 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bangladesh vs afghanistan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "hubert hurkacz vs yi zhou prediction",
-      "cluster": [
-        {
-          "keyword": "hubert hurkacz vs yi zhou prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "hubert hurkacz vs novak djokovic",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "hubert hurkacz vs yi zhou",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "hubert hurkacz novak djokovic shanghai",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "hubert hurkacz next match",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "hubert hurkacz match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "hubert hurkacz ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hubert hurkacz wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hubert hurkacz today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hubert hurkacz",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1071,103 +926,17 @@
       ]
     },
     {
-      "pillar": "flash flood warning vs watch",
+      "pillar": "what is a long snapper in the nfl",
       "cluster": [
         {
-          "keyword": "flash flood warning vs watch",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "flash flood warning san francisco",
+          "keyword": "what is a long snapper in the nfl",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 76.0
         },
-        {
-          "keyword": "flash flood warning los angeles",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flash flood warning near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flash flood warning las vegas",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flash flood warning atlanta",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning utah",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning meaning",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "what is the price of website development",
-      "cluster": [
         {
           "keyword": "what is the price of website development",
           "intent": "informational",
@@ -1176,92 +945,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "is tee higgins playing week 5 reddit",
-      "cluster": [
-        {
-          "keyword": "is tee higgins playing week 5 reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "is tee higgins playing week 5",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is tee higgins playing this week",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is caleb williams playing this week",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is caleb williams playing this weekend",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is caleb williams playing this sunday",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is quinnen williams playing tonight",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "is tee higgins playing",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "is williams playing today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1298,28 +981,19 @@
       ]
     },
     {
-      "pillar": "anthony mackie movies and tv shows",
+      "pillar": "billy crystal 860 reviews",
       "cluster": [
         {
-          "keyword": "anthony mackie movies and tv shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "keyword": "billy crystal 860 reviews",
+          "intent": "commercial",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 68.2
         },
         {
-          "keyword": "anthony mackie movies and shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "anthony mackie son meme",
+          "keyword": "billy crystal princess bride",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1328,7 +1002,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "anthony mackie net worth",
+          "keyword": "billy crystal tv shows",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1337,7 +1011,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "anthony mackie captain america",
+          "keyword": "billy crystal net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1346,7 +1020,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "anthony mackie meme",
+          "keyword": "billy crystal 860",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1355,7 +1029,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "anthony mackie movies",
+          "keyword": "billy crystal broadway",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1364,7 +1038,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "anthony mackie son",
+          "keyword": "billy crystal movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1047,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "anthony mackie height",
+          "keyword": "billy crystal show",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,7 +1056,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "anthony mackie",
+          "keyword": "billy crystal age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "billy crystal",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1393,33 +1076,105 @@
       ]
     },
     {
-      "pillar": "why is tee higgins not playing",
+      "pillar": "christopher columbus high school",
       "cluster": [
         {
-          "keyword": "why is tee higgins not playing",
+          "keyword": "christopher columbus high school",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "christopher columbus real name",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "christopher columbus discovered america",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "christopher columbus day",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "christopher columbus nationality",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "christopher columbus ships",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "christopher columbus statue",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "christopher columbus park",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "christopher columbus religion",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "christopher columbus",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 70.0,
+          "ranking_probability": 53.8,
+          "learning_boost": 0.0,
+          "learned_score": 53.8
         }
       ]
     },
     {
-      "pillar": "jeffrey epstein the financier conan clip",
+      "pillar": "powerball jackpot analysis usa mega",
       "cluster": [
         {
-          "keyword": "jeffrey epstein the financier conan clip",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "jeffrey epstein files pdf doj",
+          "keyword": "powerball jackpot analysis usa mega",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1428,7 +1183,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jeffrey epstein files pdf",
+          "keyword": "powerball jackpot next drawing",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1437,7 +1192,93 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jeffrey epstein quarter zip",
+          "keyword": "powerball jackpot today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot analysis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot tonight",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot amount",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot now",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot payout",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot numbers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "kelly piquet and max verstappen",
+      "cluster": [
+        {
+          "keyword": "kelly piquet and max verstappen",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kelly piquet daniil kvyat",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1446,111 +1287,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jeffrey epstein files",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jeffrey epstein jacket",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jeffrey epstein news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jeffrey epstein dead",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jeffrey epstein funeral",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jeffrey epstein",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "will shipley or dameon pierce",
-      "cluster": [
-        {
-          "keyword": "will shipley or dameon pierce",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "will shipley or braelon allen",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "will shipley or keaton mitchell",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "will shipley or ollie gordon",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "will shipley or rj harvey",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "will shipley week 5",
+          "keyword": "kelly piquet ex husband",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1559,7 +1296,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "will shipley stats",
+          "keyword": "kelly piquet age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,7 +1305,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "will shipley fantasy",
+          "keyword": "kelly piquet ex",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1577,7 +1314,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "will shipley highlights",
+          "keyword": "kelly piquet pregnant",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1586,7 +1323,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "will shipley",
+          "keyword": "kelly piquet dad",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet daughter",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1597,24 +1361,19 @@
       ]
     },
     {
-      "pillar": "did tee higgins play today",
+      "pillar": "jaguars vs eagles",
       "cluster": [
         {
-          "keyword": "did tee higgins play today",
+          "keyword": "jaguars vs eagles",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "katie volynets match today",
-      "cluster": [
+          "learned_score": 61.0
+        },
         {
-          "keyword": "katie volynets match today",
+          "keyword": "jaguars long snapper contract",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1623,7 +1382,25 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "katie volynets ranking",
+          "keyword": "jaguars long snapper injury",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguars long snapper history",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jaguars long snapper",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1632,7 +1409,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets tennis",
+          "keyword": "jaguars depth chart",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1641,7 +1418,71 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets husband",
+          "keyword": "jaguars schedule",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "jaguars standings",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "jaguars",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "jacksonville jaguars long snapper",
+      "cluster": [
+        {
+          "keyword": "jacksonville jaguars long snapper",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "travis hunter fantasy outlook",
+      "cluster": [
+        {
+          "keyword": "travis hunter fantasy outlook",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "travis hunter net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "travis hunter wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1650,7 +1491,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets boyfriend",
+          "keyword": "travis hunter stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1659,7 +1500,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets score",
+          "keyword": "travis hunter fantasy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1668,7 +1509,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets fiance",
+          "keyword": "travis hunter injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1677,7 +1518,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets coach",
+          "keyword": "travis hunter pff",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1686,7 +1527,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets age",
+          "keyword": "travis hunter contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1695,7 +1536,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets",
+          "keyword": "travis hunter juke",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "travis hunter",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1706,10 +1556,19 @@
       ]
     },
     {
-      "pillar": "motogp schedule 2026",
+      "pillar": "nick sirianni mount union",
       "cluster": [
         {
-          "keyword": "motogp schedule 2026",
+          "keyword": "nick sirianni mount union",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nick sirianni wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1718,7 +1577,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp no spoiler",
+          "keyword": "nick sirianni salary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1727,7 +1586,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp results today",
+          "keyword": "nick sirianni chatgpt",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1736,7 +1595,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp video pass",
+          "keyword": "nick sirianni crying",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1745,7 +1604,265 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp schedule",
+          "keyword": "nick sirianni contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nick sirianni record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nick sirianni kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nick sirianni age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nick sirianni",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "patty hearst net worth",
+      "cluster": [
+        {
+          "keyword": "patty hearst net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "patty hearst now",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst kidnapping",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst syndrome",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst wikipedia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst kidnappers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst documentary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "american marathon record holder",
+      "cluster": [
+        {
+          "keyword": "american marathon record holder",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record female",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record list",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record male",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record progression",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record pace",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record time",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record history",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record boston",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "american marathon record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "jaguar type 01",
+      "cluster": [
+        {
+          "keyword": "jaguar type 01",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jaguar f type",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jaguar car",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1754,43 +1871,21 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "motogp standings",
+          "keyword": "jaguar animal",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
+        }
+      ]
+    },
+    {
+      "pillar": "jaguarundi",
+      "cluster": [
         {
-          "keyword": "motogp news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "motogp sprint",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "motogp results",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "motogp",
+          "keyword": "jaguarundi",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
