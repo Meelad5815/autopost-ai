@@ -91,24 +91,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "powerball jackpot analysis usa mega",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kelly piquet and max verstappen",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "christopher columbus day",
       "intent": "informational",
       "demand": 70.0,
@@ -145,15 +127,6 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "christopher columbus park",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
       "keyword": "christopher columbus religion",
       "intent": "informational",
       "demand": 70.0,
@@ -163,7 +136,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "jaguars vs eagles",
+      "keyword": "christopher columbus portugal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -235,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "travis hunter fantasy outlook",
+      "keyword": "billy crystal cowboy movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +226,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "travis hunter fantasy outlook",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "powerball jackpot next drawing",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "powerball jackpot winning number",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,6 +262,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "kelly piquet net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "kelly piquet ex husband",
       "intent": "informational",
       "demand": 64.0,
@@ -280,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nick sirianni mount union",
+      "keyword": "nick sirianni coaching history",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,6 +397,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "billy crystal movies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "billy crystal 860",
       "intent": "informational",
       "demand": 58.0,
@@ -415,25 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "billy crystal movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "billy crystal show",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "billy crystal age",
+      "keyword": "billy crystal wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,6 +469,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "travis hunter juke",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "travis hunter pff",
       "intent": "informational",
       "demand": 58.0,
@@ -488,15 +488,6 @@
     },
     {
       "keyword": "travis hunter contract",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "travis hunter juke",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,6 +514,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "powerball jackpot now",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "powerball jackpot tonight",
       "intent": "informational",
       "demand": 58.0,
@@ -541,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "powerball jackpot now",
+      "keyword": "powerball jackpot nc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -551,15 +551,6 @@
     },
     {
       "keyword": "powerball jackpot payout",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "powerball jackpot numbers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,15 +595,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly piquet daughter",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "kelly piquet children",
       "intent": "informational",
       "demand": 58.0,
@@ -622,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nick sirianni wife",
+      "keyword": "kelly piquet daughter",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nick sirianni salary",
+      "keyword": "nick sirianni wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +640,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nick sirianni contract",
+      "keyword": "nick sirianni salary",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nick sirianni chargers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nick sirianni kids",
+      "keyword": "nick sirianni contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nick sirianni age",
+      "keyword": "nick sirianni height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,15 +730,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "patty hearst wikipedia",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "patty hearst kidnappers",
       "intent": "informational",
       "demand": 58.0,
@@ -757,7 +739,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "patty hearst documentary",
+      "keyword": "patty hearst wikipedia",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "patty hearst book",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -865,6 +856,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "jaguar bolera",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "jaguars standings",
       "intent": "informational",
       "demand": 52.0,
@@ -883,6 +883,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "jaguar portal",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "jaguar animal",
       "intent": "informational",
       "demand": 52.0,
@@ -893,15 +902,6 @@
     },
     {
       "keyword": "jaguars",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "jaguarundi",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1020,6 +1020,24 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "billy crystal cowboy movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "billy crystal movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "billy crystal 860",
           "intent": "informational",
           "demand": 58.0,
@@ -1038,25 +1056,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "billy crystal movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "billy crystal show",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "billy crystal age",
+          "keyword": "billy crystal wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1142,7 +1142,7 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "christopher columbus park",
+          "keyword": "christopher columbus religion",
           "intent": "informational",
           "demand": 70.0,
           "competition": 60.0,
@@ -1151,7 +1151,7 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "christopher columbus religion",
+          "keyword": "christopher columbus portugal",
           "intent": "informational",
           "demand": 70.0,
           "competition": 60.0,
@@ -1171,207 +1171,8 @@
       ]
     },
     {
-      "pillar": "powerball jackpot analysis usa mega",
+      "pillar": "jaguars long snapper contract",
       "cluster": [
-        {
-          "keyword": "powerball jackpot analysis usa mega",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "powerball jackpot next drawing",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "powerball jackpot today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot analysis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot tonight",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot amount",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot now",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot payout",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot numbers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "kelly piquet and max verstappen",
-      "cluster": [
-        {
-          "keyword": "kelly piquet and max verstappen",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kelly piquet daniil kvyat",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly piquet ex husband",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly piquet age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly piquet ex",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly piquet pregnant",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly piquet dad",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly piquet daughter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly piquet children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly piquet",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jaguars vs eagles",
-      "cluster": [
-        {
-          "keyword": "jaguars vs eagles",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
         {
           "keyword": "jaguars long snapper contract",
           "intent": "informational",
@@ -1461,10 +1262,10 @@
       ]
     },
     {
-      "pillar": "travis hunter fantasy outlook",
+      "pillar": "travis hunter net worth",
       "cluster": [
         {
-          "keyword": "travis hunter fantasy outlook",
+          "keyword": "travis hunter net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1473,7 +1274,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "travis hunter net worth",
+          "keyword": "travis hunter fantasy outlook",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1518,6 +1319,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "travis hunter juke",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "travis hunter pff",
           "intent": "informational",
           "demand": 58.0,
@@ -1528,15 +1338,6 @@
         },
         {
           "keyword": "travis hunter contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "travis hunter juke",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1556,10 +1357,200 @@
       ]
     },
     {
-      "pillar": "nick sirianni mount union",
+      "pillar": "powerball jackpot next drawing",
       "cluster": [
         {
-          "keyword": "nick sirianni mount union",
+          "keyword": "powerball jackpot next drawing",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "powerball jackpot winning number",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "powerball jackpot today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot analysis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot now",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot tonight",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot amount",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot nc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot payout",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball jackpot",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "kelly piquet daniil kvyat",
+      "cluster": [
+        {
+          "keyword": "kelly piquet daniil kvyat",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kelly piquet net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kelly piquet ex husband",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kelly piquet age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet ex",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet pregnant",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet dad",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet daughter",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kelly piquet",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "nick sirianni coaching history",
+      "cluster": [
+        {
+          "keyword": "nick sirianni coaching history",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1569,15 +1560,6 @@
         },
         {
           "keyword": "nick sirianni wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nick sirianni salary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1604,7 +1586,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nick sirianni contract",
+          "keyword": "nick sirianni salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nick sirianni chargers",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1622,7 +1613,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nick sirianni kids",
+          "keyword": "nick sirianni contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1631,7 +1622,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nick sirianni age",
+          "keyword": "nick sirianni height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1708,15 +1699,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "patty hearst wikipedia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "patty hearst kidnappers",
           "intent": "informational",
           "demand": 58.0,
@@ -1726,7 +1708,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "patty hearst documentary",
+          "keyword": "patty hearst wikipedia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "patty hearst book",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1862,7 +1853,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "jaguar bolera",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "jaguar car",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "jaguar portal",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1878,20 +1887,6 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jaguarundi",
-      "cluster": [
-        {
-          "keyword": "jaguarundi",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
