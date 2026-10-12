@@ -46,15 +46,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "coritiba vs botafogo sp matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "fitbit edge vs charge 6",
       "intent": "informational",
       "demand": 82.0,
@@ -66,6 +57,15 @@
     {
       "keyword": "fitbit edge fitness tracker pricing",
       "intent": "commercial",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "fitbit edge vs fitbit air",
+      "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
       "ranking_probability": 75.4,
@@ -154,15 +154,6 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "coritiba vs botafogo prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "coritiba vs botafogo standings",
       "intent": "informational",
       "demand": 76.0,
@@ -173,6 +164,24 @@
     },
     {
       "keyword": "coritiba vs botafogo matches",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "coritiba vs botafogo prediction",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "coritiba vs botafogo timeline",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -253,6 +262,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "nico iamaleava out for season",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "fitbit edge specs and price",
       "intent": "informational",
       "demand": 70.0,
@@ -273,6 +291,15 @@
     {
       "keyword": "coritiba vs botafogo",
       "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "fitbit edge review",
+      "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
       "ranking_probability": 61.0,
@@ -388,15 +415,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alina habba press secretary",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "nico iamaleava injury update",
       "intent": "informational",
       "demand": 64.0,
@@ -406,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nico iamaleava nfl draft",
+      "keyword": "nico iamaleava injury video",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -488,6 +506,15 @@
     },
     {
       "keyword": "alina habba bikini",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "alina habba husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,25 +613,16 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "nico iamaleava ucla",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "nico iamaleava brother",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nico iamaleava benched",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nico iamaleava punch",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -704,24 +722,6 @@
     },
     {
       "keyword": "fitbit edge price",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "fitbit edge launch",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "fitbit edge nfc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -907,25 +907,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "coritiba vs botafogo sp matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "coritiba vs botafogo stats",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "coritiba vs botafogo prediction",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -944,6 +926,24 @@
         },
         {
           "keyword": "coritiba vs botafogo matches",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "coritiba vs botafogo prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "coritiba vs botafogo timeline",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -993,6 +993,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "fitbit edge vs fitbit air",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "fitbit edge specs and price",
           "intent": "informational",
           "demand": 70.0,
@@ -1009,6 +1018,15 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        },
+        {
+          "keyword": "fitbit edge review",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
         },
         {
           "keyword": "fitbit edge release date",
@@ -1030,24 +1048,6 @@
         },
         {
           "keyword": "fitbit edge price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fitbit edge launch",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fitbit edge nfc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1331,6 +1331,101 @@
       ]
     },
     {
+      "pillar": "nico iamaleava out for season",
+      "cluster": [
+        {
+          "keyword": "nico iamaleava out for season",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nico iamaleava injury update",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nico iamaleava injury video",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nico iamaleava injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nico iamaleava stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nico iamaleava nil",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nico iamaleava hit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nico iamaleava ucla",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nico iamaleava brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nico iamaleava",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "alina habba net worth",
       "cluster": [
         {
@@ -1343,16 +1438,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alina habba press secretary",
+          "keyword": "alina habba bikini",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "alina habba bikini",
+          "keyword": "alina habba husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1416,101 +1511,6 @@
         },
         {
           "keyword": "alina habba",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "nico iamaleava injury update",
-      "cluster": [
-        {
-          "keyword": "nico iamaleava injury update",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nico iamaleava nfl draft",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nico iamaleava injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava nil",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava hit",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava brother",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava benched",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava punch",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nico iamaleava",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
