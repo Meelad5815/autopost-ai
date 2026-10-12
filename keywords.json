@@ -91,24 +91,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ej johnson blocked from hotel",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ej johnson and klay thompson",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "ej johnson and rihanna beef",
       "intent": "informational",
       "demand": 70.0,
@@ -118,7 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "us cold weather forecast winter",
+      "keyword": "ej johnson blocked from hotel",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "reverse engineer anything github repo",
+      "keyword": "us cold weather forecast winter",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "reverse engineer anything games",
+      "keyword": "reverse engineer anything adobe",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -218,6 +200,15 @@
     },
     {
       "keyword": "reverse engineer anything stock",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "reverse engineer anything games",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "russell brand piers morgan",
+      "keyword": "russell brand despicable me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +343,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maria sakkari age",
+      "keyword": "maria sakkari fiance",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,6 +388,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "ej johnson husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "openai chat gpt",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "openai api key",
       "intent": "informational",
       "demand": 58.0,
@@ -424,24 +433,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kospi stock market",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kospi index live",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "kospi index today",
       "intent": "informational",
       "demand": 58.0,
@@ -451,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kospi stock price",
+      "keyword": "kospi stock market",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,6 +487,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "medallion signature guarantee",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "russell brand wife",
       "intent": "informational",
       "demand": 58.0,
@@ -523,15 +523,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "russell brand pretrial",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "russell brand books",
       "intent": "informational",
       "demand": 58.0,
@@ -541,7 +532,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "russell brandom techcrunch",
+      "keyword": "russell brand wiki",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "russell brand reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,24 +577,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "openai ipo",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "openai math",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "openai api",
       "intent": "informational",
       "demand": 52.0,
@@ -604,7 +586,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "openai jobs",
+      "keyword": "openai mathematics",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -613,7 +595,25 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "openai news",
+      "keyword": "openai stock",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "openai ipo",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "openai dots",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -623,15 +623,6 @@
     },
     {
       "keyword": "openai codex",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "openai valuation",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -685,6 +676,24 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "kospi chart",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "kospi price",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "rockstar games",
       "intent": "informational",
       "demand": 52.0,
@@ -712,25 +721,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "medallion fund",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medallion architecture",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "medal download",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "medal clipping",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "russell brandom",
+      "keyword": "russell brandt",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +784,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "medallia",
+      "keyword": "medallion",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -793,7 +793,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "medallion",
+      "keyword": "medallia",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -916,7 +916,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "maria sakkari age",
+          "keyword": "maria sakkari fiance",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -994,25 +994,16 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "ej johnson blocked from hotel",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ej johnson and klay thompson",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "ej johnson and rihanna beef",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ej johnson blocked from hotel",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1066,6 +1057,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ej johnson husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ej johnson",
           "intent": "informational",
           "demand": 52.0,
@@ -1091,17 +1091,8 @@
       ]
     },
     {
-      "pillar": "reverse engineer anything github repo",
+      "pillar": "reverse engineer anything ai integration",
       "cluster": [
-        {
-          "keyword": "reverse engineer anything github repo",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
         {
           "keyword": "reverse engineer anything ai integration",
           "intent": "informational",
@@ -1139,7 +1130,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "reverse engineer anything games",
+          "keyword": "reverse engineer anything adobe",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1149,6 +1140,15 @@
         },
         {
           "keyword": "reverse engineer anything stock",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "reverse engineer anything games",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1334,6 +1334,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "medal clipping",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "medal",
           "intent": "informational",
           "demand": 46.0,
@@ -1357,7 +1366,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "russell brand piers morgan",
+          "keyword": "russell brand despicable me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1393,15 +1402,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "russell brand pretrial",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "russell brand books",
           "intent": "informational",
           "demand": 58.0,
@@ -1411,7 +1411,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "russell brandom techcrunch",
+          "keyword": "russell brand wiki",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "russell brand reddit",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1429,7 +1438,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "russell brandom",
+          "keyword": "russell brandt",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1440,8 +1449,17 @@
       ]
     },
     {
-      "pillar": "openai api key",
+      "pillar": "openai chat gpt",
       "cluster": [
+        {
+          "keyword": "openai chat gpt",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "openai api key",
           "intent": "informational",
@@ -1461,24 +1479,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "openai ipo",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "openai math",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "openai api",
           "intent": "informational",
           "demand": 52.0,
@@ -1488,7 +1488,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "openai jobs",
+          "keyword": "openai mathematics",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1497,7 +1497,25 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "openai news",
+          "keyword": "openai stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "openai ipo",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "openai dots",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1507,15 +1525,6 @@
         },
         {
           "keyword": "openai codex",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "openai valuation",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1535,26 +1544,8 @@
       ]
     },
     {
-      "pillar": "kospi stock market",
+      "pillar": "kospi index today",
       "cluster": [
-        {
-          "keyword": "kospi stock market",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kospi index live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
         {
           "keyword": "kospi index today",
           "intent": "informational",
@@ -1565,7 +1556,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kospi stock price",
+          "keyword": "kospi stock market",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1619,6 +1610,24 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "kospi chart",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "kospi price",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "kospi",
           "intent": "informational",
           "demand": 46.0,
@@ -1630,28 +1639,19 @@
       ]
     },
     {
-      "pillar": "medallion bank",
+      "pillar": "medallion signature guarantee",
       "cluster": [
         {
+          "keyword": "medallion signature guarantee",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "medallion bank",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medallion fund",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medallion architecture",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
