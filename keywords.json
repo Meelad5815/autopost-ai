@@ -118,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "reverse engineer anything ai integration",
+      "keyword": "reverse engineer anything r=h www.reddit.com",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,6 +226,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "reverse engineer anything news",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "rockstar games ps5 remasters",
       "intent": "informational",
       "demand": 64.0,
@@ -298,15 +307,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "maria sakkari prediction",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "maria sakkari ranking",
       "intent": "informational",
       "demand": 58.0,
@@ -344,6 +344,15 @@
     },
     {
       "keyword": "maria sakkari fiance",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maria sakkari age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -416,15 +425,6 @@
     },
     {
       "keyword": "reverse engineer anything",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "reverse engineer something",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "russell brand reddit",
+      "keyword": "russell brand religion",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -871,15 +871,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "maria sakkari prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "maria sakkari ranking",
           "intent": "informational",
           "demand": 58.0,
@@ -917,6 +908,15 @@
         },
         {
           "keyword": "maria sakkari fiance",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1091,10 +1091,10 @@
       ]
     },
     {
-      "pillar": "reverse engineer anything ai integration",
+      "pillar": "reverse engineer anything r=h www.reddit.com",
       "cluster": [
         {
-          "keyword": "reverse engineer anything ai integration",
+          "keyword": "reverse engineer anything r=h www.reddit.com",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1166,16 +1166,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "reverse engineer anything",
+          "keyword": "reverse engineer anything news",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
-          "keyword": "reverse engineer something",
+          "keyword": "reverse engineer anything",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1420,7 +1420,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "russell brand reddit",
+          "keyword": "russell brand religion",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
