@@ -91,25 +91,16 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "metro 2039 collectors edition gamestop",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "metro 2039 collectors edition pre order date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "metro 2039 collectors edition pc pre order",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -190,15 +181,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "metro 2039 collectors edition price usd",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "al sadd vs al-hilal",
       "intent": "informational",
       "demand": 76.0,
@@ -218,6 +200,15 @@
     },
     {
       "keyword": "mattel brick shop nissan skyline",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "joe espada mariners interview permission",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -299,6 +290,24 @@
     },
     {
       "keyword": "metro 2039 collectors edition pc",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "metro 2039 collectors edition steam",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "metro 2039 collectors edition ebay",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -451,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc requirements",
+      "keyword": "gavin newsom first wife",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -461,6 +470,15 @@
     },
     {
       "keyword": "gta 6 pc release",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "gta 6 pc requirements",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,6 +505,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "gta 6 pc q1",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "gta 6 pc launch",
       "intent": "informational",
       "demand": 64.0,
@@ -496,16 +523,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc port",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "gta 6 pc version",
+      "keyword": "gta 6 pc news",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -559,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joe espada astros",
+      "keyword": "joe espada contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joe espada contract",
+      "keyword": "joe espada astros",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,24 +631,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joe espada record",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "employee navigator login",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "employee self service",
       "intent": "informational",
       "demand": 58.0,
@@ -641,6 +641,15 @@
     },
     {
       "keyword": "employee assistance program",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "employee navigator login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,15 +766,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gavin newsom 2028",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "gta 6 pc",
       "intent": "informational",
       "demand": 58.0,
@@ -775,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mortgages rates",
+      "keyword": "mortgages calculator",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "mortgages calculator",
+      "keyword": "mortgages rates",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1057,39 +1057,16 @@
       ]
     },
     {
-      "pillar": "what is the price of website development",
+      "pillar": "metro 2039 collectors edition gamestop",
       "cluster": [
         {
-          "keyword": "what is the price of website development",
+          "keyword": "metro 2039 collectors edition gamestop",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "metro 2039 collectors edition pre order date",
-      "cluster": [
-        {
-          "keyword": "metro 2039 collectors edition pre order date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "metro 2039 collectors edition pc pre order",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
+          "learned_score": 75.4
         },
         {
           "keyword": "metro 2039 collectors edition pre order",
@@ -1111,15 +1088,6 @@
         },
         {
           "keyword": "metro 2039 collectors edition release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "metro 2039 collectors edition price usd",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1155,6 +1123,24 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "metro 2039 collectors edition steam",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "metro 2039 collectors edition ebay",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "metro 2039 collectors edition",
           "intent": "informational",
           "demand": 64.0,
@@ -1162,6 +1148,20 @@
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "what is the price of website development",
+      "cluster": [
+        {
+          "keyword": "what is the price of website development",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
         }
       ]
     },
@@ -1237,7 +1237,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mortgages rates",
+          "keyword": "mortgages calculator",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1246,7 +1246,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "mortgages calculator",
+          "keyword": "mortgages rates",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1483,6 +1483,101 @@
       ]
     },
     {
+      "pillar": "joe espada mariners interview permission",
+      "cluster": [
+        {
+          "keyword": "joe espada mariners interview permission",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "joe espada family emergency",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joe espada net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joe espada contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joe espada astros",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joe espada salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joe espada wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joe espada yankees",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joe espada watch",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joe espada",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "employee of the month cast",
       "cluster": [
         {
@@ -1504,15 +1599,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "employee navigator login",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "employee self service",
           "intent": "informational",
           "demand": 58.0,
@@ -1523,6 +1609,15 @@
         },
         {
           "keyword": "employee assistance program",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "employee navigator login",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1599,7 +1694,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "gta 6 pc requirements",
+          "keyword": "gta 6 pc release",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1608,7 +1703,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc release",
+          "keyword": "gta 6 pc requirements",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1635,6 +1730,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "gta 6 pc q1",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "gta 6 pc launch",
           "intent": "informational",
           "demand": 64.0,
@@ -1644,16 +1748,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc port",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc version",
+          "keyword": "gta 6 pc news",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1669,101 +1764,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "joe espada family emergency",
-      "cluster": [
-        {
-          "keyword": "joe espada family emergency",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joe espada net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joe espada astros",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada yankees",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada watch",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada record",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joe espada",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1902,6 +1902,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "gavin newsom first wife",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "gavin newsom wife",
           "intent": "informational",
           "demand": 58.0,
@@ -1930,15 +1939,6 @@
         },
         {
           "keyword": "gavin newsom news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "gavin newsom 2028",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
