@@ -109,6 +109,15 @@
       "learned_score": 73.0
     },
     {
+      "keyword": "metro 2039 collectors edition pc pre order",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
       "keyword": "wordpress website development price in pakistan",
       "intent": "informational",
       "demand": 70.0,
@@ -163,6 +172,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "metro 2039 collectors edition sold out",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "metro 2039 collectors edition release date",
       "intent": "informational",
       "demand": 70.0,
@@ -173,24 +191,6 @@
     },
     {
       "keyword": "metro 2039 collectors edition price usd",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "metro 2039 collectors edition release time",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "metro 2039 collectors edition amazon us",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -478,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc launch",
+      "keyword": "gta 6 pc reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +487,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc reddit",
+      "keyword": "gta 6 pc launch",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -757,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gavin newsom height",
+      "keyword": "gavin newsom 2028",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1083,7 +1083,25 @@
           "learned_score": 73.0
         },
         {
+          "keyword": "metro 2039 collectors edition pc pre order",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
           "keyword": "metro 2039 collectors edition pre order",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "metro 2039 collectors edition sold out",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1102,24 +1120,6 @@
         },
         {
           "keyword": "metro 2039 collectors edition price usd",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "metro 2039 collectors edition release time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "metro 2039 collectors edition amazon us",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1626,7 +1626,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc launch",
+          "keyword": "gta 6 pc reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1635,7 +1635,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc reddit",
+          "keyword": "gta 6 pc launch",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1938,7 +1938,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "gavin newsom height",
+          "keyword": "gavin newsom 2028",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
