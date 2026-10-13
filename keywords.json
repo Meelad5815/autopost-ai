@@ -190,15 +190,6 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "diana shnaider vs katie",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "maja chwalińska vs sherif",
       "intent": "informational",
       "demand": 76.0,
@@ -388,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sorana cirstea prediction today",
+      "keyword": "diana shnaider katie boulter",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "diana shnaider katie boulter",
+      "keyword": "diana shnaider weight loss",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,15 +505,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lakers news lebron james",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "lakers news jonathan kuminga",
       "intent": "informational",
       "demand": 64.0,
@@ -604,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ann littrell richardson",
+      "keyword": "ann li ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -623,6 +605,15 @@
     },
     {
       "keyword": "sorana cirstea husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sorana cirstea tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -830,6 +821,15 @@
     },
     {
       "keyword": "lakers news center",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "lakers news update",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1114,7 +1114,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ann littrell richardson",
+          "keyword": "ann li ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1191,15 +1191,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "sorana cirstea prediction today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "sorana cirstea prediction",
           "intent": "informational",
           "demand": 58.0,
@@ -1210,6 +1201,15 @@
         },
         {
           "keyword": "sorana cirstea husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sorana cirstea tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1268,16 +1268,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "diana shnaider vs katie",
+          "keyword": "diana shnaider katie boulter",
           "intent": "informational",
-          "demand": 76.0,
+          "demand": 64.0,
           "competition": 50.0,
-          "ranking_probability": 68.2,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 59.8
         },
         {
-          "keyword": "diana shnaider katie boulter",
+          "keyword": "diana shnaider weight loss",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1712,15 +1712,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lakers news lebron james",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "lakers news jonathan kuminga",
           "intent": "informational",
           "demand": 64.0,
@@ -1749,6 +1740,15 @@
         },
         {
           "keyword": "lakers news center",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lakers news update",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
