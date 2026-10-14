@@ -1,51 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "botic van de zandschulp vs rafael jodar",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "botic van de zandschulp vs jodar prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "marie bouzkova vs maja chwalinska prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "botic van de zandschulp vs jodar",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "rafael jodar vs van de zandschulp",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -55,7 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "jodar vs van de zandschulp",
+      "keyword": "stefanos tsitsipas vs daniil medvedev",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -64,25 +19,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "marie bouzkova vs maja chwalinska",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marie bouzkova vs maja prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rafael jodar vs botic van",
+      "keyword": "stefanos tsitsipas vs medvedev prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -118,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "kansas city tornado warning right now",
+      "keyword": "nyt connections hints october 13 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -127,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "kansas city tornado warning last night",
+      "keyword": "nyt connections hints 10 13 26",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -136,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "botic van de zandschulp rafael jodar",
+      "keyword": "nyt connections hints oct 13 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -145,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "botic van de zandschulp match today",
+      "keyword": "mu stock price today per share",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -154,40 +91,13 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "jodar vs botic prediction",
+      "keyword": "cleveland weather radar 24 hours live",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "macklin celebrini vs bruins",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "marie bouzkova vs chwalinska",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rafael jodar vs botic",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -199,7 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "bob mackie cause of death",
+      "keyword": "nyt connections hints today mashable",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kansas city tornado warning today",
+      "keyword": "nyt connections hints oct 13",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kansas city tornado warning now",
+      "keyword": "nyt connections hints october 13",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kansas city tornado warning live",
+      "keyword": "national grid customer service number",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kansas city tornado warning map",
+      "keyword": "bruins schedule 2026 27 printable",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kansas city tornado warnings yesterday",
+      "keyword": "mu stock price today live",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kansas city tornado watch today",
+      "keyword": "mu stock price after hours",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dalton knecht jaden hardy lakers",
+      "keyword": "mu stock price prediction 2030",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "botic van de zandschulp ranking",
+      "keyword": "cleveland weather 20 day forecast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "botic van de zandschulp wife",
+      "keyword": "google weather app for android",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,61 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "botic van de zandschulp today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "botic van de zandschulp flashscore",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "the punisher one last kill",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "jodar vs botic",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "jodar vs zandschulp",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "rafael jodar vs",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "jodar van de zandschulp",
+      "keyword": "nyt connections hints today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "bob mackie wearable art",
+      "keyword": "nyt connections hints mashable",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "bob mackie barbie dolls",
+      "keyword": "nyt connections hints forbes",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "macklin celebrini playing tonight",
+      "keyword": "national grid bill pay",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kansas city tornado warning",
+      "keyword": "national grid customer service",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kansas city tornado watch",
+      "keyword": "national grid outage map",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "marie bouzkova maja chwalinska",
+      "keyword": "national grid phone number",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chicago weather 10 day",
+      "keyword": "national grid long island",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chicago weather in september",
+      "keyword": "national grid power outage",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chicago weather in october",
+      "keyword": "bruins schedule 26 27",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chicago weather this weekend",
+      "keyword": "bruins schedule home games",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "botic van de zandschulp",
+      "keyword": "stefanos tsitsipas net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "the punisher 2004 cast",
+      "keyword": "stefanos tsitsipas match today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "the punisher tv series",
+      "keyword": "mu stock price today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "the punisher movie 2026",
+      "keyword": "mu stock price target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rafael jodar net worth",
+      "keyword": "mu stock price prediction",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,16 +343,88 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jodar vs",
+      "keyword": "mu stock price history",
       "intent": "informational",
       "demand": 64.0,
-      "competition": 70.0,
-      "ranking_probability": 53.8,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
       "learning_boost": 0.0,
-      "learned_score": 53.8
+      "learned_score": 59.8
     },
     {
-      "keyword": "bob mackie death",
+      "keyword": "mu stock price chart",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nylottery ny gov powerball",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "cleveland weather 10 day",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "cleveland weather this weekend",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "google weather for today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guardians game today live",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guardians game last night",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guardians game today score",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nyt connections hints",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bob mackie barbie",
+      "keyword": "national grid login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bob mackie dresses",
+      "keyword": "national grid ma",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bob mackie perfume",
+      "keyword": "bruins schedule 2026-27",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bob mackie clothing",
+      "keyword": "bruins schedule 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bob mackie documentary",
+      "keyword": "bruins schedule 2027",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini contract",
+      "keyword": "bruins schedule printable",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini stats",
+      "keyword": "bruins schedule release",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini injury",
+      "keyword": "bruins schedule preseason",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini age",
+      "keyword": "stefanos tsitsipas ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini jersey",
+      "keyword": "stefanos tsitsipas girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini gq",
+      "keyword": "stefanos tsitsipas wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "macklin celebrini height",
+      "keyword": "stefanos tsitsipas coach",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marie bouzkova prediction",
+      "keyword": "stefanos tsitsipas height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marie bouzkova ranking",
+      "keyword": "mu stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marie bouzkova tennis",
+      "keyword": "nylottery ny gov",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marie bouzkova age",
+      "keyword": "ny lottery post",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chicago weather forecast",
+      "keyword": "ny lottery results",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chicago weather today",
+      "keyword": "nylottery pick 3",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chicago weather radar",
+      "keyword": "하정우 와인 코스트코",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chicago weather tomorrow",
+      "keyword": "cleveland weather forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chicago weather hourly",
+      "keyword": "cleveland weather today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht stats",
+      "keyword": "cleveland weather radar",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht contract",
+      "keyword": "cleveland weather tomorrow",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht trade",
+      "keyword": "cleveland weather hourly",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht news",
+      "keyword": "google weather app",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht girlfriend",
+      "keyword": "google weather lab",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht height",
+      "keyword": "google weather radar",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht draft",
+      "keyword": "google weather forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dalton knecht nba",
+      "keyword": "google weather widget",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the punisher movie",
+      "keyword": "google weather nyc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the punisher 2004",
+      "keyword": "google weather frog",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the punisher show",
+      "keyword": "guardians game today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the punisher cast",
+      "keyword": "guardians game tonight",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the punisher actor",
+      "keyword": "guardians game score",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar prediction",
+      "keyword": "guardians game yesterday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar ranking",
+      "keyword": "guardians game schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar height",
+      "keyword": "guardians game 2",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,16 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jodar prediction",
+      "keyword": "national grid",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jodar height",
+      "keyword": "bruins schedule",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jodar rafael",
+      "keyword": "stefanos tsitsipas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "bob mackie",
+      "keyword": "nylottery org",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "macklin celebrini",
+      "keyword": "nylottery gov",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "marie bouzkova",
+      "keyword": "nylottery numbers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "chicago weather",
+      "keyword": "nylottery.ny.gov lotto",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "dalton knecht",
+      "keyword": "하정우 수석",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -919,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "the punisher",
+      "keyword": "하정우 와인",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -928,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "rafael jodar",
+      "keyword": "하정우 결혼",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -937,7 +856,88 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jodar",
+      "keyword": "하정우 여자친구",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "하정우 영화",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "하정우 아빠",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "하정우 나이",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "하정우 차정원",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "cleveland weather",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "google weather",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "guardians game",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "nylottery",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "하정우",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -947,291 +947,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "botic van de zandschulp vs rafael jodar",
-      "cluster": [
-        {
-          "keyword": "botic van de zandschulp vs rafael jodar",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "botic van de zandschulp vs jodar prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "botic van de zandschulp vs jodar",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "botic van de zandschulp rafael jodar",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "botic van de zandschulp match today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "botic van de zandschulp ranking",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "botic van de zandschulp wife",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "botic van de zandschulp today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "botic van de zandschulp flashscore",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "botic van de zandschulp",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "marie bouzkova vs maja chwalinska prediction",
-      "cluster": [
-        {
-          "keyword": "marie bouzkova vs maja chwalinska prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "marie bouzkova vs maja chwalinska",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marie bouzkova vs maja prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marie bouzkova vs chwalinska",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "marie bouzkova maja chwalinska",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "marie bouzkova prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "marie bouzkova ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "marie bouzkova tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "marie bouzkova age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "marie bouzkova",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "rafael jodar vs van de zandschulp",
-      "cluster": [
-        {
-          "keyword": "rafael jodar vs van de zandschulp",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "rafael jodar vs botic van",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rafael jodar vs botic",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rafael jodar vs",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "rafael jodar net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rafael jodar prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rafael jodar",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1247,10 +962,10 @@
       ]
     },
     {
-      "pillar": "jodar vs van de zandschulp",
+      "pillar": "stefanos tsitsipas vs daniil medvedev",
       "cluster": [
         {
-          "keyword": "jodar vs van de zandschulp",
+          "keyword": "stefanos tsitsipas vs daniil medvedev",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1259,34 +974,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "jodar vs botic prediction",
+          "keyword": "stefanos tsitsipas vs medvedev prediction",
           "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 75.4
         },
         {
-          "keyword": "jodar vs botic",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "jodar vs zandschulp",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "jodar van de zandschulp",
+          "keyword": "stefanos tsitsipas net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1295,49 +992,67 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jodar vs",
+          "keyword": "stefanos tsitsipas match today",
           "intent": "informational",
           "demand": 64.0,
-          "competition": 70.0,
-          "ranking_probability": 53.8,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 53.8
+          "learned_score": 59.8
         },
         {
-          "keyword": "jodar prediction",
+          "keyword": "stefanos tsitsipas ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stefanos tsitsipas girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stefanos tsitsipas wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stefanos tsitsipas coach",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stefanos tsitsipas height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stefanos tsitsipas",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "jodar height",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "jodar rafael",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "jodar",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
@@ -1388,10 +1103,10 @@
       ]
     },
     {
-      "pillar": "kansas city tornado warning right now",
+      "pillar": "nyt connections hints october 13 2026",
       "cluster": [
         {
-          "keyword": "kansas city tornado warning right now",
+          "keyword": "nyt connections hints october 13 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1400,7 +1115,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "kansas city tornado warning last night",
+          "keyword": "nyt connections hints 10 13 26",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1409,7 +1124,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "kansas city tornado warning today",
+          "keyword": "nyt connections hints oct 13 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "nyt connections hints today mashable",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1418,7 +1142,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "kansas city tornado warning now",
+          "keyword": "nyt connections hints oct 13",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1427,7 +1151,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "kansas city tornado warning live",
+          "keyword": "nyt connections hints october 13",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1436,34 +1160,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "kansas city tornado warning map",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kansas city tornado warnings yesterday",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kansas city tornado watch today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kansas city tornado warning",
+          "keyword": "nyt connections hints today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1472,30 +1169,75 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "kansas city tornado watch",
+          "keyword": "nyt connections hints mashable",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "nyt connections hints forbes",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nyt connections hints",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "macklin celebrini vs bruins",
+      "pillar": "mu stock price today per share",
       "cluster": [
         {
-          "keyword": "macklin celebrini vs bruins",
+          "keyword": "mu stock price today per share",
           "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 70.0
         },
         {
-          "keyword": "macklin celebrini playing tonight",
+          "keyword": "mu stock price today live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mu stock price after hours",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mu stock price prediction 2030",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mu stock price today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1504,7 +1246,93 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "macklin celebrini contract",
+          "keyword": "mu stock price target",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mu stock price prediction",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mu stock price history",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mu stock price chart",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mu stock price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "cleveland weather radar 24 hours live",
+      "cluster": [
+        {
+          "keyword": "cleveland weather radar 24 hours live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cleveland weather 20 day forecast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "cleveland weather 10 day",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cleveland weather this weekend",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cleveland weather forecast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1513,7 +1341,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "macklin celebrini stats",
+          "keyword": "cleveland weather today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1522,7 +1350,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "macklin celebrini injury",
+          "keyword": "cleveland weather radar",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1531,7 +1359,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "macklin celebrini age",
+          "keyword": "cleveland weather tomorrow",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1540,7 +1368,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "macklin celebrini jersey",
+          "keyword": "cleveland weather hourly",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1549,25 +1377,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "macklin celebrini gq",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "macklin celebrini height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "macklin celebrini",
+          "keyword": "cleveland weather",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1578,10 +1388,10 @@
       ]
     },
     {
-      "pillar": "bob mackie cause of death",
+      "pillar": "national grid customer service number",
       "cluster": [
         {
-          "keyword": "bob mackie cause of death",
+          "keyword": "national grid customer service number",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1590,7 +1400,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "bob mackie wearable art",
+          "keyword": "national grid bill pay",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1599,7 +1409,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "bob mackie barbie dolls",
+          "keyword": "national grid customer service",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1608,7 +1418,43 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "bob mackie death",
+          "keyword": "national grid outage map",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "national grid phone number",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "national grid long island",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "national grid power outage",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "national grid login",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1617,7 +1463,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bob mackie barbie",
+          "keyword": "national grid ma",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1626,43 +1472,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bob mackie dresses",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bob mackie perfume",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bob mackie clothing",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bob mackie documentary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bob mackie",
+          "keyword": "national grid",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1673,10 +1483,10 @@
       ]
     },
     {
-      "pillar": "dalton knecht jaden hardy lakers",
+      "pillar": "bruins schedule 2026 27 printable",
       "cluster": [
         {
-          "keyword": "dalton knecht jaden hardy lakers",
+          "keyword": "bruins schedule 2026 27 printable",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1685,7 +1495,25 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "dalton knecht stats",
+          "keyword": "bruins schedule 26 27",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "bruins schedule home games",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "bruins schedule 2026-27",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1694,7 +1522,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dalton knecht contract",
+          "keyword": "bruins schedule 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1703,7 +1531,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dalton knecht trade",
+          "keyword": "bruins schedule 2027",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1712,7 +1540,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dalton knecht news",
+          "keyword": "bruins schedule printable",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1721,7 +1549,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dalton knecht girlfriend",
+          "keyword": "bruins schedule release",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1730,7 +1558,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dalton knecht height",
+          "keyword": "bruins schedule preseason",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1739,25 +1567,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dalton knecht draft",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dalton knecht nba",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dalton knecht",
+          "keyword": "bruins schedule",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1768,10 +1578,10 @@
       ]
     },
     {
-      "pillar": "the punisher one last kill",
+      "pillar": "google weather app for android",
       "cluster": [
         {
-          "keyword": "the punisher one last kill",
+          "keyword": "google weather app for android",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1780,7 +1590,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "the punisher 2004 cast",
+          "keyword": "google weather for today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1789,25 +1599,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "the punisher tv series",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "the punisher movie 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "the punisher movie",
+          "keyword": "google weather app",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1816,7 +1608,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the punisher 2004",
+          "keyword": "google weather lab",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1825,7 +1617,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the punisher show",
+          "keyword": "google weather radar",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1834,7 +1626,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the punisher cast",
+          "keyword": "google weather forecast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1843,7 +1635,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the punisher actor",
+          "keyword": "google weather widget",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1852,7 +1644,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the punisher",
+          "keyword": "google weather nyc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "google weather frog",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "google weather",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1863,10 +1673,10 @@
       ]
     },
     {
-      "pillar": "chicago weather 10 day",
+      "pillar": "nylottery ny gov powerball",
       "cluster": [
         {
-          "keyword": "chicago weather 10 day",
+          "keyword": "nylottery ny gov powerball",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1875,7 +1685,66 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "chicago weather in september",
+          "keyword": "nylottery ny gov",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nylottery pick 3",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nylottery org",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "nylottery gov",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "nylottery numbers",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "nylottery",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "guardians game today live",
+      "cluster": [
+        {
+          "keyword": "guardians game today live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1884,7 +1753,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "chicago weather in october",
+          "keyword": "guardians game last night",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1893,7 +1762,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "chicago weather this weekend",
+          "keyword": "guardians game today score",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1902,7 +1771,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "chicago weather forecast",
+          "keyword": "guardians game today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1911,7 +1780,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chicago weather today",
+          "keyword": "guardians game tonight",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1920,7 +1789,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chicago weather radar",
+          "keyword": "guardians game score",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1929,7 +1798,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chicago weather tomorrow",
+          "keyword": "guardians game yesterday",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1938,7 +1807,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chicago weather hourly",
+          "keyword": "guardians game schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1947,7 +1816,148 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chicago weather",
+          "keyword": "guardians game 2",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "guardians game",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "ny lottery post",
+      "cluster": [
+        {
+          "keyword": "ny lottery post",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ny lottery results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "하정우 와인 코스트코",
+      "cluster": [
+        {
+          "keyword": "하정우 와인 코스트코",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "하정우 수석",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 와인",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 결혼",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 여자친구",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 영화",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 아빠",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 나이",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우 차정원",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "하정우",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "nylottery.ny.gov lotto",
+      "cluster": [
+        {
+          "keyword": "nylottery.ny.gov lotto",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
