@@ -1,47 +1,59 @@
 {
-  "generated_at": "2026-10-13T21:16:14.416413+00:00",
+  "generated_at": "2026-10-14T00:29:52.609842+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 160,
   "items": [
     {
-      "title": "lamine yamal",
+      "title": "maura higgins",
       "source": "google_trends_us"
     },
     {
-      "title": "thélyson orélien",
+      "title": "flyers",
       "source": "google_trends_us"
     },
     {
-      "title": "adeyemi",
+      "title": "luis francischinelli",
       "source": "google_trends_us"
     },
     {
-      "title": "abdulrahman alfozan",
+      "title": "super bowl halftime show 2027",
       "source": "google_trends_us"
     },
     {
-      "title": "pope francis",
+      "title": "michael weatherly",
       "source": "google_trends_us"
     },
     {
-      "title": "delaware vs middle tennessee prediction",
+      "title": "alaska",
       "source": "google_trends_us"
     },
     {
-      "title": "bayern de múnich",
+      "title": "joe buck",
       "source": "google_trends_us"
     },
     {
-      "title": "pablo torre",
+      "title": "parker messick",
       "source": "google_trends_us"
     },
     {
-      "title": "flashscore",
+      "title": "boca vs vasco",
       "source": "google_trends_us"
     },
     {
-      "title": "gme",
+      "title": "boca juniors - vasco da gama",
       "source": "google_trends_us"
+    },
+    {
+      "title": "inter milan vs club brugge standings",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "yemen",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "galatasaray vs fc barcelona standings",
+      "source": "google_trends_pk"
     },
     {
       "title": "coloros 17",
@@ -64,19 +76,11 @@
       "source": "google_trends_pk"
     },
     {
-      "title": "arsenal",
+      "title": "champions league games",
       "source": "google_trends_pk"
     },
     {
       "title": "barcelona",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "inter vs club brugge",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "chadwick walton",
       "source": "google_trends_pk"
     },
     {
@@ -160,11 +164,43 @@
       "source": "google_developers"
     },
     {
-      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
+      "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade - Fortune",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Japan's Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push - Reuters",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI is automating coding. So why are software developer job postings on the rise? - CNBC",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI Robots Are Ready for Whatever Shoppers Send Back - PYMNTS.com",
       "source": "google_news_ai"
     },
     {
       "title": "Centene CEO sees health care’s biggest AI opportunity beyond automation - Fortune",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Serval Wants To Replace ServiceNow With AI That Builds Enterprise Automation - Forbes",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Longbridge’s Bill Packer on AI, automation and the future of reverse mortgages - HousingWire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "CGI Federal Expands AI, Automation with Momentum 8.4 Release - WashingtonExec",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
       "source": "google_news_ai"
     },
     {
@@ -180,7 +216,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Longbridge’s Bill Packer on AI, automation and the future of reverse mortgages - HousingWire",
+      "title": "Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together - Automation World",
       "source": "google_news_ai"
     },
     {
@@ -188,19 +224,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together - Automation World",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Ottimate: Interview With Shawn Lane About AI-Native Accounts Payable Automation - Pulse 2.0",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Can AI Products and Automation Drive WTW's Growth and Higher Margins? - TradingView",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Samsara Launches Agent Studio to Expand AI Automation - www.marketscreener.com",
       "source": "google_news_ai"
     },
     {
@@ -208,15 +232,11 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Can AI Products and Automation Drive WTW's Growth and Higher Margins? - TradingView",
+      "source": "google_news_ai"
+    },
+    {
       "title": "nCino launches AI suite to streamline mortgage origination - FinTech Global",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Lab Automation Costs: Lessons from CRB’s 2026 Survey - Lab Manager",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Ascend Introduces Cora, an AI Coworker Designed to Enhance Automation, Starting with Commissions Reconciliation - Coverager",
       "source": "google_news_ai"
     },
     {
@@ -224,11 +244,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Ascend Introduces Cora, an AI Coworker Designed to Enhance Automation, Starting with Commissions Reconciliation - Coverager",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Samsara Launches Agent Studio to Expand AI Automation - marketscreener.com",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Sigma Automate Appoints Dan Streetman to Board of Directors - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
-      "title": "McKinsey research shows AI creating more jobs than automation displaces — but 11 million American workers will need help this decade - Fortune",
+      "title": "BA-parent IAG applies a 3-question test for AI automation - PhocusWire",
       "source": "google_news_ai"
     },
     {
@@ -240,7 +268,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Geoffrey Sanzenbacher Examines How AI Automation Alters Professional Apprenticeship Models - GeneOnline",
+      "title": "Can AI Provision Your Storage? Automating iSCSI and NFS Creation - Virtualization Review",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "PEX launches AI finance automation tools - The Paypers",
       "source": "google_news_ai"
     },
     {
@@ -248,43 +280,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "BA-parent IAG applies a 3-question test for AI automation - PhocusWire",
+      "title": "Geoffrey Sanzenbacher Examines How AI Automation Alters Professional Apprenticeship Models - GeneOnline",
       "source": "google_news_ai"
     },
     {
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Snowflake's Anahita Tafvizi on Scaling AI From Experiments to Production - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Can AI Provision Your Storage? Automating iSCSI and NFS Creation - Virtualization Review",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "CERM reports strong response to cloud-based MIS, AI automation at LOUPE Americas - Label and Narrow Web",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Japan's Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push - Reuters",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "California Amends Cal/WARN Act to Require AI and Automation Disclosures in Layoff Notices - JD Supra",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "CIOs face an AI expertise paradox as automation reshapes experience - TechTarget",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move? - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse - Search Engine Journal",
+      "title": "Google Search On PDFs - Deep Dive Podcast - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -292,7 +292,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search On PDFs - Deep Dive Podcast - Search Engine Roundtable",
+      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move? - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -308,11 +308,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
+      "title": "From SEO to GEO: The Next Evolution of Search for Accounting Firms - CPA Practice Advisor",
       "source": "google_news_seo"
     },
     {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
+      "title": "Google Ads adds Search terms and ad combinations report for AI Max - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -320,11 +320,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
-      "title": "Mazaya Digital Publishes Orthodontist SEO Case Study Showing 148% More Clicks - EIN News",
+      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -336,15 +336,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Mazaya Digital Publishes Orthodontist SEO Case Study Showing 148% More Clicks - EIN News",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Columbus Marketing Experts expands local SEO se... - Pluang",
       "source": "google_news_seo"
     },
     {
-      "title": "Google returns wrong results on 11% of DemandSphere's daily rank checks - PPC Land",
+      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "PrimeIndexer Adds Bing Indexing to Support ChatGPT Visibility - EIN News",
+      "title": "Google Ads API moves to twice-monthly releases starting with v26 - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -356,7 +360,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Daily Search Forum Recap: October 13, 2026 - Search Engine Roundtable",
+      "title": "PrimeIndexer Adds Bing Indexing to Support ChatGPT Visibility - EIN News",
       "source": "google_news_seo"
     },
     {
@@ -364,7 +368,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "SerpApi now scrapes any public web page, crawling up to 100 per request - PPC Land",
+      "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Merchant Center Videos Stuck In Preview Processing - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -372,15 +380,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Explaining drop-and-pop - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "SEO Isn’t Dying. It’s Finally Being Marked Properly - Vocal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
+      "title": "SerpApi now scrapes any public web page, crawling up to 100 per request - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -388,15 +388,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Explaining drop-and-pop - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
       "source": "google_news_seo"
     },
     {
-      "title": "7 AI SEO Companies Helping Brands Get Discovered Across AI Search - TechBullion",
+      "title": "Daily Search Forum Recap: October 12, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google's Officially Recommended Selected YouTube Playlist for Learning the Basics of Search and Technical SEO - GIGAZINE",
+      "title": "7 AI SEO Companies Helping Brands Get Discovered Across AI Search - TechBullion",
       "source": "google_news_seo"
     },
     {
@@ -444,19 +448,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Wordpress Plugin Vulnerability Exploited in Attacks to Upload and eEecute Arbitrary PHP code - CyberSecurityNews",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Siteimprove Advances Its Agentic Content Intelligence Platform: Shift Left with AI Remediation Agents to Fix Content Compliance Issues Directly in Drupal, WordPress and PDFs, Strengthen Governance and Get Insights Faster - PR Newswire",
       "source": "google_news_wordpress"
     },
     {
-      "title": "“The perfect creepy bedtime read” – Ghost Stories of an Antiquary by Leah Moore and John Reppion - Bookmunch",
+      "title": "Wordpress Plugin Vulnerability Exploited in Attacks to Upload and eEecute Arbitrary PHP code - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
       "title": "WordPress MCP Adapter Explained: What It Is, What It Exposes, and Your Options - Themeisle",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "“The perfect creepy bedtime read” – Ghost Stories of an Antiquary by Leah Moore and John Reppion - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
@@ -476,11 +480,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "From grocery to saloon to Beastie Boys’ concert venue, the story of the last wood building on the Upper West Side - Ephemeral New York",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Top 13 Simple WordPress Theme Choices (2026) - Hostinger",
+      "title": "9 Best WordPress Hosts for Freelancers &amp; Agencies Managing Client Sites - The Suncoast Post",
       "source": "google_news_wordpress"
     }
   ],
