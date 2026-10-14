@@ -19,15 +19,6 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "kelly clarkson video in art of play store",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
       "keyword": "who is the youngest player on the 49ers",
       "intent": "informational",
       "demand": 70.0,
@@ -100,6 +91,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "josh allen looking for hailee steinfeld",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "josh allen hailee steinfeld golden globes",
       "intent": "informational",
       "demand": 70.0,
@@ -136,16 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "kelly clarkson video in brooklyn store",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "kelly clarkson video at toy store",
+      "keyword": "kelly clarkson video art of play",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -155,6 +146,15 @@
     },
     {
       "keyword": "kelly clarkson video in ny store",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "kelly clarkson video in brooklyn store",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -271,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ultra miami 2027 tickets price",
+      "keyword": "ultra miami 2027 phase 1",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ultra miami 2027 lineup predictions",
+      "keyword": "ultra miami 2027 tickets price",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -316,7 +316,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "busy philipps movies and shows",
+      "keyword": "busy philipps new tv show",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -325,7 +325,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "busy philipps freaks and geeks",
+      "keyword": "busy philipps movies and shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -341,15 +341,6 @@
       "ranking_probability": 67.0,
       "learning_boost": 0.0,
       "learned_score": 67.0
-    },
-    {
-      "keyword": "josh allen hailee steinfeld",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
     },
     {
       "keyword": "fire near me now",
@@ -397,6 +388,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "ultra miami 2027 tickets",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "ultra miami 2027 dates",
       "intent": "informational",
       "demand": 64.0,
@@ -425,15 +425,6 @@
     },
     {
       "keyword": "ultra miami 2027 schedule",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "ultra miami 2027 location",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,6 +514,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "busy philipps new show",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "busy philipps brain tumor",
       "intent": "informational",
       "demand": 64.0,
@@ -560,6 +560,15 @@
     },
     {
       "keyword": "ultra miami 2027",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kelly clarkson video",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr bk 5k",
+      "keyword": "nyrr manhattan 10k",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +631,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr manhattan 10k",
+      "keyword": "nyrr race registration",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nyrr bk 5k",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -641,15 +659,6 @@
     },
     {
       "keyword": "nyrr race results",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nyrr run center",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,24 +748,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "busy philipps kids",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "leylah fernandez ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "leylah fernandez prediction",
       "intent": "informational",
       "demand": 58.0,
@@ -775,6 +766,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "leylah fernandez ranking",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "leylah fernandez ethnicity",
       "intent": "informational",
       "demand": 58.0,
@@ -784,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez boyfriend",
+      "keyword": "leylah fernandez tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -942,15 +942,6 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "leylah fernandez ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "leylah fernandez prediction",
           "intent": "informational",
           "demand": 58.0,
@@ -969,6 +960,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "leylah fernandez ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "leylah fernandez ethnicity",
           "intent": "informational",
           "demand": 58.0,
@@ -978,7 +978,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leylah fernandez boyfriend",
+          "keyword": "leylah fernandez tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1008,101 +1008,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        }
-      ]
-    },
-    {
-      "pillar": "kelly clarkson video in art of play store",
-      "cluster": [
-        {
-          "keyword": "kelly clarkson video in art of play store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "kelly clarkson video in brooklyn store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "kelly clarkson video at toy store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "kelly clarkson video in ny store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "kelly clarkson video in store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kelly clarkson video art store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kelly clarkson video footage",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video bird",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video surveillance",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video shopping",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1185,8 +1090,17 @@
       ]
     },
     {
-      "pillar": "josh allen hailee steinfeld golden globes",
+      "pillar": "josh allen looking for hailee steinfeld",
       "cluster": [
+        {
+          "keyword": "josh allen looking for hailee steinfeld",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
         {
           "keyword": "josh allen hailee steinfeld golden globes",
           "intent": "informational",
@@ -1267,15 +1181,6 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1387,6 +1292,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "ultra miami 2027 phase 1",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "ultra miami 2027 tickets price",
           "intent": "informational",
           "demand": 70.0,
@@ -1396,16 +1310,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ultra miami 2027 lineup predictions",
+          "keyword": "ultra miami 2027 lineup",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 59.8
         },
         {
-          "keyword": "ultra miami 2027 lineup",
+          "keyword": "ultra miami 2027 tickets",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1450,7 +1364,66 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ultra miami 2027 location",
+          "keyword": "ultra miami 2027",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "kelly clarkson video art of play",
+      "cluster": [
+        {
+          "keyword": "kelly clarkson video art of play",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "kelly clarkson video in ny store",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "kelly clarkson video in brooklyn store",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "kelly clarkson video in store",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kelly clarkson video art store",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kelly clarkson video footage",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1459,7 +1432,34 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ultra miami 2027",
+          "keyword": "kelly clarkson video bird",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kelly clarkson video surveillance",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kelly clarkson video shopping",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kelly clarkson video",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1482,6 +1482,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "busy philipps new tv show",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "busy philipps movies and shows",
           "intent": "informational",
           "demand": 70.0,
@@ -1491,13 +1500,13 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "busy philipps freaks and geeks",
+          "keyword": "busy philipps new show",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 59.8
         },
         {
           "keyword": "busy philipps brain tumor",
@@ -1537,15 +1546,6 @@
         },
         {
           "keyword": "busy philipps husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "busy philipps kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1769,10 +1769,10 @@
       ]
     },
     {
-      "pillar": "nyrr bk 5k",
+      "pillar": "nyrr manhattan 10k",
       "cluster": [
         {
-          "keyword": "nyrr bk 5k",
+          "keyword": "nyrr manhattan 10k",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1781,7 +1781,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nyrr manhattan 10k",
+          "keyword": "nyrr race registration",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nyrr bk 5k",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1800,15 +1809,6 @@
         },
         {
           "keyword": "nyrr race results",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nyrr run center",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
