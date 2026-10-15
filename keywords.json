@@ -1,13 +1,22 @@
 {
   "keywords": [
     {
-      "keyword": "leylah fernandez vs han shi prediction",
+      "keyword": "how to test for avian influenza in birds",
       "intent": "informational",
       "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
       "learning_boost": 0.0,
-      "learned_score": 78.4
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "how to diagnose avian influenza in birds",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
     },
     {
       "keyword": "how much does it cost to build a wordpress website",
@@ -19,25 +28,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "who is the youngest player on the 49ers",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "leylah fernandez vs han shi",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "leylah fernandez vs shi prediction",
+      "keyword": "maria sakkari vs mia pohankova",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -47,24 +38,6 @@
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "who is number 15 on the 49ers",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "who is number 18 on the 49ers",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -91,96 +64,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "josh allen looking for hailee steinfeld",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "josh allen hailee steinfeld golden globes",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "josh allen hailee steinfeld baby name",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "fire near me right now live",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "ultra miami 2027 tickets release date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "kelly clarkson video art of play",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "kelly clarkson video in ny store",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "kelly clarkson video in brooklyn store",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "busy philipps movies and tv shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "leylah fernandez vs shi",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "wordpress website price in pakistan",
       "intent": "informational",
       "demand": 70.0,
@@ -190,7 +73,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld news",
+      "keyword": "escape halloween promo code 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +82,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld family",
+      "keyword": "harrison ford movies in order",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +91,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld wedding",
+      "keyword": "jackie eagle avian influenza findings",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld baby",
+      "keyword": "florence pugh upcoming fantasy movie",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld parents",
+      "keyword": "florence pugh east of eden",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld daughter",
+      "keyword": "derrick jones jr injury update",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,106 +127,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "josh allen hailee steinfeld halloween",
+      "keyword": "maria sakkari vs",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "fire near me today live",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fire near medford oregon today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ultra miami 2027 phase 1",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ultra miami 2027 tickets price",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kelly clarkson video in store",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kelly clarkson video art store",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "playstation store discount code 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "busy philipps new tv show",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "busy philipps movies and shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "mykel williams pff grade 49ers",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fire near me now",
+      "keyword": "escape halloween 2026 lineup",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +145,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire near me today",
+      "keyword": "escape halloween 2026 location",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +154,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire near medford oregon",
+      "keyword": "kevin durant net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +163,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire near me map",
+      "keyword": "kevin durant angel reese",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +172,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ultra miami 2027 lineup",
+      "keyword": "julian strawther puerto rico",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ultra miami 2027 tickets",
+      "keyword": "julian strawther jersey number",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ultra miami 2027 dates",
+      "keyword": "julian strawther high school",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ultra miami 2027 price",
+      "keyword": "harrison ford net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ultra miami 2027 waitlist",
+      "keyword": "harrison ford tv show",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ultra miami 2027 schedule",
+      "keyword": "cathay pacific customer service",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly clarkson video footage",
+      "keyword": "cathay pacific flight status",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly clarkson video bird",
+      "keyword": "cathay pacific premium economy",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly clarkson video surveillance",
+      "keyword": "cathay pacific business class",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly clarkson video shopping",
+      "keyword": "cathay pacific check in",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "playstation store discount code",
+      "keyword": "cathay pacific manage booking",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "playstation store gift card",
+      "keyword": "jon jones net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "playstation store customer service",
+      "keyword": "jon jones last fight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nancy mace net worth",
+      "keyword": "jon jones ufc record",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nancy mace military service",
+      "keyword": "maria sakkari mia pohankova",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "busy philipps new show",
+      "keyword": "maria sakkari net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "busy philipps brain tumor",
+      "keyword": "florence pugh black widow",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -532,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "busy philipps white chicks",
+      "keyword": "derrick jones jr. contract",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -541,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "busy philipps net worth",
+      "keyword": "derrick jones jr. stats",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -550,7 +343,61 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire near me",
+      "keyword": "derrick jones jr. teams",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "derrick jones jr. salary",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "derrick jones jr injury",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "derrick jones jr height",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "derrick jones jr vertical",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "derrick jones jr age",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "escape halloween 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ultra miami 2027",
+      "keyword": "escape halloween lineup",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly clarkson video",
+      "keyword": "escape halloween location",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "playstation store refund",
+      "keyword": "escape halloween tickets",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "playstation store login",
+      "keyword": "escape halloween rave",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "playstation store sale",
+      "keyword": "escape halloween 2025",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "playstation store games",
+      "keyword": "kevin durant stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "playstation store deals",
+      "keyword": "kevin durant trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr manhattan 10k",
+      "keyword": "kevin durant height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr race registration",
+      "keyword": "kevin durant shoes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr bk 5k",
+      "keyword": "kevin durant age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr gridiron 4m",
+      "keyword": "kevin durant contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nyrr race results",
+      "keyword": "kevin durant team",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace tattoos",
+      "keyword": "julian strawther contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace bikini",
+      "keyword": "julian strawther stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace beans",
+      "keyword": "julian strawther news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace children",
+      "keyword": "julian strawther height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace age",
+      "keyword": "julian strawther college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace primary",
+      "keyword": "julian strawther jersey",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nancy mace election",
+      "keyword": "harrison ford movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "busy philipps parents",
+      "keyword": "harrison ford age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "busy philipps husband",
+      "keyword": "harrison ford wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez prediction",
+      "keyword": "harrison ford young",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez parents",
+      "keyword": "harrison ford children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez ranking",
+      "keyword": "harrison ford height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez ethnicity",
+      "keyword": "cathay pacific airlines",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leylah fernandez tennis",
+      "keyword": "cathay pacific quincy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "49ers player grades",
+      "keyword": "cathay pacific flights",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +649,169 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fire texas",
+      "keyword": "jon jones record",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jon jones brothers",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jon jones movie",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jon jones age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jon jones height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jon jones wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maria sakkari ranking",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maria sakkari tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maria sakkari boyfriend",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maria sakkari prediction",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maria sakkari odds",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "florence pugh movies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "florence pugh music",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "florence pugh height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "florence pugh age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "florence pugh boyfriend",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "florence pugh shows",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "derrick jones jr",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "escape halloween",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fire california",
+      "keyword": "kevin durant",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "playstation store",
+      "keyword": "julian strawther",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nyrr login",
+      "keyword": "harrison ford",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nyrr results",
+      "keyword": "cathay pacific",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nyrr races",
+      "keyword": "jon jones",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nyrr volunteer",
+      "keyword": "maria sakkari",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,141 +874,37 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nancy mace",
+      "keyword": "florence pugh",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "busy philipps",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "leylah fernandez",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "nyrr",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "leylah fernandez vs han shi prediction",
+      "pillar": "how to test for avian influenza in birds",
       "cluster": [
         {
-          "keyword": "leylah fernandez vs han shi prediction",
+          "keyword": "how to test for avian influenza in birds",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
           "learning_boost": 0.0,
-          "learned_score": 78.4
+          "learned_score": 84.4
         },
         {
-          "keyword": "leylah fernandez vs han shi",
+          "keyword": "how to diagnose avian influenza in birds",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 81.4
         },
-        {
-          "keyword": "leylah fernandez vs shi prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "leylah fernandez vs shi",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "leylah fernandez prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "leylah fernandez parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "leylah fernandez ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "leylah fernandez ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "leylah fernandez tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "leylah fernandez",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "how much does it cost to build a wordpress website",
-      "cluster": [
         {
           "keyword": "how much does it cost to build a wordpress website",
           "intent": "informational",
@@ -1012,34 +917,97 @@
       ]
     },
     {
-      "pillar": "who is the youngest player on the 49ers",
+      "pillar": "maria sakkari vs mia pohankova",
       "cluster": [
         {
-          "keyword": "who is the youngest player on the 49ers",
+          "keyword": "maria sakkari vs mia pohankova",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 76.0
+          "learned_score": 75.4
         },
         {
-          "keyword": "who is number 15 on the 49ers",
+          "keyword": "maria sakkari vs",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 73.0
+          "learned_score": 61.0
         },
         {
-          "keyword": "who is number 18 on the 49ers",
+          "keyword": "maria sakkari mia pohankova",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 73.0
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "maria sakkari net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "maria sakkari ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari odds",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1090,37 +1058,10 @@
       ]
     },
     {
-      "pillar": "josh allen looking for hailee steinfeld",
+      "pillar": "escape halloween promo code 2026",
       "cluster": [
         {
-          "keyword": "josh allen looking for hailee steinfeld",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld golden globes",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld baby name",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld news",
+          "keyword": "escape halloween promo code 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1129,93 +1070,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "josh allen hailee steinfeld family",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld wedding",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld baby",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld parents",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld daughter",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "josh allen hailee steinfeld halloween",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "fire near me right now live",
-      "cluster": [
-        {
-          "keyword": "fire near me right now live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "fire near me today live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fire near medford oregon today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fire near me now",
+          "keyword": "escape halloween 2026 lineup",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1224,7 +1079,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "fire near me today",
+          "keyword": "escape halloween 2026 location",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1233,25 +1088,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "fire near medford oregon",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire near me map",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire near me",
+          "keyword": "escape halloween 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1260,16 +1097,52 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "fire texas",
+          "keyword": "escape halloween lineup",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 52.6
         },
         {
-          "keyword": "fire california",
+          "keyword": "escape halloween location",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "escape halloween tickets",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "escape halloween rave",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "escape halloween 2025",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "escape halloween",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1280,19 +1153,10 @@
       ]
     },
     {
-      "pillar": "ultra miami 2027 tickets release date",
+      "pillar": "harrison ford movies in order",
       "cluster": [
         {
-          "keyword": "ultra miami 2027 tickets release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "ultra miami 2027 phase 1",
+          "keyword": "harrison ford movies in order",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1301,16 +1165,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ultra miami 2027 tickets price",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ultra miami 2027 lineup",
+          "keyword": "harrison ford net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1319,7 +1174,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ultra miami 2027 tickets",
+          "keyword": "harrison ford tv show",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1328,215 +1183,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ultra miami 2027 dates",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ultra miami 2027 price",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ultra miami 2027 waitlist",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ultra miami 2027 schedule",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ultra miami 2027",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "kelly clarkson video art of play",
-      "cluster": [
-        {
-          "keyword": "kelly clarkson video art of play",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "kelly clarkson video in ny store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "kelly clarkson video in brooklyn store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "kelly clarkson video in store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kelly clarkson video art store",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kelly clarkson video footage",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video bird",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video surveillance",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video shopping",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly clarkson video",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "busy philipps movies and tv shows",
-      "cluster": [
-        {
-          "keyword": "busy philipps movies and tv shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "busy philipps new tv show",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "busy philipps movies and shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "busy philipps new show",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "busy philipps brain tumor",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "busy philipps white chicks",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "busy philipps net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "busy philipps parents",
+          "keyword": "harrison ford movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1545,7 +1192,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "busy philipps husband",
+          "keyword": "harrison ford age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1554,7 +1201,43 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "busy philipps",
+          "keyword": "harrison ford wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harrison ford young",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harrison ford children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harrison ford height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harrison ford",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1565,105 +1248,10 @@
       ]
     },
     {
-      "pillar": "playstation store discount code 2026",
+      "pillar": "jackie eagle avian influenza findings",
       "cluster": [
         {
-          "keyword": "playstation store discount code 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "playstation store discount code",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "playstation store gift card",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "playstation store customer service",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "playstation store refund",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "playstation store login",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "playstation store sale",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "playstation store games",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "playstation store deals",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "playstation store",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "mykel williams pff grade 49ers",
-      "cluster": [
-        {
-          "keyword": "mykel williams pff grade 49ers",
+          "keyword": "jackie eagle avian influenza findings",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1674,10 +1262,28 @@
       ]
     },
     {
-      "pillar": "nancy mace net worth",
+      "pillar": "florence pugh upcoming fantasy movie",
       "cluster": [
         {
-          "keyword": "nancy mace net worth",
+          "keyword": "florence pugh upcoming fantasy movie",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "florence pugh east of eden",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "florence pugh black widow",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1686,16 +1292,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nancy mace military service",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nancy mace tattoos",
+          "keyword": "florence pugh movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1704,7 +1301,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nancy mace bikini",
+          "keyword": "florence pugh music",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1713,7 +1310,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nancy mace beans",
+          "keyword": "florence pugh height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1722,7 +1319,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nancy mace children",
+          "keyword": "florence pugh age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1731,7 +1328,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nancy mace age",
+          "keyword": "florence pugh boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1740,7 +1337,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nancy mace primary",
+          "keyword": "florence pugh shows",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1749,16 +1346,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nancy mace election",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nancy mace",
+          "keyword": "florence pugh",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1769,111 +1357,477 @@
       ]
     },
     {
-      "pillar": "nyrr manhattan 10k",
+      "pillar": "derrick jones jr injury update",
       "cluster": [
         {
-          "keyword": "nyrr manhattan 10k",
+          "keyword": "derrick jones jr injury update",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "derrick jones jr. contract",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr. stats",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr. teams",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr. salary",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr injury",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr height",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr vertical",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr age",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "derrick jones jr",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "nyrr race registration",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nyrr bk 5k",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nyrr gridiron 4m",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nyrr race results",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nyrr login",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "nyrr results",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "nyrr races",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "nyrr volunteer",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "nyrr",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "49ers player grades",
+      "pillar": "kevin durant net worth",
       "cluster": [
         {
-          "keyword": "49ers player grades",
+          "keyword": "kevin durant net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kevin durant angel reese",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kevin durant stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant shoes",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant team",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kevin durant",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "julian strawther puerto rico",
+      "cluster": [
+        {
+          "keyword": "julian strawther puerto rico",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "julian strawther jersey number",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "julian strawther high school",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "julian strawther contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julian strawther stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julian strawther news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julian strawther height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julian strawther college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julian strawther jersey",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julian strawther",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "cathay pacific customer service",
+      "cluster": [
+        {
+          "keyword": "cathay pacific customer service",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cathay pacific flight status",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cathay pacific premium economy",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cathay pacific business class",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cathay pacific check in",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cathay pacific manage booking",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "cathay pacific airlines",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "cathay pacific quincy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "cathay pacific flights",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "cathay pacific",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jon jones net worth",
+      "cluster": [
+        {
+          "keyword": "jon jones net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jon jones last fight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jon jones ufc record",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jon jones record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon jones brothers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon jones movie",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon jones age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon jones height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon jones wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon jones",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
