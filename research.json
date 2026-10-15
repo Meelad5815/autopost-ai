@@ -1,87 +1,91 @@
 {
-  "generated_at": "2026-10-15T10:21:17.807766+00:00",
+  "generated_at": "2026-10-15T15:15:34.733394+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "إلهان عمر",
+      "title": "pokemon beats pill",
       "source": "google_trends_us"
     },
     {
-      "title": "weather chicago",
+      "title": "southwest airlines elite status tiers",
       "source": "google_trends_us"
     },
     {
-      "title": "cincinnati weather",
+      "title": "bratz",
       "source": "google_trends_us"
     },
     {
-      "title": "sandra birchmore",
+      "title": "home depot sweater",
       "source": "google_trends_us"
     },
     {
-      "title": "sndk stock",
+      "title": "chet holmgren",
       "source": "google_trends_us"
     },
     {
-      "title": "people magazine",
+      "title": "the obama presidential center",
       "source": "google_trends_us"
     },
     {
-      "title": "illinois lottery",
+      "title": "marianne von gierke",
       "source": "google_trends_us"
     },
     {
-      "title": "fortnite server status",
+      "title": "carlos mendoza",
       "source": "google_trends_us"
     },
     {
-      "title": "10 day forecast",
+      "title": "starlink",
       "source": "google_trends_us"
     },
     {
-      "title": "zoo",
+      "title": "fort hood mass shooting",
       "source": "google_trends_us"
     },
     {
-      "title": "international monetary fund (imf)",
+      "title": "pak vs sri odi",
       "source": "google_trends_pk"
     },
     {
-      "title": "tri series pakistan 2026",
+      "title": "pakistan–russia relations",
       "source": "google_trends_pk"
     },
     {
-      "title": "istanbul floods",
+      "title": "بانڈ",
       "source": "google_trends_pk"
     },
     {
-      "title": "greenland",
+      "title": "gta 6",
       "source": "google_trends_pk"
     },
     {
-      "title": "videos",
+      "title": "abdulrahman alfozan",
       "source": "google_trends_pk"
     },
     {
-      "title": "oman",
+      "title": "israel defense forces",
       "source": "google_trends_pk"
     },
     {
-      "title": "tax reform",
+      "title": "ind vs wi 5th t20",
       "source": "google_trends_pk"
     },
     {
-      "title": "contempt of court",
+      "title": "celine dion",
       "source": "google_trends_pk"
     },
     {
-      "title": "roof collapse",
+      "title": "passport",
       "source": "google_trends_pk"
     },
     {
-      "title": "gbu-43/b moab",
+      "title": "جہاز",
       "source": "google_trends_pk"
+    },
+    {
+      "title": "Evaluating AI agents: moving past the vibe check",
+      "source": "google_developers"
     },
     {
       "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
@@ -96,11 +100,11 @@
       "source": "google_developers"
     },
     {
-      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
       "source": "google_developers"
     },
     {
-      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
       "source": "google_developers"
     },
     {
@@ -160,11 +164,11 @@
       "source": "google_developers"
     },
     {
-      "title": "Driving Developer Excellence: Inside the Program Sprints",
-      "source": "google_developers"
+      "title": "ServiceNow adds AI agent controls and employee automation tools - SiliconANGLE",
+      "source": "google_news_ai"
     },
     {
-      "title": "The Future of GLP-1 Peptide Analysis: AI, Automation, and the Scientist's Role - Chromatography Online",
+      "title": "What manufacturing plant managers think of the AI and automation boom - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
@@ -172,7 +176,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Systems reduce latency in edge AI automation - EDN - Voice of the Engineer",
+      "title": "The Future of GLP-1 Peptide Analysis: AI, Automation, and the Scientist's Role - LCGC International",
       "source": "google_news_ai"
     },
     {
@@ -184,59 +188,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
+      "title": "Majesco Earns Repeat InsurTech100 Recognition for Bringing Immersive AI Across Insurance - Business Wire",
       "source": "google_news_ai"
     },
     {
-      "title": "AI, Automation and New Technology Reshaping Marketing with Eleni Sarri — LBB - LBB - Little Black Book",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence - Business Wire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI is not likely to replace these 10 jobs — and some pay six figures - Yahoo Creators",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation - EU-Startups",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "FCA plans to embrace AI to automate financial regulation - Financial Times",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Automation Was Supposed to Save Finance Teams Time. It Handed Them a Second Job Instead - Inc.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Why There Are No Silver Bullets for AI SOC Automation with Dropzone AI - CISO Series",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Kira AI Announces Launch of Assistant Platform With Memory and Task Automation - AiThority",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "[Howie Chang Series] Will Your Job be Replaced by AI &amp; Automation? - https://economy.ac/",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "SolarWinds launches Avior AI agents to automate network operations - Network World",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Leveraging Automation, Analytics, &amp; AI in the Revenue Cycle - Forvis Mazars US",
+      "title": "Systems reduce latency in edge AI automation - EDN - Voice of the Engineer",
       "source": "google_news_ai"
     },
     {
@@ -244,7 +200,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Aventador Pro Announces Enterprise AI Engineering and Automation Solutions for Modern Business Operations - Benzinga",
+      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation - EU-Startups",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "North.cloud Raises $60M Series B to Unify Spend Intelligence and Enable Full Automation Across Cloud, AI, and Data - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "FCA plans to embrace AI to automate financial regulation - Financial Times",
       "source": "google_news_ai"
     },
     {
@@ -252,23 +220,51 @@
       "source": "google_news_ai"
     },
     {
+      "title": "AI is not likely to replace these 10 jobs — and some pay six figures - Yahoo Creators",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Industry Insights: The Week's Top Funding for Robotics, Automation, and Physical AI - A3 Association for Advancing Automation",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Leveraging Automation, Analytics, &amp; AI in the Revenue Cycle - Forvis Mazars US",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "[Howie Chang Series] Will Your Job be Replaced by AI &amp; Automation? - https://economy.ac/",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ServiceNow Launches AI Workflow Factory and Autonomous Engineer to Close the Execution Gap - Forkast News",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence - Business Wire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Automation Was Supposed to Save Finance Teams Time. It Handed Them a Second Job Instead - Inc.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI, Automation and New Technology Reshaping Marketing with Eleni Sarri — LBB - LBB - Little Black Book",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Kira AI Announces Launch of Assistant Platform With Memory and Task Automation - AiThority",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Workday expands agentic AI automation for HR teams - TechTarget",
       "source": "google_news_ai"
     },
     {
-      "title": "Samsara Launches Agent Studio to Expand AI Automation - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Rohlik founder raises $32M for AI automation startup Duvo - Dealroom",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Longbridge’s Bill Packer on AI, automation and the future of reverse mortgages - HousingWire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Precisely Launches MCP Server for Precisely Automate - HPCwire",
       "source": "google_news_ai"
     },
     {
@@ -280,7 +276,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "TASKING unveils AI Kit bringing agentic automation to embedded software debugging - New Electronics",
+      "title": "Why There Are No Silver Bullets for AI SOC Automation with Dropzone AI - CISO Series",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "CGI Federal Expands AI, Automation with Momentum 8.4 Release - WashingtonExec",
       "source": "google_news_ai"
     },
     {
@@ -289,10 +289,6 @@
     },
     {
       "title": "Google Launches A Video Series For Odd Technical SEO Questions - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -308,6 +304,10 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Search Console Performance Report Date Picker Not Working - Search Engine Roundtable",
       "source": "google_news_seo"
     },
@@ -316,7 +316,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
+      "title": "Google Search Console Data Is Running Days Behind (Oct 2026) - ALM Corp",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google launches Universal Cart across Search and Gemini for easier shopping - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Best SEO Tools in 2026: 10 Picks Mapped by Job, Including the AI-Citation Job Most Lists Miss - TechBullion",
       "source": "google_news_seo"
     },
     {
@@ -324,7 +336,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Finishes Its September 2026 Spam Update Rollout - ALM Corp",
+      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -332,23 +344,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
+      "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google poisoning search results for AI scrapers, rank trackers, new report claims - Mashable SEA",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
+      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
       "title": "Google’s Latest Spam Update Raises a Bigger Question for Manufacturing SEO - DesignRush",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "ChatGPT appears to drop UTM tracking, making AI referral traffic harder to measure - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -364,19 +372,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads introduces automotive model feeds for vehicle manufacturers - Search Engine Land",
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
-      "title": "Daily Search Forum Recap: October 13, 2026 - Search Engine Roundtable",
+      "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
       "source": "google_news_seo"
     },
     {
-      "title": "Your brand can win the mention and lose the citation - Search Engine Land",
+      "title": "Google Finishes Its September 2026 Spam Update Rollout - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Merchant Center introduces new store address attribute for local inventory - Search Engine Land",
+      "title": "Google poisoning search results for AI scrapers, rank trackers, new report claims - Mashable SEA",
       "source": "google_news_seo"
     },
     {
@@ -388,19 +396,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Dental SEO After Google's Spam Update: BRD Media Tracks 363 Search Terms for a Dentist, a Clinic and Its Own Site - EIN News",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "New Google Ads Controls: Channel Prioritization &amp; Budget Allocation - Search Engine Roundtable",
+      "title": "Dental SEO After Google's Spam Update: BRD Media Tracks 363 Search Terms for a Dentist, a Clinic and Its Own Site - EIN News",
       "source": "google_news_seo"
     },
     {
@@ -408,11 +408,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits - Search Engine Journal",
+      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
       "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild - SecurityWeek",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
@@ -440,7 +444,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory - The Hacker News",
+      "title": "WordPress cofounder Matt Mullenweg is buying Stewart Brand’s 1912 Sausalito houseboat; Mirene was once a - The Times of India",
       "source": "google_news_wordpress"
     },
     {
@@ -448,7 +452,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Look What the Kid Wrote Today - WordPress.com",
+      "title": "Throwback Thursday: Millennium – the dark crime drama born from The X-Files - The Killing Times",
       "source": "google_news_wordpress"
     },
     {
@@ -456,15 +460,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Candidate Forum: Kansas House 76th District - KVOE",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "How to install WordPress: 4 methods and troubleshooting tips - Hostinger",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical Bricksforge WordPress flaw exploited in attacks - SC Media",
+      "title": "Ticket Squeeze Launches Free WordPress Plugin, Making Affiliate Integration Effortless for Event Publishers - The National Law Review",
       "source": "google_news_wordpress"
     },
     {
@@ -472,15 +472,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Ticket Squeeze Launches Free WordPress Plugin, Making Affiliate Integration Effortless for Event Publishers - EIN Presswire",
+      "title": "Candidate Forum: Kansas House 76th District - KVOE",
       "source": "google_news_wordpress"
     },
     {
-      "title": "What Is WordPress Hosting? Quick Guide - Miami Herald",
+      "title": "Look What the Kid Wrote Today - WordPress.com",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw - Search Engine Journal",
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory - The Hacker News",
       "source": "google_news_wordpress"
     }
   ],
