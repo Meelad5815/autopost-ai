@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-15T19:19:36.702967+00:00",
+  "generated_at": "2026-10-15T22:35:46.685498+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "benfica",
+      "title": "aurora",
       "source": "google_trends_us"
     },
     {
-      "title": "mohamed salah",
+      "title": "steven soderbergh",
       "source": "google_trends_us"
     },
     {
-      "title": "daniel espino",
+      "title": "julio jones",
       "source": "google_trends_us"
     },
     {
-      "title": "juventus",
+      "title": "camp pendleton fire",
       "source": "google_trends_us"
     },
     {
-      "title": "scottie scheffler",
+      "title": "rangers vs devils",
       "source": "google_trends_us"
     },
     {
-      "title": "besiktas",
+      "title": "sabres vs maple leafs",
       "source": "google_trends_us"
     },
     {
-      "title": "petey halpin",
+      "title": "the diplomat",
       "source": "google_trends_us"
     },
     {
-      "title": "kelly ripa",
+      "title": "kraken vs lightning",
       "source": "google_trends_us"
     },
     {
-      "title": "jessica simpson",
+      "title": "rj harvey",
       "source": "google_trends_us"
     },
     {
-      "title": "miami university",
+      "title": "patrick surtain",
       "source": "google_trends_us"
     },
     {
       "title": "celta vs juventus",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "kups vs trabzonspor",
       "source": "google_trends_pk"
     },
     {
@@ -57,10 +53,6 @@
     },
     {
       "title": "union vs real sociedad",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ol vs palace",
       "source": "google_trends_pk"
     },
     {
@@ -84,7 +76,15 @@
       "source": "google_trends_pk"
     },
     {
-      "title": "Evaluating AI agents: moving past the vibe check",
+      "title": "flood",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "pak vs sri odi",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
       "source": "google_developers"
     },
     {
@@ -92,7 +92,7 @@
       "source": "google_developers"
     },
     {
-      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "title": "Evaluating AI agents: moving past the vibe check",
       "source": "google_developers"
     },
     {
@@ -180,7 +180,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "SuperStaff Highlights How AI, Automation, and Outsourcing May Shape Business Growth in 2027 - EIN Presswire",
+      "title": "How an assessor could investigate evidence of acceleration from the automation of AI R&amp;D - METR",
       "source": "google_news_ai"
     },
     {
@@ -188,7 +188,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "How an assessor could investigate evidence of acceleration from the automation of AI R&amp;D - METR",
+      "title": "SuperStaff Highlights How AI, Automation, and Outsourcing May Shape Business Growth in 2027 - EIN Presswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Business Email Compromise Claims Jump 30% as A.I. Reshapes Cyber Risk - Risk &amp; Insurance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Top 3 Automation Stocks To Watch In October 2026 - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -200,11 +208,23 @@
       "source": "google_news_ai"
     },
     {
-      "title": "ServiceNow makes it easier to build AI agents, gives them verifiable identities - CIO",
+      "title": "Ottawa Puts C$50M Behind CFIN to Bring AI and Automation to Canada’s Smaller Food Processors - vegconomist.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "GFMI to Host AI and Automation in Financial Crime Conference in New York - FF News",
       "source": "google_news_ai"
     },
     {
       "title": "Danaher and NVIDIA partner on AI-driven lab automation - BioXconomy",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Intuit Bets on AI-Powered Revenue Automation with Sequence Acquisition - Benzinga",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI in Construction: Boost Capacity, Keep Your Workforce - For Construction Pros",
       "source": "google_news_ai"
     },
     {
@@ -216,27 +236,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Workday wants a slice of customers' labour budget that its AI agents could replace - The Register",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Majesco Earns Repeat InsurTech100 Recognition for Bringing Immersive AI Across Insurance - Business Wire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Intuit Bets on AI-Powered Revenue Automation with Sequence Acquisition - Benzinga",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "North.cloud Raises $60 Million Series B Led By PeakSpan Capital To Automate Cloud, AI, And Data Spend - Pulse 2.0",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "FCA plans to embrace AI to automate financial regulation - Financial Times",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI-Powered Automation in Fashion Logistics - Logistics Business",
+      "title": "ServiceNow makes it easier to build AI agents, gives them verifiable identities - CIO",
       "source": "google_news_ai"
     },
     {
@@ -244,11 +244,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "ServiceTitan Report Finds Commercial Contractors Focused on Profitability, AI - For Construction Pros",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation - EU-Startups",
+      "title": "North.cloud Raises $60M Series B to Unify Spend Intelligence and Enable Full Automation Across Cloud, AI, and Data - PR Newswire",
       "source": "google_news_ai"
     },
     {
@@ -256,7 +252,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "North.cloud Raises $60M Series B to Unify Spend Intelligence and Enable Full Automation Across Cloud, AI, and Data - PR Newswire",
+      "title": "North.cloud Raises $60 Million Series B Led By PeakSpan Capital To Automate Cloud, AI, And Data Spend - Pulse 2.0",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ServiceTitan Report Finds Commercial Contractors Focused on Profitability, AI - For Construction Pros",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI-Powered Automation in Fashion Logistics - Logistics Business",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Majesco Earns Repeat InsurTech100 Recognition for Bringing Immersive AI Across Insurance - Business Wire",
       "source": "google_news_ai"
     },
     {
@@ -264,23 +272,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "You Can Now Vibe Code A Robot: Standard Bots - Forbes",
+      "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation - EU-Startups",
       "source": "google_news_ai"
     },
     {
-      "title": "AI, Automation and New Technology Reshaping Marketing with Eleni Sarri — LBB - LBB - Little Black Book",
+      "title": "FCA plans to embrace AI to automate financial regulation - Financial Times",
       "source": "google_news_ai"
     },
     {
       "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence - Business Wire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
       "source": "google_news_ai"
     },
     {
@@ -316,11 +316,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
+      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
       "source": "google_news_seo"
     },
     {
-      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
+      "title": "Google Ads API v26 launches with Search Lift measurement and new campaign controls - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -332,11 +332,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Best SEO Tools in 2026: 10 Picks Mapped by Job, Including the AI-Citation Job Most Lists Miss - TechBullion",
+      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
+      "title": "Best SEO Tools in 2026: 10 Picks Mapped by Job, Including the AI-Citation Job Most Lists Miss - TechBullion",
       "source": "google_news_seo"
     },
     {
@@ -356,7 +356,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
+      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -364,7 +364,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse - Search Engine Journal",
+      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -380,11 +380,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Finishes Its September 2026 Spam Update Rollout - ALM Corp",
+      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
+      "title": "Google Finishes Its September 2026 Spam Update Rollout - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -408,15 +408,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
       "title": "All In One SEO WordPress Plugin Vulnerable To Two Exploits - Search Engine Journal",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -428,11 +428,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
+      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner - Search Engine Journal",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -452,11 +452,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Readers Write In #1171: Nelson’Beast: A parodical take on the hostage drama that hits its high points by lowering expectations - Baradwaj Rangan",
+      "title": "WordPress cofounder Matt Mullenweg is buying Stewart Brand’s 1912 Sausalito houseboat; Mirene was once a - The Times of India",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress cofounder Matt Mullenweg is buying Stewart Brand’s 1912 Sausalito houseboat; Mirene was once a - The Times of India",
+      "title": "Readers Write In #1171: Nelson’Beast: A parodical take on the hostage drama that hits its high points by lowering expectations - Baradwaj Rangan",
       "source": "google_news_wordpress"
     },
     {
@@ -480,7 +480,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Throwback Thursday: Millennium – the dark crime drama born from The X-Files - The Killing Times",
+      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw - Search Engine Journal",
       "source": "google_news_wordpress"
     }
   ],
