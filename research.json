@@ -1,47 +1,63 @@
 {
-  "generated_at": "2026-10-16T14:52:03.917576+00:00",
+  "generated_at": "2026-10-16T18:40:46.552788+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "laken snelling",
+      "title": "sophie cunningham",
       "source": "google_trends_us"
     },
     {
-      "title": "scratchcard",
+      "title": "msnow",
       "source": "google_trends_us"
     },
     {
-      "title": "sharon horgan",
+      "title": "le mans vs toulouse",
       "source": "google_trends_us"
     },
     {
-      "title": "qqqm",
+      "title": "frosinone vs sassuolo",
       "source": "google_trends_us"
     },
     {
-      "title": "maría corina machado",
+      "title": "cnn",
       "source": "google_trends_us"
     },
     {
-      "title": "nbis stock",
+      "title": "deportivo - levante",
       "source": "google_trends_us"
     },
     {
-      "title": "alex murdaugh",
+      "title": "burnley vs wolves",
       "source": "google_trends_us"
     },
     {
-      "title": "mrna stock",
+      "title": "deportivo vs levante",
       "source": "google_trends_us"
     },
     {
-      "title": "soxl stock",
+      "title": "rashee rice",
       "source": "google_trends_us"
     },
     {
-      "title": "crwv",
+      "title": "shrek 2 remastered",
       "source": "google_trends_us"
+    },
+    {
+      "title": "ind vs nz",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "great white shark",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "hasan raheem 2027 grammys submission",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "mitchell starc",
+      "source": "google_trends_pk"
     },
     {
       "title": "passport",
@@ -52,7 +68,7 @@
       "source": "google_trends_pk"
     },
     {
-      "title": "india national cricket team vs west indies cricket team players",
+      "title": "elon musk net worth",
       "source": "google_trends_pk"
     },
     {
@@ -60,27 +76,11 @@
       "source": "google_trends_pk"
     },
     {
-      "title": "india national cricket team",
-      "source": "google_trends_pk"
-    },
-    {
       "title": "israel",
       "source": "google_trends_pk"
     },
     {
-      "title": "zimbabwe vs india",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "گورنر",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "the mummy 4",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "drishyam 3 movie",
+      "title": "ind vs wi 5th t20",
       "source": "google_trends_pk"
     },
     {
@@ -164,11 +164,15 @@
       "source": "google_developers"
     },
     {
-      "title": "Webinar: Imaging leaders explore how to expand AI automation in clinical practice - Radiology Business",
+      "title": "How an assessor could investigate evidence of acceleration from the automation of AI R&amp;D - METR",
       "source": "google_news_ai"
     },
     {
-      "title": "8 insights from LogicMonitor’s Elevate event: AI-driven observability moves toward autonomous IT - SiliconANGLE",
+      "title": "AI and the workforce reinvention - McKinsey &amp; Company",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
       "source": "google_news_ai"
     },
     {
@@ -176,7 +180,31 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Agency AI success depends on software quality and automated testing - Federal News Network",
+      "title": "8 insights from LogicMonitor’s Elevate event: AI-driven observability moves toward autonomous IT - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "JP Urban Digital Launches AI Workflow Automation Services to Help Businesses Streamline Operations - The National Law Review",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Honeywell launches AI platform with Nvidia, Dell for building automation (HON:NASDAQ) - Seeking Alpha",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "iOS 27 AI Shortcuts: What Changed and 5 Useful Things to Try - TechRepublic",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workforce in motion: Skills and pathways to future jobs in the United States - McKinsey &amp; Company",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Webinar: Imaging leaders explore how to expand AI automation in clinical practice - Radiology Business",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Intento Publishes The State of Translation Automation 2026, an Interactive Benchmark of 229 AI Translation Solutions in 100 Languages - PR Newswire",
       "source": "google_news_ai"
     },
     {
@@ -184,11 +212,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Agency AI success depends on software quality and automated testing - Federal News Network",
+      "source": "google_news_ai"
+    },
+    {
       "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
       "source": "google_news_ai"
     },
     {
-      "title": "How an assessor could investigate evidence of acceleration from the automation of AI R&amp;D - METR",
+      "title": "Vertafore launches AI agents to automate insurance policy checks - FinTech Global",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "The AI value curve: The economics of applying AI to existing work - McKinsey &amp; Company",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "News AI won’t plug forwarder margin leaks without better data and processes - The Loadstar",
       "source": "google_news_ai"
     },
     {
@@ -200,7 +240,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "The AI value curve: The economics of applying AI to existing work - McKinsey &amp; Company",
+      "title": "What manufacturing plant managers think of the AI and automation boom - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
@@ -208,11 +248,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "GFMI to Host AI and Automation in Financial Crime Conference in New York - FF News",
+      "title": "Systems reduce latency in edge AI automation - EDN - Voice of the Engineer",
       "source": "google_news_ai"
     },
     {
-      "title": "Systems reduce latency in edge AI automation - EDN - Voice of the Engineer",
+      "title": "GFMI to Host AI and Automation in Financial Crime Conference in New York - FF News",
       "source": "google_news_ai"
     },
     {
@@ -220,15 +260,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "What manufacturing plant managers think of the AI and automation boom - Manufacturing Dive",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Extend Introduces its AI Receipt Agent to Automate Receipt Matching - Finovate",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Leveraging Automation, Analytics, &amp; AI in the Revenue Cycle - Forvis Mazars US",
+      "title": "Wondershare UniConverter 18 Advances AI-Powered Media Processing with Intelligent Automation and Enhanced Creative Tools - PR Newswire",
       "source": "google_news_ai"
     },
     {
@@ -236,27 +268,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Maxio Launches Specialist AI Agents to Automate Critical Finance and Billing Workflows - FF News",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Longbridge’s Bill Packer on AI, automation and the future of reverse mortgages - HousingWire",
       "source": "google_news_ai"
     },
     {
-      "title": "Costco, Cleveland Clinic, NTT Data and Red Hat Show What AI-Powered Observability Can Actually Deliver - AiThority",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI is ready to act. Real estate brokerages decide where it stops - Inman Real Estate News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Tech Bytes: ServiceNow looks to boost AI agent control - CIO Dive",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
+      "title": "Leveraging Automation, Analytics, &amp; AI in the Revenue Cycle - Forvis Mazars US",
       "source": "google_news_ai"
     },
     {
@@ -264,23 +280,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Automation Software Stocks Q2 Earnings Review: SoundHound AI (NASDAQ:SOUN) Shines - TradingView",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Honeywell Technologies beefs up Forge platform with operational AI capabilities - Facilities Dive",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Zesty Launches Automated Fractional GPUs, Bringing Automation to NVIDIA CUDA-Native GPU Fractioning - AiThority",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Automation Is a Dead End. Reengineer the Work. | by Adnan Masood, PhD. | Oct, 2026 - Medium",
+      "title": "Maxio Launches Specialist AI Agents to Automate Critical Finance and Billing Workflows - FF News",
       "source": "google_news_ai"
     },
     {
@@ -288,11 +288,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Search Ranking Volatility &amp; Chatter Spike Today - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores &amp; Emojis - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO - Search Engine Roundtable",
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -308,7 +312,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
+      "title": "Quick Strike Media Integrates AI Into Local SEO, Google Maps and AI Search - EIN News",
       "source": "google_news_seo"
     },
     {
@@ -320,15 +324,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
       "source": "google_news_seo"
     },
     {
       "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "From SEO to GEO: The Next Evolution of Search for Accounting Firms - CPA Practice Advisor",
       "source": "google_news_seo"
     },
     {
@@ -340,11 +344,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
+      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
+      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -364,11 +368,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google's AI publisher payments could rewrite the SEO playbook - Exchange4Media",
+      "title": "The New Changes to Google for Hotel Searches - serpact.com",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
       "source": "google_news_seo"
     },
     {
       "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google's AI publisher payments could rewrite the SEO playbook - Exchange4Media",
       "source": "google_news_seo"
     },
     {
@@ -380,27 +392,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Columbus Marketing Experts expands local SEO se... - Pluang",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Finishes Its September 2026 Spam Update Rollout - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "Google AI Overviews: Layout-Aware Multimodal Optimization &amp; Citation Strategy (2026) - Search Atlas",
+      "title": "Columbus Marketing Experts expands local SEO se... - Pluang",
       "source": "google_news_seo"
     },
     {
       "title": "Zero-Click Search: SEO Impact and Optimization Tips - Simplilearn.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google poisoning search results for AI scrapers, rank trackers, new report claims - Mashable SEA",
       "source": "google_news_seo"
     },
     {
@@ -420,10 +420,6 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Releases Canonical MCP Adapter Plugin - Search Engine Journal",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
       "source": "google_news_wordpress"
     },
@@ -437,6 +433,10 @@
     },
     {
       "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
