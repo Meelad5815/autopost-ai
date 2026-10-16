@@ -1,6 +1,15 @@
 {
   "keywords": [
     {
+      "keyword": "julia grabher vs ariana geerlings martinez",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,7 +19,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "sonay kartal vs elina svitolina",
+      "keyword": "tommy paul vs medvedev prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -19,7 +28,16 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "flu shots near me cvs",
+      "keyword": "julia grabher vs ariana geerlings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "julia grabher vs geerlings prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -29,15 +47,6 @@
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "flu shots near me walk in free",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "jonathan majors movies and tv shows",
+      "keyword": "wuhan open tennis 2026 schedule time",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "flu shots near me walk in",
+      "keyword": "wuhan open tennis 2026 prize money",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,34 +91,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "flu shots near me no insurance",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "margaret qualley movies and tv shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "margaret qualley love of your life",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "sonay kartal vs svitolina",
+      "keyword": "tommy paul vs medvedev",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -118,7 +100,25 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sonay kartal vs paolini",
+      "keyword": "julia grabher vs ariana",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "julia grabher vs geerlings",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "julia grabher vs martinez",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -136,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dennis rodman kim jong un",
+      "keyword": "nadia ferreira and marc anthony",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "zach bryan book and vinyl",
+      "keyword": "wuhan open tennis 2026 results",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "zach bryan book young manhood",
+      "keyword": "wuhan open tennis 2026 draw",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "zach bryan book for sale",
+      "keyword": "wuhan open tennis 2026 schedule",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "zach bryan book release date",
+      "keyword": "wuhan open tennis 2026 tickets",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "zach bryan book of lyrics",
+      "keyword": "playstation plus games august 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flu shots near me free",
+      "keyword": "san antonio weather by month",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flu shots near me today",
+      "keyword": "san antonio weather in october",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flu shots near me walgreens",
+      "keyword": "san antonio weather in december",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flu shots near me cost",
+      "keyword": "san antonio weather in november",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flu shots near me 2026",
+      "keyword": "san antonio weather in september",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "vaccinations for dogs near me",
+      "keyword": "san antonio weather 10 day",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jonathan majors new movie",
+      "keyword": "nadia ferreira net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan majors net worth",
+      "keyword": "nadia ferreira miss universe",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fitness centers near me",
+      "keyword": "weather dc 10 day",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fitness classes near me",
+      "keyword": "weather dc this weekend",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dennis rodman net worth",
+      "keyword": "weather dc today hourly",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "zach bryan book preorder",
+      "keyword": "wuhan open tennis 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "zach bryan booking fee",
+      "keyword": "austin weather in october",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "zach bryan booking agent",
+      "keyword": "austin weather by month",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "immunizations schedule for children",
+      "keyword": "austin weather in november",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "immunizations required for school",
+      "keyword": "austin weather in september",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "vaccines at 2 months",
+      "keyword": "tommy paul net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flu shots near me",
+      "keyword": "tommy paul us open",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "margaret qualley new movie",
+      "keyword": "tommy paul wedding photos",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "margaret qualley jack antonoff",
+      "keyword": "playstation plus free games",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +370,61 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan majors controversy",
+      "keyword": "playstation plus monthly games",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "san antonio weather forecast",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "san antonio weather today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "san antonio weather radar",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "gale warning lake michigan",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "gale warning near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nadia ferreira age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan majors marvel",
+      "keyword": "nadia ferreira baby",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan majors movies",
+      "keyword": "nadia ferreira kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan majors wife",
+      "keyword": "nadia ferreira hijos",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan majors kang",
+      "keyword": "nadia ferreira height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonathan majors conviction",
+      "keyword": "nadia ferreira son",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fitness near me",
+      "keyword": "amoeba lyrics clairo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fitness your way",
+      "keyword": "weather dc today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman daughter",
+      "keyword": "weather dc hourly",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman stats",
+      "keyword": "weather dc tomorrow",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman height",
+      "keyword": "weather dc radar",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman kids",
+      "keyword": "weather dc celsius",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman shoes",
+      "keyword": "austin weather forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman now",
+      "keyword": "austin weather today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dennis rodman hair",
+      "keyword": "austin weather radar",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonay kartal ranking",
+      "keyword": "austin weather december",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonay kartal partner",
+      "keyword": "tommy paul wedding",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonay kartal prediction",
+      "keyword": "tommy paul wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonay kartal illness",
+      "keyword": "tommy paul prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonay kartal tennis",
+      "keyword": "tommy paul ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sonay kartal height",
+      "keyword": "julia grabher tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "zach bryan book",
+      "keyword": "julia grabher ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "zach bryan bookmark",
+      "keyword": "julia grabher prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "immunizations near me",
+      "keyword": "playstation plus membership",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "immunizations by age",
+      "keyword": "playstation plus price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "immunizations for children",
+      "keyword": "playstation plus games",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccines for dogs",
+      "keyword": "playstation plus extra",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccines for babies",
+      "keyword": "playstation plus premium",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccines for children",
+      "keyword": "playstation plus subscription",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccines near me",
+      "keyword": "san antonio weather",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccines for cats",
+      "keyword": "gale warning meaning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccinations for dogs",
+      "keyword": "gale warning flag",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccinations for children",
+      "keyword": "gale warning weather",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccinations near me",
+      "keyword": "gale warning california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccinations for cats",
+      "keyword": "gale warning alaska",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccinations for babies",
+      "keyword": "gale warning tomorrow",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vaccinations for puppies",
+      "keyword": "gale warning today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,52 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "margaret qualley mom",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "margaret qualley movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "margaret qualley height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "margaret qualley divorce",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "margaret qualley husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jonathan majors",
+      "keyword": "nadia ferreira",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fitness connection",
+      "keyword": "amoeba sisters",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fitness 19",
+      "keyword": "amoeba phone",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fitness tracker",
+      "keyword": "amoeba records",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fitness watch",
+      "keyword": "amoeba music",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fitness factory",
+      "keyword": "amoeba definition",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "dennis rodman",
+      "keyword": "amoeba one",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sonay kartal",
+      "keyword": "amoeba infection",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "immunizations texas",
+      "keyword": "amoeba meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "immunizations california",
+      "keyword": "weather dc",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "immunizations records",
+      "keyword": "weather dca",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "immunization meaning",
+      "keyword": "austin weather",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vaccines texas",
+      "keyword": "austin weatherford",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vaccines california",
+      "keyword": "tommy paul",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vaccinations texas",
+      "keyword": "julia grabher",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vaccinations california",
+      "keyword": "playstation plus",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "margaret qualley",
+      "keyword": "gale warning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,43 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fitness",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "immunizations",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "vaccines",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "vaccineshoppe",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "vaccinations",
+      "keyword": "amoeba",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -947,6 +920,101 @@
     }
   ],
   "clusters": [
+    {
+      "pillar": "julia grabher vs ariana geerlings martinez",
+      "cluster": [
+        {
+          "keyword": "julia grabher vs ariana geerlings martinez",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "julia grabher vs ariana geerlings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "julia grabher vs geerlings prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "julia grabher vs ariana",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "julia grabher vs geerlings",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "julia grabher vs martinez",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "julia grabher tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia grabher ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia grabher prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia grabher",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -962,10 +1030,10 @@
       ]
     },
     {
-      "pillar": "sonay kartal vs elina svitolina",
+      "pillar": "tommy paul vs medvedev prediction",
       "cluster": [
         {
-          "keyword": "sonay kartal vs elina svitolina",
+          "keyword": "tommy paul vs medvedev prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -974,7 +1042,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "sonay kartal vs svitolina",
+          "keyword": "tommy paul vs medvedev",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -983,171 +1051,76 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "sonay kartal vs paolini",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sonay kartal ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sonay kartal partner",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sonay kartal prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sonay kartal illness",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sonay kartal tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sonay kartal height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sonay kartal",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "flu shots near me cvs",
-      "cluster": [
-        {
-          "keyword": "flu shots near me cvs",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "flu shots near me walk in free",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "flu shots near me walk in",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "flu shots near me no insurance",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "flu shots near me free",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flu shots near me today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flu shots near me walgreens",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flu shots near me cost",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flu shots near me 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "flu shots near me",
+          "keyword": "tommy paul net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "tommy paul us open",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tommy paul wedding photos",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tommy paul wedding",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tommy paul wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tommy paul prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tommy paul ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tommy paul",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1198,10 +1171,10 @@
       ]
     },
     {
-      "pillar": "jonathan majors movies and tv shows",
+      "pillar": "wuhan open tennis 2026 schedule time",
       "cluster": [
         {
-          "keyword": "jonathan majors movies and tv shows",
+          "keyword": "wuhan open tennis 2026 schedule time",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1210,93 +1183,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "jonathan majors new movie",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jonathan majors net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jonathan majors controversy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonathan majors marvel",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonathan majors movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonathan majors wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonathan majors kang",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonathan majors conviction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonathan majors",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "margaret qualley movies and tv shows",
-      "cluster": [
-        {
-          "keyword": "margaret qualley movies and tv shows",
+          "keyword": "wuhan open tennis 2026 prize money",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1305,93 +1192,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "margaret qualley love of your life",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "margaret qualley new movie",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "margaret qualley jack antonoff",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "margaret qualley mom",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "margaret qualley movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "margaret qualley height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "margaret qualley divorce",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "margaret qualley husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "margaret qualley",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "dennis rodman kim jong un",
-      "cluster": [
-        {
-          "keyword": "dennis rodman kim jong un",
+          "keyword": "wuhan open tennis 2026 results",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1400,93 +1201,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "dennis rodman net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dennis rodman daughter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman shoes",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman now",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman hair",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dennis rodman",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "zach bryan book and vinyl",
-      "cluster": [
-        {
-          "keyword": "zach bryan book and vinyl",
+          "keyword": "wuhan open tennis 2026 draw",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1495,7 +1210,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "zach bryan book young manhood",
+          "keyword": "wuhan open tennis 2026 schedule",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1504,7 +1219,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "zach bryan book for sale",
+          "keyword": "wuhan open tennis 2026 tickets",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1513,7 +1228,21 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "zach bryan book release date",
+          "keyword": "wuhan open tennis 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "nadia ferreira and marc anthony",
+      "cluster": [
+        {
+          "keyword": "nadia ferreira and marc anthony",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1522,7 +1251,93 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "zach bryan book of lyrics",
+          "keyword": "nadia ferreira net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nadia ferreira miss universe",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nadia ferreira age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nadia ferreira baby",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nadia ferreira kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nadia ferreira hijos",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nadia ferreira height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nadia ferreira son",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nadia ferreira",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "playstation plus games august 2026",
+      "cluster": [
+        {
+          "keyword": "playstation plus games august 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1531,7 +1346,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "zach bryan book preorder",
+          "keyword": "playstation plus free games",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1540,7 +1355,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "zach bryan booking fee",
+          "keyword": "playstation plus monthly games",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1549,16 +1364,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "zach bryan booking agent",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "zach bryan book",
+          "keyword": "playstation plus membership",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1567,21 +1373,66 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "zach bryan bookmark",
+          "keyword": "playstation plus price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "playstation plus games",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "playstation plus extra",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "playstation plus premium",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "playstation plus subscription",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "playstation plus",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "vaccinations for dogs near me",
+      "pillar": "san antonio weather by month",
       "cluster": [
         {
-          "keyword": "vaccinations for dogs near me",
+          "keyword": "san antonio weather by month",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1590,93 +1441,93 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "vaccinations for dogs",
+          "keyword": "san antonio weather in october",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "san antonio weather in december",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "san antonio weather in november",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "san antonio weather in september",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "san antonio weather 10 day",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "san antonio weather forecast",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "san antonio weather today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "san antonio weather radar",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "san antonio weather",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccinations for children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccinations near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccinations for cats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccinations for babies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccinations for puppies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccinations texas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "vaccinations california",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "vaccinations",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "fitness centers near me",
+      "pillar": "weather dc 10 day",
       "cluster": [
         {
-          "keyword": "fitness centers near me",
+          "keyword": "weather dc 10 day",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1685,7 +1536,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "fitness classes near me",
+          "keyword": "weather dc this weekend",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1694,84 +1545,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "fitness near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fitness your way",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fitness connection",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fitness 19",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fitness tracker",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fitness watch",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fitness factory",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fitness",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "immunizations schedule for children",
-      "cluster": [
-        {
-          "keyword": "immunizations schedule for children",
+          "keyword": "weather dc today hourly",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1780,16 +1554,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "immunizations required for school",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "immunizations near me",
+          "keyword": "weather dc today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1798,7 +1563,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "immunizations by age",
+          "keyword": "weather dc hourly",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1807,7 +1572,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "immunizations for children",
+          "keyword": "weather dc tomorrow",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1816,7 +1581,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "immunizations texas",
+          "keyword": "weather dc radar",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather dc celsius",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather dc",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1825,125 +1608,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "immunizations california",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "immunizations records",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "immunizations",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "vaccines at 2 months",
-      "cluster": [
-        {
-          "keyword": "vaccines at 2 months",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "vaccines for dogs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccines for babies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccines for children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccines near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccines for cats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vaccines texas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "vaccines california",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "vaccines",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "immunization meaning",
-      "cluster": [
-        {
-          "keyword": "immunization meaning",
+          "keyword": "weather dca",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1954,10 +1619,281 @@
       ]
     },
     {
-      "pillar": "vaccineshoppe",
+      "pillar": "austin weather in october",
       "cluster": [
         {
-          "keyword": "vaccineshoppe",
+          "keyword": "austin weather in october",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather by month",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather in november",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather in september",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather forecast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather radar",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather december",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "austin weatherford",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "gale warning lake michigan",
+      "cluster": [
+        {
+          "keyword": "gale warning lake michigan",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gale warning near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gale warning meaning",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning flag",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning california",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning alaska",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning tomorrow",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gale warning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "amoeba lyrics clairo",
+      "cluster": [
+        {
+          "keyword": "amoeba lyrics clairo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amoeba sisters",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba phone",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba records",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba music",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba definition",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba one",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba infection",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amoeba",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
