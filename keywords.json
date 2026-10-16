@@ -145,15 +145,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "laken snelling sentencing live",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "laken snelling trial date",
       "intent": "informational",
       "demand": 64.0,
@@ -172,7 +163,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "laken snelling update 2026",
+      "keyword": "laken snelling maternity photos",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -181,7 +172,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "laken snelling maternity photos",
+      "keyword": "laken snelling court date",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "laken snelling izaiah hall",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sharon horgan hbo show",
+      "keyword": "sharon horgan new series",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alex murdaugh net worth",
+      "keyword": "alex murdaugh hearing today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mrna stock target price",
+      "keyword": "mrna stock price target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -559,6 +559,33 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "alex murdaugh today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "alex murdaugh wikipedia",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "alex murdaugh hearing",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "alex murdaugh overturned",
       "intent": "informational",
       "demand": 58.0,
@@ -577,34 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex murdaugh documentary",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "alex murdaugh wikipedia",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "alex murdaugh case",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "alex murdaugh hearing",
+      "keyword": "alex murdaugh update",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,15 +712,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "crwv price target",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "laken snelling",
       "intent": "informational",
       "demand": 52.0,
@@ -775,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "qqqm holdings",
+      "keyword": "qqqm etf",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "qqqm etf",
+      "keyword": "qqqm holdings",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,6 +874,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "crwv ticker",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "crwv stocktwits",
       "intent": "informational",
       "demand": 52.0,
@@ -892,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crwv news",
+      "keyword": "crwv price",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crwv ticker",
+      "keyword": "crwv news",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1133,7 +1133,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "sharon horgan hbo show",
+          "keyword": "sharon horgan new series",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1210,7 +1210,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "alex murdaugh net worth",
+          "keyword": "alex murdaugh hearing today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1220,6 +1220,33 @@
         },
         {
           "keyword": "alex murdaugh trial",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex murdaugh today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex murdaugh wikipedia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex murdaugh hearing",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1246,34 +1273,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex murdaugh documentary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alex murdaugh wikipedia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alex murdaugh case",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alex murdaugh hearing",
+          "keyword": "alex murdaugh update",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1436,7 +1436,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "qqqm holdings",
+          "keyword": "qqqm etf",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1445,7 +1445,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "qqqm etf",
+          "keyword": "qqqm holdings",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1495,15 +1495,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "laken snelling sentencing live",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "laken snelling trial date",
           "intent": "informational",
           "demand": 64.0,
@@ -1522,7 +1513,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "laken snelling update 2026",
+          "keyword": "laken snelling maternity photos",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1531,7 +1522,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "laken snelling maternity photos",
+          "keyword": "laken snelling court date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "laken snelling izaiah hall",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1685,7 +1685,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "mrna stock target price",
+          "keyword": "mrna stock price target",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1798,16 +1798,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "crwv price target",
+          "keyword": "crwv stock",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "crwv stock",
+          "keyword": "crwv ticker",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1825,7 +1825,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crwv news",
+          "keyword": "crwv price",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1834,7 +1834,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crwv ticker",
+          "keyword": "crwv news",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
