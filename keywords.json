@@ -10,7 +10,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "home depot sweater with tools",
+      "keyword": "sonay kartal vs elina svitolina",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "flu shots near me cvs",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -28,16 +37,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "the obama presidential center is finally here",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "fort hood mass shooting how many died",
+      "keyword": "flu shots near me walk in free",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "the obama presidential center in chicago",
+      "keyword": "jonathan majors movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "fort hood mass shooting 2009 victims",
+      "keyword": "flu shots near me walk in",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,13 +82,49 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "fort hood mass shooting firing squad",
+      "keyword": "flu shots near me no insurance",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
+    },
+    {
+      "keyword": "margaret qualley movies and tv shows",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "margaret qualley love of your life",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "sonay kartal vs svitolina",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "sonay kartal vs paolini",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -100,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon beats pill release date",
+      "keyword": "dennis rodman kim jong un",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -109,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon beats pill drop time",
+      "keyword": "zach bryan book and vinyl",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -118,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pokemon beats pill for sale",
+      "keyword": "zach bryan book young manhood",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "what pokemon beats bug type",
+      "keyword": "zach bryan book for sale",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "southwest airlines elite status tiers",
+      "keyword": "zach bryan book release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "home depot sweater october 15",
+      "keyword": "zach bryan book of lyrics",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "home depot sweater shopify password",
+      "keyword": "flu shots near me free",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the obama presidential center tickets",
+      "keyword": "flu shots near me today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the obama presidential center museum",
+      "keyword": "flu shots near me walgreens",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the obama presidential center opening",
+      "keyword": "flu shots near me cost",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the obama presidential center location",
+      "keyword": "flu shots near me 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the obama presidential center address",
+      "keyword": "vaccinations for dogs near me",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,88 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "the obama presidential center shop",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "the obama presidential center cost",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "what causes von gierke disease",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fort hood mass shooting victims",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fort hood mass shooting details",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fort hood mass shooting reddit",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fort hood mass shooting execution",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fort hood mass shooting 2009",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "fort hood mass shooting explained",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "pokemon beats pill price",
+      "keyword": "jonathan majors new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon beats pill target",
+      "keyword": "jonathan majors net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon beats pill resale",
+      "keyword": "fitness centers near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pokemon beats pill amazon",
+      "keyword": "fitness classes near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "southwest airlines elite status",
+      "keyword": "dennis rodman net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "delta elite status levels",
+      "keyword": "zach bryan book preorder",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "bratz x the craft",
+      "keyword": "zach bryan booking fee",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "home depot sweater password",
+      "keyword": "zach bryan booking agent",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "home depot sweater bundle",
+      "keyword": "immunizations schedule for children",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "home depot sweater drop",
+      "keyword": "immunizations required for school",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "home depot sweater link",
+      "keyword": "vaccines at 2 months",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "home depot sweater event",
+      "keyword": "flu shots near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "home depot sweater deal",
+      "keyword": "margaret qualley new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chet holmgren 4 points",
+      "keyword": "margaret qualley jack antonoff",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,52 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "the obama presidential center",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "marianne von gierke npc",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "marianne von gierke reddit",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "von gierke disease treatment",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "fort hood mass shooting",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pokemon beats pill",
+      "keyword": "jonathan majors controversy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "southwest status tiers",
+      "keyword": "jonathan majors marvel",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "southwest elite status",
+      "keyword": "jonathan majors movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "southwest loyalty tiers",
+      "keyword": "jonathan majors wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bratz the craft",
+      "keyword": "jonathan majors kang",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bratz craft dolls",
+      "keyword": "jonathan majors conviction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bratz doll costume",
+      "keyword": "fitness near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bratz blind box",
+      "keyword": "fitness your way",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bratz hello kitty",
+      "keyword": "dennis rodman daughter",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "home depot sweater",
+      "keyword": "dennis rodman stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren stats",
+      "keyword": "dennis rodman height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren injury",
+      "keyword": "dennis rodman kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren height",
+      "keyword": "dennis rodman shoes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren contract",
+      "keyword": "dennis rodman now",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren weight",
+      "keyword": "dennis rodman hair",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren girlfriend",
+      "keyword": "sonay kartal ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren trade",
+      "keyword": "sonay kartal partner",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chet holmgren news",
+      "keyword": "sonay kartal prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marianne von gierke",
+      "keyword": "sonay kartal illness",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza ice",
+      "keyword": "sonay kartal tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza shooting",
+      "keyword": "sonay kartal height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza hernandez",
+      "keyword": "zach bryan book",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza mets",
+      "keyword": "zach bryan bookmark",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza fired",
+      "keyword": "immunizations near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza news",
+      "keyword": "immunizations by age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza manager",
+      "keyword": "immunizations for children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza football",
+      "keyword": "vaccines for dogs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carlos mendoza wife",
+      "keyword": "vaccines for babies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "starlink mini kit",
+      "keyword": "vaccines for children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "starlink internet plans",
+      "keyword": "vaccines near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +640,115 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bratz dolls",
+      "keyword": "vaccines for cats",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vaccinations for dogs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vaccinations for children",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vaccinations near me",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vaccinations for cats",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vaccinations for babies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "vaccinations for puppies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "margaret qualley mom",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "margaret qualley movies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "margaret qualley height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "margaret qualley divorce",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "margaret qualley husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonathan majors",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "bratz movie",
+      "keyword": "fitness connection",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "chet holmgren",
+      "keyword": "fitness 19",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "carlos mendoza",
+      "keyword": "fitness tracker",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink internet",
+      "keyword": "fitness watch",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink mini",
+      "keyword": "fitness factory",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink ukraine",
+      "keyword": "dennis rodman",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink mobile",
+      "keyword": "sonay kartal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink cost",
+      "keyword": "immunizations texas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink satellites",
+      "keyword": "immunizations california",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "starlink wifi",
+      "keyword": "immunizations records",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +847,61 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "bratz",
+      "keyword": "immunization meaning",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vaccines texas",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vaccines california",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vaccinations texas",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "vaccinations california",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "margaret qualley",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "fitness",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -838,7 +910,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "bratziez",
+      "keyword": "immunizations",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -847,7 +919,25 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "starlink",
+      "keyword": "vaccines",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "vaccineshoppe",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "vaccinations",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -872,10 +962,10 @@
       ]
     },
     {
-      "pillar": "home depot sweater with tools",
+      "pillar": "sonay kartal vs elina svitolina",
       "cluster": [
         {
-          "keyword": "home depot sweater with tools",
+          "keyword": "sonay kartal vs elina svitolina",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -884,85 +974,180 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "home depot sweater october 15",
+          "keyword": "sonay kartal vs svitolina",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "home depot sweater shopify password",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "home depot sweater password",
-          "intent": "informational",
-          "demand": 64.0,
+          "demand": 76.0,
           "competition": 50.0,
-          "ranking_probability": 59.8,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 68.2
         },
         {
-          "keyword": "home depot sweater bundle",
+          "keyword": "sonay kartal vs paolini",
           "intent": "informational",
-          "demand": 64.0,
+          "demand": 76.0,
           "competition": 50.0,
-          "ranking_probability": 59.8,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 68.2
         },
         {
-          "keyword": "home depot sweater drop",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "home depot sweater link",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "home depot sweater event",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "home depot sweater deal",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "home depot sweater",
+          "keyword": "sonay kartal ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "sonay kartal partner",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonay kartal prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonay kartal illness",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonay kartal tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonay kartal height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sonay kartal",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "flu shots near me cvs",
+      "cluster": [
+        {
+          "keyword": "flu shots near me cvs",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "flu shots near me walk in free",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "flu shots near me walk in",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "flu shots near me no insurance",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "flu shots near me free",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flu shots near me today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flu shots near me walgreens",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flu shots near me cost",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flu shots near me 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flu shots near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -977,214 +1162,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        },
-        {
-          "keyword": "what pokemon beats bug type",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "what causes von gierke disease",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "the obama presidential center is finally here",
-      "cluster": [
-        {
-          "keyword": "the obama presidential center is finally here",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "the obama presidential center in chicago",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "the obama presidential center tickets",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center museum",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center opening",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center location",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center address",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center shop",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center cost",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "the obama presidential center",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "fort hood mass shooting how many died",
-      "cluster": [
-        {
-          "keyword": "fort hood mass shooting how many died",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "fort hood mass shooting 2009 victims",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "fort hood mass shooting firing squad",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "fort hood mass shooting victims",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fort hood mass shooting details",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fort hood mass shooting reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fort hood mass shooting execution",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fort hood mass shooting 2009",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fort hood mass shooting explained",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "fort hood mass shooting",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1221,10 +1198,200 @@
       ]
     },
     {
-      "pillar": "pokemon beats pill release date",
+      "pillar": "jonathan majors movies and tv shows",
       "cluster": [
         {
-          "keyword": "pokemon beats pill release date",
+          "keyword": "jonathan majors movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "jonathan majors new movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jonathan majors net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jonathan majors controversy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonathan majors marvel",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonathan majors movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonathan majors wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonathan majors kang",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonathan majors conviction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonathan majors",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "margaret qualley movies and tv shows",
+      "cluster": [
+        {
+          "keyword": "margaret qualley movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "margaret qualley love of your life",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "margaret qualley new movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "margaret qualley jack antonoff",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "margaret qualley mom",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "margaret qualley movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "margaret qualley height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "margaret qualley divorce",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "margaret qualley husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "margaret qualley",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "dennis rodman kim jong un",
+      "cluster": [
+        {
+          "keyword": "dennis rodman kim jong un",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1233,7 +1400,93 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "pokemon beats pill drop time",
+          "keyword": "dennis rodman net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dennis rodman daughter",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman shoes",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman now",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman hair",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dennis rodman",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "zach bryan book and vinyl",
+      "cluster": [
+        {
+          "keyword": "zach bryan book and vinyl",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1242,7 +1495,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "pokemon beats pill for sale",
+          "keyword": "zach bryan book young manhood",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1251,7 +1504,34 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "pokemon beats pill price",
+          "keyword": "zach bryan book for sale",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "zach bryan book release date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "zach bryan book of lyrics",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "zach bryan book preorder",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1260,7 +1540,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pokemon beats pill target",
+          "keyword": "zach bryan booking fee",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1269,7 +1549,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pokemon beats pill resale",
+          "keyword": "zach bryan booking agent",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1278,16 +1558,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pokemon beats pill amazon",
+          "keyword": "zach bryan book",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "pokemon beats pill",
+          "keyword": "zach bryan bookmark",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1298,10 +1578,10 @@
       ]
     },
     {
-      "pillar": "southwest airlines elite status tiers",
+      "pillar": "vaccinations for dogs near me",
       "cluster": [
         {
-          "keyword": "southwest airlines elite status tiers",
+          "keyword": "vaccinations for dogs near me",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1310,16 +1590,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "southwest airlines elite status",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "southwest status tiers",
+          "keyword": "vaccinations for dogs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1328,7 +1599,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "southwest elite status",
+          "keyword": "vaccinations for children",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1337,44 +1608,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "southwest loyalty tiers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "delta elite status levels",
-      "cluster": [
-        {
-          "keyword": "delta elite status levels",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "bratz x the craft",
-      "cluster": [
-        {
-          "keyword": "bratz x the craft",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "bratz the craft",
+          "keyword": "vaccinations near me",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1383,7 +1617,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bratz craft dolls",
+          "keyword": "vaccinations for cats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1392,7 +1626,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bratz doll costume",
+          "keyword": "vaccinations for babies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1401,7 +1635,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bratz blind box",
+          "keyword": "vaccinations for puppies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1410,16 +1644,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bratz hello kitty",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bratz dolls",
+          "keyword": "vaccinations texas",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1428,7 +1653,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "bratz movie",
+          "keyword": "vaccinations california",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1437,7 +1662,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "bratz",
+          "keyword": "vaccinations",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1448,10 +1673,10 @@
       ]
     },
     {
-      "pillar": "chet holmgren 4 points",
+      "pillar": "fitness centers near me",
       "cluster": [
         {
-          "keyword": "chet holmgren 4 points",
+          "keyword": "fitness centers near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1460,93 +1685,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "chet holmgren stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren weight",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren trade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chet holmgren",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "marianne von gierke npc",
-      "cluster": [
-        {
-          "keyword": "marianne von gierke npc",
+          "keyword": "fitness classes near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1555,44 +1694,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "marianne von gierke reddit",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "marianne von gierke",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "von gierke disease treatment",
-      "cluster": [
-        {
-          "keyword": "von gierke disease treatment",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "carlos mendoza ice",
-      "cluster": [
-        {
-          "keyword": "carlos mendoza ice",
+          "keyword": "fitness near me",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1601,7 +1703,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "carlos mendoza shooting",
+          "keyword": "fitness your way",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1610,102 +1712,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "carlos mendoza hernandez",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza mets",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza fired",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza manager",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza football",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "carlos mendoza",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "starlink mini kit",
-      "cluster": [
-        {
-          "keyword": "starlink mini kit",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "starlink internet plans",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "starlink internet",
+          "keyword": "fitness connection",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1714,7 +1721,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "starlink mini",
+          "keyword": "fitness 19",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1723,7 +1730,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "starlink ukraine",
+          "keyword": "fitness tracker",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1732,7 +1739,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "starlink mobile",
+          "keyword": "fitness watch",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1741,7 +1748,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "starlink cost",
+          "keyword": "fitness factory",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1750,25 +1757,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "starlink satellites",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "starlink wifi",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "starlink",
+          "keyword": "fitness",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1779,10 +1768,196 @@
       ]
     },
     {
-      "pillar": "bratziez",
+      "pillar": "immunizations schedule for children",
       "cluster": [
         {
-          "keyword": "bratziez",
+          "keyword": "immunizations schedule for children",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "immunizations required for school",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "immunizations near me",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "immunizations by age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "immunizations for children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "immunizations texas",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "immunizations california",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "immunizations records",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "immunizations",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "vaccines at 2 months",
+      "cluster": [
+        {
+          "keyword": "vaccines at 2 months",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "vaccines for dogs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "vaccines for babies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "vaccines for children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "vaccines near me",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "vaccines for cats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "vaccines texas",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "vaccines california",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "vaccines",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "immunization meaning",
+      "cluster": [
+        {
+          "keyword": "immunization meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "vaccineshoppe",
+      "cluster": [
+        {
+          "keyword": "vaccineshoppe",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
