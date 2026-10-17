@@ -54,3 +54,13 @@ The dashboard login, registration, initial administrator setup, and Google OAuth
 The dashboard removes legacy token values from `localStorage` and `sessionStorage` at startup. An optional manual bearer-token field remains for API troubleshooting; do not use it for routine dashboard login. Cookie sessions are intended for same-origin dashboard/API hosting. If the frontend and API are deployed on different origins, configure and test the exact origin, CORS, cookie and CSRF policy before using this flow.
 
 Do not treat `HttpOnly` cookies as a complete XSS defense: injected same-origin script may still perform actions as the user. Keep output escaping and dependency patching current, avoid unsafe HTML insertion, and add a restrictive Content Security Policy after the inline scripts and styles have been migrated or safely nonce/hash configured.
+
+## WordPress target and account-session safeguards
+
+New site configuration requires an HTTPS WordPress URL, rejects embedded URL credentials/query strings/fragments and common local hostnames, and bounds the posting frequency to 1–168 hours. The WordPress HTTP client independently checks the target hostname and resolved IP addresses before sending BasicAuth credentials, rejects non-public destinations, and does not follow redirects with credentials attached. Configure WordPress with its canonical HTTPS URL to avoid redirect failures.
+
+DNS checks are a defense-in-depth measure, not a complete network isolation boundary: DNS can change between validation and connection. Production deployments should also enforce outbound network egress rules that deny loopback, private, link-local, and cloud-metadata ranges.
+
+Google OAuth account linking requires Google's email_verified claim to be explicitly true. A successful password reset marks outstanding refresh tokens as used; access tokens already issued remain valid until their expiry, so use a short access-token lifetime and rotate JWT_SECRET_KEY after a suspected account compromise.
+
+The admin usage-limit endpoint rejects negative limits and values above the configured agency maximum. Shared MRK Earning OS artifacts are admin-only until the application stores those artifacts per tenant.
