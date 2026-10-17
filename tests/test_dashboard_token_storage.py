@@ -48,6 +48,14 @@ class DashboardCookieSessionTests(unittest.TestCase):
         self.assertIn("HttpOnly", docs)
         self.assertIn("CSRF", docs)
 
+    def test_preview_deployments_use_secure_cookies_and_sqlite_expiry_is_normalized(self):
+        source = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
+        self.assertIn('os.getenv("VERCEL_ENV", "").lower() in {"preview", "production"}', source)
+        self.assertIn('def _is_expired(expires_at: datetime) -> bool:', source)
+        self.assertIn('expires_at = expires_at.replace(tzinfo=timezone.utc)', source)
+        self.assertNotIn('entry.expires_at < datetime.now(timezone.utc)', source)
+        self.assertNotIn('stored.expires_at < datetime.now(timezone.utc)', source)
+
 
 if __name__ == "__main__":
     unittest.main()
