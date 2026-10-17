@@ -6,12 +6,8 @@ from datetime import datetime, timedelta, timezone
 from sqlalchemy.orm import Session
 
 from app.models import AutomationJob, PublishedPost, Site
+from app.core.secrets import decrypt_secret
 from app.services.usage import check_limit, increment_usage
-
-
-def decrypt_secret(value: str) -> str:
-    # Placeholder for real KMS/Vault encryption
-    return value
 
 
 def schedule_next_job(db: Session, site: Site) -> AutomationJob:
