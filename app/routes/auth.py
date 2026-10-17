@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, timezone
+import os
 from urllib.parse import urlsplit
 
 from authlib.integrations.starlette_client import OAuth
@@ -63,7 +64,7 @@ def _require_same_origin(request: Request) -> None:
 
 
 def _set_session_cookies(response: Response, pair: TokenResponse) -> None:
-    secure = settings.environment.lower() in {"production", "prod"}
+    secure = settings.environment.lower() in {"production", "prod"} or os.getenv("VERCEL_ENV", "").lower() == "production"
     response.set_cookie(ACCESS_COOKIE_NAME, pair.access_token, max_age=settings.jwt_expire_minutes * 60,
                         httponly=True, secure=secure, samesite="lax", path="/")
     if pair.refresh_token:
