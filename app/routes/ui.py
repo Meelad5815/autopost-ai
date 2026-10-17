@@ -32,7 +32,7 @@ def index():
 
 
 @router.get("/ui/schedule")
-def get_schedule(user: User = Depends(get_current_user)):
+def get_schedule(user: User = Depends(require_admin)):
     _ = user
     path = Path("config/schedule.json")
     if not path.exists():
@@ -41,7 +41,7 @@ def get_schedule(user: User = Depends(get_current_user)):
 
 
 @router.post("/ui/schedule")
-def save_schedule(payload: dict, user: User = Depends(get_current_user)):
+def save_schedule(payload: dict, user: User = Depends(require_admin)):
     _ = user
     path = Path("config/schedule.json")
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -50,7 +50,7 @@ def save_schedule(payload: dict, user: User = Depends(get_current_user)):
 
 
 @router.get("/ui/seo")
-def get_seo_state(user: User = Depends(get_current_user)):
+def get_seo_state(user: User = Depends(require_admin)):
     _ = user
     out = {}
     for name in ["history.json", "trends.json", "keywords.json"]:
@@ -61,7 +61,7 @@ def get_seo_state(user: User = Depends(get_current_user)):
 
 
 @router.get("/ui/posting-stats")
-def get_posting_stats(user: User = Depends(get_current_user)):
+def get_posting_stats(user: User = Depends(require_admin)):
     _ = user
     wp_count = None
     wp_error = None
@@ -102,7 +102,7 @@ def get_posting_stats(user: User = Depends(get_current_user)):
 
 
 @router.post("/ui/publish-now-bulk")
-def publish_now_bulk(payload: dict | None = None, user: User = Depends(get_current_user)):
+def publish_now_bulk(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
     import os
     import subprocess
@@ -122,7 +122,7 @@ def publish_now_bulk(payload: dict | None = None, user: User = Depends(get_curre
 
 
 @router.post("/ui/apply-high-frequency-plan")
-def apply_high_frequency_plan(payload: dict | None = None, user: User = Depends(get_current_user)):
+def apply_high_frequency_plan(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
     payload = payload or {}
     timezone = str(payload.get("timezone", "Asia/Karachi")).strip() or "Asia/Karachi"
@@ -148,7 +148,7 @@ def apply_high_frequency_plan(payload: dict | None = None, user: User = Depends(
 
 
 @router.get("/ui/metrics")
-def get_metrics(db: Session = Depends(get_db), user: User = Depends(get_current_user)):
+def get_metrics(db: Session = Depends(get_db), user: User = Depends(require_admin)):
     sites = db.query(Site).filter(Site.user_id == user.id).count()
     posts = db.query(Site).filter(Site.user_id == user.id).all()
     site_ids = [s.id for s in posts]
@@ -283,7 +283,7 @@ def apply_content_env(env: dict) -> None:
 
 
 @router.post("/ui/run-site-audit")
-def run_site_audit(user: User = Depends(get_current_user)):
+def run_site_audit(user: User = Depends(require_admin)):
     _ = user
     import subprocess
 
@@ -299,7 +299,7 @@ def run_site_audit(user: User = Depends(get_current_user)):
 
 
 @router.post("/ui/run-remediation")
-def run_remediation(user: User = Depends(get_current_user)):
+def run_remediation(user: User = Depends(require_admin)):
     _ = user
     import subprocess
 
@@ -315,7 +315,7 @@ def run_remediation(user: User = Depends(get_current_user)):
 
 
 @router.post("/ui/run-seo-normalize")
-def run_seo_normalize(payload: dict | None = None, user: User = Depends(get_current_user)):
+def run_seo_normalize(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
     import os
     import subprocess
@@ -345,7 +345,7 @@ def run_seo_normalize(payload: dict | None = None, user: User = Depends(get_curr
 
 
 @router.post("/ui/run-quick-cycle")
-def run_quick_cycle(payload: dict | None = None, user: User = Depends(get_current_user)):
+def run_quick_cycle(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
     import os
     import subprocess
@@ -365,7 +365,7 @@ def run_quick_cycle(payload: dict | None = None, user: User = Depends(get_curren
 
 
 @router.get("/ui/site-audit")
-def get_site_audit(user: User = Depends(get_current_user)):
+def get_site_audit(user: User = Depends(require_admin)):
     _ = user
     audit_dir = Path("data/audits")
     if not audit_dir.exists():
@@ -379,7 +379,7 @@ def get_site_audit(user: User = Depends(get_current_user)):
 
 
 @router.get("/ui/scheduler-profile")
-def get_scheduler_profile(user: User = Depends(get_current_user)):
+def get_scheduler_profile(user: User = Depends(require_admin)):
     _ = user
     path = Path("scheduler.log")
     if not path.exists():
@@ -409,7 +409,7 @@ def get_scheduler_profile(user: User = Depends(get_current_user)):
 
 
 @router.get("/ui/scheduler-status")
-def get_scheduler_status(user: User = Depends(get_current_user)):
+def get_scheduler_status(user: User = Depends(require_admin)):
     _ = user
     history_path = Path("history.json")
     history = json.loads(history_path.read_text(encoding="utf-8")) if history_path.exists() else {}
@@ -549,7 +549,7 @@ def kali_terminal_exec(payload: dict | None = None, user: User = Depends(require
 
 
 @router.get("/ui/run-reports")
-def get_run_reports(user: User = Depends(get_current_user)):
+def get_run_reports(user: User = Depends(require_admin)):
     _ = user
     reports_dir = Path("data/run_reports")
     if not reports_dir.exists():
@@ -569,13 +569,13 @@ def get_run_reports(user: User = Depends(get_current_user)):
 
 
 @router.get("/ui/content-settings")
-def get_content_settings(user: User = Depends(get_current_user)):
+def get_content_settings(user: User = Depends(require_admin)):
     _ = user
     return JSONResponse(load_content_settings())
 
 
 @router.post("/ui/content-settings")
-def save_content_settings(payload: dict, user: User = Depends(get_current_user)):
+def save_content_settings(payload: dict, user: User = Depends(require_admin)):
     _ = user
     data = default_content_settings()
     data["content_temperature"] = float(payload.get("content_temperature", data["content_temperature"]))
@@ -591,7 +591,7 @@ def save_content_settings(payload: dict, user: User = Depends(get_current_user))
 
 
 @router.get("/ui/uniqueness")
-def get_uniqueness_metrics(user: User = Depends(get_current_user)):
+def get_uniqueness_metrics(user: User = Depends(require_admin)):
     _ = user
     reports_dir = Path("data/run_reports")
     if not reports_dir.exists():
@@ -623,7 +623,7 @@ def get_uniqueness_metrics(user: User = Depends(get_current_user)):
 
 
 @router.get("/ui/fact-check")
-def get_fact_check_metrics(user: User = Depends(get_current_user)):
+def get_fact_check_metrics(user: User = Depends(require_admin)):
     _ = user
     reports_dir = Path("data/run_reports")
     if not reports_dir.exists():
@@ -672,7 +672,7 @@ def get_fact_check_metrics(user: User = Depends(get_current_user)):
 
 
 @router.post("/ui/run-slot")
-def run_slot(payload: dict, user: User = Depends(get_current_user)):
+def run_slot(payload: dict, user: User = Depends(require_admin)):
     _ = user
     slot_time = str(payload.get("slot_time", "")).strip()
     if not slot_time:
@@ -688,7 +688,7 @@ def run_slot(payload: dict, user: User = Depends(get_current_user)):
 
 
 @router.post("/ui/update-only")
-def run_update_only(user: User = Depends(get_current_user)):
+def run_update_only(user: User = Depends(require_admin)):
     _ = user
     import os
     import subprocess
