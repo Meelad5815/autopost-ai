@@ -5,30 +5,48 @@ import unittest
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 
-class DashboardTokenStorageTests(unittest.TestCase):
-    def test_tokens_use_tab_scoped_session_storage(self):
+class DashboardCookieSessionTests(unittest.TestCase):
+    def test_dashboard_does_not_persist_auth_tokens_in_web_storage(self):
         source = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
-        self.assertIn('const getToken = () => sessionStorage.getItem(tokenKey) || "";', source)
-        self.assertIn('sessionStorage.setItem(tokenKey, t)', source)
-        self.assertIn('sessionStorage.setItem(refreshTokenKey, t)', source)
+        self.assertIn('localStorage.removeItem(tokenKey)', source)
+        self.assertIn('localStorage.removeItem(refreshTokenKey)', source)
+        self.assertIn('sessionStorage.removeItem(tokenKey)', source)
+        self.assertIn('credentials: "same-origin"', source)
+        self.assertNotIn('sessionStorage.setItem(refreshTokenKey, t)', source)
 
-    def test_legacy_persistent_tokens_are_migrated_and_removed(self):
+    def test_dashboard_login_and_register_use_cookie_session_endpoints(self):
         source = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
-        self.assertIn("const migrateLegacyToken = (key) =>", source)
-        self.assertIn("localStorage.removeItem(key)", source)
-        self.assertIn("migrateLegacyToken(tokenKey)", source)
-        self.assertIn("migrateLegacyToken(refreshTokenKey)", source)
+        self.assertIn('/auth/session/login', source)
+        self.assertIn('/auth/session/register', source)
+        self.assertIn('/auth/session/refresh', source)
+        self.assertIn('/auth/session/logout', source)
 
-    def test_long_term_cookie_risk_is_documented(self):
-        source = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
-        self.assertIn("HttpOnly cookies are the long-term fix", source)
+    def test_auth_routes_set_httponly_secure_production_cookies(self):
+        source = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
+        self.assertIn('httponly=True', source)
+        self.assertIn('samesite="lax"', source)
+        self.assertIn('secure=secure', source)
+        self.assertIn('ACCESS_COOKIE_NAME = "autopost_access"', source)
+        self.assertIn('REFRESH_COOKIE_NAME = "autopost_refresh"', source)
 
-    def test_oauth_credentials_are_redirected_in_fragment_not_query(self):
-        auth_source = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
-        ui_source = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
-        self.assertIn('else \'#\'', auth_source)
-        self.assertIn('window.location.hash.slice(1)', ui_source)
-        self.assertIn('window.history.replaceState({}, "", clean)', ui_source)
+    def test_cookie_auth_rejects_cross_origin_state_changes(self):
+        deps = (ROOT / "app" / "deps.py").read_text(encoding="utf-8")
+        auth = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
+        self.assertIn('Cookie-authenticated requests must be same-origin', deps)
+        self.assertIn('_require_same_origin(request)', auth)
+
+    def test_google_oauth_sets_cookies_without_redirecting_tokens(self):
+        auth = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
+        ui = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
+        callback = auth[auth.index("async def google_callback"):]
+        self.assertIn('_set_session_cookies(response, pair)', callback)
+        self.assertNotIn('access_token={quote_plus', callback)
+        self.assertIn('window.history.replaceState({}, "", clean)', ui)
+
+    def test_long_term_risk_and_cookie_controls_are_documented(self):
+        docs = (ROOT / "docs" / "DEPLOYMENT_SECURITY.md").read_text(encoding="utf-8")
+        self.assertIn("HttpOnly", docs)
+        self.assertIn("CSRF", docs)
 
 
 if __name__ == "__main__":
