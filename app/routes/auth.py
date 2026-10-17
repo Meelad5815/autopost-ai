@@ -326,7 +326,7 @@ def verify_email_confirm(payload: VerifyEmailConfirmRequest, db: Session = Depen
         .filter(AuthToken.token_hash == token_hash_value, AuthToken.token_type == 'email_verify', AuthToken.used_at.is_(None))
         .first()
     )
-    if not entry or entry.expires_at < datetime.now(timezone.utc):
+    if not entry or _is_expired(entry.expires_at):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Invalid or expired verification token')
 
     user = db.query(User).filter(User.id == entry.user_id).first()
