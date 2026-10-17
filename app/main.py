@@ -13,6 +13,8 @@ from fastapi import FastAPI
 from sqlalchemy.exc import OperationalError
 
 from app.db import Base, engine
+from app.core.config import settings
+from app.core.secrets import _fernet
 from app.db_migrations import run_migrations
 from app.routes import admin, auth, automation, billing, health, sites, ui, mrk_earning, website_factory
 from app.services.scheduler_daemon import start_scheduler_daemon
@@ -33,6 +35,14 @@ app.include_router(website_factory.router)
 
 @app.on_event("startup")
 def init_db() -> None:
+    if settings.environment.lower() in {"production", "prod"}:
+        if settings.debug:
+            raise RuntimeError("DEBUG must be disabled in production")
+        if len(settings.jwt_secret_key) < 32 or settings.jwt_secret_key == "change-me":
+            raise RuntimeError("Set a strong JWT_SECRET_KEY (at least 32 characters) in production")
+        # Fail closed: production must be able to encrypt site credentials.
+        _fernet()
+
     try:
         Base.metadata.create_all(bind=engine)
         applied = run_migrations(engine)
