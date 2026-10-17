@@ -23,6 +23,13 @@ class DashboardTokenStorageTests(unittest.TestCase):
         source = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
         self.assertIn("HttpOnly cookies are the long-term fix", source)
 
+    def test_oauth_credentials_are_redirected_in_fragment_not_query(self):
+        auth_source = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
+        ui_source = (ROOT / "app" / "ui" / "index.html").read_text(encoding="utf-8")
+        self.assertIn('else \'#\'', auth_source)
+        self.assertIn('window.location.hash.slice(1)', ui_source)
+        self.assertIn('window.history.replaceState({}, "", clean)', ui_source)
+
 
 if __name__ == "__main__":
     unittest.main()
