@@ -92,18 +92,50 @@ def run_job(db: Session, job: AutomationJob) -> AutomationJob:
         )
         stdout = safe_output(process.stdout)
         stderr = safe_output(process.stderr)
-        if process.returncode == 0:
+        result_payload = None
+        for line in (process.stdout or '').splitlines():
+            if line.startswith('AUTOPOST_RESULT_JSON:'):
+                try:
+                    result_payload = json.loads(line.split(':', 1)[1])
+                except (TypeError, ValueError):
+                    result_payload = None
+
+        published = []
+        if isinstance(result_payload, dict):
+            results = result_payload.get('results', [])
+            if isinstance(results, list):
+                published = [
+                    item for item in results
+                    if isinstance(item, dict)
+                    and item.get('status') == 'published'
+                    and item.get('action') == 'created'
+                    and isinstance(item.get('post_id'), int)
+                    and item.get('post_id') > 0
+                    and isinstance(item.get('url'), str)
+                    and item.get('url').startswith(('https://', 'http://'))
+                ]
+
+        if process.returncode == 0 and published:
             job.status = 'success'
             job.output_summary = stdout
-            # Placeholder post record (real integration can parse wp_post_id from output/report)
-            post = PublishedPost(site_id=site.id, job_id=job.id, wp_post_id=0, title='Generated Post', url='')
-            db.add(post)
-            increment_usage(db, site.user_id, amount=1)
+            for item in published:
+                db.add(PublishedPost(
+                    site_id=site.id,
+                    job_id=job.id,
+                    wp_post_id=item['post_id'],
+                    title=str(item.get('title', 'Published post'))[:500],
+                    url=item['url'][:2000],
+                ))
+            increment_usage(db, site.user_id, amount=len(published))
             if site.is_active:
                 schedule_next_job(db, site)
         else:
             job.status = 'failed'
-            job.error = stderr or stdout or f'Publishing process exited with code {process.returncode}'
+            if process.returncode != 0:
+                job.error = stderr or stdout or f'Publishing process exited with code {process.returncode}'
+            else:
+                job.error = 'Publishing process completed without a confirmed WordPress post. Check the job output for skipped content or integration errors.'
+                job.output_summary = stdout
     except subprocess.TimeoutExpired as exc:
         job.status = 'failed'
         job.error = 'Publishing process timed out after 900 seconds. ' + (safe_output(exc.stderr) or safe_output(exc.stdout))
