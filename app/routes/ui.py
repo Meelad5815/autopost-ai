@@ -6,7 +6,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Response
 from fastapi.responses import HTMLResponse, JSONResponse
 from sqlalchemy.orm import Session
 
@@ -713,7 +713,7 @@ def run_update_only(user: User = Depends(require_admin)):
 
 
 @router.post("/ui/first-setup")
-def first_setup(payload: dict, db: Session = Depends(get_db)):
+def first_setup(payload: dict, response: Response, db: Session = Depends(get_db)):
     # One-time bootstrap is disabled by default. Enable only while provisioning
     # the first administrator, then remove the environment variable.
     if os.getenv("ALLOW_INITIAL_SETUP", "").strip().lower() not in {"1", "true", "yes"}:
@@ -788,10 +788,12 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
         db.commit()
         db.refresh(created_site)
 
+    # Issue the same HttpOnly session cookies used by normal dashboard login.
+    from app.routes.auth import _issue_token_pair, _set_session_cookies
+
+    _set_session_cookies(response, _issue_token_pair(db, user))
     return {
         "status": "ok",
         "user_id": user.id,
         "site_id": created_site.id if created_site else None,
-        "access_token": create_access_token(str(user.id)),
-        "token_type": "bearer",
     }
