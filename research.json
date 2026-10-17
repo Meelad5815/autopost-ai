@@ -1,47 +1,71 @@
 {
-  "generated_at": "2026-10-16T23:56:45.560207+00:00",
+  "generated_at": "2026-10-17T04:03:31.016003+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "jayson tatum",
+      "title": "warriors",
       "source": "google_trends_us"
     },
     {
-      "title": "saildrone",
+      "title": "bronny james",
       "source": "google_trends_us"
     },
     {
-      "title": "nba season opener",
+      "title": "nick young",
       "source": "google_trends_us"
     },
     {
-      "title": "is jayson tatum playing tonight",
+      "title": "matisse thybulle",
       "source": "google_trends_us"
     },
     {
-      "title": "jax love is blind",
+      "title": "aaron gordon",
       "source": "google_trends_us"
     },
     {
-      "title": "celtics vs 76ers",
+      "title": "walker kessler",
       "source": "google_trends_us"
     },
     {
-      "title": "pac cause of death",
+      "title": "jasmine gill sacramento",
       "source": "google_trends_us"
     },
     {
-      "title": "michigan basketball",
+      "title": "arizona basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "indians game",
+      "title": "draymond green",
       "source": "google_trends_us"
     },
     {
-      "title": "kirk herbstreit comments notre dame",
+      "title": "lakers",
       "source": "google_trends_us"
+    },
+    {
+      "title": "samsung galaxy s27 ultra",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "ilhan omar",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "one",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "tiger",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "h",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "2",
+      "source": "google_trends_pk"
     },
     {
       "title": "mohsin naqvi",
@@ -52,35 +76,11 @@
       "source": "google_trends_pk"
     },
     {
+      "title": "the diplomat",
+      "source": "google_trends_pk"
+    },
+    {
       "title": "tecno spark 50s 5g",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "pakistan cricket",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ranabaali",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "beth dobbin",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "street fighter 2026",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "katie zacharia",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "hanan issa",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "بازار",
       "source": "google_trends_pk"
     },
     {
@@ -188,10 +188,6 @@
       "source": "google_news_ai"
     },
     {
-      "title": "iOS 27 AI Shortcuts: What Changed and 5 Useful Things to Try - TechRepublic",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Putting AI Agents to Work Across the Enterprise - BankInfoSecurity",
       "source": "google_news_ai"
     },
@@ -204,11 +200,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development - Phys.org",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Takeaways from Isaac founders on AI, automation and fleet technology - Truck News",
+      "title": "10 jobs AI can't replace easily — and some pay six figures - Yahoo Creators",
       "source": "google_news_ai"
     },
     {
@@ -216,11 +208,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "10 jobs AI can't replace easily — and some pay six figures - Yahoo Creators",
+      "title": "Takeaways from Isaac founders on AI, automation and fleet technology - Truck News",
       "source": "google_news_ai"
     },
     {
-      "title": "Intento Publishes The State of Translation Automation 2026, an Interactive Benchmark of 229 AI Translation Solutions in 100 Languages - PR Newswire",
+      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development - Phys.org",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Beyond Automation: Rethinking Banking Transformation with AI Agents - GovInfoSecurity",
       "source": "google_news_ai"
     },
     {
@@ -232,23 +228,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Beyond Automation: Rethinking Banking Transformation with AI Agents - GovInfoSecurity",
+      "title": "Intento Publishes The State of Translation Automation 2026, an Interactive Benchmark of 229 AI Translation Solutions in 100 Languages - PR Newswire",
       "source": "google_news_ai"
     },
     {
       "title": "The AI value curve: The economics of applying AI to existing work - McKinsey &amp; Company",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Robots &amp; Pencils Acquires Tiger Pistol To Expand Agentic AI And Marketing Automation Capabilities - Pulse 2.0",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Vertafore launches AI agents to automate insurance policy checks - FinTech Global",
       "source": "google_news_ai"
     },
     {
@@ -264,6 +248,22 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Robots &amp; Pencils Acquires Tiger Pistol To Expand Agentic AI And Marketing Automation Capabilities - Pulse 2.0",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ServiceNow adds AI agent controls and employee automation tools - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Vertafore launches AI agents to automate insurance policy checks - FinTech Global",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Wondershare UniConverter 18 Advances AI-Powered Media Processing with Intelligent Automation and Enhanced Creative Tools - PR Newswire",
       "source": "google_news_ai"
     },
@@ -272,7 +272,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "ServiceNow adds AI agent controls and employee automation tools - SiliconANGLE",
+      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
       "source": "google_news_ai"
     },
     {
@@ -280,7 +280,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Business Email Compromise Claims Jump 30% as A.I. Reshapes Cyber Risk - Risk &amp; Insurance",
+      "title": "Longbridge’s Bill Packer on AI, automation and the future of reverse mortgages - HousingWire",
       "source": "google_news_ai"
     },
     {
@@ -360,19 +360,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Performance Report Date Picker Not Working - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Daily Search Forum Recap: October 14, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "The New Changes to Google for Hotel Searches - serpact.com",
+      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
+      "title": "Google Search Console Performance Report Date Picker Not Working - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -384,11 +380,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
+      "title": "Google SEO vs ChatGPT Search Changes: Local Business Guide Released - FinancialContent",
       "source": "google_news_seo"
     },
     {
@@ -404,11 +400,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Copyleaks Content Guard flags AI text in WordPress drafts before publication - PPC Land",
+      "title": "Frontegg SAML SSO Plugin for WordPress: How Missing Signature Verification Creates an Unauthenticated Admin Takeover Path - Forkast News",
       "source": "google_news_wordpress"
     },
     {
@@ -416,11 +416,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks - BleepingComputer",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
@@ -428,7 +424,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE - BleepingComputer",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
@@ -440,10 +440,6 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Releases Canonical MCP Adapter Plugin - Search Engine Journal",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
       "source": "google_news_wordpress"
     },
@@ -452,15 +448,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "“Temporary escapes and moments of insight” – Shadow Ticket by Thomas Pynchon - Bookmunch",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Frontegg SAML SSO Plugin for WordPress: How Missing Signature Verification Creates an Unauthenticated Admin Takeover Path - Forkast News",
+      "title": "“Temporary escapes and moments of insight” – Shadow Ticket by Thomas Pynchon - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
@@ -480,7 +472,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "How to install WordPress: 4 methods and troubleshooting tips - Hostinger",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Antonio Banderas and Nicolas Cage to star in True Detective season 5 - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Readers Write In #1172: Jailer 2 Review: Rajinikanth &amp; Nelson provide us with a massy blockbuster with seetimaar cameos! - Baradwaj Rangan",
       "source": "google_news_wordpress"
     }
   ],
