@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlsplit
 
 from authlib.integrations.starlette_client import OAuth
 from fastapi import APIRouter, Depends, HTTPException, Request, Response, status
@@ -49,6 +50,16 @@ if settings.google_client_id and settings.google_client_secret:
 
 ACCESS_COOKIE_NAME = "autopost_access"
 REFRESH_COOKIE_NAME = "autopost_refresh"
+
+
+
+
+def _require_same_origin(request: Request) -> None:
+    origin = request.headers.get("origin", "")
+    host = request.headers.get("host", "")
+    parsed = urlsplit(origin)
+    if not origin or parsed.scheme not in {"http", "https"} or parsed.netloc.lower() != host.lower():
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Request origin is not allowed")
 
 
 def _set_session_cookies(response: Response, pair: TokenResponse) -> None:
@@ -107,7 +118,8 @@ def _issue_token_pair(db: Session, user: User) -> TokenResponse:
 
 
 @router.post("/session/register")
-def session_register(payload: RegisterRequest, response: Response, db: Session = Depends(get_db)):
+def session_register(payload: RegisterRequest, request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
     if db.query(User).filter(User.email == payload.email).first():
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="Email already exists")
     user = User(email=payload.email, password_hash=hash_password(payload.password), provider="local",
@@ -125,7 +137,8 @@ def session_register(payload: RegisterRequest, response: Response, db: Session =
 
 
 @router.post("/session/login")
-def session_login(payload: LoginRequest, response: Response, db: Session = Depends(get_db)):
+def session_login(payload: LoginRequest, request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
     user = db.query(User).filter(User.email == payload.email).first()
     if not user or user.provider != "local" or not verify_password(payload.password, user.password_hash):
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid credentials")
@@ -137,6 +150,7 @@ def session_login(payload: LoginRequest, response: Response, db: Session = Depen
 
 @router.post("/session/refresh")
 def session_refresh(request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
     raw_token = request.cookies.get(REFRESH_COOKIE_NAME, "")
     if not raw_token:
         _clear_session_cookies(response)
@@ -147,6 +161,7 @@ def session_refresh(request: Request, response: Response, db: Session = Depends(
 
 @router.post("/session/logout")
 def session_logout(request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
     raw_token = request.cookies.get(REFRESH_COOKIE_NAME, "")
     if raw_token:
         entry = db.query(AuthToken).filter(
