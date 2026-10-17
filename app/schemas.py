@@ -81,7 +81,7 @@ class SiteCreateRequest(BaseModel):
             address = None
         if address is not None and (not address.is_global or address.is_multicast or address.is_unspecified):
             raise ValueError('WordPress URL must use a public IP address')
-        return value.rstrip('/')
+        return value
 
 
 class SiteResponse(BaseModel):
