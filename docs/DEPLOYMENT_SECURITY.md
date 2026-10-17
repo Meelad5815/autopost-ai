@@ -36,3 +36,8 @@ Do not run a credential migration against production without a verified backup a
 ## Deployment and validation
 
 The repository's GitHub Actions workflow validates generated-site artifacts and regression tests. A successful CI run does not by itself confirm that the FastAPI backend is deployed or that the production environment variables are configured. Verify the backend preview URL, API health endpoint, authenticated dashboard, and a test site workflow separately. Do not enable bulk publishing until credentials, tenant access controls and posting limits have been verified.
+
+
+## Admin terminal safety gate
+
+The `/ui/cloud-terminal/exec` and `/ui/kali-terminal/exec` endpoints execute commands and are therefore disabled by default, including for administrators. Do not enable them on a public production instance. If a trusted isolated environment genuinely requires them, explicitly set `ENABLE_ADMIN_TERMINAL=true`; restrict network access and admin accounts, and remove the flag when finished.
