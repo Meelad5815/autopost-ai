@@ -35,6 +35,7 @@ def run_job(db: Session, job: AutomationJob) -> AutomationJob:
     if not site:
         job.status = 'failed'
         job.error = 'Site not found'
+        job.finished_at = datetime.now(timezone.utc)
         db.commit()
         return job
 
@@ -42,6 +43,7 @@ def run_job(db: Session, job: AutomationJob) -> AutomationJob:
     if not allowed:
         job.status = 'failed'
         job.error = f'Plan limit reached ({used}/{limit})'
+        job.finished_at = datetime.now(timezone.utc)
         db.commit()
         return job
 
