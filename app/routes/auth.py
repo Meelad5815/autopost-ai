@@ -1,8 +1,9 @@
 from datetime import datetime, timedelta, timezone
-from urllib.parse import quote_plus
+import os
+from urllib.parse import urlsplit
 
 from authlib.integrations.starlette_client import OAuth
-from fastapi import APIRouter, Depends, HTTPException, Request, status
+from fastapi import APIRouter, Depends, HTTPException, Request, Response, status
 from fastapi.responses import RedirectResponse
 from sqlalchemy.orm import Session
 
@@ -46,6 +47,77 @@ if settings.google_client_id and settings.google_client_secret:
     )
 
 
+
+
+ACCESS_COOKIE_NAME = "autopost_access"
+REFRESH_COOKIE_NAME = "autopost_refresh"
+
+
+
+
+def _require_same_origin(request: Request) -> None:
+    origin = request.headers.get("origin", "")
+    host = request.headers.get("host", "")
+    parsed = urlsplit(origin)
+    if not origin or parsed.scheme not in {"http", "https"} or parsed.netloc.lower() != host.lower():
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Request origin is not allowed")
+
+
+def _secure_cookie_flag() -> bool:
+    # Vercel preview and production deployments are HTTPS, so protect cookies there too.
+    return (
+        settings.environment.lower() in {"production", "prod"}
+        or os.getenv("VERCEL_ENV", "").lower() in {"preview", "production"}
+        or os.getenv("VERCEL", "").lower() in {"1", "true", "yes"}
+    )
+
+
+def _set_session_cookies(response: Response, pair: TokenResponse) -> None:
+    secure = _secure_cookie_flag()
+    response.set_cookie(ACCESS_COOKIE_NAME, pair.access_token, max_age=settings.jwt_expire_minutes * 60,
+                        httponly=True, secure=secure, samesite="lax", path="/")
+    if pair.refresh_token:
+        response.set_cookie(REFRESH_COOKIE_NAME, pair.refresh_token, max_age=settings.jwt_refresh_expire_minutes * 60,
+                            httponly=True, secure=secure, samesite="lax", path="/auth/session")
+
+
+def _clear_session_cookies(response: Response) -> None:
+    secure = _secure_cookie_flag()
+    response.delete_cookie(ACCESS_COOKIE_NAME, path="/", secure=secure, httponly=True, samesite="lax")
+    response.delete_cookie(REFRESH_COOKIE_NAME, path="/auth/session", secure=secure, httponly=True, samesite="lax")
+
+
+def _is_expired(expires_at: datetime) -> bool:
+    # SQLite can return naive datetimes even for timezone-aware SQLAlchemy columns.
+    # Normalize them as UTC before comparing to the current aware timestamp.
+    if expires_at.tzinfo is None:
+        expires_at = expires_at.replace(tzinfo=timezone.utc)
+    return expires_at < datetime.now(timezone.utc)
+
+
+def _rotate_refresh_token(raw_token: str, db: Session) -> TokenResponse:
+    claims = decode_token_claims(raw_token)
+    if not claims or claims.get("typ") != "refresh":
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid refresh token")
+    try:
+        user_id = int(claims.get("sub"))
+    except (TypeError, ValueError):
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid refresh token") from None
+    stored = db.query(AuthToken).filter(
+        AuthToken.token_hash == hash_token(raw_token),
+        AuthToken.token_type == "refresh",
+        AuthToken.used_at.is_(None),
+    ).first()
+    if not stored or _is_expired(stored.expires_at):
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Refresh token expired")
+    user = db.query(User).filter(User.id == user_id).first()
+    if not user or not user.is_active:
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="User not active")
+    stored.used_at = datetime.now(timezone.utc)
+    db.commit()
+    return _issue_token_pair(db, user)
+
+
 def _issue_token_pair(db: Session, user: User) -> TokenResponse:
     access_token = create_access_token(str(user.id))
     refresh_token = create_refresh_token(str(user.id))
@@ -59,6 +131,67 @@ def _issue_token_pair(db: Session, user: User) -> TokenResponse:
     )
     db.commit()
     return TokenResponse(access_token=access_token, refresh_token=refresh_token)
+
+
+
+
+@router.post("/session/register")
+def session_register(payload: RegisterRequest, request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
+    if db.query(User).filter(User.email == payload.email).first():
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="Email already exists")
+    user = User(email=payload.email, password_hash=hash_password(payload.password), provider="local",
+                email_verified=False, role="user", is_active=True)
+    db.add(user)
+    db.commit()
+    db.refresh(user)
+    db.add(Subscription(user_id=user.id, plan="free", monthly_post_limit=plan_limit("free")))
+    verify_token = generate_opaque_token()
+    db.add(AuthToken(user_id=user.id, token_hash=hash_token(verify_token), token_type="email_verify",
+                     expires_at=datetime.now(timezone.utc) + timedelta(minutes=settings.email_verify_expire_minutes)))
+    db.commit()
+    _set_session_cookies(response, _issue_token_pair(db, user))
+    return {"status": "ok", "user_id": user.id}
+
+
+@router.post("/session/login")
+def session_login(payload: LoginRequest, request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
+    user = db.query(User).filter(User.email == payload.email).first()
+    if not user or user.provider != "local" or not verify_password(payload.password, user.password_hash):
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid credentials")
+    if not user.is_active:
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Account suspended")
+    _set_session_cookies(response, _issue_token_pair(db, user))
+    return {"status": "ok", "user_id": user.id}
+
+
+@router.post("/session/refresh")
+def session_refresh(request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
+    raw_token = request.cookies.get(REFRESH_COOKIE_NAME, "")
+    if not raw_token:
+        _clear_session_cookies(response)
+        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Refresh session missing")
+    _set_session_cookies(response, _rotate_refresh_token(raw_token, db))
+    return {"status": "ok"}
+
+
+@router.post("/session/logout")
+def session_logout(request: Request, response: Response, db: Session = Depends(get_db)):
+    _require_same_origin(request)
+    raw_token = request.cookies.get(REFRESH_COOKIE_NAME, "")
+    if raw_token:
+        entry = db.query(AuthToken).filter(
+            AuthToken.token_hash == hash_token(raw_token),
+            AuthToken.token_type == "refresh",
+            AuthToken.used_at.is_(None),
+        ).first()
+        if entry:
+            entry.used_at = datetime.now(timezone.utc)
+            db.commit()
+    _clear_session_cookies(response)
+    return {"status": "ok"}
 
 
 @router.post('/register', response_model=TokenResponse)
@@ -111,27 +244,7 @@ def login(payload: LoginRequest, db: Session = Depends(get_db)):
 
 @router.post('/refresh', response_model=TokenResponse)
 def refresh_token(payload: RefreshTokenRequest, db: Session = Depends(get_db)):
-    claims = decode_token_claims(payload.refresh_token)
-    if not claims or claims.get('typ') != 'refresh':
-        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail='Invalid refresh token')
-
-    user_id = claims.get('sub')
-    token_hash_value = hash_token(payload.refresh_token)
-    stored = (
-        db.query(AuthToken)
-        .filter(AuthToken.token_hash == token_hash_value, AuthToken.token_type == 'refresh', AuthToken.used_at.is_(None))
-        .first()
-    )
-    if not stored or stored.expires_at < datetime.now(timezone.utc):
-        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail='Refresh token expired')
-
-    user = db.query(User).filter(User.id == int(user_id)).first()
-    if not user or not user.is_active:
-        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail='User not active')
-
-    stored.used_at = datetime.now(timezone.utc)
-    db.commit()
-    return _issue_token_pair(db, user)
+    return _rotate_refresh_token(payload.refresh_token, db)
 
 
 @router.post('/forgot-password')
@@ -169,15 +282,23 @@ def reset_password(payload: ResetPasswordRequest, db: Session = Depends(get_db))
         )
         .first()
     )
-    if not entry or entry.expires_at < datetime.now(timezone.utc):
+    if not entry or _is_expired(entry.expires_at):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Invalid or expired reset token')
 
     user = db.query(User).filter(User.id == entry.user_id).first()
     if not user or user.provider != 'local':
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Invalid reset target')
 
+    now = datetime.now(timezone.utc)
     user.password_hash = hash_password(payload.new_password)
-    entry.used_at = datetime.now(timezone.utc)
+    entry.used_at = now
+    # A password reset invalidates every outstanding refresh session so a
+    # previously stolen refresh token cannot silently keep the account signed in.
+    db.query(AuthToken).filter(
+        AuthToken.user_id == user.id,
+        AuthToken.token_type == 'refresh',
+        AuthToken.used_at.is_(None),
+    ).update({AuthToken.used_at: now}, synchronize_session=False)
     db.commit()
     return {'status': 'ok'}
 
@@ -213,7 +334,7 @@ def verify_email_confirm(payload: VerifyEmailConfirmRequest, db: Session = Depen
         .filter(AuthToken.token_hash == token_hash_value, AuthToken.token_type == 'email_verify', AuthToken.used_at.is_(None))
         .first()
     )
-    if not entry or entry.expires_at < datetime.now(timezone.utc):
+    if not entry or _is_expired(entry.expires_at):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Invalid or expired verification token')
 
     user = db.query(User).filter(User.id == entry.user_id).first()
@@ -245,6 +366,10 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
     email = userinfo.get('email') if userinfo else None
     if not email:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Google account email not available')
+    # Do not link Google sign-in to a local account unless Google explicitly
+    # confirms ownership of the email address.
+    if userinfo.get('email_verified') is not True:
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail='Google account email is not verified')
 
     user = db.query(User).filter(User.email == email).first()
     if not user:
@@ -270,13 +395,12 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
 
     pair = _issue_token_pair(db, user)
     if settings.auth_frontend_success_url:
-        sep = '&' if '?' in settings.auth_frontend_success_url else '?'
-        url = (
-            f"{settings.auth_frontend_success_url}{sep}"
-            f"access_token={quote_plus(pair.access_token)}&refresh_token={quote_plus(pair.refresh_token or '')}"
-        )
-        return RedirectResponse(url=url, status_code=status.HTTP_302_FOUND)
-    return pair
+        response = RedirectResponse(url=settings.auth_frontend_success_url, status_code=status.HTTP_302_FOUND)
+        _set_session_cookies(response, pair)
+        return response
+    response = Response(content=pair.model_dump_json(), media_type="application/json")
+    _set_session_cookies(response, pair)
+    return response
 
 
 @router.get('/me', response_model=UserMeResponse)

@@ -534,6 +534,8 @@ def main() -> int:
         logger.info("Report: %s", report_path)
         print(f"WordPress response status: {200 if summary['skipped'] == 0 else 207}")
         print(json.dumps(summary))
+        # Structured result handoff for the SaaS job runner; excludes credentials/content.
+        print("AUTOPOST_RESULT_JSON:" + json.dumps({"summary": summary, "results": run_results}, ensure_ascii=False))
         return 0
 
     except ConfigError as exc:

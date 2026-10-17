@@ -1,140 +1,57 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>NovaMart — Modern E-commerce</title>
-  <meta name="description" content="A modern, responsive e-commerce landing page with a minimalist white and charcoal design." />
-  <script src="https://cdn.tailwindcss.com"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080d18">
+  <meta name="description" content="AutoPost AI helps manage WordPress content workflows, SEO checks, publishing automation and performance signals from one control center.">
+  <title>AutoPost AI — Content Automation Control Center</title>
+  <style>
+    :root{color-scheme:dark;--bg:#080d18;--panel:#101a2b;--line:rgba(170,184,219,.16);--text:#f5f7ff;--muted:#a5b2cb;--purple:#9587ff;--teal:#49d8c8}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(850px 560px at 8% -8%,rgba(112,91,255,.22),transparent 65%),radial-gradient(700px 500px at 100% 5%,rgba(38,201,186,.11),transparent 65%),var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.6}
+    a{color:inherit;text-decoration:none}.wrap{width:min(1160px,calc(100% - 40px));margin:auto}.topbar{border-bottom:1px solid var(--line);background:rgba(8,13,24,.76);backdrop-filter:blur(16px);position:sticky;top:0;z-index:10}.nav{height:76px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{display:flex;align-items:center;gap:12px;font-weight:850;letter-spacing:-.04em;font-size:19px}.mark{display:grid;place-items:center;width:38px;height:38px;border-radius:12px;background:linear-gradient(135deg,#9a8dff,#39cfc1);box-shadow:0 8px 28px rgba(121,101,255,.25);color:white}.navlinks{display:flex;align-items:center;gap:25px;color:var(--muted);font-size:13px}.navlinks a:hover{color:white}.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;border:1px solid var(--line);border-radius:12px;padding:12px 17px;font-size:13px;font-weight:750;transition:transform .18s,border-color .18s}.btn:hover{transform:translateY(-2px);border-color:rgba(149,135,255,.65)}.primary{background:linear-gradient(135deg,#9587ff,#7565ec);border-color:transparent;color:#fff;box-shadow:0 9px 30px rgba(117,101,236,.22)}.hero{padding:94px 0 76px;display:grid;grid-template-columns:1.02fr .98fr;gap:55px;align-items:center}.eyebrow{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(149,135,255,.25);background:rgba(149,135,255,.1);color:#d6d0ff;padding:7px 11px;border-radius:999px;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}.dot{width:7px;height:7px;background:var(--teal);border-radius:50%;box-shadow:0 0 12px var(--teal)}h1{font-size:clamp(42px,5.7vw,70px);line-height:1.04;letter-spacing:-.065em;margin:23px 0 22px;max-width:680px}h1 span{background:linear-gradient(95deg,#b7adff 10%,#68e1d4 90%);-webkit-background-clip:text;background-clip:text;color:transparent}.lead{font-size:17px;line-height:1.8;color:var(--muted);max-width:590px}.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:29px}.micro{font-size:12px;color:#7f8ca8;margin-top:18px}.preview{border:1px solid rgba(166,178,217,.2);background:linear-gradient(145deg,rgba(20,31,52,.96),rgba(10,17,31,.98));border-radius:24px;padding:18px;box-shadow:0 30px 90px rgba(0,0,0,.3);transform:perspective(1000px) rotateY(-3deg)}.windowbar{display:flex;align-items:center;gap:6px;padding:3px 2px 16px;border-bottom:1px solid var(--line)}.windowbar i{display:block;width:7px;height:7px;background:#55627d;border-radius:50%}.windowtitle{margin-left:9px;color:#9caac5;font-size:11px}.live{margin-left:auto;font-size:10px;color:#76e8b3;background:rgba(58,208,143,.12);padding:5px 8px;border-radius:999px}.preview h2{font-size:14px;margin:18px 0 4px}.sub{font-size:11px;color:#8492ad}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin:17px 0}.stat{background:rgba(4,10,20,.52);border:1px solid var(--line);border-radius:12px;padding:13px}.stat small{display:block;color:#9baac4;font-size:10px}.stat strong{display:block;font-size:23px;letter-spacing:-.05em;margin-top:5px}.stat em{font-style:normal;font-size:10px;color:#65dfb0}.chart{height:125px;border:1px solid var(--line);border-radius:12px;padding:10px;background:linear-gradient(180deg,rgba(149,135,255,.08),rgba(5,10,20,.15))}.chart svg{width:100%;height:100%}.task{display:flex;align-items:center;gap:11px;padding:11px 0;border-bottom:1px solid rgba(170,184,219,.1);font-size:11px}.task:last-child{border:0}.taskicon{width:28px;height:28px;border-radius:9px;display:grid;place-items:center;background:rgba(149,135,255,.14);color:#c9c1ff}.tasktext{flex:1}.tasktext small{display:block;color:#8492ad;margin-top:2px}.status{color:#77e7b1;font-size:10px}.section{padding:74px 0;border-top:1px solid var(--line)}.sectionhead{text-align:center;max-width:680px;margin:0 auto 34px}.sectionhead h2{font-size:clamp(29px,4vw,42px);line-height:1.12;letter-spacing:-.05em;margin:12px 0}.sectionhead p{color:var(--muted);font-size:14px}.features{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.feature{border:1px solid var(--line);border-radius:18px;background:linear-gradient(145deg,rgba(17,27,46,.8),rgba(11,18,32,.7));padding:24px}.featureicon{width:42px;height:42px;display:grid;place-items:center;border-radius:13px;background:rgba(149,135,255,.13);color:#c5bdff;font-size:19px}.feature h3{font-size:16px;margin:18px 0 7px}.feature p{font-size:13px;color:var(--muted);margin:0}.notice{margin-top:25px;border:1px solid rgba(73,216,200,.2);background:rgba(73,216,200,.055);border-radius:15px;padding:17px 19px;color:#aebfd0;font-size:12px}.notice strong{color:#dffbf5}.footer{border-top:1px solid var(--line);padding:27px 0;color:#8190aa;font-size:12px}.footerinner{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+    @media(max-width:800px){.hero{grid-template-columns:1fr;gap:35px;padding:62px 0}.preview{transform:none}.features{grid-template-columns:1fr 1fr}.navlinks{gap:12px}.navlinks .hide{display:none}h1{font-size:clamp(42px,10vw,62px)}}@media(max-width:520px){.wrap{width:min(100% - 28px,1160px)}.nav{height:66px}.navlinks{display:none}.hero{padding:48px 0}.lead{font-size:15px}.stats{gap:6px}.stat{padding:10px}.stat strong{font-size:19px}.features{grid-template-columns:1fr}.feature{padding:20px}.section{padding:55px 0}.preview{padding:12px;border-radius:18px}.actions .btn{width:100%}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+  </style>
 </head>
-<body class="bg-white text-neutral-800 antialiased">
-  <header class="sticky top-0 z-50 border-b border-neutral-200 bg-white/95 backdrop-blur">
-    <nav class="mx-auto flex w-full max-w-7xl items-center justify-between px-6 py-4">
-      <a href="#" class="text-2xl font-semibold tracking-tight text-neutral-900">NovaMart</a>
-
-      <ul class="hidden items-center gap-8 text-sm font-medium text-neutral-700 md:flex">
-        <li><a href="#home" class="transition hover:text-neutral-900">Home</a></li>
-        <li><a href="#products" class="transition hover:text-neutral-900">Products</a></li>
-        <li><a href="#about" class="transition hover:text-neutral-900">About</a></li>
-        <li><a href="#contact" class="transition hover:text-neutral-900">Contact</a></li>
-      </ul>
-
-      <button id="menuButton" class="rounded-lg border border-neutral-300 px-3 py-2 text-sm font-medium text-neutral-700 md:hidden" aria-expanded="false" aria-controls="mobileMenu">
-        Menu
-      </button>
-    </nav>
-
-    <div id="mobileMenu" class="hidden border-t border-neutral-200 bg-white md:hidden">
-      <div class="mx-auto flex max-w-7xl flex-col px-6 py-3 text-sm font-medium text-neutral-700">
-        <a href="#home" class="py-2">Home</a>
-        <a href="#products" class="py-2">Products</a>
-        <a href="#about" class="py-2">About</a>
-        <a href="#contact" class="py-2">Contact</a>
-      </div>
-    </div>
-  </header>
-
-  <main>
-    <section id="home" class="mx-auto grid w-full max-w-7xl items-center gap-10 px-6 py-20 md:grid-cols-2 md:py-28">
+<body>
+  <header class="topbar"><nav class="wrap nav" aria-label="Main navigation">
+    <a class="brand" href="#top"><span class="mark" aria-hidden="true">✦</span><span>AutoPost <span style="color:#aaa0ff">AI</span></span></a>
+    <div class="navlinks"><a href="#features">Capabilities</a><a href="#workflow">Workflow</a><a class="hide" href="https://github.com/Meelad5815/autopost-ai">Source code</a></div>
+    <a class="btn" href="https://github.com/Meelad5815/autopost-ai">View repository ↗</a>
+  </nav></header>
+  <main id="top">
+    <section class="wrap hero">
       <div>
-        <p class="mb-4 inline-block rounded-full bg-neutral-100 px-4 py-2 text-xs font-semibold uppercase tracking-wider text-neutral-600">Modern E-commerce Experience</p>
-        <h1 class="text-4xl font-bold leading-tight text-neutral-900 md:text-6xl">Style Meets Simplicity for Everyday Shopping</h1>
-        <p class="mt-6 max-w-xl text-base leading-7 text-neutral-600 md:text-lg">Discover curated essentials with premium quality and minimalist design. Built to inspire trust, speed, and conversions on every screen.</p>
-        <div class="mt-8 flex flex-wrap items-center gap-4">
-          <a href="#products" class="rounded-xl bg-neutral-900 px-7 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-neutral-700">Shop Now</a>
-          <a href="#about" class="rounded-xl border border-neutral-300 px-7 py-3 text-sm font-semibold text-neutral-800 transition hover:border-neutral-900 hover:text-neutral-900">Learn More</a>
-        </div>
+        <div class="eyebrow"><span class="dot"></span> Content operations, in one place</div>
+        <h1>Publish smarter.<br><span>Grow consistently.</span></h1>
+        <p class="lead">A practical control center for WordPress publishing automation, content quality checks, SEO signals and scheduled workflows — built around your existing AutoPost engine.</p>
+        <div class="actions"><a class="btn primary" href="https://github.com/Meelad5815/autopost-ai">Explore the project <span aria-hidden="true">↗</span></a><a class="btn" href="#features">Explore capabilities ↓</a></div>
+        <p class="micro">Designed for remote automation · Asia/Karachi scheduling · Mobile-friendly interface</p>
       </div>
-
-      <div class="rounded-2xl border border-neutral-200 bg-neutral-100 p-8">
-        <div class="rounded-xl bg-white p-6 shadow-sm">
-          <p class="text-sm font-semibold text-neutral-500">Featured Collection</p>
-          <h2 class="mt-2 text-2xl font-bold text-neutral-900">New Season Arrivals</h2>
-          <p class="mt-3 text-sm leading-6 text-neutral-600">Clean silhouettes. Premium fabrics. Everyday versatility.</p>
-          <div class="mt-6 grid grid-cols-3 gap-3">
-            <div class="h-20 rounded-lg bg-neutral-200"></div>
-            <div class="h-20 rounded-lg bg-neutral-300"></div>
-            <div class="h-20 rounded-lg bg-neutral-200"></div>
-          </div>
-        </div>
+      <div class="preview" aria-label="Illustrative dashboard preview">
+        <div class="windowbar"><i></i><i></i><i></i><span class="windowtitle">AUTPOST AI / OVERVIEW</span><span class="live">● CONTROL CENTER</span></div>
+        <h2>Automation overview</h2><div class="sub">A visual snapshot of the product experience</div>
+        <div class="stats"><div class="stat"><small>Workflow</small><strong>01</strong><em>Scheduled</em></div><div class="stat"><small>Content QA</small><strong>02</strong><em>Checks</em></div><div class="stat"><small>SEO signals</small><strong>03</strong><em>Insights</em></div></div>
+        <div class="chart"><svg viewBox="0 0 440 110" role="img" aria-label="Decorative rising activity line"><defs><linearGradient id="fill" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#9587ff" stop-opacity=".32"/><stop offset="1" stop-color="#9587ff" stop-opacity="0"/></linearGradient></defs><path d="M0 88 C35 80 45 92 75 70 S120 76 145 55 S190 65 220 42 S265 54 300 27 S350 39 380 18 S415 24 440 8 L440 110 L0 110Z" fill="url(#fill)"/><path d="M0 88 C35 80 45 92 75 70 S120 76 145 55 S190 65 220 42 S265 54 300 27 S350 39 380 18 S415 24 440 8" fill="none" stroke="#a99cff" stroke-width="2.5" stroke-linecap="round"/></svg></div>
+        <div class="task"><span class="taskicon">✦</span><span class="tasktext">Content generation<small>Local engine or configured provider</small></span><span class="status">Workflow</span></div>
+        <div class="task"><span class="taskicon">⌁</span><span class="tasktext">SEO & quality checks<small>Signals before publishing</small></span><span class="status">Checks</span></div>
+        <div class="task"><span class="taskicon">↗</span><span class="tasktext">WordPress publishing<small>Authenticated site connection</small></span><span class="status">Publish</span></div>
       </div>
     </section>
-
-    <section id="products" class="border-t border-neutral-200 bg-neutral-50 py-20">
-      <div class="mx-auto w-full max-w-7xl px-6">
-        <div class="mb-10 flex items-end justify-between">
-          <div>
-            <p class="text-sm font-semibold uppercase tracking-widest text-neutral-500">Featured Products</p>
-            <h2 class="mt-2 text-3xl font-bold text-neutral-900 md:text-4xl">Best Sellers</h2>
-          </div>
-        </div>
-
-        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          <article class="group rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg">
-            <div class="h-52 rounded-xl bg-neutral-100"></div>
-            <h3 class="mt-5 text-lg font-semibold text-neutral-900">Urban Backpack</h3>
-            <p class="mt-1 text-sm text-neutral-600">Minimal design with maximum utility.</p>
-            <p class="mt-4 font-semibold text-neutral-900">$89</p>
-          </article>
-
-          <article class="group rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg">
-            <div class="h-52 rounded-xl bg-neutral-100"></div>
-            <h3 class="mt-5 text-lg font-semibold text-neutral-900">Premium Sneakers</h3>
-            <p class="mt-1 text-sm text-neutral-600">Engineered for comfort and style.</p>
-            <p class="mt-4 font-semibold text-neutral-900">$129</p>
-          </article>
-
-          <article class="group rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg">
-            <div class="h-52 rounded-xl bg-neutral-100"></div>
-            <h3 class="mt-5 text-lg font-semibold text-neutral-900">Chrono Watch</h3>
-            <p class="mt-1 text-sm text-neutral-600">A timeless statement piece.</p>
-            <p class="mt-4 font-semibold text-neutral-900">$199</p>
-          </article>
-
-          <article class="group rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg">
-            <div class="h-52 rounded-xl bg-neutral-100"></div>
-            <h3 class="mt-5 text-lg font-semibold text-neutral-900">Cotton Tee Set</h3>
-            <p class="mt-1 text-sm text-neutral-600">Soft everyday essentials in neutral tones.</p>
-            <p class="mt-4 font-semibold text-neutral-900">$49</p>
-          </article>
-
-          <article class="group rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg">
-            <div class="h-52 rounded-xl bg-neutral-100"></div>
-            <h3 class="mt-5 text-lg font-semibold text-neutral-900">Leather Wallet</h3>
-            <p class="mt-1 text-sm text-neutral-600">Slim profile, premium craftsmanship.</p>
-            <p class="mt-4 font-semibold text-neutral-900">$59</p>
-          </article>
-
-          <article class="group rounded-2xl border border-neutral-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-lg">
-            <div class="h-52 rounded-xl bg-neutral-100"></div>
-            <h3 class="mt-5 text-lg font-semibold text-neutral-900">Smart Bottle</h3>
-            <p class="mt-1 text-sm text-neutral-600">Hydration tracking in a sleek shell.</p>
-            <p class="mt-4 font-semibold text-neutral-900">$39</p>
-          </article>
-        </div>
+    <section class="section" id="features"><div class="wrap">
+      <div class="sectionhead"><div class="eyebrow">Built for real workflows</div><h2>From content planning to publishing</h2><p>One project that brings your automation engine, website workflow and performance feedback into a clearer operating experience.</p></div>
+      <div class="features">
+        <article class="feature"><div class="featureicon">✦</div><h3>Content automation</h3><p>Coordinate scheduled runs and WordPress publishing through the existing automation engine and GitHub Actions workflows.</p></article>
+        <article class="feature"><div class="featureicon">⌁</div><h3>SEO quality signals</h3><p>Review technical checks, metadata, canonical signals, headings, image alt text and internal-link opportunities.</p></article>
+        <article class="feature"><div class="featureicon">◷</div><h3>Workflow visibility</h3><p>Use job history, run reports and workflow status to understand what ran and where failures need attention.</p></article>
+        <article class="feature"><div class="featureicon">▦</div><h3>Multi-site direction</h3><p>Manage site connections and automation settings through the FastAPI platform architecture.</p></article>
+        <article class="feature"><div class="featureicon">↗</div><h3>Search performance</h3><p>Use real Search Console metrics when credentials are configured; analytics are not fabricated when data is missing.</p></article>
+        <article class="feature"><div class="featureicon">⌘</div><h3>Open and inspectable</h3><p>Review the code, workflow definitions and technical documentation directly in the public GitHub repository.</p></article>
       </div>
-    </section>
+      <div class="notice" id="workflow"><strong>Important:</strong> This page is the project overview, not a live analytics feed. Dashboard values and charts are illustrative. Real publishing, user authentication and reporting depend on the deployed backend and its configuration. Keep WordPress and Google credentials in protected environment secrets, never in source code.</div>
+    </div></section>
   </main>
-
-  <footer id="contact" class="border-t border-neutral-200 bg-white py-10">
-    <div class="mx-auto flex w-full max-w-7xl flex-col gap-4 px-6 text-sm text-neutral-600 md:flex-row md:items-center md:justify-between">
-      <p>© <span id="year"></span> NovaMart. All rights reserved.</p>
-      <p id="about">Designed with a clean, modern, conversion-focused approach.</p>
-    </div>
-  </footer>
-
-  <script>
-    const menuButton = document.getElementById('menuButton');
-    const mobileMenu = document.getElementById('mobileMenu');
-    const year = document.getElementById('year');
-
-    menuButton.addEventListener('click', () => {
-      const expanded = menuButton.getAttribute('aria-expanded') === 'true';
-      menuButton.setAttribute('aria-expanded', String(!expanded));
-      mobileMenu.classList.toggle('hidden');
-    });
-
-    year.textContent = new Date().getFullYear();
-  </script>
+  <footer class="footer"><div class="wrap footerinner"><span>© <span id="year"></span> AutoPost AI · MRK</span><a href="https://github.com/Meelad5815/autopost-ai">GitHub repository ↗</a></div></footer>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
 </body>
 </html>
