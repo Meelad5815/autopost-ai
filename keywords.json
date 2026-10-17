@@ -28,6 +28,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "auburn vs georgia football 2026",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -145,25 +154,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "auburn vs georgia tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "auburn vs georgia football",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "auburn vs georgia 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -181,7 +172,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "auburn vs georgia spread",
+      "keyword": "auburn vs georgia 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -190,7 +181,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "auburn vs georgia history",
+      "keyword": "auburn vs georgia spread",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -208,7 +199,16 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "auburn vs georgia line",
+      "keyword": "auburn vs georgia history",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "auburn vs georgia channel",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -226,7 +226,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "columbus marathon 2026 elevation gain",
+      "keyword": "columbus marathon 2026 road closures",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "columbus marathon 2026 start time",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -370,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 registration",
+      "keyword": "columbus marathon 2026 map",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 map",
+      "keyword": "columbus marathon 2026 registration",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -407,15 +416,6 @@
     },
     {
       "keyword": "columbus marathon 2026 course",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "columbus marathon 2026 cost",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "plaza hotel nyc renovation",
+      "keyword": "plaza hotel nyc history",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -999,6 +999,101 @@
       ]
     },
     {
+      "pillar": "auburn vs georgia football 2026",
+      "cluster": [
+        {
+          "keyword": "auburn vs georgia football 2026",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "auburn vs georgia prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia football",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia time",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia 2026",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia spread",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia history",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia channel",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "auburn vs georgia",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -1203,105 +1298,19 @@
       ]
     },
     {
-      "pillar": "auburn vs georgia prediction",
+      "pillar": "columbus marathon 2026 road closures",
       "cluster": [
         {
-          "keyword": "auburn vs georgia prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia football",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia time",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia spread",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia history",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia line",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "auburn vs georgia",
+          "keyword": "columbus marathon 2026 road closures",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "columbus marathon 2026 elevation gain",
-      "cluster": [
+          "learned_score": 67.0
+        },
         {
-          "keyword": "columbus marathon 2026 elevation gain",
+          "keyword": "columbus marathon 2026 start time",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1328,7 +1337,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "columbus marathon 2026 registration",
+          "keyword": "columbus marathon 2026 map",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1337,7 +1346,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "columbus marathon 2026 map",
+          "keyword": "columbus marathon 2026 registration",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1365,15 +1374,6 @@
         },
         {
           "keyword": "columbus marathon 2026 course",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "columbus marathon 2026 cost",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1441,7 +1441,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "plaza hotel nyc renovation",
+          "keyword": "plaza hotel nyc history",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
