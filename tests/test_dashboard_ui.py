@@ -22,7 +22,7 @@ class DashboardEntryPointTests(unittest.TestCase):
             with self.subTest(element_id=element_id):
                 self.assertIn(f'id="{element_id}"', html)
         self.assertIn("@media (max-width: 700px)", html)
-        self.assertIn("function loadAll", html)
+        self.assertIn("const loadAll = async", html)
 
 
 if __name__ == "__main__":
