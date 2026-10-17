@@ -41,3 +41,7 @@ The repository's GitHub Actions workflow validates generated-site artifacts and 
 ## Admin terminal safety gate
 
 The `/ui/cloud-terminal/exec` and `/ui/kali-terminal/exec` endpoints execute commands and are therefore disabled by default, including for administrators. Do not enable them on a public production instance. If a trusted isolated environment genuinely requires them, explicitly set `ENABLE_ADMIN_TERMINAL=true`; restrict network access and admin accounts, and remove the flag when finished.
+
+## One-time administrator bootstrap
+
+The public `/ui/first-setup` route is disabled unless `ALLOW_INITIAL_SETUP=true` (values `1` and `yes` are also accepted). Set this variable only while provisioning the first administrator on a fresh database. The route refuses to run once any user exists, and encrypts the initial WordPress application password before persistence. After creating the first administrator, immediately remove `ALLOW_INITIAL_SETUP` from the hosting environment and redeploy. Existing accounts must use `/auth/login`; do not re-enable bootstrap on an initialized database.
