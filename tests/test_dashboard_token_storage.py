@@ -43,6 +43,12 @@ class DashboardCookieSessionTests(unittest.TestCase):
         self.assertNotIn('access_token={quote_plus', callback)
         self.assertIn('window.history.replaceState({}, "", clean)', ui)
 
+    def test_google_oauth_requires_verified_email_before_linking(self):
+        source = (ROOT / "app" / "routes" / "auth.py").read_text(encoding="utf-8")
+        callback = source[source.index("async def google_callback"):]
+        self.assertIn("userinfo.get('email_verified') is not True", callback)
+        self.assertIn("Google account email is not verified", callback)
+
     def test_long_term_risk_and_cookie_controls_are_documented(self):
         docs = (ROOT / "docs" / "DEPLOYMENT_SECURITY.md").read_text(encoding="utf-8")
         self.assertIn("HttpOnly", docs)
