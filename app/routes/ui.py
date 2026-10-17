@@ -6,7 +6,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-from fastapi import APIRouter, Depends, HTTPException, Response
+from fastapi import APIRouter, Depends, HTTPException, Request, Response
 from fastapi.responses import HTMLResponse, JSONResponse
 from sqlalchemy.orm import Session
 
@@ -713,11 +713,17 @@ def run_update_only(user: User = Depends(require_admin)):
 
 
 @router.post("/ui/first-setup")
-def first_setup(payload: dict, response: Response, db: Session = Depends(get_db)):
+def first_setup(payload: dict, request: Request, response: Response, db: Session = Depends(get_db)):
     # One-time bootstrap is disabled by default. Enable only while provisioning
     # the first administrator, then remove the environment variable.
     if os.getenv("ALLOW_INITIAL_SETUP", "").strip().lower() not in {"1", "true", "yes"}:
         raise HTTPException(status_code=404, detail="Initial setup is disabled")
+
+    # Bootstrap creates the first privileged account and must only be called
+    # from the same origin as the dashboard.
+    from app.routes.auth import _require_same_origin
+
+    _require_same_origin(request)
 
     # Never allow this public bootstrap route to mint another admin or bypass
     # the normal login checks after the first account exists.
