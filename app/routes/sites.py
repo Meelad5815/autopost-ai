@@ -5,6 +5,7 @@ from app.db import get_db
 from app.deps import get_current_user
 from app.models import Site, User
 from app.schemas import SiteCreateRequest, SiteResponse
+from app.core.secrets import SecretConfigurationError, encrypt_secret
 
 
 router = APIRouter(prefix='/sites', tags=['sites'])
@@ -12,13 +13,19 @@ router = APIRouter(prefix='/sites', tags=['sites'])
 
 @router.post('', response_model=SiteResponse)
 def create_site(payload: SiteCreateRequest, db: Session = Depends(get_db), user: User = Depends(get_current_user)):
+    try:
+        encrypted_wp_password = encrypt_secret(payload.wp_app_password)
+        encrypted_ai_key = encrypt_secret(payload.openai_api_key)
+    except SecretConfigurationError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from None
+
     site = Site(
         user_id=user.id,
         name=payload.name,
         wp_url=payload.wp_url,
         wp_user=payload.wp_user,
-        wp_app_password_enc=payload.wp_app_password,
-        openai_api_key_enc=payload.openai_api_key,
+        wp_app_password_enc=encrypted_wp_password,
+        openai_api_key_enc=encrypted_ai_key,
         niche=payload.niche,
         frequency_hours=payload.frequency_hours,
         is_active=False,
