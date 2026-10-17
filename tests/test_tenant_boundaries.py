@@ -25,3 +25,11 @@ def test_admin_usage_limits_are_bounded_by_configured_agency_limit():
     assert "from app.core.config import settings" in source
     assert "if limit < 0 or limit > settings.agency_posts_limit:" in source
     assert "status_code=400" in source
+
+
+
+def test_shared_earning_artifacts_are_admin_only_until_tenant_scoped():
+    source = (ROOT / "app" / "routes" / "mrk_earning.py").read_text(encoding="utf-8")
+    assert "from app.deps import require_admin" in source
+    assert source.count("Depends(require_admin)") == 3
+    assert "get_current_user" not in source
