@@ -1,82 +1,86 @@
 {
-  "generated_at": "2026-10-17T18:16:55.167934+00:00",
+  "generated_at": "2026-10-17T20:50:36.939939+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 139,
   "items": [
     {
-      "title": "jackson harris",
+      "title": "jalen hurts",
       "source": "google_trends_us"
     },
     {
-      "title": "mizzou game today",
+      "title": "angel reese",
       "source": "google_trends_us"
+    },
+    {
+      "title": "doritos lemon pepper",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "veronica burton",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "natalie nakase",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "rhyne howard",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "josh heupel",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "troy vs louisiana",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "carrot top",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "kaitlyn chen",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "wnba finals",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "real madrid vs espanyol",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "real betis vs fc barcelona standings",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "bayern munich vs rb leipzig standings",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "liam payne",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "la liga",
+      "source": "google_trends_pk"
     },
     {
       "title": "roma vs genoa",
-      "source": "google_trends_us"
+      "source": "google_trends_pk"
     },
     {
-      "title": "roma - genoa",
-      "source": "google_trends_us"
+      "title": "barcelona vs",
+      "source": "google_trends_pk"
     },
     {
-      "title": "alligators",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "dubois vs wardley 2",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "charlotte vs philadelphia",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "bayern",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "baywatch 2027",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "laliga",
-      "source": "google_trends_us"
+      "title": "taron egerton",
+      "source": "google_trends_pk"
     },
     {
       "title": "street fighter film",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "bundesliga",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "rc strasbourg alsace vs psg standings",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "poison",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "750 prize bond list 15 oct 2026",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "barcelona vs real betis",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "barca vs",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "psg",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "fcb",
       "source": "google_trends_pk"
     },
     {
@@ -160,34 +164,6 @@
       "source": "google_developers"
     },
     {
-      "title": "How an assessor could investigate evidence of acceleration from the automation of AI R&amp;D - METR",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI and the workforce reinvention - McKinsey &amp; Company",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "8 insights from LogicMonitor’s Elevate event: AI-driven observability moves toward autonomous IT - SiliconANGLE",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "JP Urban Digital Launches AI Workflow Automation Services to Help Businesses Streamline Operations - The National Law Review",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Putting AI Agents to Work Across the Enterprise - BankInfoSecurity",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Honeywell launches AI platform with Nvidia, Dell for building automation (HON:NASDAQ) - Seeking Alpha",
-      "source": "google_news_ai"
-    },
-    {
       "title": "The Future of GLP-1 Peptide Analysis: AI, Automation, and the Scientist's Role - LCGC International",
       "source": "google_news_ai"
     },
@@ -196,15 +172,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "How an assessor could investigate evidence of acceleration from the automation of AI R&amp;D - METR",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Agency AI success depends on software quality and automated testing - Federal News Network",
       "source": "google_news_ai"
     },
     {
-      "title": "The AI value curve: The economics of applying AI to existing work - McKinsey &amp; Company",
+      "title": "What manufacturing plant managers think of the AI and automation boom - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
-      "title": "What manufacturing plant managers think of the AI and automation boom - Manufacturing Dive",
+      "title": "The AI value curve: The economics of applying AI to existing work - McKinsey &amp; Company",
       "source": "google_news_ai"
     },
     {
@@ -220,11 +200,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Takeaways from Isaac founders on AI, automation and fleet technology - Truck News",
+      "title": "Danaher, Nvidia Ink AI-Driven Science Automation Collaboration - GenomeWeb",
       "source": "google_news_ai"
     },
     {
-      "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica - Yahoo Finance",
+      "title": "9 AI Workflow Automation Builders Worth Using in 2026 - FindArticles",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "10 jobs AI can't replace easily — and some pay six figures - Yahoo Creators",
       "source": "google_news_ai"
     },
     {
@@ -236,6 +220,34 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Takeaways from Isaac founders on AI, automation and fleet technology - Truck News",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "8 insights from LogicMonitor’s Elevate event: AI-driven observability moves toward autonomous IT - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI is not likely to replace these 10 jobs — and some pay six figures - Yahoo Creators",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Automation Software Stocks Q2 Earnings Review: SoundHound AI (NASDAQ:SOUN) Shines - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Beyond Automation: Rethinking Banking Transformation with AI Agents - GovInfoSecurity",
       "source": "google_news_ai"
     },
@@ -244,35 +256,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "From AI tools to connected workflows: The next challenge for enterprise automation - Digital Journal",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "10 jobs AI can't replace easily — and some pay six figures - Yahoo Creators",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "9 AI Workflow Automation Builders Worth Using in 2026 - FindArticles",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI is not likely to replace these 10 jobs — and some pay six figures - Yahoo Creators",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Automation Software Stocks Q2 Earnings Review: SoundHound AI (NASDAQ:SOUN) Shines - Yahoo Finance",
+      "title": "Google Partner Novacore Labs and AIBotics Complete Acquisition of Assets, Expanding AI, Drone, Mapping and Automation Platform in Jamaica - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -280,11 +264,27 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
-      "source": "google_news_seo"
+      "title": "Samsara Launches Agent Studio to Expand AI Automation - Yahoo Finance",
+      "source": "google_news_ai"
     },
     {
-      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers - Search Engine Journal",
+      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - Hartford Business Journal",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Danaher and NVIDIA partner on AI-driven lab automation - BioXconomy",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "CGI Federal Expands AI, Automation with Momentum 8.4 Release - WashingtonExec",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Jev-Maker TypeSafeAI Raises $870M Series A to Scale AI Automation Platform - citybiz",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -308,15 +308,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "SEO &amp; AEO Strategy New Website - YouTube",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "Robbie Allen Edinburgh AI SEO Expert Launches Personal Website After 15 Years in SEO - StreetInsider",
+      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
+      "title": "Robbie Allen Edinburgh AI SEO Expert Launches Personal Website After 15 Years in SEO - StreetInsider",
       "source": "google_news_seo"
     },
     {
@@ -333,6 +337,10 @@
     },
     {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -376,11 +384,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "The New Changes to Google for Hotel Searches - serpact.com",
+      "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
+      "title": "The New Changes to Google for Hotel Searches - serpact.com",
       "source": "google_news_seo"
     },
     {
@@ -393,10 +401,6 @@
     },
     {
       "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Merchant Center adds warranty attribute for product listings - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -436,58 +440,55 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
-      "source": "google_news_wordpress"
+      "title": "Shopify Stock (SHOP) Has 20% Upside, Says RBC Capital Markets - TipRanks",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Readers Write In #1175: Jailer 2: The Anatomy of Anticipation, Mythic Staging, and 50 Years of Rajinism - Baradwaj Rangan",
-      "source": "google_news_wordpress"
+      "title": "Shopify’s Lutke Courts Canadian Controversy as His Wealth Soars - Bloomberg.com",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild - SecurityWeek",
-      "source": "google_news_wordpress"
+      "title": "eBay Jumps 5% on Takeover Speculation; Etsy Rallies 7%, Shopify Holds Flat - 24/7 Wall St.",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Frontegg SAML SSO Plugin for WordPress: How Missing Signature Verification Creates an Unauthenticated Admin Takeover Path - Forkast News",
-      "source": "google_news_wordpress"
+      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays - MarketWatch",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Small business owners are ditching web developers for AI - TechRadar",
-      "source": "google_news_wordpress"
+      "title": "Could Shopify Stock Repeat Amazon's Run Since 2007? - The Motley Fool",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Ticket Squeeze Launches Free WordPress Plugin, Making Affiliate Integration Effortless for Event Publishers - The National Law Review",
-      "source": "google_news_wordpress"
+      "title": "Shopify Price Hikes Signal Pricing Power as JPMorgan Keeps $200 Bullish Target - Benzinga",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Wordpress Plugin Vulnerability Exploited in Attacks to Upload and eEecute Arbitrary PHP code - CyberSecurityNews",
-      "source": "google_news_wordpress"
+      "title": "Shopify: Wait For The Next Golden Buying Opportunity (Downgrade) (NASDAQ:SHOP) - Seeking Alpha",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Cheap WordPress hosting that’s actually worth it in 2026 - Cybernews",
-      "source": "google_news_wordpress"
+      "title": "Your Store Is 'Agent-Ready' By Default, We Tested 122 Shopify Stores To See What That Actually Means - Search Engine Journal",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
-      "source": "google_news_wordpress"
+      "title": "Shopify's CEO threatened to ban Claude Code. Anthropic had already closed the feature request. - The New Stack",
+      "source": "google_news_shopify"
     },
     {
-      "title": "How to install WordPress: 4 methods and troubleshooting tips - Hostinger",
-      "source": "google_news_wordpress"
+      "title": "Shopify opens its catalog up to more AI agents - The Verge",
+      "source": "google_news_shopify"
     },
     {
-      "title": "Jack Porter and Elijah Upson train with Arsenal first-team ahead of Nottingham Forest game - Jeorge Bird's Arsenal Youth",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "The Why: Contraception, IVF, and Surrogacy - La Linterna Azul",
-      "source": "google_news_wordpress"
+      "title": "Could Shopify Stock Repeat Amazon's Run Since 2007? - Yahoo Finance",
+      "source": "google_news_shopify"
     }
   ],
   "improvement_queue": [
     "Review local-AI prompts and AI-tool topics for freshness.",
     "Review SEO/content rules against current Google Search guidance.",
-    "Refresh WordPress topic clusters."
+    "Refresh WordPress topic clusters.",
+    "Refresh Shopify topic clusters."
   ],
   "policy": {
     "public_google_feeds_only": true,
