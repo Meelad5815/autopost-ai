@@ -16,7 +16,9 @@ Reviewed the public repository's default-branch tree, README and platform archit
 
 app/routes/ui.py allows any authenticated user to read/write config/schedule.json through /ui/schedule and /ui/apply-high-frequency-plan. The publishing and reporting handlers also operate on repository-global files and the global WordPress configuration. This is not tenant-isolated despite the multi-tenant architecture described in PLATFORM_ARCHITECTURE.md; one account may affect another account's schedule or shared automation state.
 
-**Recommended fix:** Move schedule, site credentials, job state and reporting into tenant/site-scoped database records. Scope every query and mutation to the authenticated user's site IDs. Keep a separate, explicitly admin-only control plane for truly global operations.
+**Mitigation in this PR:** The legacy `/ui/*` control-panel API routes now require administrator authorization because they still read or mutate shared files/global configuration. Tenant-facing `/sites` and `/automation` routes continue to scope sites/jobs by the authenticated user. This is a temporary least-privilege barrier, not full tenant isolation for the legacy UI.
+
+**Remaining fix:** Move schedule, SEO settings, job state and reporting into tenant/site-scoped database records. Scope every query and mutation to the authenticated user's site IDs, then selectively restore user-level access only for fully tenant-scoped handlers.
 
 ### High — credentials are stored without demonstrable encryption at rest
 
