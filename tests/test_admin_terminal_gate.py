@@ -1,17 +1,24 @@
-import pytest
+import os
+import unittest
+from unittest.mock import patch
+
 from fastapi import HTTPException
 
 from app.routes.ui import _require_terminal_enabled
 
 
-def test_admin_terminal_disabled_by_default(monkeypatch):
-    monkeypatch.delenv("ENABLE_ADMIN_TERMINAL", raising=False)
-    with pytest.raises(HTTPException) as exc:
-        _require_terminal_enabled()
-    assert exc.value.status_code == 404
+class AdminTerminalGateTests(unittest.TestCase):
+    def test_admin_terminal_disabled_by_default(self):
+        with patch.dict(os.environ, {}, clear=True):
+            with self.assertRaises(HTTPException) as caught:
+                _require_terminal_enabled()
+        self.assertEqual(caught.exception.status_code, 404)
+
+    def test_admin_terminal_requires_explicit_opt_in(self):
+        for value in ("1", "true", "TRUE", "yes"):
+            with self.subTest(value=value), patch.dict(os.environ, {"ENABLE_ADMIN_TERMINAL": value}):
+                _require_terminal_enabled()
 
 
-@pytest.mark.parametrize("value", ["1", "true", "TRUE", "yes"])
-def test_admin_terminal_requires_explicit_opt_in(monkeypatch, value):
-    monkeypatch.setenv("ENABLE_ADMIN_TERMINAL", value)
-    _require_terminal_enabled()
+if __name__ == "__main__":
+    unittest.main()
