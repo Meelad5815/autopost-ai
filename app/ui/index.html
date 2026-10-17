@@ -259,6 +259,7 @@
       <div>
         <span class="pill" id="authState">Not Authenticated</span>
         <button class="secondary" onclick="loadAll()">Refresh</button>
+        <button class="secondary" onclick="logout()">Logout</button>
       </div>
     </header>
 
@@ -274,7 +275,7 @@
           <button class="secondary" onclick="login()">Login</button>
         </div>
         <button class="secondary" onclick="googleLogin()">Login with Google</button>
-        <label>Token (auto-saved)</label>
+        <label>Optional manual API token (not used for dashboard login)</label>
         <textarea id="token" rows="3"></textarea>
         <button class="secondary" onclick="saveToken()">Save Token</button>
         <div class="status" id="authStatus"></div>
@@ -624,8 +625,24 @@
         document.getElementById("token").value = t || "";
         updateAuthState();
       };
-      const updateAuthState = () => {
-        document.getElementById("authState").textContent = getToken() ? "Authenticated" : "Not Authenticated";
+      const updateAuthState = async () => {
+        const headers = {};
+        const token = getToken();
+        if (token) headers["Authorization"] = `Bearer ${token}`;
+        try {
+          const res = await fetch("/auth/me", { credentials: "same-origin", headers });
+          document.getElementById("authState").textContent = res.ok ? "Authenticated" : "Not Authenticated";
+        } catch {
+          document.getElementById("authState").textContent = "Connection Error";
+        }
+      };
+      const logout = async () => {
+        const res = await apiFetch("/auth/session/logout", { method: "POST" });
+        sessionStorage.removeItem(tokenKey);
+        sessionStorage.removeItem(refreshTokenKey);
+        document.getElementById("token").value = "";
+        await updateAuthState();
+        setStatus("authStatus", JSON.stringify(res.data));
       };
 
       const apiFetch = async (path, options = {}) => {
