@@ -270,7 +270,10 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
 
     pair = _issue_token_pair(db, user)
     if settings.auth_frontend_success_url:
-        sep = '&' if '?' in settings.auth_frontend_success_url else '?'
+        # Put credentials in the URL fragment, not the query string. Fragments are
+        # not sent in HTTP requests or included in Referer headers. The frontend
+        # consumes them immediately and removes the fragment from browser history.
+        sep = '&' if '#' in settings.auth_frontend_success_url else '#'
         url = (
             f"{settings.auth_frontend_success_url}{sep}"
             f"access_token={quote_plus(pair.access_token)}&refresh_token={quote_plus(pair.refresh_token or '')}"
