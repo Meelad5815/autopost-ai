@@ -289,8 +289,16 @@ def reset_password(payload: ResetPasswordRequest, db: Session = Depends(get_db))
     if not user or user.provider != 'local':
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Invalid reset target')
 
+    now = datetime.now(timezone.utc)
     user.password_hash = hash_password(payload.new_password)
-    entry.used_at = datetime.now(timezone.utc)
+    entry.used_at = now
+    # A password reset invalidates every outstanding refresh session so a
+    # previously stolen refresh token cannot silently keep the account signed in.
+    db.query(AuthToken).filter(
+        AuthToken.user_id == user.id,
+        AuthToken.token_type == 'refresh',
+        AuthToken.used_at.is_(None),
+    ).update({AuthToken.used_at: now}, synchronize_session=False)
     db.commit()
     return {'status': 'ok'}
 
