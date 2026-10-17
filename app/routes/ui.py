@@ -730,9 +730,34 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
     email = str(payload.get("email", "")).strip()
     password = str(payload.get("password", "")).strip()
     site = payload.get("site") or {}
-
     if not email or not password:
         raise HTTPException(status_code=400, detail="email and password required")
+
+    # Validate and encrypt credentials before writing the initial account so a
+    # missing encryption key cannot leave a partially provisioned admin.
+    site_values = None
+    if site:
+        wp_url = str(site.get("wp_url", "")).strip()
+        wp_user = str(site.get("wp_user", "")).strip()
+        wp_app_password = str(site.get("wp_app_password", "")).strip()
+        if not wp_url or not wp_user or not wp_app_password:
+            raise HTTPException(status_code=400, detail="site wp_url, wp_user, wp_app_password required")
+
+        from app.core.secrets import SecretConfigurationError, encrypt_secret
+
+        try:
+            encrypted_wp_password = encrypt_secret(wp_app_password)
+        except SecretConfigurationError as exc:
+            raise HTTPException(status_code=503, detail=str(exc)) from None
+
+        site_values = {
+            "name": str(site.get("name", "")).strip() or "Primary Site",
+            "wp_url": wp_url,
+            "wp_user": wp_user,
+            "wp_app_password_enc": encrypted_wp_password,
+            "niche": str(site.get("niche", "")).strip(),
+            "frequency_hours": int(site.get("frequency_hours", 24)),
+        }
 
     user = User(
         email=email,
@@ -747,32 +772,16 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
     db.commit()
 
     created_site = None
-    if site:
-        wp_url = str(site.get("wp_url", "")).strip()
-        wp_user = str(site.get("wp_user", "")).strip()
-        wp_app_password = str(site.get("wp_app_password", "")).strip()
-        name = str(site.get("name", "")).strip() or "Primary Site"
-        niche = str(site.get("niche", "")).strip()
-        frequency_hours = int(site.get("frequency_hours", 24))
-        if not wp_url or not wp_user or not wp_app_password:
-            raise HTTPException(status_code=400, detail="site wp_url, wp_user, wp_app_password required")
-
-        from app.core.secrets import SecretConfigurationError, encrypt_secret
-
-        try:
-            encrypted_wp_password = encrypt_secret(wp_app_password)
-        except SecretConfigurationError as exc:
-            raise HTTPException(status_code=503, detail=str(exc)) from None
-
+    if site_values:
         created_site = Site(
             user_id=user.id,
-            name=name,
-            wp_url=wp_url,
-            wp_user=wp_user,
-            wp_app_password_enc=encrypted_wp_password,
+            name=site_values["name"],
+            wp_url=site_values["wp_url"],
+            wp_user=site_values["wp_user"],
+            wp_app_password_enc=site_values["wp_app_password_enc"],
             openai_api_key_enc="",
-            niche=niche,
-            frequency_hours=frequency_hours,
+            niche=site_values["niche"],
+            frequency_hours=site_values["frequency_hours"],
             is_active=False,
         )
         db.add(created_site)
