@@ -366,6 +366,10 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
     email = userinfo.get('email') if userinfo else None
     if not email:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Google account email not available')
+    # Do not link Google sign-in to a local account unless Google explicitly
+    # confirms ownership of the email address.
+    if userinfo.get('email_verified') is not True:
+        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail='Google account email is not verified')
 
     user = db.query(User).filter(User.email == email).first()
     if not user:
