@@ -17,3 +17,11 @@ def test_paid_plans_cannot_be_enabled_without_checkout():
     assert "if plan in {'pro', 'agency'}:" in source
     assert "status_code=503" in source
     assert "Paid plan checkout is not configured yet." in source
+
+
+
+def test_admin_usage_limits_are_bounded_by_configured_agency_limit():
+    source = (ROOT / "app" / "routes" / "admin.py").read_text(encoding="utf-8")
+    assert "from app.core.config import settings" in source
+    assert "if limit < 0 or limit > settings.agency_posts_limit:" in source
+    assert "status_code=400" in source
