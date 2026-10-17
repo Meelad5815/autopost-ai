@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta, timezone
-from urllib.parse import quote_plus
 
 from authlib.integrations.starlette_client import OAuth
 from fastapi import APIRouter, Depends, HTTPException, Request, Response, status
@@ -351,16 +350,12 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
 
     pair = _issue_token_pair(db, user)
     if settings.auth_frontend_success_url:
-        # Put credentials in the URL fragment, not the query string. Fragments are
-        # not sent in HTTP requests or included in Referer headers. The frontend
-        # consumes them immediately and removes the fragment from browser history.
-        sep = '&' if '#' in settings.auth_frontend_success_url else '#'
-        url = (
-            f"{settings.auth_frontend_success_url}{sep}"
-            f"access_token={quote_plus(pair.access_token)}&refresh_token={quote_plus(pair.refresh_token or '')}"
-        )
-        return RedirectResponse(url=url, status_code=status.HTTP_302_FOUND)
-    return pair
+        response = RedirectResponse(url=settings.auth_frontend_success_url, status_code=status.HTTP_302_FOUND)
+        _set_session_cookies(response, pair)
+        return response
+    response = Response(content=pair.model_dump_json(), media_type="application/json")
+    _set_session_cookies(response, pair)
+    return response
 
 
 @router.get('/me', response_model=UserMeResponse)
