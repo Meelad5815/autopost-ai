@@ -24,6 +24,15 @@ router = APIRouter(tags=["ui"])
 CONTENT_SETTINGS_PATH = Path("config/content_settings.json")
 
 
+def _require_terminal_enabled() -> None:
+    """Keep arbitrary command execution disabled unless explicitly opted in."""
+    if os.getenv("ENABLE_ADMIN_TERMINAL", "").strip().lower() not in {"1", "true", "yes"}:
+        raise HTTPException(
+            status_code=404,
+            detail="Admin terminal is disabled. Enable it only in a trusted isolated environment.",
+        )
+
+
 
 @router.get("/", response_class=HTMLResponse)
 def index():
@@ -174,6 +183,7 @@ def tail_lines(path: Path, limit: int = 120) -> list[str]:
 @router.post("/ui/cloud-terminal/exec")
 def cloud_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
+    _require_terminal_enabled()
     payload = payload or {}
 
     command = str(payload.get("command", "")).strip()
@@ -489,6 +499,7 @@ def get_kali_env_status(user: User = Depends(require_admin)):
 @router.post("/ui/kali-terminal/exec")
 def kali_terminal_exec(payload: dict | None = None, user: User = Depends(require_admin)):
     _ = user
+    _require_terminal_enabled()
     payload = payload or {}
 
     command = str(payload.get("command", "")).strip()
