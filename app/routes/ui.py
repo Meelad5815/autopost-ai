@@ -714,6 +714,19 @@ def run_update_only(user: User = Depends(require_admin)):
 
 @router.post("/ui/first-setup")
 def first_setup(payload: dict, db: Session = Depends(get_db)):
+    # One-time bootstrap is disabled by default. Enable only while provisioning
+    # the first administrator, then remove the environment variable.
+    if os.getenv("ALLOW_INITIAL_SETUP", "").strip().lower() not in {"1", "true", "yes"}:
+        raise HTTPException(status_code=404, detail="Initial setup is disabled")
+
+    # Never allow this public bootstrap route to mint another admin or bypass
+    # the normal login checks after the first account exists.
+    if db.query(User.id).first() is not None:
+        raise HTTPException(
+            status_code=409,
+            detail="Initial setup is already complete; use /auth/login",
+        )
+
     email = str(payload.get("email", "")).strip()
     password = str(payload.get("password", "")).strip()
     site = payload.get("site") or {}
@@ -721,22 +734,17 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
     if not email or not password:
         raise HTTPException(status_code=400, detail="email and password required")
 
-    user = db.query(User).filter(User.email == email).first()
-    if not user:
-        user = User(
-            email=email,
-            password_hash=hash_password(password),
-            is_active=True,
-            role="admin",
-        )
-        db.add(user)
-        db.commit()
-        db.refresh(user)
-        db.add(Subscription(user_id=user.id, plan="free", monthly_post_limit=plan_limit("free")))
-        db.commit()
-    else:
-        if not verify_password(password, user.password_hash):
-            raise HTTPException(status_code=401, detail="Invalid credentials for existing user")
+    user = User(
+        email=email,
+        password_hash=hash_password(password),
+        is_active=True,
+        role="admin",
+    )
+    db.add(user)
+    db.commit()
+    db.refresh(user)
+    db.add(Subscription(user_id=user.id, plan="free", monthly_post_limit=plan_limit("free")))
+    db.commit()
 
     created_site = None
     if site:
@@ -749,24 +757,27 @@ def first_setup(payload: dict, db: Session = Depends(get_db)):
         if not wp_url or not wp_user or not wp_app_password:
             raise HTTPException(status_code=400, detail="site wp_url, wp_user, wp_app_password required")
 
-        existing = db.query(Site).filter(Site.user_id == user.id, Site.wp_url == wp_url).first()
-        if not existing:
-            created_site = Site(
-                user_id=user.id,
-                name=name,
-                wp_url=wp_url,
-                wp_user=wp_user,
-                wp_app_password_enc=wp_app_password,
-                openai_api_key_enc="",
-                niche=niche,
-                frequency_hours=frequency_hours,
-                is_active=True,
-            )
-            db.add(created_site)
-            db.commit()
-            db.refresh(created_site)
-        else:
-            created_site = existing
+        from app.core.secrets import SecretConfigurationError, encrypt_secret
+
+        try:
+            encrypted_wp_password = encrypt_secret(wp_app_password)
+        except SecretConfigurationError as exc:
+            raise HTTPException(status_code=503, detail=str(exc)) from None
+
+        created_site = Site(
+            user_id=user.id,
+            name=name,
+            wp_url=wp_url,
+            wp_user=wp_user,
+            wp_app_password_enc=encrypted_wp_password,
+            openai_api_key_enc="",
+            niche=niche,
+            frequency_hours=frequency_hours,
+            is_active=False,
+        )
+        db.add(created_site)
+        db.commit()
+        db.refresh(created_site)
 
     return {
         "status": "ok",
