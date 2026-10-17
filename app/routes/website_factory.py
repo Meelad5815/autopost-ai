@@ -18,7 +18,7 @@ def generate(req:WebsiteRequest,user=Depends(require_admin)):
     return {'ok':True,'artifact':str(spec),'spec':json.loads(spec.read_text(encoding='utf-8'))}
 
 @router.post('/build')
-def build(req:WebsiteRequest,user=Depends(get_current_user)):
+def build(req:WebsiteRequest,user=Depends(require_admin)):
     generate(req,user)
     content_result=subprocess.run([sys.executable,'website_content.py'],capture_output=True,text=True,timeout=30)
     if content_result.returncode!=0: raise HTTPException(500,content_result.stderr[-2000:])
