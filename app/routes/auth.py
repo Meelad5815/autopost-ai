@@ -63,8 +63,17 @@ def _require_same_origin(request: Request) -> None:
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Request origin is not allowed")
 
 
+def _secure_cookie_flag() -> bool:
+    # Vercel preview and production deployments are HTTPS, so protect cookies there too.
+    return (
+        settings.environment.lower() in {"production", "prod"}
+        or os.getenv("VERCEL_ENV", "").lower() in {"preview", "production"}
+        or os.getenv("VERCEL", "").lower() in {"1", "true", "yes"}
+    )
+
+
 def _set_session_cookies(response: Response, pair: TokenResponse) -> None:
-    secure = settings.environment.lower() in {"production", "prod"} or os.getenv("VERCEL_ENV", "").lower() == "production"
+    secure = _secure_cookie_flag()
     response.set_cookie(ACCESS_COOKIE_NAME, pair.access_token, max_age=settings.jwt_expire_minutes * 60,
                         httponly=True, secure=secure, samesite="lax", path="/")
     if pair.refresh_token:
@@ -73,9 +82,17 @@ def _set_session_cookies(response: Response, pair: TokenResponse) -> None:
 
 
 def _clear_session_cookies(response: Response) -> None:
-    secure = settings.environment.lower() in {"production", "prod"}
+    secure = _secure_cookie_flag()
     response.delete_cookie(ACCESS_COOKIE_NAME, path="/", secure=secure, httponly=True, samesite="lax")
     response.delete_cookie(REFRESH_COOKIE_NAME, path="/auth/session", secure=secure, httponly=True, samesite="lax")
+
+
+def _is_expired(expires_at: datetime) -> bool:
+    # SQLite can return naive datetimes even for timezone-aware SQLAlchemy columns.
+    # Normalize them as UTC before comparing to the current aware timestamp.
+    if expires_at.tzinfo is None:
+        expires_at = expires_at.replace(tzinfo=timezone.utc)
+    return expires_at < datetime.now(timezone.utc)
 
 
 def _rotate_refresh_token(raw_token: str, db: Session) -> TokenResponse:
@@ -91,7 +108,7 @@ def _rotate_refresh_token(raw_token: str, db: Session) -> TokenResponse:
         AuthToken.token_type == "refresh",
         AuthToken.used_at.is_(None),
     ).first()
-    if not stored or stored.expires_at < datetime.now(timezone.utc):
+    if not stored or _is_expired(stored.expires_at):
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Refresh token expired")
     user = db.query(User).filter(User.id == user_id).first()
     if not user or not user.is_active:
@@ -265,7 +282,7 @@ def reset_password(payload: ResetPasswordRequest, db: Session = Depends(get_db))
         )
         .first()
     )
-    if not entry or entry.expires_at < datetime.now(timezone.utc):
+    if not entry or _is_expired(entry.expires_at):
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail='Invalid or expired reset token')
 
     user = db.query(User).filter(User.id == entry.user_id).first()
