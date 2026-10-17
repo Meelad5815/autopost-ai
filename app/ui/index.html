@@ -609,9 +609,27 @@
       const tokenKey = "autopost_token";
       const refreshTokenKey = "autopost_refresh_token";
       const setStatus = (id, msg) => (document.getElementById(id).textContent = msg);
-      const getToken = () => localStorage.getItem(tokenKey) || "";
-      const setRefreshToken = (t) => localStorage.setItem(refreshTokenKey, t || "");
-      const setToken = (t) => { localStorage.setItem(tokenKey, t); document.getElementById("token").value = t; updateAuthState(); };
+
+      // Migrate legacy tokens out of persistent localStorage. sessionStorage still
+      // remains readable by same-origin JavaScript; HttpOnly cookies are the long-term fix.
+      const migrateLegacyToken = (key) => {
+        const legacy = localStorage.getItem(key);
+        if (legacy && !sessionStorage.getItem(key)) sessionStorage.setItem(key, legacy);
+        localStorage.removeItem(key);
+      };
+      migrateLegacyToken(tokenKey);
+      migrateLegacyToken(refreshTokenKey);
+      const getToken = () => sessionStorage.getItem(tokenKey) || "";
+      const setRefreshToken = (t) => {
+        if (t) sessionStorage.setItem(refreshTokenKey, t);
+        else sessionStorage.removeItem(refreshTokenKey);
+      };
+      const setToken = (t) => {
+        if (t) sessionStorage.setItem(tokenKey, t);
+        else sessionStorage.removeItem(tokenKey);
+        document.getElementById("token").value = t || "";
+        updateAuthState();
+      };
       const updateAuthState = () => {
         document.getElementById("authState").textContent = getToken() ? "Authenticated" : "Not Authenticated";
       };
