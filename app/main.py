@@ -16,11 +16,13 @@ from app.db import Base, engine
 from app.core.config import settings
 from app.core.secrets import _fernet
 from app.db_migrations import run_migrations
+from app.middleware.security_headers import SecurityHeadersMiddleware
 from app.routes import admin, auth, automation, billing, health, sites, ui, mrk_earning, website_factory
 from app.services.scheduler_daemon import start_scheduler_daemon
 
 
 app = FastAPI(title='Autopost SaaS Platform', version='1.0.0')
+app.add_middleware(SecurityHeadersMiddleware)
 
 app.include_router(health.router)
 app.include_router(auth.router)
