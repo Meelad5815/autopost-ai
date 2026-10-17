@@ -15,6 +15,7 @@ class FirstSetupSecurityTests(unittest.TestCase):
         self.assertIn('db.query(User.id).first() is not None', setup)
         self.assertIn('status_code=409', setup)
         self.assertIn('use /auth/login', setup)
+        self.assertIn('_require_same_origin(request)', setup)
 
     def test_initial_site_password_is_encrypted_before_persistence(self):
         source = (ROOT / "app" / "routes" / "ui.py").read_text(encoding="utf-8")
