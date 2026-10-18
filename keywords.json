@@ -1,70 +1,16 @@
 {
   "keywords": [
     {
-      "keyword": "villarreal cf vs deportivo de la coruna lineups",
+      "keyword": "san diego fc vs la galaxy standings",
       "intent": "informational",
       "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
       "learning_boost": 0.0,
-      "learned_score": 84.4
+      "learned_score": 81.4
     },
     {
-      "keyword": "villarreal cf vs elche cf lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "villarreal cf vs elche cf stats",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "villarreal cf vs elche cf matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "villarreal cf vs ssc napoli lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "villarreal cf vs elche cf timeline",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "villarreal cf vs atlético madrid lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bologna vs inter last 5 matches",
+      "keyword": "la galaxy vs san diego prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -82,115 +28,52 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "barcelona vs betis score prediction",
+      "keyword": "what did elizabeth holmes do to go to prison",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
-      "keyword": "barcelona vs betis past games",
+      "keyword": "what did elizabeth holmes do that was so bad",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
-      "keyword": "barcelona vs betis last match",
+      "keyword": "what did elizabeth holmes do that was illegal",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
-      "keyword": "villarreal cf vs elche cf",
+      "keyword": "what did elizabeth holmes do with the money",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
-      "keyword": "villarreal cf vs elche prediction",
+      "keyword": "what did elizabeth holmes do to end up in prison",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rutgers vs maryland football prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rutgers vs maryland score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rutgers vs maryland prediction covers",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rutgers vs maryland football history",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bologna vs inter milan prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bologna vs inter last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "sheriff country season 2 episode 2 cast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -217,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "sheriff country season 2 episode 2",
+      "keyword": "cyberpunk edgerunners season 2 release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -226,7 +109,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "fire country season 5 episode 2",
+      "keyword": "cyberpunk edgerunners season 2 episode titles",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -235,238 +118,76 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "barcelona vs betis prediction",
+      "keyword": "cyberpunk edgerunners season 2 trailer song",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "barcelona vs betis 2025",
+      "keyword": "cyberpunk edgerunners season 2 main character",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "barcelona vs betis tickets",
+      "keyword": "cyberpunk edgerunners season 2 release schedule",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "barcelona vs betis 2023",
+      "keyword": "cyberpunk edgerunners season 2 episode 1",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "barcelona vs betis 2026",
+      "keyword": "what did elizabeth holmes do wrong",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "barcelona vs betis 2019",
+      "keyword": "what did elizabeth holmes do reddit",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "rutgers vs maryland prediction",
+      "keyword": "what did elizabeth holmes do again",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "rutgers vs maryland pickdawgz",
+      "keyword": "what did elizabeth holmes do exactly",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rutgers vs maryland football",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rutgers vs maryland spread",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rutgers vs maryland tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bologna vs inter prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bologna vs inter milan",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bologna vs inter tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bologna vs inter biglietti",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bologna vs inter live",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "bologna vs inter forebet",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs alanyaspor standings",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs alanyaspor matches",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs alanyaspor stats",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs alanyaspor lineups",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahce vs alanyaspor prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahce vs alanyaspor results",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs alanyaspor timeline",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs alanyaspor tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahce vs alanyaspor h2h",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -478,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "us-iran war who is winning",
+      "keyword": "cyberpunk edgerunners season 2 characters",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -487,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "tacko fall next to wemby",
+      "keyword": "cyberpunk edgerunners season 2 trailer",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -496,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "sheriff country cast season 2",
+      "keyword": "cyberpunk edgerunners season 2 song",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -505,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "fire country season 5 cast",
+      "keyword": "noah centineo movies and shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -514,43 +235,34 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "barcelona vs betis",
+      "keyword": "what did elizabeth holmes do",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "rutgers vs maryland",
+      "keyword": "joseph gordon levitt tv shows",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "bologna vs inter",
+      "keyword": "training day where to watch",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "fenerbahçe vs alanyaspor",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "us-iran war news live",
+      "keyword": "st petersburg florida weather",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -559,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "us-iran deal latest news",
+      "keyword": "st petersburg oil terminal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -568,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "charlie becker 40 time",
+      "keyword": "st petersburg drone attack",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -577,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "charlie becker draft projection",
+      "keyword": "cyberpunk edgerunners season 2",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -586,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tacko fall and wemby",
+      "keyword": "noah centineo street fighter",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -595,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tacko fall net worth",
+      "keyword": "noah centineo black adam",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -604,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sheriff country season 2",
+      "keyword": "tucker carlson net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -613,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sheriff country episode 2",
+      "keyword": "tucker carlson nicotine pouches",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sheriff country season 1",
+      "keyword": "joseph gordon levitt filmography",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -631,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sheriff country family trust",
+      "keyword": "joseph gordon levitt ethnicity",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -640,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire country season 5",
+      "keyword": "joseph gordon levitt young",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -649,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire country season 3",
+      "keyword": "joseph gordon levitt movies",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -658,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire country season 4",
+      "keyword": "joseph gordon levitt wife",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -667,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire country new season",
+      "keyword": "joseph gordon levitt ai",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -676,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire country season 2",
+      "keyword": "joseph gordon levitt height",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -685,7 +397,61 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "us-iran war news",
+      "keyword": "joseph gordon levitt robin",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dario amodei net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dario amodei - wikipedia",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "training day monte carlo",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "training day denzel washington",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "sounders game today time",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "st petersburg florida",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "us-iran war latest",
+      "keyword": "st petersburg russia",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "us-iran conflict explained",
+      "keyword": "st petersburg weather",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker stats",
+      "keyword": "st petersburg college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker dad",
+      "keyword": "st petersburg airport",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker age",
+      "keyword": "st petersburg attack",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker highlights",
+      "keyword": "noah centineo movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker football",
+      "keyword": "noah centineo ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker 247",
+      "keyword": "noah centineo height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "charlie becker height",
+      "keyword": "noah centineo ken",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tacko fall height",
+      "keyword": "noah centineo girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tacko fall 76ers",
+      "keyword": "noah centineo age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tacko fall stats",
+      "keyword": "tucker carlson network",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tacko fall wingspan",
+      "keyword": "tucker carlson snl",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tacko fall age",
+      "keyword": "tucker carlson wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tacko fall team",
+      "keyword": "tucker carlson youtube",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sheriff country cast",
+      "keyword": "tucker carlson laugh",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sheriff country episodes",
+      "keyword": "tucker carlson merch",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fire country cast",
+      "keyword": "tucker carlson podcast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -856,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fire country episodes",
+      "keyword": "joseph gordon levitt",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -865,7 +631,196 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "us-iran war",
+      "keyword": "dario amodei wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dario amodei religion",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dario amodei ethnicity",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dario amodei sister",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dario amodei essay",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dario amodei age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dario amodei education",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "training day cast",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "training day car",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "training day gif",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "training day 2",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "training day quotes",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "training day meme",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game schedule",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game tomorrow",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game tickets",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game saturday",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game seattle",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game tonight",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sounders game score",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "st petersburg",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "us-iran news",
+      "keyword": "noah centineo",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "us-iran deal",
+      "keyword": "tucker carlson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "charlie becker",
+      "keyword": "dario amodei",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tacko fall",
+      "keyword": "training day",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,230 +865,41 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "villarreal cf",
+      "keyword": "sounders game",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "sheriff country",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "fire country",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "us-iran",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "villarreal cf vs deportivo de la coruna lineups",
+      "pillar": "san diego fc vs la galaxy standings",
       "cluster": [
         {
-          "keyword": "villarreal cf vs deportivo de la coruna lineups",
+          "keyword": "san diego fc vs la galaxy standings",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
           "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "villarreal cf vs elche cf lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "villarreal cf vs elche cf stats",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "villarreal cf vs elche cf matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "villarreal cf vs ssc napoli lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "villarreal cf vs elche cf timeline",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "villarreal cf vs atlético madrid lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "villarreal cf vs elche cf",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "villarreal cf vs elche prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "villarreal cf",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 81.4
         }
       ]
     },
     {
-      "pillar": "bologna vs inter last 5 matches",
+      "pillar": "la galaxy vs san diego prediction",
       "cluster": [
         {
-          "keyword": "bologna vs inter last 5 matches",
+          "keyword": "la galaxy vs san diego prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
           "ranking_probability": 78.4,
           "learning_boost": 0.0,
           "learned_score": 78.4
-        },
-        {
-          "keyword": "bologna vs inter milan prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "bologna vs inter last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "bologna vs inter prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bologna vs inter milan",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bologna vs inter tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bologna vs inter biglietti",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bologna vs inter live",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bologna vs inter forebet",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "bologna vs inter",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
         }
       ]
     },
@@ -1152,198 +918,53 @@
       ]
     },
     {
-      "pillar": "barcelona vs betis score prediction",
+      "pillar": "what did elizabeth holmes do to go to prison",
       "cluster": [
         {
-          "keyword": "barcelona vs betis score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "barcelona vs betis past games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "barcelona vs betis last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "barcelona vs betis prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "barcelona vs betis 2025",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "barcelona vs betis tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "barcelona vs betis 2023",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "barcelona vs betis 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "barcelona vs betis 2019",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "barcelona vs betis",
+          "keyword": "what did elizabeth holmes do to go to prison",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "rutgers vs maryland football prediction",
-      "cluster": [
-        {
-          "keyword": "rutgers vs maryland football prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 76.0
         },
         {
-          "keyword": "rutgers vs maryland score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rutgers vs maryland prediction covers",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rutgers vs maryland football history",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rutgers vs maryland prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rutgers vs maryland pickdawgz",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rutgers vs maryland football",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rutgers vs maryland spread",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rutgers vs maryland tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rutgers vs maryland",
+          "keyword": "what did elizabeth holmes do that was so bad",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "what is the price of website development",
-      "cluster": [
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "what did elizabeth holmes do that was illegal",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "what did elizabeth holmes do with the money",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "what did elizabeth holmes do to end up in prison",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
         {
           "keyword": "what is the price of website development",
           "intent": "informational",
@@ -1352,23 +973,9 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "sheriff country season 2 episode 2 cast",
-      "cluster": [
-        {
-          "keyword": "sheriff country season 2 episode 2 cast",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
         },
         {
-          "keyword": "sheriff country season 2 episode 2",
+          "keyword": "what did elizabeth holmes do wrong",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1377,76 +984,40 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "sheriff country cast season 2",
+          "keyword": "what did elizabeth holmes do reddit",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "what did elizabeth holmes do again",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "what did elizabeth holmes do exactly",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "what did elizabeth holmes do",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "sheriff country season 2",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sheriff country episode 2",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sheriff country season 1",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sheriff country family trust",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sheriff country cast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sheriff country episodes",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sheriff country",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1483,10 +1054,10 @@
       ]
     },
     {
-      "pillar": "fire country season 5 episode 2",
+      "pillar": "cyberpunk edgerunners season 2 release date",
       "cluster": [
         {
-          "keyword": "fire country season 5 episode 2",
+          "keyword": "cyberpunk edgerunners season 2 release date",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1495,7 +1066,52 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "fire country season 5 cast",
+          "keyword": "cyberpunk edgerunners season 2 episode titles",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cyberpunk edgerunners season 2 trailer song",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cyberpunk edgerunners season 2 main character",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cyberpunk edgerunners season 2 release schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cyberpunk edgerunners season 2 episode 1",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cyberpunk edgerunners season 2 characters",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1504,184 +1120,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "fire country season 5",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire country season 3",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire country season 4",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire country new season",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire country season 2",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "fire country cast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fire country episodes",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fire country",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "fenerbahçe vs alanyaspor standings",
-      "cluster": [
-        {
-          "keyword": "fenerbahçe vs alanyaspor standings",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs alanyaspor matches",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs alanyaspor stats",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs alanyaspor lineups",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs alanyaspor timeline",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs alanyaspor tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs alanyaspor",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "fenerbahce vs alanyaspor prediction",
-      "cluster": [
-        {
-          "keyword": "fenerbahce vs alanyaspor prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahce vs alanyaspor results",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahce vs alanyaspor h2h",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        }
-      ]
-    },
-    {
-      "pillar": "us-iran war who is winning",
-      "cluster": [
-        {
-          "keyword": "us-iran war who is winning",
+          "keyword": "cyberpunk edgerunners season 2 trailer",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1690,93 +1129,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "us-iran war news live",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "us-iran deal latest news",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "us-iran war news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "us-iran war latest",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "us-iran conflict explained",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "us-iran war",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "us-iran news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "us-iran deal",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "us-iran",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "tacko fall next to wemby",
-      "cluster": [
-        {
-          "keyword": "tacko fall next to wemby",
+          "keyword": "cyberpunk edgerunners season 2 song",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1785,7 +1138,30 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "tacko fall and wemby",
+          "keyword": "cyberpunk edgerunners season 2",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "noah centineo movies and shows",
+      "cluster": [
+        {
+          "keyword": "noah centineo movies and shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "noah centineo street fighter",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1794,7 +1170,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tacko fall net worth",
+          "keyword": "noah centineo black adam",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1803,7 +1179,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tacko fall height",
+          "keyword": "noah centineo movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1812,7 +1188,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tacko fall 76ers",
+          "keyword": "noah centineo ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1821,7 +1197,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tacko fall stats",
+          "keyword": "noah centineo height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1830,7 +1206,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tacko fall wingspan",
+          "keyword": "noah centineo ken",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1839,7 +1215,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tacko fall age",
+          "keyword": "noah centineo girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1848,7 +1224,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tacko fall team",
+          "keyword": "noah centineo age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1857,7 +1233,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tacko fall",
+          "keyword": "noah centineo",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1868,10 +1244,19 @@
       ]
     },
     {
-      "pillar": "charlie becker 40 time",
+      "pillar": "joseph gordon levitt tv shows",
       "cluster": [
         {
-          "keyword": "charlie becker 40 time",
+          "keyword": "joseph gordon levitt tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "joseph gordon levitt filmography",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1880,7 +1265,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "charlie becker draft projection",
+          "keyword": "joseph gordon levitt ethnicity",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1889,7 +1274,102 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "charlie becker stats",
+          "keyword": "joseph gordon levitt young",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joseph gordon levitt movies",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joseph gordon levitt wife",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joseph gordon levitt ai",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joseph gordon levitt height",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joseph gordon levitt robin",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joseph gordon levitt",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "training day where to watch",
+      "cluster": [
+        {
+          "keyword": "training day where to watch",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "training day monte carlo",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "training day denzel washington",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "training day cast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1898,7 +1378,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker dad",
+          "keyword": "training day car",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1907,7 +1387,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker age",
+          "keyword": "training day gif",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1916,7 +1396,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker highlights",
+          "keyword": "training day 2",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1925,7 +1405,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker football",
+          "keyword": "training day quotes",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1934,7 +1414,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker 247",
+          "keyword": "training day meme",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1943,7 +1423,48 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker height",
+          "keyword": "training day",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "st petersburg florida weather",
+      "cluster": [
+        {
+          "keyword": "st petersburg florida weather",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "st petersburg oil terminal",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "st petersburg drone attack",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "st petersburg florida",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1952,7 +1473,337 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "charlie becker",
+          "keyword": "st petersburg russia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "st petersburg weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "st petersburg college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "st petersburg airport",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "st petersburg attack",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "st petersburg",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "tucker carlson net worth",
+      "cluster": [
+        {
+          "keyword": "tucker carlson net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tucker carlson nicotine pouches",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tucker carlson network",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson snl",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson youtube",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson laugh",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson merch",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson podcast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tucker carlson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "dario amodei net worth",
+      "cluster": [
+        {
+          "keyword": "dario amodei net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dario amodei - wikipedia",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dario amodei wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei religion",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei ethnicity",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei sister",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei essay",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei education",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dario amodei",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "sounders game today time",
+      "cluster": [
+        {
+          "keyword": "sounders game today time",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sounders game today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game tomorrow",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game tickets",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game saturday",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game seattle",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game tonight",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game score",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sounders game",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
