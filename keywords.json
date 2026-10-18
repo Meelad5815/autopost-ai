@@ -1,6 +1,96 @@
 {
   "keywords": [
     {
+      "keyword": "manchester united f.c. vs man city lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "manchester united f.c. vs man city stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "manchester united f.c. vs man city matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "manchester united f.c. vs man city standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "manchester united f.c. vs sabah fk lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "manchester united f.c. vs tottenham lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "manchester united f.c. vs tottenham stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "manchester united f.c. vs tottenham standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "manchester united f.c. vs tottenham timeline",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "manchester united f.c. vs tottenham matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,43 +100,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "did the guardians win last night on tv",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "did the guardians win last night on tv today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "did the guardians win last night against detroit",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "did the guardians win last night in baseball",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "rafael jodar vs daniil medvedev",
+      "keyword": "treveyon henderson vs rhamondre stevenson",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -64,16 +118,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "did the guardians win last night's game",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "did the cleveland guardians win last night",
+      "keyword": "celta de vigo deportivo alaves football// statistics",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -100,7 +145,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "did the guardians win last night",
+      "keyword": "celta de vigo alavés donde ver",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "did the guardians win saturday night",
+      "keyword": "rc celta de vigo alaves prediction",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,7 +163,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "did the guardians win tuesday night",
+      "keyword": "brenton strange fantasy outlook week 6",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -127,7 +172,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "did the guardians win wednesday night",
+      "keyword": "john turturro movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -136,7 +181,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "columbus marathon 2026 road closures map",
+      "keyword": "carrie preston movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -145,34 +190,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "real sociedad barcelona vs",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rafael jodar vs medvedev",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "jodar vs fokina prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "jodar vs medvedev prediction",
+      "keyword": "brenton strange vs texans",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -190,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "columbus marathon 2026 road closures",
+      "keyword": "celta de vigo - alavés",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "real sociedad - barcelona hoy",
+      "keyword": "celta de vigo alavés wedstrijden",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "real sociedad barcelona live stream",
+      "keyword": "celta de vigo alavés resultado",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "real sociedad barcelona liga f",
+      "keyword": "celta de vigo alavés hoy",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "real sociedad barcelona donde ver",
+      "keyword": "celta de vigo alavés resumen",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pat freiermuth or tyler higbee",
+      "keyword": "rc celta de vigo alaves",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rafael jodar shanghai masters apology",
+      "keyword": "celta de vigo contra alavés",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,34 +271,34 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jodar vs medvedev",
+      "keyword": "brenton strange or juwan johnson",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "jodar vs fokina",
+      "keyword": "brenton strange or tyler higbee",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "jodar vs davidovich",
+      "keyword": "treveyon henderson high ankle sprain",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "columbus marathon 2026 route",
+      "keyword": "car wash near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 map",
+      "keyword": "brenton strange week 6",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 date",
+      "keyword": "brenton strange fantasy outlook",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 registration",
+      "keyword": "tank dell return date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 medal",
+      "keyword": "john turturro net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 results",
+      "keyword": "john turturro big lebowski",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "columbus marathon 2026 course",
+      "keyword": "john turturro new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tsa precheck touchless id",
+      "keyword": "carrie preston tv shows",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tsa precheck number lookup",
+      "keyword": "carrie preston true blood",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "real sociedad - barcelona",
+      "keyword": "carrie preston net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "real sociedad barcelona prediction",
+      "keyword": "treveyon henderson injury update",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "real sociedad barcelona tickets",
+      "keyword": "treveyon henderson week 6",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,106 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "real sociedad barcelona players",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "real sociedad barcelona resultado",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pat freiermuth injury update",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pat freiermuth injury status",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pat freiermuth injury report",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pat freiermuth week 6",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "quinshon judkins injury update",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "quinshon judkins fantasy outlook",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "quinshon judkins week 6",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "rafael jodar ball kid",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "jodar vs",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 70.0,
-      "ranking_probability": 53.8,
-      "learning_boost": 0.0,
-      "learned_score": 53.8
-    },
-    {
-      "keyword": "columbus marathon 2026",
+      "keyword": "carrie tv show",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck cost",
+      "keyword": "brenton strange stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck texas",
+      "keyword": "brenton strange fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck california",
+      "keyword": "brenton strange contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck renewal",
+      "keyword": "najee harris stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck application",
+      "keyword": "najee harris fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck status",
+      "keyword": "najee harris news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck number",
+      "keyword": "najee harris injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat freiermuth stats",
+      "keyword": "najee harris contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat freiermuth fantasy",
+      "keyword": "najee harris team",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat freiermuth status",
+      "keyword": "najee harris eye",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "pat freiermuth news",
+      "keyword": "najee harris age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quinshon judkins injury",
+      "keyword": "najee harris giants",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quinshon judkins stats",
+      "keyword": "tank dell injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quinshon judkins fantasy",
+      "keyword": "tank dell fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quinshon judkins news",
+      "keyword": "tank dell stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quinshon judkins status",
+      "keyword": "tank dell return",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "quinshon judkins adp",
+      "keyword": "tank dell news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "drake net worth",
+      "keyword": "tank dell shot",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "drake and josh",
+      "keyword": "tank dell college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "drake maye stats",
+      "keyword": "tank dell update",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar prediction",
+      "keyword": "john turturro movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar ranking",
+      "keyword": "john turturro ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar age",
+      "keyword": "john turturro brother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar height",
+      "keyword": "john turturro transformers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rafael jodar parents",
+      "keyword": "john turturro young",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "waymo san francisco",
+      "keyword": "carrie preston movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "waymo san diego",
+      "keyword": "carrie preston husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jodar tennis player",
+      "keyword": "carrie preston children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jodar ball kid",
+      "keyword": "carrie preston twin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +676,61 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tsa precheck",
+      "keyword": "carrie preston age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "treveyon henderson injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "treveyon henderson fantasy",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "treveyon henderson news",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "treveyon henderson status",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "treveyon henderson adp",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "carnival cruise",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "pat freiermuth",
+      "keyword": "carrie 2026",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "quinshon judkins",
+      "keyword": "brenton strange",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "drake maye",
+      "keyword": "najee harris",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "drake football",
+      "keyword": "tank dell",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "drake age",
+      "keyword": "john turturro",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "drake bell",
+      "keyword": "carrie preston",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "drake london",
+      "keyword": "treveyon henderson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,97 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "drake waterfowl",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rafael jodar",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo car",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo taxi",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo careers",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo stock",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo denver",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo ojai",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "waymo van",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jodar medvedev",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "drake",
+      "keyword": "carvana",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -928,7 +811,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "waymo",
+      "keyword": "carrie",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -937,7 +820,34 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "jodar",
+      "keyword": "carmax",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "cargurus",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "carhartt",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "carfax",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -947,6 +857,101 @@
     }
   ],
   "clusters": [
+    {
+      "pillar": "manchester united f.c. vs man city lineups",
+      "cluster": [
+        {
+          "keyword": "manchester united f.c. vs man city lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "manchester united f.c. vs man city stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "manchester united f.c. vs man city matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "manchester united f.c. vs man city standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "manchester united f.c. vs sabah fk lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "manchester united f.c. vs tottenham lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "manchester united f.c. vs tottenham stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "manchester united f.c. vs tottenham standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "manchester united f.c. vs tottenham timeline",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "manchester united f.c. vs tottenham matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -962,105 +967,10 @@
       ]
     },
     {
-      "pillar": "did the guardians win last night on tv",
+      "pillar": "treveyon henderson vs rhamondre stevenson",
       "cluster": [
         {
-          "keyword": "did the guardians win last night on tv",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "did the guardians win last night on tv today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "did the guardians win last night against detroit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "did the guardians win last night in baseball",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "did the guardians win last night's game",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "did the cleveland guardians win last night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "did the guardians win last night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "did the guardians win saturday night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "did the guardians win tuesday night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "did the guardians win wednesday night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "rafael jodar vs daniil medvedev",
-      "cluster": [
-        {
-          "keyword": "rafael jodar vs daniil medvedev",
+          "keyword": "treveyon henderson vs rhamondre stevenson",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1069,16 +979,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "rafael jodar vs medvedev",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rafael jodar shanghai masters apology",
+          "keyword": "treveyon henderson high ankle sprain",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1087,7 +988,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "rafael jodar ball kid",
+          "keyword": "treveyon henderson injury update",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1096,7 +997,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "rafael jodar prediction",
+          "keyword": "treveyon henderson week 6",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "treveyon henderson injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1105,7 +1015,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rafael jodar ranking",
+          "keyword": "treveyon henderson fantasy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1114,7 +1024,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rafael jodar age",
+          "keyword": "treveyon henderson news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1123,7 +1033,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rafael jodar height",
+          "keyword": "treveyon henderson status",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1132,7 +1042,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rafael jodar parents",
+          "keyword": "treveyon henderson adp",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1141,7 +1051,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rafael jodar",
+          "keyword": "treveyon henderson",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1162,6 +1072,83 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "celta de vigo deportivo alaves football// statistics",
+      "cluster": [
+        {
+          "keyword": "celta de vigo deportivo alaves football// statistics",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "celta de vigo alavés donde ver",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "celta de vigo - alavés",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "celta de vigo alavés wedstrijden",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "celta de vigo alavés resultado",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "celta de vigo alavés hoy",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "celta de vigo alavés resumen",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "celta de vigo contra alavés",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         }
       ]
     },
@@ -1198,10 +1185,10 @@
       ]
     },
     {
-      "pillar": "columbus marathon 2026 road closures map",
+      "pillar": "rc celta de vigo alaves prediction",
       "cluster": [
         {
-          "keyword": "columbus marathon 2026 road closures map",
+          "keyword": "rc celta de vigo alaves prediction",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1210,7 +1197,39 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "columbus marathon 2026 road closures",
+          "keyword": "rc celta de vigo alaves",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "brenton strange fantasy outlook week 6",
+      "cluster": [
+        {
+          "keyword": "brenton strange fantasy outlook week 6",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "brenton strange vs texans",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "brenton strange or juwan johnson",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1219,7 +1238,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "columbus marathon 2026 route",
+          "keyword": "brenton strange or tyler higbee",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "brenton strange week 6",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1228,7 +1256,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "columbus marathon 2026 map",
+          "keyword": "brenton strange fantasy outlook",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1237,215 +1265,84 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "columbus marathon 2026 date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "columbus marathon 2026 registration",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "columbus marathon 2026 medal",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "columbus marathon 2026 results",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "columbus marathon 2026 course",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "columbus marathon 2026",
+          "keyword": "brenton strange stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "real sociedad barcelona vs",
-      "cluster": [
-        {
-          "keyword": "real sociedad barcelona vs",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
         },
         {
-          "keyword": "real sociedad - barcelona hoy",
+          "keyword": "brenton strange fantasy",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "real sociedad barcelona live stream",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "real sociedad barcelona liga f",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "real sociedad barcelona donde ver",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "real sociedad - barcelona",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "real sociedad barcelona prediction",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "real sociedad barcelona tickets",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "real sociedad barcelona players",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "real sociedad barcelona resultado",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "jodar vs fokina prediction",
-      "cluster": [
-        {
-          "keyword": "jodar vs fokina prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "jodar vs medvedev prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "jodar vs medvedev",
-          "intent": "informational",
-          "demand": 70.0,
+          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 61.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 52.6
         },
         {
-          "keyword": "jodar vs fokina",
+          "keyword": "brenton strange contract",
           "intent": "informational",
-          "demand": 70.0,
+          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 61.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 52.6
         },
         {
-          "keyword": "jodar vs davidovich",
+          "keyword": "brenton strange",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "jodar vs",
-          "intent": "informational",
-          "demand": 64.0,
+          "demand": 52.0,
           "competition": 70.0,
-          "ranking_probability": 53.8,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 53.8
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "john turturro movies and tv shows",
+      "cluster": [
+        {
+          "keyword": "john turturro movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
         },
         {
-          "keyword": "jodar tennis player",
+          "keyword": "john turturro net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "john turturro big lebowski",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "john turturro new movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "john turturro movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1454,7 +1351,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jodar ball kid",
+          "keyword": "john turturro ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1463,7 +1360,138 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jodar medvedev",
+          "keyword": "john turturro brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john turturro transformers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john turturro young",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john turturro",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "carrie preston movies and tv shows",
+      "cluster": [
+        {
+          "keyword": "carrie preston movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "carrie preston tv shows",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "carrie preston true blood",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "carrie preston net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "carrie tv show",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "carrie preston movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "carrie preston husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "carrie preston children",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "carrie preston twin",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "carrie preston age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "carrie 2026",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1472,7 +1500,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "jodar",
+          "keyword": "carrie preston",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "carrie",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1483,19 +1520,24 @@
       ]
     },
     {
-      "pillar": "pat freiermuth or tyler higbee",
+      "pillar": "car wash near me",
       "cluster": [
         {
-          "keyword": "pat freiermuth or tyler higbee",
+          "keyword": "car wash near me",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "tank dell return date",
+      "cluster": [
         {
-          "keyword": "pat freiermuth injury update",
+          "keyword": "tank dell return date",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1504,34 +1546,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "pat freiermuth injury status",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pat freiermuth injury report",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pat freiermuth week 6",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pat freiermuth stats",
+          "keyword": "tank dell injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1540,7 +1555,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "pat freiermuth fantasy",
+          "keyword": "tank dell fantasy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1549,7 +1564,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "pat freiermuth status",
+          "keyword": "tank dell stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1558,7 +1573,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "pat freiermuth news",
+          "keyword": "tank dell return",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1567,7 +1582,43 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "pat freiermuth",
+          "keyword": "tank dell news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tank dell shot",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tank dell college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tank dell update",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tank dell",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1578,28 +1629,10 @@
       ]
     },
     {
-      "pillar": "tsa precheck touchless id",
+      "pillar": "najee harris stats",
       "cluster": [
         {
-          "keyword": "tsa precheck touchless id",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tsa precheck number lookup",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tsa precheck cost",
+          "keyword": "najee harris stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1608,7 +1641,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck texas",
+          "keyword": "najee harris fantasy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1617,7 +1650,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck california",
+          "keyword": "najee harris news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1626,7 +1659,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck renewal",
+          "keyword": "najee harris injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1635,7 +1668,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck application",
+          "keyword": "najee harris contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1677,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck status",
+          "keyword": "najee harris team",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,7 +1686,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck number",
+          "keyword": "najee harris eye",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1662,7 +1695,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tsa precheck",
+          "keyword": "najee harris age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "najee harris giants",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "najee harris",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1673,91 +1724,10 @@
       ]
     },
     {
-      "pillar": "quinshon judkins injury update",
+      "pillar": "carnival cruise",
       "cluster": [
         {
-          "keyword": "quinshon judkins injury update",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "quinshon judkins fantasy outlook",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "quinshon judkins week 6",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "quinshon judkins injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "quinshon judkins stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "quinshon judkins fantasy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "quinshon judkins news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "quinshon judkins status",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "quinshon judkins adp",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "quinshon judkins",
+          "keyword": "carnival cruise",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1768,91 +1738,10 @@
       ]
     },
     {
-      "pillar": "drake net worth",
+      "pillar": "carvana",
       "cluster": [
         {
-          "keyword": "drake net worth",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "drake and josh",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "drake maye stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "drake maye",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "drake football",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "drake age",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "drake bell",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "drake london",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "drake waterfowl",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "drake",
+          "keyword": "carvana",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1863,91 +1752,52 @@
       ]
     },
     {
-      "pillar": "waymo san francisco",
+      "pillar": "carmax",
       "cluster": [
         {
-          "keyword": "waymo san francisco",
+          "keyword": "carmax",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "cargurus",
+      "cluster": [
         {
-          "keyword": "waymo san diego",
+          "keyword": "cargurus",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "carhartt",
+      "cluster": [
         {
-          "keyword": "waymo car",
+          "keyword": "carhartt",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "carfax",
+      "cluster": [
         {
-          "keyword": "waymo taxi",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "waymo careers",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "waymo stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "waymo denver",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "waymo ojai",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "waymo van",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "waymo",
+          "keyword": "carfax",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
