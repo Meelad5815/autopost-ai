@@ -1,47 +1,71 @@
 {
-  "generated_at": "2026-10-18T17:09:25.006845+00:00",
+  "generated_at": "2026-10-18T19:26:03.019063+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "steelers game",
+      "title": "garrett wilson",
       "source": "google_trends_us"
     },
     {
-      "title": "rams vs cardinals",
+      "title": "school bus",
       "source": "google_trends_us"
     },
     {
-      "title": "panthers - eagles",
+      "title": "barbara palvin",
       "source": "google_trends_us"
     },
     {
-      "title": "bears - falcons",
+      "title": "falcons player hurt",
       "source": "google_trends_us"
     },
     {
-      "title": "lua blanco",
+      "title": "kendal daniels",
       "source": "google_trends_us"
     },
     {
-      "title": "texans vs jaguars 2026",
+      "title": "falcons injury",
       "source": "google_trends_us"
     },
     {
-      "title": "paris hilton",
+      "title": "pavlovs dog frontman david surkamp",
       "source": "google_trends_us"
     },
     {
-      "title": "real sociedad",
+      "title": "atlanta falcons injury",
       "source": "google_trends_us"
     },
     {
-      "title": "el nino west coast weather impact",
+      "title": "trey hendrickson",
       "source": "google_trends_us"
     },
     {
-      "title": "josh downs",
+      "title": "falcons injuries",
       "source": "google_trends_us"
+    },
+    {
+      "title": "fluminense vs santos",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "juventus vs lazio",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "real madrid vs sevilla",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "serie a",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "ab de villiers",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "azerbaijan",
+      "source": "google_trends_pk"
     },
     {
       "title": "pakistan cricket board",
@@ -56,31 +80,7 @@
       "source": "google_trends_pk"
     },
     {
-      "title": "jailer 2 movie",
-      "source": "google_trends_pk"
-    },
-    {
       "title": "milan vs atalanta",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "shafali verma",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "astronaut",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "barcelona vs",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "viktor gyökeres",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "nottm forest vs arsenal",
       "source": "google_trends_pk"
     },
     {
@@ -164,6 +164,14 @@
       "source": "google_developers"
     },
     {
+      "title": "The AI promise was automation. The reality? Managing digital workers - South China Morning Post",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "DataBee Advances Cyber Risk Automation With AI-Native Architecture and Expanded Security Capabilities - Cybersecurity Insiders",
+      "source": "google_news_ai"
+    },
+    {
       "title": "The Future of GLP-1 Peptide Analysis: AI, Automation, and the Scientist's Role - LCGC International",
       "source": "google_news_ai"
     },
@@ -172,7 +180,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "From vision systems to robotic dogs, local industry leaders share thoughts on automation and AI - Hagadone News Network",
+      "title": "Telcos Were Cutting Jobs Long Before AI. Now AI Gets the Credit. - Sebastian Barros Newsletter",
       "source": "google_news_ai"
     },
     {
@@ -180,7 +188,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Asset-Map, Quin Integrate AI to Automate Financial Advice - MyChesCo",
+      "title": "From vision systems to robotic dogs, local industry leaders share thoughts on automation and AI - Hagadone News Network",
       "source": "google_news_ai"
     },
     {
@@ -189,6 +197,10 @@
     },
     {
       "title": "The AI value curve: The economics of applying AI to existing work - McKinsey &amp; Company",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Asset-Map, Quin Integrate AI to Automate Financial Advice - MyChesCo",
       "source": "google_news_ai"
     },
     {
@@ -201,6 +213,10 @@
     },
     {
       "title": "How employment is changing at Anthropic - Anthropic",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Takeaways from Isaac founders on AI, automation and fleet technology - Truck News",
       "source": "google_news_ai"
     },
     {
@@ -220,18 +236,6 @@
       "source": "google_news_ai"
     },
     {
-      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Beyond Automation: Rethinking Banking Transformation with AI Agents - GovInfoSecurity",
-      "source": "google_news_ai"
-    },
-    {
       "title": "The AI expectations gap - Anthropic",
       "source": "google_news_ai"
     },
@@ -244,11 +248,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Takeaways from Isaac founders on AI, automation and fleet technology - Truck News",
+      "title": "JazzX AI’s Mike Romano on Enterprise General Intelligence in Mortgage - HousingWire",
       "source": "google_news_ai"
     },
     {
-      "title": "AI is ready to act. Real estate brokerages decide where it stops - Inman Real Estate News",
+      "title": "Beyond Automation: Rethinking Banking Transformation with AI Agents - GovInfoSecurity",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Workday expands agentic AI automation for HR teams - TechTarget",
       "source": "google_news_ai"
     },
     {
@@ -273,14 +281,6 @@
     },
     {
       "title": "Rohlik founder raises $32M for AI automation startup Duvo - Dealroom",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "CGI Federal Expands AI, Automation with Momentum 8.4 Release - WashingtonExec",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Jev-Maker TypeSafeAI Raises $870M Series A to Scale AI Automation Platform - citybiz",
       "source": "google_news_ai"
     },
     {
@@ -312,6 +312,10 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google’s Latest Spam Update Raises a Bigger Question for Manufacturing SEO - DesignRush",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
       "source": "google_news_seo"
     },
@@ -321,10 +325,6 @@
     },
     {
       "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google’s Latest Spam Update Raises a Bigger Question for Manufacturing SEO - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -340,7 +340,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Merchant Center adds warranty attribute for product listings - Search Engine Land",
+      "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -364,11 +364,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads extends Demand Gen cost adjustments from 3 weeks to 60 days - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
+      "title": "Google Merchant Center adds warranty attribute for product listings - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -376,11 +372,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Columbus Marketing Experts expands local SEO se... - Pluang",
+      "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Third-Party Google Rank Tracking Not Fully Working Now - Search Engine Roundtable",
+      "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
       "source": "google_news_seo"
     },
     {
@@ -388,11 +384,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google AI Overviews: Layout-Aware Multimodal Optimization &amp; Citation Strategy (2026) - Search Atlas",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
+      "title": "Columbus Marketing Experts expands local SEO se... - Pluang",
       "source": "google_news_seo"
     },
     {
@@ -400,23 +392,27 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
+      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast - Search Engine Journal",
-      "source": "google_news_wordpress"
+      "title": "Google AI Overviews: Layout-Aware Multimodal Optimization &amp; Citation Strategy (2026) - Search Atlas",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
     },
     {
       "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks - BleepingComputer",
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
+      "title": "WordPress Announces A Proactive Security Initiative - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
@@ -424,11 +420,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Rank Math WordPress Plugin Accused Of Secretly Taking Admin Access - Search Engine Journal",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
       "title": "Critical Avada WordPress theme flaw enables zero-click RCE - BleepingComputer",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
