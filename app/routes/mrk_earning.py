@@ -6,8 +6,7 @@ from pathlib import Path
 from fastapi import APIRouter, Depends
 from fastapi.responses import JSONResponse
 
-from app.deps import get_current_user
-from app.models import User
+from app.deps import require_admin
 
 router = APIRouter(prefix="/api/mrk-earning", tags=["MRK Earning OS"])
 
@@ -21,8 +20,7 @@ def _read_json(path: str, default):
         return default
 
 @router.get("/status")
-def status(user: User = Depends(get_current_user)):
-    _ = user
+def status(_admin=Depends(require_admin)):
     manifest = _read_json("config/earning_os.json", {})
     report = _read_json("data/earning_opportunities.json", {})
     return JSONResponse({
@@ -36,8 +34,7 @@ def status(user: User = Depends(get_current_user)):
     })
 
 @router.get("/opportunities")
-def opportunities(limit: int = 30, user: User = Depends(get_current_user)):
-    _ = user
+def opportunities(limit: int = 30, _admin=Depends(require_admin)):
     limit = max(1, min(limit, 100))
     report = _read_json("data/earning_opportunities.json", {"opportunities": []})
     return JSONResponse({
@@ -46,8 +43,7 @@ def opportunities(limit: int = 30, user: User = Depends(get_current_user)):
     })
 
 @router.get("/approvals")
-def approvals(user: User = Depends(get_current_user)):
-    _ = user
+def approvals(_admin=Depends(require_admin)):
     manifest = _read_json("config/earning_os.json", {})
     return JSONResponse({
         "human_approval_required": [
