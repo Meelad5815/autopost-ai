@@ -1,33 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "lay's chocolate covered potato chips where to buy",
-      "intent": "commercial",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "lays chocolate potato chips where to buy",
-      "intent": "commercial",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "new york times best seller list",
-      "intent": "commercial",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -37,7 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "stefanos tsitsipas vs aleksandar kovacevic",
+      "keyword": "india vs zimbabwe women t20",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -46,7 +19,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "roman safiullin vs sho shimabukuro",
+      "keyword": "india vs zimbabwe cricket match",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -55,8 +28,17 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "new york times best sellers",
-      "intent": "commercial",
+      "keyword": "india vs zimbabwe 2026 schedule",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "india vs zimbabwe t20 2026",
+      "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
       "ranking_probability": 75.4,
@@ -73,7 +55,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "nfl power rankings week 7 2025 espn",
+      "keyword": "call of duty black ops 2 ps5",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -82,16 +64,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "lay's chocolate covered potato chips near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "chocolate chip cookies with lays potato chips",
+      "keyword": "call of duty black ops cold war",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -118,7 +91,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 2026",
+      "keyword": "burger king hello kitty toys 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -127,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 espn",
+      "keyword": "burger king hello kitty meal price",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -136,7 +109,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 cbs",
+      "keyword": "taye diggs movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -145,7 +118,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 2025",
+      "keyword": "call of duty black ops 7",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -154,7 +127,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 bleacherreport",
+      "keyword": "call of duty black ops 2",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -163,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 2024",
+      "keyword": "call of duty black ops 6",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -172,7 +145,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 predictions",
+      "keyword": "call of duty black ops 3",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -181,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nfl power rankings week 7 2021",
+      "keyword": "call of duty black ops 1",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +163,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lay's chocolate covered potato chips discontinued",
+      "keyword": "call of duty black ops 4",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,7 +172,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "chocolate covered wavy lay's potato chips",
+      "keyword": "call of duty black ops ps5",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -208,8 +181,44 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "roman safiullin best surface",
-      "intent": "commercial",
+      "keyword": "india vs zimbabwe women",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "india vs zimbabwe t20",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "india vs zimbabwe 1983",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "india vs zimbabwe odi",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "india vs zimbabwe squad",
+      "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
       "ranking_probability": 68.2,
@@ -226,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "nfl power rankings week 7",
+      "keyword": "people we meet on vacation",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "tesla cybertruck price in india",
+      "keyword": "trump $8 billion agricultural aid",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "whats going on in france",
+      "keyword": "burger king hello kitty meal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "what is a flock camera",
+      "keyword": "burger king hello kitty toys",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "what happened to jalen hurts",
+      "keyword": "burger king hello kitty 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "what does fifa stand for",
+      "keyword": "burger king hello kitty collab",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lays chocolate potato chips nearby",
+      "keyword": "burger king hello kitty menu",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,7 +298,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "chocolate covered lays potato chips",
+      "keyword": "burger king hello kitty usa",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,7 +307,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "new york times spelling bee",
+      "keyword": "burger king hello kitty code",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -307,7 +316,25 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "stefanos tsitsipas aleksandar kovacevic",
+      "keyword": "call of duty black ops",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "india vs zimbabwe",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "burger king hello kitty",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stefanos tsitsipas net worth",
+      "keyword": "alex cooper net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stefanos tsitsipas match today",
+      "keyword": "interland be internet awesome",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daycares hiring near me",
+      "keyword": "interland game for kids",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daycare jobs near me",
+      "keyword": "taye diggs new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "daycare centers near me",
+      "keyword": "taye diggs net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "revolution plus for cats",
+      "keyword": "taye diggs tubi movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tesla cybertruck for sale",
+      "keyword": "taye diggs netflix movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tesla cybertruck 2026 price",
+      "keyword": "lil jon son nathan",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tesla cybertruck towing capacity",
+      "keyword": "lil jon songs list",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "what time is it",
+      "keyword": "lil jon son funeral",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "what is my ip",
+      "keyword": "lil jon son passed",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "roman safiullin match today",
+      "keyword": "lil jon son missing",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "emma watson net worth",
+      "keyword": "lil jon songs pitbull",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "emma watson harry potter",
+      "keyword": "lil jon son found",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chocolate lays potato chips",
+      "keyword": "lil jon son drowning",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,70 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chocolate and lays chips",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "new york times wordle",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "new york times games",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "new york times connections",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "new york times cooking",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "new york times crossword",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "new york times strands",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "stefanos tsitsipas prediction",
+      "keyword": "people finder us.unmask.com",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stefanos tsitsipas ranking",
+      "keyword": "people search us.unmask.com",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stefanos tsitsipas girlfriend",
+      "keyword": "slayground jeremy saulnier",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stefanos tsitsipas wife",
+      "keyword": "slayground 2027 imdb",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stefanos tsitsipas coach",
+      "keyword": "slayground motocross park",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "daycare near me",
+      "keyword": "alex cooper husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "revolutionary girl utena",
+      "keyword": "alex cooper pregnant",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "revolution tv show",
+      "keyword": "alex cooper age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tesla cybertruck price",
+      "keyword": "alex cooper baby",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tesla cybertruck interior",
+      "keyword": "alex cooper auctioneers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tesla cybertruck cost",
+      "keyword": "alex cooper hpv",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tesla cybertruck weight",
+      "keyword": "alex cooper unwell",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tesla cybertruck used",
+      "keyword": "alex cooper podcast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "what is ms",
+      "keyword": "taye diggs movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "what are peptides",
+      "keyword": "taye diggs wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "roman safiullin prediction",
+      "keyword": "taye diggs stepfather",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "roman safiullin tennis",
+      "keyword": "taye diggs height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "roman safiullin rank",
+      "keyword": "lil jon son",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "roman safiullin sofascore",
+      "keyword": "lil jon songs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,97 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "roman safiullin wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "roman safiullin today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson boyfriend",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson 2026",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "emma watson kids",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "new york times",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stefanos tsitsipas",
+      "keyword": "people magazine",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daycare texas",
+      "keyword": "people finder",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +667,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daycare california",
+      "keyword": "people search",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +676,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daycare jobs",
+      "keyword": "peoples gas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +685,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daycare hiring",
+      "keyword": "peoples bank",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +694,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daycare labels",
+      "keyword": "people first",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "revolutionary war",
+      "keyword": "slayground a24",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "revolutionary road",
+      "keyword": "slayground 2027",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +721,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "revolution medicines",
+      "keyword": "slayground 2026",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +730,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "revolution hall",
+      "keyword": "slayground saulnier",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "revolut down",
+      "keyword": "slayground mke",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tesla cybertruck",
+      "keyword": "slayground book",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "whataburger menu",
+      "keyword": "alex cooper",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "roman safiullin",
+      "keyword": "interland game",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "emma watson",
+      "keyword": "interland 2",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +784,61 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "daycare",
+      "keyword": "interland inc",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland google",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland 3",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland 4",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland 1",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "taye diggs",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "people",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -919,7 +847,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "revolut",
+      "keyword": "slayground",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -928,16 +856,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "revolution",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "whataburger",
+      "keyword": "interland",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -947,156 +866,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "lay's chocolate covered potato chips where to buy",
-      "cluster": [
-        {
-          "keyword": "lay's chocolate covered potato chips where to buy",
-          "intent": "commercial",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "lay's chocolate covered potato chips near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "lay's chocolate covered potato chips discontinued",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "lays chocolate potato chips where to buy",
-      "cluster": [
-        {
-          "keyword": "lays chocolate potato chips where to buy",
-          "intent": "commercial",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "lays chocolate potato chips nearby",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "new york times best seller list",
-      "cluster": [
-        {
-          "keyword": "new york times best seller list",
-          "intent": "commercial",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "new york times best sellers",
-          "intent": "commercial",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "new york times spelling bee",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "new york times wordle",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "new york times games",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "new york times connections",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "new york times cooking",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "new york times crossword",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "new york times strands",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "new york times",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1112,10 +881,10 @@
       ]
     },
     {
-      "pillar": "stefanos tsitsipas vs aleksandar kovacevic",
+      "pillar": "india vs zimbabwe women t20",
       "cluster": [
         {
-          "keyword": "stefanos tsitsipas vs aleksandar kovacevic",
+          "keyword": "india vs zimbabwe women t20",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1124,93 +893,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "stefanos tsitsipas aleksandar kovacevic",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stefanos tsitsipas net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stefanos tsitsipas match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stefanos tsitsipas prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stefanos tsitsipas ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stefanos tsitsipas girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stefanos tsitsipas wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stefanos tsitsipas coach",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stefanos tsitsipas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "roman safiullin vs sho shimabukuro",
-      "cluster": [
-        {
-          "keyword": "roman safiullin vs sho shimabukuro",
+          "keyword": "india vs zimbabwe cricket match",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1219,8 +902,26 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "roman safiullin best surface",
-          "intent": "commercial",
+          "keyword": "india vs zimbabwe 2026 schedule",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "india vs zimbabwe t20 2026",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "india vs zimbabwe women",
+          "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
           "ranking_probability": 68.2,
@@ -1228,76 +929,49 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "roman safiullin match today",
+          "keyword": "india vs zimbabwe t20",
           "intent": "informational",
-          "demand": 64.0,
+          "demand": 76.0,
           "competition": 50.0,
-          "ranking_probability": 59.8,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 68.2
         },
         {
-          "keyword": "roman safiullin prediction",
+          "keyword": "india vs zimbabwe 1983",
           "intent": "informational",
-          "demand": 58.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "india vs zimbabwe odi",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "india vs zimbabwe squad",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "india vs zimbabwe",
+          "intent": "informational",
+          "demand": 70.0,
           "competition": 60.0,
-          "ranking_probability": 52.6,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "roman safiullin tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "roman safiullin rank",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "roman safiullin sofascore",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "roman safiullin wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "roman safiullin today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "roman safiullin",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 61.0
         }
       ]
     },
@@ -1312,77 +986,14 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        },
-        {
-          "keyword": "what is a flock camera",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "what happened to jalen hurts",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "what does fifa stand for",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "what time is it",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "what is my ip",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "what is ms",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "what are peptides",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "nfl power rankings week 7 2025 espn",
+      "pillar": "call of duty black ops 2 ps5",
       "cluster": [
         {
-          "keyword": "nfl power rankings week 7 2025 espn",
+          "keyword": "call of duty black ops 2 ps5",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1391,93 +1002,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "nfl power rankings week 7 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 espn",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 cbs",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 2025",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 bleacherreport",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 2024",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 predictions",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7 2021",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nfl power rankings week 7",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "chocolate chip cookies with lays potato chips",
-      "cluster": [
-        {
-          "keyword": "chocolate chip cookies with lays potato chips",
+          "keyword": "call of duty black ops cold war",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1486,7 +1011,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "chocolate covered wavy lay's potato chips",
+          "keyword": "call of duty black ops 7",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1495,31 +1020,67 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "chocolate covered lays potato chips",
+          "keyword": "call of duty black ops 2",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "call of duty black ops 6",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "call of duty black ops 3",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "call of duty black ops 1",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "call of duty black ops 4",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "call of duty black ops ps5",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "call of duty black ops",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "chocolate lays potato chips",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "chocolate and lays chips",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1556,10 +1117,28 @@
       ]
     },
     {
-      "pillar": "tesla cybertruck price in india",
+      "pillar": "burger king hello kitty toys 2026",
       "cluster": [
         {
-          "keyword": "tesla cybertruck price in india",
+          "keyword": "burger king hello kitty toys 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "burger king hello kitty meal price",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "burger king hello kitty meal",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1568,7 +1147,84 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "tesla cybertruck for sale",
+          "keyword": "burger king hello kitty toys",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "burger king hello kitty 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "burger king hello kitty collab",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "burger king hello kitty menu",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "burger king hello kitty usa",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "burger king hello kitty code",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "burger king hello kitty",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "taye diggs movies and tv shows",
+      "cluster": [
+        {
+          "keyword": "taye diggs movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "taye diggs new movie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1577,7 +1233,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tesla cybertruck 2026 price",
+          "keyword": "taye diggs net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1586,7 +1242,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tesla cybertruck towing capacity",
+          "keyword": "taye diggs tubi movie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1595,7 +1251,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tesla cybertruck price",
+          "keyword": "taye diggs netflix movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "taye diggs movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1604,7 +1269,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tesla cybertruck interior",
+          "keyword": "taye diggs wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1613,7 +1278,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tesla cybertruck cost",
+          "keyword": "taye diggs stepfather",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1622,7 +1287,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tesla cybertruck weight",
+          "keyword": "taye diggs height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1631,16 +1296,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tesla cybertruck used",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tesla cybertruck",
+          "keyword": "taye diggs",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1651,10 +1307,87 @@
       ]
     },
     {
-      "pillar": "whats going on in france",
+      "pillar": "people we meet on vacation",
       "cluster": [
         {
-          "keyword": "whats going on in france",
+          "keyword": "people we meet on vacation",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "people finder us.unmask.com",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "people search us.unmask.com",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "people magazine",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "people finder",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "people search",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "people first",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "people",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "trump $8 billion agricultural aid",
+      "cluster": [
+        {
+          "keyword": "trump $8 billion agricultural aid",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1665,24 +1398,10 @@
       ]
     },
     {
-      "pillar": "daycares hiring near me",
+      "pillar": "alex cooper net worth",
       "cluster": [
         {
-          "keyword": "daycares hiring near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "daycare jobs near me",
-      "cluster": [
-        {
-          "keyword": "daycare jobs near me",
+          "keyword": "alex cooper net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1691,16 +1410,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "daycare centers near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "daycare near me",
+          "keyword": "alex cooper husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1709,7 +1419,102 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "daycare texas",
+          "keyword": "alex cooper pregnant",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper baby",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper auctioneers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper hpv",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper unwell",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper podcast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alex cooper",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "interland be internet awesome",
+      "cluster": [
+        {
+          "keyword": "interland be internet awesome",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "interland game for kids",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "interland game",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1718,7 +1523,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "daycare california",
+          "keyword": "interland 2",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1727,7 +1532,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "daycare jobs",
+          "keyword": "interland inc",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1736,7 +1541,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "daycare hiring",
+          "keyword": "interland google",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1745,7 +1550,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "daycare labels",
+          "keyword": "interland 3",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1754,7 +1559,25 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "daycare",
+          "keyword": "interland 4",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland 1",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1765,10 +1588,10 @@
       ]
     },
     {
-      "pillar": "revolution plus for cats",
+      "pillar": "lil jon son nathan",
       "cluster": [
         {
-          "keyword": "revolution plus for cats",
+          "keyword": "lil jon son nathan",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1777,7 +1600,70 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "revolution tv show",
+          "keyword": "lil jon songs list",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son funeral",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son passed",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son missing",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon songs pitbull",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son found",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son drowning",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1786,7 +1672,48 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "revolution medicines",
+          "keyword": "lil jon songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "slayground jeremy saulnier",
+      "cluster": [
+        {
+          "keyword": "slayground jeremy saulnier",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "slayground 2027 imdb",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "slayground motocross park",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "slayground a24",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1795,7 +1722,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "revolution hall",
+          "keyword": "slayground 2027",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1804,7 +1731,43 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "revolution",
+          "keyword": "slayground 2026",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "slayground saulnier",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "slayground mke",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "slayground book",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "slayground",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1815,114 +1778,10 @@
       ]
     },
     {
-      "pillar": "emma watson net worth",
+      "pillar": "peoples gas",
       "cluster": [
         {
-          "keyword": "emma watson net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "emma watson harry potter",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "emma watson movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "revolutionary girl utena",
-      "cluster": [
-        {
-          "keyword": "revolutionary girl utena",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "revolutionary war",
+          "keyword": "peoples gas",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1931,59 +1790,13 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "revolutionary road",
+          "keyword": "peoples bank",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "revolut down",
-      "cluster": [
-        {
-          "keyword": "revolut down",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "revolut",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "whataburger menu",
-      "cluster": [
-        {
-          "keyword": "whataburger menu",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "whataburger",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
