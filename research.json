@@ -1,90 +1,86 @@
 {
-  "generated_at": "2026-10-20T09:26:32.113526+00:00",
+  "generated_at": "2026-10-20T14:27:12.326472+00:00",
   "feed_count": 8,
-  "item_count": 160,
+  "item_count": 159,
   "items": [
     {
-      "title": "stefanos tsitsipas",
+      "title": "people",
       "source": "google_trends_us"
     },
     {
-      "title": "nfl power rankings week 7",
+      "title": "trump $8 billion agricultural aid",
       "source": "google_trends_us"
     },
     {
-      "title": "daycare",
+      "title": "slayground",
       "source": "google_trends_us"
     },
     {
-      "title": "revolut",
+      "title": "burger king hello kitty",
       "source": "google_trends_us"
     },
     {
-      "title": "tesla cybertruck",
+      "title": "alex cooper",
       "source": "google_trends_us"
     },
     {
-      "title": "what",
+      "title": "interland",
       "source": "google_trends_us"
     },
     {
-      "title": "roman safiullin",
+      "title": "taye diggs",
       "source": "google_trends_us"
     },
     {
-      "title": "emma watson",
+      "title": "lil jon son",
       "source": "google_trends_us"
     },
     {
-      "title": "chocolate lays potato chips",
+      "title": "call of duty: black ops",
       "source": "google_trends_us"
     },
     {
-      "title": "new york times",
+      "title": "india vs zimbabwe",
       "source": "google_trends_us"
+    },
+    {
+      "title": "sindh",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "shafali verma",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "farmer",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "match today",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "urwa hocane",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "kick",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "aus w vs nz w",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "ukraine",
+      "source": "google_trends_pk"
     },
     {
       "title": "babar azam",
       "source": "google_trends_pk"
     },
     {
-      "title": "fakhar zaman",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "pak vs end",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "australia vs new zealand",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "asim munir tehran visit",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "sara ali khan",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ranabaali movie",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "یمن",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "petrol price pakistan",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "search",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
       "source": "google_developers"
     },
     {
@@ -92,7 +88,7 @@
       "source": "google_developers"
     },
     {
-      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
       "source": "google_developers"
     },
     {
@@ -101,6 +97,10 @@
     },
     {
       "title": "Three layers, one repo: a tour of google/adk-recipes",
+      "source": "google_developers"
+    },
+    {
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
       "source": "google_developers"
     },
     {
@@ -160,11 +160,39 @@
       "source": "google_developers"
     },
     {
-      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
-      "source": "google_developers"
+      "title": "Conexiom Unveils Headless Platform That Embeds AI Automation for Orders and Invoices Inside Internal Systems - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money - NPR",
+      "source": "google_news_ai"
     },
     {
       "title": "AI is not likely to take these 10 jobs — and some pay six figures. Here's where to focus. - Yahoo Creators",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Canals Brings AI-Powered Accounts Payable Automation to Contractors Using the Trimble Vista Financial Management Solution - Business Wire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Siemens Aims to Raise Factory Automation to 80% With AI - Technology Org",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Grupo EULEN Advances Robotics, AI and Secure Automation in Professional Cleaning - Business Focus Magazine",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Lincoln Electric Introduces XpertLINC™, a Physical AI-Technology Platform That Redefines the Future of Robotic Automation - Morningstar",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Tech The AI forwarder of the future - The Loadstar",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "The Automation Era Has A Trust Problem Your AI Can Launch a Campaign. Can You Trust It? — LBB - LBB - Little Black Book",
       "source": "google_news_ai"
     },
     {
@@ -176,11 +204,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens targets up to 80% factory automation with AI, board member says - Reuters",
+      "title": "A Five-Part Validation Framework for AI-Driven CRM Automation - HackerNoon",
       "source": "google_news_ai"
     },
     {
-      "title": "Tech The AI forwarder of the future - The Loadstar",
+      "title": "Siemens targets up to 80% factory automation with AI, board member says - Reuters",
       "source": "google_news_ai"
     },
     {
@@ -188,19 +216,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Motive Technologies revs up new AI Agents to automate fleet management - SiliconANGLE",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Wage to Wallet™ Index – The Resilience Deficit: Labor Workers in an Automated Economy - PYMNTS.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Proptech companies turn to AI and automation to simplify rental housing operations - 150sec",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Justt Wins Silver at the 2026 Money Awards for AI &amp; Automation in Payments - PR Newswire",
+      "title": "ABB CEO’s View for More Data Centers Fails to Offset AI Jitters - Energy Connects",
       "source": "google_news_ai"
     },
     {
@@ -208,19 +224,31 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Why claims leaders want AI to automate tasks, not decisions - Insurance Business",
+      "title": "Parsec Automation Introduces TrakSYS MES AI-Assisted Configuration - Business Wire",
       "source": "google_news_ai"
     },
     {
-      "title": "Dougs secures €50m investment to scale AI automation - IBS Intelligence",
+      "title": "ABBYY Introduces PHOENIX Plus, Advanced AI Models Optimized for Intelligent Document Processing - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
-      "title": "GE HealthCare Launches LOGIQ Focus to Merge cSound Architecture with AI Workflow Automation - HIT Consultant",
+      "title": "GMEX Robotics Announces MediaMeta's U.S. AI-Powered Autonomous Grooming Project and Patent Filing - Yahoo Finance Singapore",
       "source": "google_news_ai"
     },
     {
-      "title": "3 European AI Factory Automation Stocks Retail Investors Should Watch Now - Yahoo Finance Singapore",
+      "title": "Wage to Wallet™ Index – The Resilience Deficit: Labor Workers in an Automated Economy - PYMNTS.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI Risks: The Growing Cost of Automated Decisions - Frontline Magazine",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AGCO and Agility Robotics Advance Smart Manufacturing with Humanoid Robot Pilot in Hesston, Kansas, Facility - Yahoo Finance Singapore",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Visa : Trusted AI agents are moving from automation to real-world commerce - www.marketscreener.com",
       "source": "google_news_ai"
     },
     {
@@ -228,7 +256,23 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Notable introduces Flow Compass, giving healthcare operators control of their AI workforce - PR Newswire",
+      "title": "3 European AI Factory Automation Stocks Retail Investors Should Watch Now - Yahoo Finance Singapore",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "GE HealthCare Launches LOGIQ Focus to Merge cSound Architecture with AI Workflow Automation - HIT Consultant",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Touchless Resolution: 5 Steps to Turn AI Pilots into Outcomes - CX Today",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Consumer Alert: The AI Customer Service Race Could Be Costing Companies Customers - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Motive Technologies revs up new AI Agents to automate fleet management - SiliconANGLE",
       "source": "google_news_ai"
     },
     {
@@ -236,71 +280,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Agentic AI Finds a Foothold in the Automated Enterprise - PYMNTS.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "From vision systems to robotic dogs, local industry leaders share thoughts on automation and AI - Daily Inter Lake",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI, automation and delivery apps: What food-tech layoffs mean for Canada - Digital Journal",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "In Focus | The AI promise was automation. The reality? Managing digital workers - South China Morning Post",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Systems reduce latency in edge AI automation - EDN - Voice of the Engineer",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "How employment is changing at Anthropic - Anthropic",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "TraceLink Expands Global Operations to Accelerate AI-Powered Supply Chain Automation - citybiz",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Pre-made Pouch Filling Equipment From: Premier Tech Systems and Automation - Packaging World",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The AI expectations gap - Anthropic",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Cigna launches $3B cost-savings initiative focused on AI, automation - Hartford Business Journal",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI and automation are driving 2027 comms budgets - PR Daily",
-      "source": "google_news_ai"
+      "title": "A Cautionary Tale: One Site’s AI-Assisted SEO Crash - JumpFly, Inc.",
+      "source": "google_news_seo"
     },
     {
       "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
-      "title": "A Cautionary Tale: One Site’s AI-Assisted SEO Crash - JumpFly, Inc.",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Beware of AI Content for SEO - Practical Ecommerce",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Launches A Video Series For Odd Technical SEO Questions - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO - Search Engine Roundtable",
+      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
       "source": "google_news_seo"
     },
     {
@@ -308,15 +296,23 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Documents That Professional Service Businesses Invisible in Google AI Overviews Are Starting 2027 With a Compounding Answer Engine Optimization Disadvantage That Wid - Newswire",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Beware of AI Content for SEO - Practical Ecommerce",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "Google feeds rank trackers swapped results on 8% of pages, Nozzle finds - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -324,11 +320,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
+      "title": "Google feeds rank trackers swapped results on 8% of pages, Nozzle finds - PPC Land",
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
@@ -336,7 +332,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
+      "title": "Daily Search Forum Recap: October 20, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -348,7 +344,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move? - Search Engine Roundtable",
+      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -360,15 +356,31 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "MozCast - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move? - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
       "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -388,27 +400,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "The New Changes to Google for Hotel Searches - serpact.com",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "How can I get to the top of search pages? 10 ways to rank better in 2026 - Hostinger",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google On Using Markdown For AI SEO - Search Engine Journal",
-      "source": "google_news_seo"
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
+      "source": "google_news_wordpress"
     },
     {
       "title": "Inside the 33-hour failed boardroom coup to overthrow WordPress founder Matt Mullenweg - Fortune",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
+      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
@@ -440,23 +440,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "“Full of surprises” – The Wolf of Whindale by Jacob Kerr - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack - SecurityWeek",
+      "title": "Hackers Compromise Rank Math PRO WordPress Plugin to Install Self-Rebuilding Backdoors - CyberSecurityNews",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Is WordPress free? An overview of contributing factors - Hostinger",
       "source": "google_news_wordpress"
     },
     {
       "title": "WordPress Security: 8 Ways To Protect Your Website - All About Cookies",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Website builder vs WordPress: Which one is for you? - Hostinger",
       "source": "google_news_wordpress"
     },
     {
@@ -468,11 +464,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Stolen UpdraftCentral Keys Backdoor WordPress Sites - Cyber Kendra",
+      "title": "Website builder vs WordPress: Which one is for you? - Hostinger",
       "source": "google_news_wordpress"
     },
     {
-      "title": "When Monopoly Comes Naturally - Energy Institute Blog",
+      "title": "Gwyneth Paltrow signs on for Netflix’s The Apology - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Ceadach O’Neill, Josh Ogunnaike and Remy Mitchell train with Arsenal first-team ahead of Bayern Munich game - Jeorge Bird's Arsenal Youth",
       "source": "google_news_wordpress"
     },
     {
@@ -485,8 +485,8 @@
     }
   ],
   "improvement_queue": [
-    "Review SEO/content rules against current Google Search guidance.",
     "Review local-AI prompts and AI-tool topics for freshness.",
+    "Review SEO/content rules against current Google Search guidance.",
     "Refresh WordPress topic clusters."
   ],
   "policy": {
