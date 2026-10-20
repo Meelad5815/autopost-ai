@@ -1,82 +1,90 @@
 {
-  "generated_at": "2026-10-20T18:39:41.843603+00:00",
+  "generated_at": "2026-10-20T21:54:46.904217+00:00",
   "feed_count": 8,
-  "item_count": 157,
+  "item_count": 160,
   "items": [
     {
+      "title": "karl anthony towns",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "vj edgecombe",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "south alabama vs marshall prediction",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "election contest",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "ronald holland ii",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "oilprice.com",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "elijah mitchell",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "dow jones industrial average",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "donald trump jr.",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "katt williams nine lives memoir",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "uefa",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "bangladeshi couple news saudi arabia",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "university",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "xavi espart",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "ucl fixtures",
+      "source": "google_trends_pk"
+    },
+    {
       "title": "fotmob",
-      "source": "google_trends_us"
+      "source": "google_trends_pk"
     },
     {
-      "title": "napoli vs bodø/glimt",
-      "source": "google_trends_us"
+      "title": "barca vs",
+      "source": "google_trends_pk"
     },
     {
-      "title": "rick ross",
-      "source": "google_trends_us"
+      "title": "uefa champions league",
+      "source": "google_trends_pk"
     },
     {
-      "title": "paris-sg – barcelone",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "psg - barcelona",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "liverpool vs villarreal",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "man city vs aek",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "vfb stuttgart vs atlético",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "nba",
-      "source": "google_trends_us"
+      "title": "psg",
+      "source": "google_trends_pk"
     },
     {
       "title": "roma vs slovan bratislava",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "fraud",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "psg vs fc barcelona",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "al-nassr vs neom",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "psg vs fc barcelona lineups",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "sabah vs dortmund",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "diriyah vs al-riyadh",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "bbc",
       "source": "google_trends_pk"
     },
     {
       "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
-      "source": "google_developers"
-    },
-    {
-      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
       "source": "google_developers"
     },
     {
@@ -85,6 +93,10 @@
     },
     {
       "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+      "source": "google_developers"
+    },
+    {
+      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
       "source": "google_developers"
     },
     {
@@ -152,7 +164,15 @@
       "source": "google_developers"
     },
     {
+      "title": "Ericsson’s Karlsson: Don’t confuse AI automation with network autonomy - Fierce Network",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Conexiom Unveils Headless Platform That Embeds AI Automation for Orders and Invoices Inside Internal Systems - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI Automation Saves Businesses $1.5M Yearly - Supply &amp; Demand Chain Executive",
       "source": "google_news_ai"
     },
     {
@@ -164,11 +184,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI is not likely to take these 10 jobs — and some pay six figures. Here's where to focus. - Yahoo Creators",
+      "title": "How AI agents can go from hype to results - Transport Topics",
       "source": "google_news_ai"
     },
     {
-      "title": "How AI agents can go from hype to results - Transport Topics",
+      "title": "AI is not likely to take these 10 jobs — and some pay six figures. Here's where to focus. - Yahoo Creators",
       "source": "google_news_ai"
     },
     {
@@ -176,11 +196,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Compucom Launches New Website Built Around the Questions Enterprise IT Leaders Are Asking - Morningstar",
+      "title": "IBM Ventures Invests in Leena AI to Expand Enterprise Back-Office Automation - citybiz",
       "source": "google_news_ai"
     },
     {
-      "title": "IBM Ventures Invests in Leena AI to Expand Enterprise Back-Office Automation - citybiz",
+      "title": "Compucom Launches New Website Built Around the Questions Enterprise IT Leaders Are Asking - Morningstar",
       "source": "google_news_ai"
     },
     {
@@ -188,11 +208,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Mouser Highlights Industrial AI and Machine Learning in Automation Resource Center - Robotics Tomorrow",
+      "title": "Revvity Launches AI-First Platform to Coordinate Lab Workflows from Discovery to Manufacturing - Clinical Lab Products",
       "source": "google_news_ai"
     },
     {
-      "title": "The Next Phase of AI - Machine Design",
+      "title": "Mouser Highlights Industrial AI and Machine Learning in Automation Resource Center - Robotics Tomorrow",
       "source": "google_news_ai"
     },
     {
@@ -200,7 +220,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Revvity Launches AI-First Platform to Coordinate Lab Workflows from Discovery to Manufacturing - Clinical Lab Products",
+      "title": "The Next Phase of AI - Machine Design",
       "source": "google_news_ai"
     },
     {
@@ -212,11 +232,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Tech The AI forwarder of the future - The Loadstar",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Siemens targets up to 80% factory automation with AI, board member says - Reuters",
+      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree - Dark Reading",
       "source": "google_news_ai"
     },
     {
@@ -224,7 +240,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Robot Arms Finally Crack the Meal Assembly Line - PYMNTS.com",
+      "title": "Siemens targets up to 80% factory automation with AI, board member says - Reuters",
       "source": "google_news_ai"
     },
     {
@@ -236,11 +252,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "AI in Business Strategy: Where Technology Helps and Human Judgment Still Leads - Keiser University",
+      "source": "google_news_ai"
+    },
+    {
       "title": "The Future of GLP-1 Peptide Analysis: AI, Automation, and the Scientist's Role - Chromatography Online",
       "source": "google_news_ai"
     },
     {
-      "title": "AI in Business Strategy: Where Technology Helps and Human Judgment Still Leads - Keiser University",
+      "title": "Robot Arms Finally Crack the Meal Assembly Line - PYMNTS.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Tech The AI forwarder of the future - The Loadstar",
       "source": "google_news_ai"
     },
     {
@@ -248,19 +272,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "ABB CEO’s View for More Data Centers Fails to Offset AI Jitters - Energy Connects",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "GMEX Robotics Announces MediaMeta's U.S. AI-Powered Autonomous Grooming Project and Patent Filing - Yahoo Finance Singapore",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Canals Brings AI-Powered Accounts Payable Automation to Contractors Using the Trimble Vista Financial Management Solution - 01net",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Motive Technologies revs up new AI Agents to automate fleet management - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ABB CEO’s View for More Data Centers Fails to Offset AI Jitters - Energy Connects",
       "source": "google_news_ai"
     },
     {
@@ -268,11 +284,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "IBM Ventures Invests in Leena AI to Expand AI Solutions for Back-Office Automation (IBM) - GuruFocus",
-      "source": "google_news_ai"
+      "title": "I tested 11 AI search engines: Only these four made the cut - Search Engine Land",
+      "source": "google_news_seo"
     },
     {
       "title": "A Cautionary Tale: One Site’s AI-Assisted SEO Crash - JumpFly, Inc.",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Adds More Links, Carousels and Creator Profiles to AI Mode and AI Overviews - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -304,10 +324,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Documents That Professional Service Businesses Invisible in Google AI Overviews Are Starting 2027 With a Compounding Answer Engine Optimization Disadvantage That Wid - Newswire",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Zero-Click Search: SEO Impact and Optimization Tips - Simplilearn.com",
       "source": "google_news_seo"
     },
@@ -320,19 +336,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Rank Tracker Data, ChatGPT Tags &amp; AI Search Links – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Daily Search Forum Recap: October 20, 2026 - Search Engine Roundtable",
+      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -345,10 +361,6 @@
     },
     {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
@@ -368,15 +380,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "MozCast - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
       "source": "google_news_seo"
     },
     {
       "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "MozCast - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -452,23 +464,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Some Rank Math PRO downloads carried malware that could backdoor WordPress sites - Mezha.net",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Website builder vs WordPress: Which one is for you? - Hostinger",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Gwyneth Paltrow signs on for Netflix’s The Apology - The Killing Times",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Ceadach O’Neill, Josh Ogunnaike and Remy Mitchell train with Arsenal first-team ahead of Bayern Munich game - Jeorge Bird's Arsenal Youth",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
       "source": "google_news_wordpress"
     },
     {
@@ -477,6 +473,10 @@
     },
     {
       "title": "Decoding the original cast-iron subway entrance that’s been on a Brooklyn corner for 110 years - Ephemeral New York",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
       "source": "google_news_wordpress"
     },
     {
