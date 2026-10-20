@@ -1,86 +1,90 @@
 {
-  "generated_at": "2026-10-20T14:27:12.326472+00:00",
+  "generated_at": "2026-10-20T18:39:41.843603+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 157,
   "items": [
     {
-      "title": "people",
+      "title": "fotmob",
       "source": "google_trends_us"
     },
     {
-      "title": "trump $8 billion agricultural aid",
+      "title": "napoli vs bodø/glimt",
       "source": "google_trends_us"
     },
     {
-      "title": "slayground",
+      "title": "rick ross",
       "source": "google_trends_us"
     },
     {
-      "title": "burger king hello kitty",
+      "title": "paris-sg – barcelone",
       "source": "google_trends_us"
     },
     {
-      "title": "alex cooper",
+      "title": "psg - barcelona",
       "source": "google_trends_us"
     },
     {
-      "title": "interland",
+      "title": "liverpool vs villarreal",
       "source": "google_trends_us"
     },
     {
-      "title": "taye diggs",
+      "title": "man city vs aek",
       "source": "google_trends_us"
     },
     {
-      "title": "lil jon son",
+      "title": "vfb stuttgart vs atlético",
       "source": "google_trends_us"
     },
     {
-      "title": "call of duty: black ops",
+      "title": "nba",
       "source": "google_trends_us"
     },
     {
-      "title": "india vs zimbabwe",
+      "title": "roma vs slovan bratislava",
       "source": "google_trends_us"
     },
     {
-      "title": "sindh",
+      "title": "fraud",
       "source": "google_trends_pk"
     },
     {
-      "title": "shafali verma",
+      "title": "psg vs fc barcelona",
       "source": "google_trends_pk"
     },
     {
-      "title": "farmer",
+      "title": "al-nassr vs neom",
       "source": "google_trends_pk"
     },
     {
-      "title": "match today",
+      "title": "psg vs fc barcelona lineups",
       "source": "google_trends_pk"
     },
     {
-      "title": "urwa hocane",
+      "title": "sabah vs dortmund",
       "source": "google_trends_pk"
     },
     {
-      "title": "kick",
+      "title": "diriyah vs al-riyadh",
       "source": "google_trends_pk"
     },
     {
-      "title": "aus w vs nz w",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "ukraine",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "babar azam",
+      "title": "bbc",
       "source": "google_trends_pk"
     },
     {
       "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+      "source": "google_developers"
+    },
+    {
+      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+      "source": "google_developers"
+    },
+    {
+      "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+      "source": "google_developers"
+    },
+    {
+      "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
       "source": "google_developers"
     },
     {
@@ -92,7 +96,7 @@
       "source": "google_developers"
     },
     {
-      "title": "Evaluating AI agents: moving past the vibe check",
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
       "source": "google_developers"
     },
     {
@@ -100,7 +104,7 @@
       "source": "google_developers"
     },
     {
-      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "title": "Evaluating AI agents: moving past the vibe check",
       "source": "google_developers"
     },
     {
@@ -148,18 +152,6 @@
       "source": "google_developers"
     },
     {
-      "title": "Introducing Support for Local AI Models in the Antigravity SDK",
-      "source": "google_developers"
-    },
-    {
-      "title": "Colab is now part of your Google AI plan",
-      "source": "google_developers"
-    },
-    {
-      "title": "Why client SDK generation belongs in the open",
-      "source": "google_developers"
-    },
-    {
       "title": "Conexiom Unveils Headless Platform That Embeds AI Automation for Orders and Invoices Inside Internal Systems - PR Newswire",
       "source": "google_news_ai"
     },
@@ -168,11 +160,27 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Ryan Achterberg Returns to KSM to Lead AI Consulting - Inside Public Accounting",
+      "source": "google_news_ai"
+    },
+    {
       "title": "AI is not likely to take these 10 jobs — and some pay six figures. Here's where to focus. - Yahoo Creators",
       "source": "google_news_ai"
     },
     {
-      "title": "Canals Brings AI-Powered Accounts Payable Automation to Contractors Using the Trimble Vista Financial Management Solution - Business Wire",
+      "title": "How AI agents can go from hype to results - Transport Topics",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI-native networking vs. traditional network automation - TechTarget",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Compucom Launches New Website Built Around the Questions Enterprise IT Leaders Are Asking - Morningstar",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "IBM Ventures Invests in Leena AI to Expand Enterprise Back-Office Automation - citybiz",
       "source": "google_news_ai"
     },
     {
@@ -180,15 +188,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Mouser Highlights Industrial AI and Machine Learning in Automation Resource Center - Robotics Tomorrow",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "The Next Phase of AI - Machine Design",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Grupo EULEN Advances Robotics, AI and Secure Automation in Professional Cleaning - Business Focus Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "Lincoln Electric Introduces XpertLINC™, a Physical AI-Technology Platform That Redefines the Future of Robotic Automation - Morningstar",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Tech The AI forwarder of the future - The Loadstar",
+      "title": "Revvity Launches AI-First Platform to Coordinate Lab Workflows from Discovery to Manufacturing - Clinical Lab Products",
       "source": "google_news_ai"
     },
     {
@@ -196,15 +208,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI in Business Strategy: Where Technology Helps and Human Judgment Still Leads - Keiser University",
+      "title": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents (V:NYSE) - Seeking Alpha",
       "source": "google_news_ai"
     },
     {
-      "title": "How AI, Automation and Design Could Expand Additive Manufacturing - Machine Design",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "A Five-Part Validation Framework for AI-Driven CRM Automation - HackerNoon",
+      "title": "Tech The AI forwarder of the future - The Loadstar",
       "source": "google_news_ai"
     },
     {
@@ -216,7 +224,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "ABB CEO’s View for More Data Centers Fails to Offset AI Jitters - Energy Connects",
+      "title": "Robot Arms Finally Crack the Meal Assembly Line - PYMNTS.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Lincoln Electric Introduces XpertLINC™, a Physical AI-Technology Platform That Redefines the Future of Robotic Automation - Morningstar",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "How AI, Automation and Design Could Expand Additive Manufacturing - Machine Design",
       "source": "google_news_ai"
     },
     {
@@ -224,7 +240,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Parsec Automation Introduces TrakSYS MES AI-Assisted Configuration - Business Wire",
+      "title": "AI in Business Strategy: Where Technology Helps and Human Judgment Still Leads - Keiser University",
       "source": "google_news_ai"
     },
     {
@@ -232,43 +248,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "ABB CEO’s View for More Data Centers Fails to Offset AI Jitters - Energy Connects",
+      "source": "google_news_ai"
+    },
+    {
       "title": "GMEX Robotics Announces MediaMeta's U.S. AI-Powered Autonomous Grooming Project and Patent Filing - Yahoo Finance Singapore",
       "source": "google_news_ai"
     },
     {
-      "title": "Wage to Wallet™ Index – The Resilience Deficit: Labor Workers in an Automated Economy - PYMNTS.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI Risks: The Growing Cost of Automated Decisions - Frontline Magazine",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AGCO and Agility Robotics Advance Smart Manufacturing with Humanoid Robot Pilot in Hesston, Kansas, Facility - Yahoo Finance Singapore",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Visa : Trusted AI agents are moving from automation to real-world commerce - www.marketscreener.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The Practical AI Opportunity: Why SMBs Want Guidance Before Automation - PYMNTS.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "3 European AI Factory Automation Stocks Retail Investors Should Watch Now - Yahoo Finance Singapore",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "GE HealthCare Launches LOGIQ Focus to Merge cSound Architecture with AI Workflow Automation - HIT Consultant",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Touchless Resolution: 5 Steps to Turn AI Pilots into Outcomes - CX Today",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Consumer Alert: The AI Customer Service Race Could Be Costing Companies Customers - Yahoo Finance",
+      "title": "Canals Brings AI-Powered Accounts Payable Automation to Contractors Using the Trimble Vista Financial Management Solution - 01net",
       "source": "google_news_ai"
     },
     {
@@ -276,7 +264,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "SAFE Structure Designs Partners with Copeland Applied Systems to Advance AI and SI, Expand American Manufacturing Jobs and Strengthen Department of War Support - Yahoo Finance",
+      "title": "Justt Wins Silver at the 2026 Money Awards for AI &amp; Automation in Payments - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "IBM Ventures Invests in Leena AI to Expand AI Solutions for Back-Office Automation (IBM) - GuruFocus",
       "source": "google_news_ai"
     },
     {
@@ -284,11 +276,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup - DesignRush",
+      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
       "source": "google_news_seo"
     },
     {
-      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
+      "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -300,15 +292,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Documents That Professional Service Businesses Invisible in Google AI Overviews Are Starting 2027 With a Compounding Answer Engine Optimization Disadvantage That Wid - Newswire",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Beware of AI Content for SEO - Practical Ecommerce",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
@@ -316,15 +300,23 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "AI Search Engineers, the No. 1 AI Search Results Engineering Agency in the USA, Documents That Professional Service Businesses Invisible in Google AI Overviews Are Starting 2027 With a Compounding Answer Engine Optimization Disadvantage That Wid - Newswire",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Zero-Click Search: SEO Impact and Optimization Tips - Simplilearn.com",
       "source": "google_news_seo"
     },
     {
-      "title": "Google feeds rank trackers swapped results on 8% of pages, Nozzle finds - PPC Land",
+      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
+      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
       "source": "google_news_seo"
     },
     {
@@ -333,10 +325,6 @@
     },
     {
       "title": "Daily Search Forum Recap: October 20, 2026 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -356,15 +344,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "MozCast - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
@@ -384,11 +368,19 @@
       "source": "google_news_seo"
     },
     {
+      "title": "MozCast - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
       "source": "google_news_seo"
     },
     {
       "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google feeds rank trackers swapped results on 8% of pages, Nozzle finds - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -440,10 +432,6 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "“Full of surprises” – The Wolf of Whindale by Jacob Kerr - Bookmunch",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Hackers Compromise Rank Math PRO WordPress Plugin to Install Self-Rebuilding Backdoors - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
@@ -452,7 +440,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Security: 8 Ways To Protect Your Website - All About Cookies",
+      "title": "“Full of surprises” – The Wolf of Whindale by Jacob Kerr - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
@@ -460,7 +448,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "The Truth About Nulled WordPress Plugins and GPL Software - Tech Business News",
+      "title": "WordPress Security: 8 Ways To Protect Your Website - All About Cookies",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Some Rank Math PRO downloads carried malware that could backdoor WordPress sites - Mezha.net",
       "source": "google_news_wordpress"
     },
     {
@@ -481,6 +473,14 @@
     },
     {
       "title": "Inside New York’s spookiest 19th century mansion, dubbed “the house of many mysteries” before it was abandoned - Ephemeral New York",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Decoding the original cast-iron subway entrance that’s been on a Brooklyn corner for 110 years - Ephemeral New York",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "When Monopoly Comes Naturally - Energy Institute Blog",
       "source": "google_news_wordpress"
     }
   ],
