@@ -298,6 +298,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "burger king hello kitty codes",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "burger king hello kitty usa",
       "intent": "informational",
       "demand": 70.0,
@@ -307,7 +316,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "burger king hello kitty code",
+      "keyword": "lil jon songs get low",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -352,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "interland be internet awesome",
+      "keyword": "alex cooper alix earle",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +370,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "interland game for kids",
+      "keyword": "alex cooper baby name",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "interland be internet awesome",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,24 +415,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "taye diggs netflix movie",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "lil jon son nathan",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "lil jon songs list",
       "intent": "informational",
       "demand": 64.0,
@@ -433,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lil jon son passed",
+      "keyword": "lil jon songs pitbull",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,15 +451,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lil jon songs pitbull",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "lil jon son found",
       "intent": "informational",
       "demand": 64.0,
@@ -469,7 +460,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lil jon son drowning",
+      "keyword": "lil jon son age",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "lil jon songs produced",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -479,6 +479,24 @@
     },
     {
       "keyword": "people finder us.unmask.com",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "peoples bank indianola",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "peoples credit union",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,16 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "slayground 2027 imdb",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "slayground motocross park",
+      "keyword": "alex cooper baby",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,24 +559,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex cooper baby",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "alex cooper auctioneers",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "alex cooper hpv",
       "intent": "informational",
       "demand": 58.0,
@@ -586,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alex cooper podcast",
+      "keyword": "interland music festival",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,6 +622,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "taye diggs age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "lil jon son",
       "intent": "informational",
       "demand": 58.0,
@@ -647,6 +647,15 @@
       "ranking_probability": 52.6,
       "learning_boost": 0.0,
       "learned_score": 52.6
+    },
+    {
+      "keyword": "peoples bank",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
     },
     {
       "keyword": "people magazine",
@@ -667,34 +676,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "people search",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "peoples gas",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "peoples bank",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "people first",
+      "keyword": "peoples company",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -721,6 +703,33 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "slayground imdb",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "slayground trailer",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "slayground cast",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "slayground 2026",
       "intent": "informational",
       "demand": 52.0,
@@ -730,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "slayground saulnier",
+      "keyword": "slayground poster",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,16 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "slayground mke",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "slayground book",
+      "keyword": "slayground premise",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,6 +775,33 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "interland 2026",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland festival",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "hinterland lineup",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "interland 2",
       "intent": "informational",
       "demand": 52.0,
@@ -784,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "interland inc",
+      "keyword": "interland trucking",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -794,33 +821,6 @@
     },
     {
       "keyword": "interland google",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "interland 3",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "interland 4",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "interland 1",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1183,7 +1183,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "burger king hello kitty usa",
+          "keyword": "burger king hello kitty codes",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1192,7 +1192,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "burger king hello kitty code",
+          "keyword": "burger king hello kitty usa",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1251,15 +1251,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "taye diggs netflix movie",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "taye diggs movies",
           "intent": "informational",
           "demand": 58.0,
@@ -1288,6 +1279,15 @@
         },
         {
           "keyword": "taye diggs height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taye diggs age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1355,24 +1355,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "people search",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "people first",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "people",
           "intent": "informational",
           "demand": 46.0,
@@ -1398,6 +1380,101 @@
       ]
     },
     {
+      "pillar": "lil jon songs get low",
+      "cluster": [
+        {
+          "keyword": "lil jon songs get low",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "lil jon songs list",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son funeral",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon songs pitbull",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son missing",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son found",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son age",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon songs produced",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lil jon son",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lil jon songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "alex cooper net worth",
       "cluster": [
         {
@@ -1408,6 +1485,33 @@
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "alex cooper alix earle",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex cooper baby name",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alex cooper baby",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
           "keyword": "alex cooper husband",
@@ -1437,24 +1541,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alex cooper baby",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alex cooper auctioneers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "alex cooper hpv",
           "intent": "informational",
           "demand": 58.0,
@@ -1465,15 +1551,6 @@
         },
         {
           "keyword": "alex cooper unwell",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alex cooper podcast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1505,16 +1582,34 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "interland game for kids",
+          "keyword": "interland music festival",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
           "keyword": "interland game",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland 2026",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland festival",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1532,7 +1627,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "interland inc",
+          "keyword": "interland trucking",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1542,33 +1637,6 @@
         },
         {
           "keyword": "interland google",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "interland 3",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "interland 4",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "interland 1",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1588,82 +1656,10 @@
       ]
     },
     {
-      "pillar": "lil jon son nathan",
+      "pillar": "peoples bank indianola",
       "cluster": [
         {
-          "keyword": "lil jon son nathan",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon songs list",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon son funeral",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon son passed",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon son missing",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon songs pitbull",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon son found",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon son drowning",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lil jon son",
+          "keyword": "peoples bank indianola",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1672,13 +1668,31 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lil jon songs",
+          "keyword": "peoples credit union",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "peoples bank",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "peoples company",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1687,24 +1701,6 @@
       "cluster": [
         {
           "keyword": "slayground jeremy saulnier",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "slayground 2027 imdb",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "slayground motocross park",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1731,6 +1727,33 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "slayground imdb",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "slayground trailer",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "slayground cast",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "slayground 2026",
           "intent": "informational",
           "demand": 52.0,
@@ -1740,7 +1763,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "slayground saulnier",
+          "keyword": "slayground poster",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1749,16 +1772,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "slayground mke",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "slayground book",
+          "keyword": "slayground premise",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1778,19 +1792,10 @@
       ]
     },
     {
-      "pillar": "peoples gas",
+      "pillar": "hinterland lineup",
       "cluster": [
         {
-          "keyword": "peoples gas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "peoples bank",
+          "keyword": "hinterland lineup",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
