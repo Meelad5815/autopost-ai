@@ -1,6 +1,6 @@
 # MRK Earning Opportunities
 
-Generated: 2026-10-21T17:12:42.254082+00:00
+Generated: 2026-10-21T21:43:12.190049+00:00
 
 ## 1. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
 - Score: **18**
@@ -8,176 +8,176 @@ Generated: 2026-10-21T17:12:42.254082+00:00
 - Published: Mon, 03 Apr 2023 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE5HN2RLSEZWQkExb0JVRXpDMGQ5dTF1eDE1VnRtbjl4NGV3ZTZSc0FkdUJFTFhNZnFMMEFvYlhhWmplemVQeVBKRXEtRWZESGxBNmRWLUszaGtrdDMzazRMc3A1ZWROdVhZR1dtYzV2WjVRYWM?oc=5
 
-## 2. How an India-Based Web Developer Quit His Day Job and Built an Agency - Shopify
-- Score: **18**
-- Source: Shopify
-- Published: Fri, 18 Aug 2017 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnNiWmJadm5lN2tLV0FnbWRiQm1NUjZwM19RX1FIdzdHNndIOFpRWDZKUnUzQVh1d19tSFRIbEJhVlc4aW5famtiWnlBQ1ZkZjdXWHUzcFpaaFkzZzVPRlMyRk9NMWt3LTk3aWd5aHpwekZjM2tVal9KUVI1aXlCZ1JiYzQ0ZlFsSVVvUElBb3VGUGtmQ2J6Yzh3UXhiYTdiQTVCOTBac01Qa1E?oc=5
-
-## 3. 10 Best Platforms for Remote Freelance Jobs in 2026, Ranked - Techloy
+## 2. 10 Best Platforms for Remote Freelance Jobs in 2026, Ranked - Techloy
 - Score: **16**
 - Source: Techloy
 - Published: Tue, 20 Jan 2026 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFNVdk5MQ1JBb3FDSVY3MVAzZWMwOFRvZHBZRk5kc0VMcU5sLTlCc19EM0Vta21SbEdlTHplR0ZGRGhYZlhvNXBrM0VfQmNTa29ZcktteFh2eERzb2VWN0JMdzVzSVYxS2tla2Q3SHJXTE1LVDlDUWI1QTlCRzRlZWdFcXhvcmVZX2pZ?oc=5
 
-## 4. 9 Remote Freelance Jobs That Can Turn into Full-Time Work from Home Careers - Vocal
-- Score: **16**
-- Source: Vocal
-- Published: Thu, 24 Apr 2025 11:33:57 GMT
-- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1FOZTdRYzFzbDIyMXh6OUpGTXg0cm5OYUFhRG42V2I3aGJYRFU1b0RIS2ZQLVRCZW5wY1ZKZnZHak1ieGRLczlXdTZjRl9rZHR5RjFxU3BNX0w4YVdqQXpMYXBkLUM3cGNwRW5jaGJhbTB0YVhaSDJXdEYxZGFFbktwaXpROEU2WWVzVm5CVmVzZ0t4WkxleUdHeG5XNGZzRUZhTl93?oc=5
-
-## 5. 23 great examples of WordPress websites - Creative Bloq
-- Score: **14**
-- Source: Creative Bloq
-- Published: Wed, 20 Nov 2019 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE9wZFFuQ1VHczJUajRWRkRDelR3OU93LU8tbXFBNWJnSUJTT0s0bmJ6SnluNWI1NFVuc0hiTXBjcG5wMEIzeU9nMkxDRlRWTmhYQXBaOVVoamF2LUlvZV9hMkluSEN2Yms4YlNtYXpLdTFyWnNWV3c?oc=5
-
-## 6. WordPress pricing in 2026 – how much does a WordPress website cost? - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Wed, 16 Sep 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Wnh6RVQtWEtQaHM2Yk5QT3IxcElZM1EzbGtZRDhWamlGOUMwSTJqRlM3amtULTdRRXVTcGs1U1ljQUhTQ0tSMDlwTjBYNHhKVVNmc2U3TF90a08wVUlBLURZd0U?oc=5
-
-## 7. Is WordPress free? An overview of contributing factors - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Wed, 14 Oct 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2c3QxNUpoVUc4Mi1yd0ZlcEQwZTlSSlkxRlczN0dYdUEyMGRmMEhQanRTTS1NNnJmd3lsYmJtQ0JIeENQbWpwZXpnRGVkNk45UkxlMlByeWZXQ2x0YTE5czRGbGFHWl83?oc=5
-
-## 8. How to build a website with ChatGPT (step-by-step) - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Wed, 14 Oct 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ONkhsZG5SeEhqZ3lEeUVCZE9iNWVpNlV1dElqNHlxRC1GUU45dklZeS1NVkpsQ05BZEl6eWJkSzVmXzhZbUpSRlgwY0Z1ZXpRQ2szV0pWcmdjWTlBVHNHM0FyQ1pvNnVZOERiMmVRZlo?oc=5
-
-## 9. Ahmad Awais Interview – WordPress Core Contributor, Front-End Fanatic - Themeisle
+## 3. Ahmad Awais Interview – WordPress Core Contributor, Front-End Fanatic - Themeisle
 - Score: **14**
 - Source: Themeisle
 - Published: Wed, 09 Nov 2016 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE13MF9YUkdlcG1VN3hRa2F6ZFdVc0xXVjVhLVM3aFhza3dqdzZlT01CdmI4Rm04ZUM3U3ZNOHBpZ2hacVkxQjVXQjFIZFFWSmg1WlQxZEZLVEpHNm9uV2c?oc=5
 
-## 10. Arduino Brings Modbus TCP Over-The-Air Updates to the Arduino PLC IDE 1.1.0 - Hackster.io
+## 4. Arduino Brings Modbus TCP Over-The-Air Updates to the Arduino PLC IDE 1.1.0 - Hackster.io
 - Score: **14**
 - Source: Hackster.io
 - Published: Wed, 04 Mar 2026 13:24:42 GMT
 - URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUdydUF3YkRoMDYybUdQa1BRM2FnOWl4eDRvbXdzelFUSkJ2bmREVjRtOVBjeHl1YnZkbXZHM29uMlVnQkRFOGdZeE8xcUozcDRsenk3eXExVDFabHFYWEZnVEFIZzhqbWtHZGpWbTZBdnIwQWZoX3FsaS1aQVRLNlpOUXNmVkpRSFRGalpPb1FRQnJoNE9YRzh5dmdlRllXSkVKN3VMMnFSeWV1OXBmdVh3R2FwV0du?oc=5
 
-## 11. Arduino Targets Industrial Automation Education with Its New Opta-Based PLC Starter Kit - Hackster.io
+## 5. Arduino Targets Industrial Automation Education with Its New Opta-Based PLC Starter Kit - Hackster.io
 - Score: **14**
 - Source: Hackster.io
 - Published: Wed, 03 Apr 2024 14:45:32 GMT
 - URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXBqTGRyQ2tWeDRfQkg3VUw3RDBYSmNTcEV1eFd0NUtXQkJZNUJ4dUVvTUluWVlTSWdMbXRmSHltSlA1Vm0zdnZLVkxlTF8zUnFpWXNoMkhyUUpCRHFzSzlsZkV1YmR1OHRzMGg5VjdrS1RLTktlQTFJaHNIenFNenZJSUpfakNtaWxpQ0Z2S3BuTTk3TGJxelQ4blEwX3UtV2hFQXpxWUZ6Qi16dVNqdE1jVHF0VkoyX05Ha0ppVXF0eXliWkNUZA?oc=5
 
-## 12. 18 Best Online Jobs for Teens to Work From Home - Money Crashers
-- Score: **14**
-- Source: Money Crashers
-- Published: Tue, 31 Dec 2024 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBGS3otSnhMMWJaNUpwaWZIbzVJXzZRUGJGSlpvUTRNQi1yNVV1eFU4VkNKOXZLTTlBTVdMT04yN3B1WXhvZS1PWHYzYnF6U29GaGNIZTh3LUw1YmZkalpDZ01IZUpBT25wcGd3YlpuWWxzazFqdGc?oc=5
-
-## 13. Muhammad Haris Is the First Developer to Earn $10 Million on Envato Marketplace - ProPakistani
-- Score: **14**
-- Source: ProPakistani
-- Published: Tue, 29 Dec 2015 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxOTzF0Y3hSZnBNVWw0T2t2U3B5Ukx1MmFxRm5Fbk1zc2FZT1RNaWhzU3Y2WnBTWDNqdTR1b095UmhpUGI2YjBEd3kwYkVtd3VlVGJ2R1Y4US11RnlVYTF6bTlGaGp6VUQtekQycnlxQjg0THZVcWZhX2NDM0FQdVBmOU9IS2hMU3RMV0FydDZJREZoSWstUXNIVXdRckJvR1ptTHhRTzdURllGdS1iSEtkc053Qk_SAboBQVVfeXFMTjZsZDRxQ0VIeUVFVHNRQmx6cVoxSkhwZ0xWcEVRV3gwUWVPSnZ1dVdsTUZoZnd1c0ZIZzhzUTRKVHNvcE1nbzFIaWtKa0NmN2tMTk5ZRUUyOFhqYUpqSzRZSkRWbjR0YnB3cW1yTGlCVm9rYl9mY25QZTl0Mnk4Z1ZPM1pmTTF2aE9XeHRqdFlBREU1V0VGNVhoN3M4NnVIQm4tR2lpUXlHcURLX05SQVJXNE5oWnRQYUR3?oc=5
-
-## 14. GoDaddy Is Offering Leads To Freelancers And Agencies - Search Engine Journal
-- Score: **14**
-- Source: Search Engine Journal
-- Published: Tue, 29 Apr 2025 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxQMkkzY2ZsaGJYdmFzck0tVGhBaklBdEVQOWtFaEM1VWNvSXdBWkRiMFN1d1VJcllMaW82M1hvaDR1QzFHMVo5cXFXUTVGTi15NzZFTVJ4U3BpQXJvbjI4Si1sTW5TMS1pdkVvZWlNSjBiODFhQkhkbWtBUE41ZXNIWnNR?oc=5
-
-## 15. Toptal Review: Is It Worth Paying More Than Upwork and Fiverr? - Themeisle
-- Score: **14**
-- Source: Themeisle
-- Published: Tue, 28 Nov 2023 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE44cm5YeEpfa0doMWZDaWEzVElWTkp0QW1BS056dG5NajBxRVFQOEZPNkZEbWZ0TThIVVFKUF9ndGJ0NnRRcS1LLUJUbUpHYjBNRGZr?oc=5
-
-## 16. Website Design Cost in 2026: Pricing Guide for Businesses - Cybernews
-- Score: **14**
-- Source: Cybernews
-- Published: Tue, 23 Jun 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFBGMGhlU1lVQmxMcVZYbFJ2ckFiX1NBdHAteDdfVjA5UDBlNjRBejhZNHNlSi1YYzU1TTZrbUR4c1pET2dWVGJQeVdzQlFqdzZDLTZLeGFrMEl1UktmOXd0Nm5TdHZBZGoydkc0QUx6eTdwWEpDMmUwZ2pHNmJ5UjVXNXBfNk54Zmd1MEg3dnZnRHYwMzg4UUVwd3VfWFBjN2tsREVQZ19qTFlZ?oc=5
-
-## 17. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
-- Score: **14**
-- Source: hi-Tech.ua
-- Published: Tue, 20 Oct 2026 04:08:25 GMT
-- URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2M5NFFhdW9kWEhjdmQwaFBrS2RWejBCd0FybVo0Z2E5S0k0TWtqTTFMSHR0UnJ1U29udEhCd1dpVHBvRFlqcWlfNzV0SzFpZC1seUlfWFgwUG5sUWRwNEFHMmRCYWJyck1yQTJ2OHFsUFlyNUtqOVMyWThCU1c4eUxUd21xcURVRGp0SEpzNlNOZw?oc=5
-
-## 18. Freelance Statistics By Work, Growth, Platform (2026) - Market.us Scoop
-- Score: **14**
-- Source: Market.us Scoop
-- Published: Tue, 16 May 2023 11:47:44 GMT
-- URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtTy10NFl3bDFhNXd6UHJ3TVdfTi13SUc0Q0l2dl9nSG91MDd1eUZZTXhZQ09DTmptVmZ0dl9iNTcydHdYRjJLU3dVUDlicUlMcDRieVduM20?oc=5
-
-## 19. How to Become a WordPress Developer - Guide for Beginners - Hostinger
+## 6. How to Become a WordPress Developer - Guide for Beginners - Hostinger
 - Score: **14**
 - Source: Hostinger
 - Published: Tue, 13 Jan 2026 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE1KMnJseXFhZ1lSSlBpSHdnRmlWbHlqalZoVzhkZUcza0FqVjhpX1QxWS1EN2NXS1M1a25sOTNENmVjcXNOdm1MMjZmOWpVSDlFZDkybThPUnZ5TEVfWWg2UzRWUzYxdk9PNm9fRHlYWmtyRFM1YzE2dmlR?oc=5
 
-## 20. Why Is WordPress So Hard to Use: Reasons and How to Fix It - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Tue, 10 Mar 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE5ScnBRZklrX2Z0UmFWbUUxZ1g3SlpnMTRYa09OeEZwTzFub1FFOFV1aWJnQlpzMEtsdkYtRXRrZ0hBNjJ4ODYzbGgxdDctcHN6WFM5YS05NXJtdWNlb0NhblFlMUFicGsyMWs5Vk5seHJMVWhIQjR3?oc=5
-
-## 21. 10 Best Free One-Page WordPress Themes and What Features to Look For - Hostinger
+## 7. 10 Best Free One-Page WordPress Themes and What Features to Look For - Hostinger
 - Score: **14**
 - Source: Hostinger
 - Published: Tue, 01 Sep 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE5VVWt5YXU1VWxSemU5LXdFZktTSGt0b2V3WDFsNW5MSmFrR0VHQ3g5SUhyeGdQSExlc1d2QWZYSk1GWWp0aEplRjFoNEtPbWFCZHA4MFcweERtY3NkbWs5T3lKZHFoOUhGWU5oWEx1TUJXYm52WXNCYVdB?oc=5
 
-## 22. Wix Studio Offers Freelancers & Agencies Way To Scale Business - Search Engine Journal
-- Score: **14**
-- Source: Search Engine Journal
-- Published: Tue, 01 Aug 2023 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQlctT3V4SnZMdWw0Z1VKd0hOV00xa0tpbVBTWjE4YldSZXF4X0VyNWVEVUQzamtmTDFaWGU5QXNvcks1Rzg4WHJjSkpuSEduU0NwRFBVM0FURl9fRFZmYXNmLU8?oc=5
-
-## 23. Exploring The Future of Python: Trends & Innovations Ahead! - Simplilearn.com
+## 8. Exploring The Future of Python: Trends & Innovations Ahead! - Simplilearn.com
 - Score: **14**
 - Source: Simplilearn.com
 - Published: Thu, 31 Jul 2025 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ITkxfYWRneFVmUUpMM3ZMbnlHbTJjcWhOWEJaN0ZfMHpsS0dGM3BhTTJ2MGFnNXdudHJucnNYdDI1OEREMjE4NTdEYXJkcUR2aTVlVzVueU5JSzhPalpKQm9B?oc=5
 
-## 24. Free AI tools are killing South Africa’s web designer job market - Rest of World
+## 9. Free AI tools are killing South Africa’s web designer job market - Rest of World
 - Score: **14**
 - Source: Rest of World
 - Published: Thu, 31 Aug 2023 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiekFVX3lxTFBVcVlNLXVZbVNWcU9iZXJhdUJZLTl3YWh5NTRIQkpJTVVfdklaM0NQU2VkWTY3TG55a0xEMUZySnp6NV9IQ0pBbjhBMXV5ckNvQ0t3N052cUpHb18tbUxwTE9NM0M5X1pIXzhBWkplczNuMzNEWDlEYnlR?oc=5
 
-## 25. Hidden Gems: Meet Joshua Rystedt of R Creative - Voyage ATL Magazine
-- Score: **14**
-- Source: Voyage ATL Magazine
-- Published: Thu, 30 Oct 2025 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUIxZnkzcmtmcUdLeDFRQlIxVnZZZlBpTVFHTUVDbXJNWUphVXBQMkExLVROTlJIV1pkMmpGQXkxb1FSaEZrcW5MbXJ0a3FHdW1UdUpJcDdGNDRxY2ExNjFPYzUySy1vYnd5czZYTl9uRHJ4d1VZSTlFTUZrTjJiRXVFY0U?oc=5
-
-## 26. Discover Leading 30 Digital Marketing Consultants of 2024 - Indian Startup Times
-- Score: **14**
-- Source: Indian Startup Times
-- Published: Thu, 29 Feb 2024 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWlZaEFwUWY4bk5EUE1CbXRUaGM3UmhiYmZheXBBcTNtUlp3UEtETEM5RGFHeVl5dzBhck5wR2FFWTFsNWNGazZDa0J5c2swblpfUS0tOHQyejNITldyS1Vod1hhNVRBSnMxcGp6ZEVmbnFxcDhSeVJ4RXJnb2lVSUNYVkNjQ0JRd3pFOWRaVWVyckpWbFlNc0lCVllQWnM?oc=5
-
-## 27. 4 platforms that teach coding online - Deccan Chronicle
-- Score: **14**
-- Source: Deccan Chronicle
-- Published: Thu, 28 Nov 2019 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0owNVdud1V6MXhmbjVVYjNuamw3MnNnSzlCSWlMS2RhZnVkZ3hfRTJzdXVRT01WUXFlaVBVRjU3UnRUYkFCZS11SXRkX21MNExCQk9Tc3B3X3Z4dFUwWkdOZG42azNVZHdrMkljYkpwaExGNkJnZW1JUmdaMFpwNkdvOUt5b01rSmlpWGJIZnl5WDd0VlBvQ0xUVzhlb094NklIX3JRY0fSAa4BQVVfeXFMT1k5cVJsVGNaU3Fwb1JzNDNybGVLSi01SGtTMl9mOEhydjc3OFlIYnNLZF9JXzB1dXJXRmZnbjZaME5NVUd4XzV1NGJtN0dxNHRxUW5YdkN0LWRQLXc3aFBKMnlCZXFmZm13YXZtNU9icVRkYVdxOE9BcUdkQVJ4dzZPUHVlZXpBR2VkRG9SR19KcmxyOHZBZHk5Z2NZazdDMFJBT0dHZ3dOaGFSN2pB?oc=5
-
-## 28. 6 Sites to Hire WordPress Freelancers if You Need a Helping Hand - Themeisle
+## 10. 6 Sites to Hire WordPress Freelancers if You Need a Helping Hand - Themeisle
 - Score: **14**
 - Source: Themeisle
 - Published: Thu, 23 Nov 2023 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lUHRqTlJmREg3bWM4ZHRYdGJ2VExWZDNWNnllWGd4ZWs1TU1ZRjYxcnFqYkZERmlZSzhqa2FSWEF6NDJGbzFKbmVJV1ptNFlibnZHWm1wekY1M0liQTZPbjVCOGs?oc=5
 
-## 29. Introducing Our Google Season of Docs 2020 Participants - Creative Commons
+## 11. I Evaluated 6 Web Design Software for 2026: See My Top Picks - G2 Learning Hub
 - Score: **14**
-- Source: Creative Commons
-- Published: Thu, 20 Aug 2020 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1WX3NKMU1DTVJXNTY2dEdzbER1YWxhZkUtSjZ4NEJEUk1HRmVsV2lzOUh6TElvdHRxcXVLbHhTcFlXU1FlWkNrb2J4Q0VUZWJYa2FrVjJNbXRXREN0OF9TUnhfZkZlS0ZzSWRvZDl6NTI5bWJS?oc=5
+- Source: G2 Learning Hub
+- Published: Thu, 09 Jul 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ck1GZHFNY24yVjNZYVpqVDJOXzFJdmI5VWllU1M2VUdDcHM5MTkxU2VtLWVlbDI5cnoyOEgzWHN1YmVkOVZUTUNYaUU4WUo4RlBZZ1BvSWLSAWhBVV95cUxPY2tqdlg1bTRGN3hCSF9LcVAxQXlhS2kzQ0ZuZDNIYUFTT1hDZ2daZE5BZXZEZmFCQllHdlZwcEl3V3F1T0ZBcl92WXUyN1ZjNHZvR3lodXA4c3AzMzlaMG1XRUVEbzZ6bA?oc=5
 
-## 30. WordPress’ new AI website builder helps you quickly create your own site – and it’s free - ZDNET
+## 12. Web Designer Salary: Your 2026 Guide - Coursera
 - Score: **14**
-- Source: ZDNET
-- Published: Thu, 10 Apr 2025 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxObTlGZ2dvVHh6aWJWOWFfVnd1aFNOVHd4RnBvVmJvT1lzV2lNcEtTX3BtZlpxN212Q2VJME8zQnBSb0VsT255WU5LNG1reWtzOGs4ZnNnV0hINHhDamVDR3F3SFlwWUstOXBMcHBCbDdaQmRsODNkenA3YlJ1elRya1RUamotOGdVWWhVSEQ5YVBqanZKYTk2ODU3YjlUOXN5NXBIdDRoSF83MEx0Yk9FaU4zUXZ1Zw?oc=5
+- Source: Coursera
+- Published: Thu, 04 Dec 2025 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9od29XWElSV2VTdUtRVEM0WDdFMkJpV0JyNE92OWFFNjRpYWpWcWg3UGh2ejZueVhYVUpIMXZuLVJ4SkxjakM2a1VONjRuYzNNZENFZU9FeEs1SFIxUUstOXdwOHQxR2s?oc=5
+
+## 13. 25 web developer portfolio examples for your inspiration - Hostinger
+- Score: **14**
+- Source: Hostinger
+- Published: Sun, 30 Aug 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE82WlNrMzNvY1J3Um9XVmU1YU9oNE84MjJabXk4emxUZW5rMkNtUUdoRHZENDEtUUt1QmdzOHRjcllFVUpyZmNDWGNSRTQ1QmJRelB0VWFFV3lvaVFJeU0wLW9xNURQX0FwZ3Y5NFFqZlc?oc=5
+
+## 14. Arduino Opta PLC: First Thoughts - Embedded Computing Design
+- Score: **14**
+- Source: Embedded Computing Design
+- Published: Fri, 19 Apr 2024 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjZTMmxoWWpTZWNEd01CSUxrVEZuV0ZwcXljV1NETWRhNDcxNVlLbmZ4YUhNUFZRQXFUTGxCblNrajdqNGd6MWFpRDhqclV1T19LU0hlVWxNV19uY3MwNkIzSnhzMGVJSmpEcG5uNTZOQTNVSTFTbE53cXRqRVVRQmZFTGs5d2p4QWYzRlJWRTVrLVpKSkZfV2gwVF9JOE9mRkZB?oc=5
+
+## 15. The top 10 companies hiring the most work-from-anywhere jobs - CNBC
+- Score: **14**
+- Source: CNBC
+- Published: Fri, 08 Feb 2019 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3ViNE5ZUTN6eFV1WE1XYThyWjM5cU0zaWR6NzVYRjlwMEVxcUJ6ajJXS196UGQyX0RJcFIycHU3eEdmODh2Qmo2d2FsdlNLV2hKRU9GcFdKYXF0NUE0eEFZY0kydDQxWTY0c2RTQXdhdldCT0FtSHNjcEJaVHhsNFYwTzVCVlVzZkVMejJDRnVUbkVZY3dyM283SWVIQ1FTU1U4a9IBqgFBVV95cUxOVGJJNE5tV1N1WEsyMGFRRXBZNkNBcDIyZkJwajBITEhLS3FENVdrUEdzSUZRb01XV09PYlBvdlFYeG5rcmxyZGh1WTBVYlFxYmxEZF90eVJWUi1Bd1VqdGVEaU40Q0VDd3BJZEFyc3RibEVOWXo2MTdLc3NjaXM4bHFiZGpSNWlwNzAzOVQ1YWNIeVkyaG1jSDUxQjRXWjExQ1Y4TDhKdTlpZw?oc=5
+
+## 16. How an India-Based Web Developer Quit His Day Job and Built an Agency - Shopify
+- Score: **13**
+- Source: Shopify
+- Published: Fri, 18 Aug 2017 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnNiWmJadm5lN2tLV0FnbWRiQm1NUjZwM19RX1FIdzdHNndIOFpRWDZKUnUzQVh1d19tSFRIbEJhVlc4aW5famtiWnlBQ1ZkZjdXWHUzcFpaaFkzZzVPRlMyRk9NMWt3LTk3aWd5aHpwekZjM2tVal9KUVI1aXlCZ1JiYzQ0ZlFsSVVvUElBb3VGUGtmQ2J6Yzh3UXhiYTdiQTVCOTBac01Qa1E?oc=5
+
+## 17. The 6 Best Sites for Hiring Freelance Programmers and Coders - MakeUseOf
+- Score: **10**
+- Source: MakeUseOf
+- Published: Wed, 20 Dec 2017 01:00:48 GMT
+- URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxOajlJb1FEdnFKdW5IaU40a3M5VEVaTzdKa3B4NWxMYnVQWTI0dmxZQUE0dE5qNHB6R3hfZGg5eS1mbDdPcV80X2cwVUNmZVE5OV9YdGxHb3poZW1tRFdCMFBteTZHVUl6N1d1cHJPX3g2TnY5RzUwQlBFNUxUVVQxWGR5QQ?oc=5
+
+## 18. 9 Remote Freelance Jobs That Can Turn into Full-Time Work from Home Careers - Vocal
+- Score: **10**
+- Source: Vocal
+- Published: Thu, 24 Apr 2025 11:33:57 GMT
+- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1FOZTdRYzFzbDIyMXh6OUpGTXg0cm5OYUFhRG42V2I3aGJYRFU1b0RIS2ZQLVRCZW5wY1ZKZnZHak1ieGRLczlXdTZjRl9rZHR5RjFxU3BNX0w4YVdqQXpMYXBkLUM3cGNwRW5jaGJhbTB0YVhaSDJXdEYxZGFFbktwaXpROEU2WWVzVm5CVmVzZ0t4WkxleUdHeG5XNGZzRUZhTl93?oc=5
+
+## 19. 15 Remote Job Platforms Nigerians Are Using to Earn in Dollars - Zikoko!
+- Score: **10**
+- Source: Zikoko!
+- Published: Fri, 27 Jun 2025 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMieEFVX3lxTE5SeXlXdXFrS08zNHVaMEVHZ0pzWFpOc2dmX2pyd3RMZDk5R2lRQXZkSFFCZ0VSbWlvWnA0a1V2RGlRWDB5Z0pNUkFMSDA1VldTQUVOV0s5emNNYkJWTmtiVEVxZU15VlR6MnZmLU9HbDFfSVlzX05aeA?oc=5
+
+## 20. Crypto Jobs Guide: How to Land Web3 Job in 2026 - 99Bitcoins
+- Score: **9**
+- Source: 99Bitcoins
+- Published: Wed, 27 Aug 2025 14:03:20 GMT
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1iLXdZbXpwcGJHR2xYQTRMcFJOWHJwTFdDQ0RaWk53bFg0QWpicHZabVhVVXRQMVZuMjExRDlkYnZKbUgtUXBIYjJ4VUpVWnhlZXNRR25OdUNCdEVMVXNXb1hSMmg1dGV0UmhlOElQdWRqWWxz?oc=5
+
+## 21. 30 High-Paying Remote Jobs With $100,000 (or Higher) Salaries - Money Talks News
+- Score: **9**
+- Source: Money Talks News
+- Published: Wed, 01 Jul 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0Y5MG9tVTBQY2lldmE2eXNUS1o3X01tZU9rb2lLcWE4cHBRbkxmb0hneU03OFk5eWdWeDh0WnZZV2txbzdUY1BTeHBZc0E4cVM3YVZfWDYya0xWUUFLRmF3S0E0ZE5aeDJLRHNNQ21QdkE4bEZoREVFTlFTYUVBZGc5YnI2dkRhajg3WVJZdHBTWk44bEJZXw?oc=5
+
+## 22. Top 10 Part-Time Jobs in Web3 (Skills and Pay) - Blockchain Council
+- Score: **9**
+- Source: Blockchain Council
+- Published: Tue, 19 May 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFphSlFoM0RlaWJOdUhyZHZKWWk3VGs4dEtLQVoyT19HZXNxdzNDcWNuaGF1bHVrclZDMGpWTHYtanJxbmtJWGp2OTY1SE9YdFhoeGM2NXY1QmE3cXRSM01BYlI1QmMzSEk2T1RRRlJJM1BkOFNsM0ZUSldVTmw1bWdHTDFuaHFjYk5ITDN0SEpVYmpmb1pER3VWaXc2Qld2Q2x1YUhKYw?oc=5
+
+## 23. Move To Lagos, Forget Remote Work, Be A Senior – The State Of Developer Jobs In Nigeria - WeeTracker
+- Score: **9**
+- Source: WeeTracker
+- Published: Tue, 17 Dec 2019 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiekFVX3lxTFBjdGd2V05nMjdGUC1kNE5oaUdaZFZmR0FkUlFIYllqLTBYbkkzQUpIU2NVZGVlbGRmVnRZbjFaVnZzbGEzd0tYZkp4a0JoN2hfcEZqbmZYNEF1a0N2bG9aTEN0YnJ3TWtzVjhEb2RlVVhVMXJaUzcwWEl3?oc=5
+
+## 24. Top 10 Tech Apprenticeships, Internships and Entry-Level Jobs in Fiji in 2026 - Affordable Coding Bootcamp
+- Score: **9**
+- Source: Affordable Coding Bootcamp
+- Published: Tue, 14 Apr 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxObDJ3a01CMUVKejJOYTlGOXVKczFBeGNfYU1BaDhvQ213QjdpODdER3ZQemZMTGp0STJXYkI1UnJkWFlnNEpIOGFTbzEyOEppazdUcTBabHQzT3dwZWRObWdxckNhYWFtYzNTR0ExdUdaT3RUZnJncXB0NkkwQjFrRDRHYWdGY1JHclJyRm5ac0VQcGVKdnc?oc=5
+
+## 25. Learn What the Daily Life of a Junior Developer Is Really Like - AlleyWatch
+- Score: **9**
+- Source: AlleyWatch
+- Published: Tue, 11 Sep 2018 11:21:27 GMT
+- URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTNmRWFMMnU3Y3dsY2NxWTJVX0xpMkdMSTRFNnhUb0trOUc0c0hsWXJheXE3THF4VXNJckNaQXlVMzktQTZoV2FtWmtfZ3BTSGJMMTRESGpoMXVscDVnWldVcHBBaTRkQVVPS283Zi1BdF9ZSFFxcWlTcnZmTXFGdzhGVEh4VWk2?oc=5
+
+## 26. 5 Entry-Level Remote Jobs (and How to Apply) - Coursera
+- Score: **9**
+- Source: Coursera
+- Published: Thu, 21 May 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1tS202SUlfa3o3NnAxUjN4Rk9mSnNNVzlVYTBOd25aZkpwQXJ5am0xMmZCSjZXcm5LZlhMMXdGaDdlMUY4VmwxRTJNak41T2RTNE5RVGphcnpUVUtNOGFXYkZTb1A4VWxDRThZZA?oc=5
+
+## 27. Top 10 Entry-Level Tech Jobs in the US in 2026 (No Experience Required) - nucamp.co
+- Score: **9**
+- Source: nucamp.co
+- Published: Sun, 04 Jan 2026 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1VYXhjbWR0U0VfZzJmWHFtUkgyaW5sM2lqZElMSm1POVIyQ0FHUXlVOUtlR2N4ZW16V2dES01mWnkzNlhYcjBCTDJRNng0dnRVeWV5SGw0bTg2SG5yaHEwOEJiVW9meDVNX0NzTkVwQWkyNXQyWEpPUkw5c3VUNGdJZ1pwWjM0UkdQM1Z0ZFFuX0R2bjJRcjVNeUo?oc=5
+
+## 28. 5 Entry-Level Remote Jobs to Explore (and Where to Find More) - Coursera
+- Score: **9**
+- Source: Coursera
+- Published: Mon, 30 Mar 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLTGd1SUpyMU9hUnN4WGF1UGhucVdVNzBOMHB0ZWYyNS00eENRM2oyVUpaY044QTR0U0FTNTFDaXRLR2QtZjZ6WTVLeGFmSkJwdzlLUHpSOU9FYlJQRlh0WE9rLUE4X05v?oc=5
+
+## 29. 12 High-Paying Remote Jobs to Explore - Coursera
+- Score: **9**
+- Source: Coursera
+- Published: Mon, 29 Jun 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBoZDV2VlhEcGxLcHZKRk85SXNqWHVIbjVuRVBYQ2Z3UU9CS0RkVlNybkJTcUVncHVpMXBqb0JGZEF0RExZN3ZjQ3FYUGY3eGUwaGtqalZ6S0xKU3lRWlFTNHZJc1NtTmw4N0ZiNw?oc=5
+
+## 30. 29-year-old ex-bartender landed $100,000 'dream job' without a degree by ignoring this common career advice - CNBC
+- Score: **9**
+- Source: CNBC
+- Published: Mon, 24 Jun 2024 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWJCLXJNMGowdXFYdGlGd2F4bG9ycDFyUDg0YU42X1ZaM09mN2h3a2lydVhka0U4Sjc0enJIY3FIY1I1amkxbGNKa3NRUlhyTm9Jb3hQU3k4Mkx1XzFSME9PMFlGMWM3M1JxXzFjdlVQaEpSNzR5YlRhUFd4Wk1JbkJidDZJeE81SzFzM3NaenprSUtmRWwwd05SQ0pENUx5VjVuMDdpUUpBYUgyVEtwUzJNclVwcGdzSkotY0x2QmtTVngwaHfSAcsBQVVfeXFMUFJJZnVSUzVfLWZvRG9wbU9IZTdwSlVnUFZrcXFGU2ZLNlQ5a2xPQlVMLUNGc3pFeGFkdFBVNGFhdC1nTFo3RS1XOUFnSGstUmFtOTcwN1RzbXFpdFBWbk5QR0N3eThJRW9IMDlRdld5QnZmbnJ5bHR4Mi05VzVIWEFpaGcxOVkwb2puX0p1a2F3T1BWQUFZOFJ0b1c2bldIZ1liR3RRdDNwUHNydWNONjNwV1FyZTVScFpweGxNaDk1eU04UTJMX2p6MEE?oc=5
