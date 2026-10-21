@@ -100,6 +100,24 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "stephen hubbard why was he arrested",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "school closings and delays toledo ohio",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "school closings in my area today",
       "intent": "informational",
       "demand": 70.0,
@@ -226,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "school closings near toledo oh",
+      "keyword": "stephen hubbard before and after",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -236,15 +254,6 @@
     },
     {
       "keyword": "school closings today near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "school closings and delays today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "john husted phone number",
+      "keyword": "jon husted first energy",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,15 +352,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stephen hubbard tyler tx",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "school closings and delays",
       "intent": "informational",
       "demand": 64.0,
@@ -362,6 +362,15 @@
     },
     {
       "keyword": "school closings near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "school closings for today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,6 +433,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "jon husted football",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "jon husted trump",
       "intent": "informational",
       "demand": 58.0,
@@ -442,25 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john husted contact",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john husted aipac",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john husted party",
+      "keyword": "john husted epstein",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +568,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stephen hubbard release",
+      "keyword": "stephen hubbard family",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "stephen hubbard age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "stephen hubbard ukraine",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,34 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stephen hubbard poker",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard clemson",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard abc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "school closings today",
+      "keyword": "school closings toledo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway tuna",
+      "keyword": "subway hours",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1055,8 +1046,112 @@
       ]
     },
     {
-      "pillar": "school closings in my area today",
+      "pillar": "stephen hubbard why was he arrested",
       "cluster": [
+        {
+          "keyword": "stephen hubbard why was he arrested",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stephen hubbard before and after",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "stephen hubbard of michigan",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "stephen hubbard teacher russia",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "stephen hubbard russia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stephen hubbard family",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stephen hubbard age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stephen hubbard ukraine",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stephen hubbard teacher",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stephen hubbard",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "school closings and delays toledo ohio",
+      "cluster": [
+        {
+          "keyword": "school closings and delays toledo ohio",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
         {
           "keyword": "school closings in my area today",
           "intent": "informational",
@@ -1076,25 +1171,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "school closings near toledo oh",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "school closings today near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "school closings and delays today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1121,7 +1198,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "school closings today",
+          "keyword": "school closings for today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "school closings toledo",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1275,7 +1361,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "subway tuna",
+          "keyword": "subway hours",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1299,15 +1385,6 @@
       "cluster": [
         {
           "keyword": "john husted net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "john husted phone number",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1343,25 +1420,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john husted contact",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john husted aipac",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john husted party",
+          "keyword": "john husted epstein",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1377,6 +1436,38 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jon husted first energy",
+      "cluster": [
+        {
+          "keyword": "jon husted first energy",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jon husted football",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jon husted trump",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1472,115 +1563,6 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "stephen hubbard of michigan",
-      "cluster": [
-        {
-          "keyword": "stephen hubbard of michigan",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stephen hubbard teacher russia",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stephen hubbard tyler tx",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stephen hubbard russia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard release",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard teacher",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard poker",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard clemson",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard abc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jon husted trump",
-      "cluster": [
-        {
-          "keyword": "jon husted trump",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     }
