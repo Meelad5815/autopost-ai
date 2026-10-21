@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:42:16.862779+00:00",
+  "generated_at": "2026-10-21T13:50:32.968235+00:00",
   "queries": [
     "wordpress website development tools",
     "web development automation tools",
@@ -183,7 +183,7 @@
       "language": null,
       "license": "NOASSERTION",
       "url": "https://github.com/rxmna8502/vybe-intelligence-vault",
-      "updated_at": "2026-10-21T05:47:38Z",
+      "updated_at": "2026-10-21T10:14:10Z",
       "query": "web development automation tools"
     },
     {
@@ -234,22 +234,22 @@
       "source": "github",
       "name": "darkzOGx/youtube-automation-agent",
       "description": "🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.",
-      "stars": 4496,
+      "stars": 4501,
       "language": "JavaScript",
       "license": "MIT",
       "url": "https://github.com/darkzOGx/youtube-automation-agent",
-      "updated_at": "2026-10-21T07:19:49Z",
+      "updated_at": "2026-10-21T13:16:17Z",
       "query": "SEO automation open source"
     },
     {
       "source": "github",
       "name": "ericosiu/ai-marketing-skills",
       "description": "Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "stars": 3675,
+      "stars": 3676,
       "language": "Python",
       "license": "MIT",
       "url": "https://github.com/ericosiu/ai-marketing-skills",
-      "updated_at": "2026-10-21T06:41:07Z",
+      "updated_at": "2026-10-21T08:25:03Z",
       "query": "SEO automation open source"
     },
     {
@@ -267,11 +267,11 @@
       "source": "github",
       "name": "garrettjsmith/localseoskills",
       "description": "Open-source Claude SEO tool for local search visibility — skills, tool integrations, and automation templates that turn Claude into a Local SEO expert.",
-      "stars": 130,
+      "stars": 131,
       "language": "PowerShell",
       "license": "MIT",
       "url": "https://github.com/garrettjsmith/localseoskills",
-      "updated_at": "2026-10-20T21:58:58Z",
+      "updated_at": "2026-10-21T10:21:41Z",
       "query": "SEO automation open source"
     },
     {
@@ -311,11 +311,11 @@
       "source": "github",
       "name": "MoneyPrintLabs/stallkit",
       "description": "Open-source Etsy seller automation CLI: bulk listings from CSV, order and tracking sync, SEO analysis, and designs-to-drafts via the official Etsy Open API v3. Runs locally with your own API app.",
-      "stars": 22,
+      "stars": 23,
       "language": "Python",
       "license": "MIT",
       "url": "https://github.com/MoneyPrintLabs/stallkit",
-      "updated_at": "2026-10-18T13:23:22Z",
+      "updated_at": "2026-10-21T11:31:10Z",
       "query": "SEO automation open source"
     },
     {
@@ -344,11 +344,11 @@
       "source": "github",
       "name": "enescingoz/awesome-n8n-templates",
       "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
-      "stars": 26037,
+      "stars": 26039,
       "language": null,
       "license": "NOASSERTION",
       "url": "https://github.com/enescingoz/awesome-n8n-templates",
-      "updated_at": "2026-10-21T07:41:36Z",
+      "updated_at": "2026-10-21T12:13:09Z",
       "query": "social media automation open source"
     },
     {
@@ -454,121 +454,121 @@
       "source": "github",
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144155,
+      "stars": 144162,
       "language": null,
       "license": "GPL-3.0",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "updated_at": "2026-10-21T07:33:44Z",
+      "updated_at": "2026-10-21T13:46:45Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "career-ops-hq/career-ops",
       "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
-      "stars": 76116,
+      "stars": 76255,
       "language": "JavaScript",
       "license": "MIT",
       "url": "https://github.com/career-ops-hq/career-ops",
-      "updated_at": "2026-10-21T07:41:18Z",
+      "updated_at": "2026-10-21T13:50:29Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 70425,
+      "stars": 70510,
       "language": "Python",
       "license": "AGPL-3.0",
       "url": "https://github.com/calesthio/OpenMontage",
-      "updated_at": "2026-10-21T07:41:55Z",
+      "updated_at": "2026-10-21T13:47:39Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 55476,
+      "stars": 55487,
       "language": "Rust",
       "license": "Apache-2.0",
       "url": "https://github.com/aaif-goose/goose",
-      "updated_at": "2026-10-21T07:14:06Z",
+      "updated_at": "2026-10-21T13:35:08Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "LibreChat-AI/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "stars": 46101,
+      "stars": 46114,
       "language": "TypeScript",
       "license": "MIT",
       "url": "https://github.com/LibreChat-AI/LibreChat",
-      "updated_at": "2026-10-21T07:27:27Z",
+      "updated_at": "2026-10-21T13:44:48Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "ToolJet/ToolJet",
       "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
-      "stars": 41113,
+      "stars": 41115,
       "language": "HTML",
       "license": "AGPL-3.0",
       "url": "https://github.com/ToolJet/ToolJet",
-      "updated_at": "2026-10-21T07:01:08Z",
+      "updated_at": "2026-10-21T12:39:35Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "continuedev/continue",
       "description": "open-source coding agent",
-      "stars": 36278,
+      "stars": 36281,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/continuedev/continue",
-      "updated_at": "2026-10-21T07:05:52Z",
+      "updated_at": "2026-10-21T13:10:52Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "iOfficeAI/AionUi",
       "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "stars": 33668,
+      "stars": 33676,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/iOfficeAI/AionUi",
-      "updated_at": "2026-10-21T07:15:34Z",
+      "updated_at": "2026-10-21T12:43:25Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28621,
+      "stars": 28626,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/QwenLM/qwen-code",
-      "updated_at": "2026-10-21T07:27:34Z",
+      "updated_at": "2026-10-21T13:23:19Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "manaflow-ai/cmux",
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "stars": 28316,
+      "stars": 28325,
       "language": "Swift",
       "license": "NOASSERTION",
       "url": "https://github.com/manaflow-ai/cmux",
-      "updated_at": "2026-10-21T07:34:11Z",
+      "updated_at": "2026-10-21T13:41:49Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "matomo-org/matomo",
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
-      "stars": 21964,
+      "stars": 21965,
       "language": "PHP",
       "license": "GPL-3.0",
       "url": "https://github.com/matomo-org/matomo",
-      "updated_at": "2026-10-21T06:52:40Z",
+      "updated_at": "2026-10-21T08:55:48Z",
       "query": "website analytics open source"
     },
     {
@@ -601,7 +601,7 @@
       "language": "PHP",
       "license": "GPL-3.0",
       "url": "https://github.com/ibericode/koko-analytics",
-      "updated_at": "2026-10-20T13:34:45Z",
+      "updated_at": "2026-10-21T12:26:41Z",
       "query": "website analytics open source"
     },
     {
@@ -669,72 +669,6 @@
       "url": "https://github.com/chikitang/A",
       "updated_at": "2026-10-10T10:56:16Z",
       "query": "website analytics open source"
-    },
-    {
-      "source": "github",
-      "name": "ramiznazar/skillverse-institute-portal",
-      "description": "Website and management portal for SkillVerse — an IT training institute in Faisalabad, Pakistan offering short courses in web development, digital marketing, and freelancing.",
-      "stars": 0,
-      "language": "Blade",
-      "license": null,
-      "url": "https://github.com/ramiznazar/skillverse-institute-portal",
-      "updated_at": "2026-07-26T07:20:37Z",
-      "query": "Pakistan freelancing web development"
-    },
-    {
-      "source": "github",
-      "name": "muhammadsohaily525-cmyk/Muhammad-sohail",
-      "description": "iption (Urdu + English mix)  Name: Muhammad Sohail ID: 617058   Web Development Learner  HTML | CSS | Basic Web Projects  Learning step by step & building simple business websites Pakistan   Passionate about technology, freelancing & online skills  Always learning, improving & growing",
-      "stars": 0,
-      "language": "HTML",
-      "license": "GPL-3.0",
-      "url": "https://github.com/muhammadsohaily525-cmyk/Muhammad-sohail",
-      "updated_at": "2026-02-09T09:37:46Z",
-      "query": "Pakistan freelancing web development"
-    },
-    {
-      "source": "github",
-      "name": "smartearningsacademy/smart",
-      "description": "Smart Earnings Academy offers practical, affordable online earning courses in Pakistan—covering freelancing, forex & commodity trading, web development, digital marketing, e-commerce, and more. Flexible schedules, experienced instructors, free trial classes, and real skills to boost your income.",
-      "stars": 0,
-      "language": null,
-      "license": null,
-      "url": "https://github.com/smartearningsacademy/smart",
-      "updated_at": "2026-03-05T10:21:23Z",
-      "query": "Pakistan freelancing web development"
-    },
-    {
-      "source": "github",
-      "name": "zubairahmadbaira4688-create/https-zubairahmadllc.page.gd-",
-      "description": "The BanoQabil Free IT Web Development Course empowers Pakistan’s youth with practical, job-ready skills at no cost. Covering frontend, backend, and full-stack development, the program focuses on hands-on projects, expert mentorship, and real-world learning to prepare students for jobs, freelancing, and digital careers.",
-      "stars": 0,
-      "language": null,
-      "license": null,
-      "url": "https://github.com/zubairahmadbaira4688-create/https-zubairahmadllc.page.gd-",
-      "updated_at": "2025-12-30T07:07:06Z",
-      "query": "Pakistan freelancing web development"
-    },
-    {
-      "source": "github",
-      "name": "stratofit5-netizen/Muhammad-Shakeel-SEO-Specialist",
-      "description": "Started as a freelancer working with international clients across 8 countries. Now bringing that same level of SEO and web development to local businesses across Pakistan — from Karachi to Peshawar — at a rate that actually makes sense for local budgets. Direct engagement only. No agency in between.",
-      "stars": 0,
-      "language": null,
-      "license": null,
-      "url": "https://github.com/stratofit5-netizen/Muhammad-Shakeel-SEO-Specialist",
-      "updated_at": "2026-06-09T20:07:27Z",
-      "query": "Pakistan freelancing web development"
-    },
-    {
-      "source": "github",
-      "name": "Mbilal213/Diploma-in-IT-",
-      "description": "DIT (Diploma in IT) 6 Months and & 1 Year Program Certification by SDC Punjab Lahore (www.sdclahore.gov.pk) Student Offer 2020 - Flat 60% Discount - Limited Time Offer  For Online Registration Visit:- https://pcilearning.com/enroll-now/  DIT Course Content: - Fundamental of Computer - English Typing - MS Office - Urdu Typing - Inpage - Spoken English - Graphic Designing - Web Development - SEO & SMO - Freelancing  Professional Career Institute (PCI Learning) Affiliated From: Skill Development Council Lahore (SDC) Ministry of Federal Education Govt. of Pakistan  Contact: 0307 11 11 979 Whatsapp: 0335 887 44 80 Website: www.pcilearning.com",
-      "stars": 0,
-      "language": null,
-      "license": null,
-      "url": "https://github.com/Mbilal213/Diploma-in-IT-",
-      "updated_at": "2020-03-28T12:12:54Z",
-      "query": "Pakistan freelancing web development"
     }
   ],
   "notes": [
