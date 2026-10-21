@@ -1,50 +1,62 @@
 {
-  "generated_at": "2026-10-20T21:54:46.904217+00:00",
+  "generated_at": "2026-10-21T00:26:06.145322+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "karl anthony towns",
+      "title": "wild vs oilers",
       "source": "google_trends_us"
     },
     {
-      "title": "vj edgecombe",
+      "title": "chivas game",
       "source": "google_trends_us"
     },
     {
-      "title": "south alabama vs marshall prediction",
+      "title": "julianne moore",
       "source": "google_trends_us"
     },
     {
-      "title": "election contest",
+      "title": "meteor shower october 2026",
       "source": "google_trends_us"
     },
     {
-      "title": "ronald holland ii",
+      "title": "from show",
       "source": "google_trends_us"
     },
     {
-      "title": "oilprice.com",
+      "title": "ezra frech",
       "source": "google_trends_us"
     },
     {
-      "title": "elijah mitchell",
+      "title": "kym johnson",
       "source": "google_trends_us"
     },
     {
-      "title": "dow jones industrial average",
+      "title": "toothpaste recall",
       "source": "google_trends_us"
     },
     {
-      "title": "donald trump jr.",
+      "title": "robert de niro",
       "source": "google_trends_us"
     },
     {
-      "title": "katt williams nine lives memoir",
+      "title": "heath ledger death",
       "source": "google_trends_us"
+    },
+    {
+      "title": "amazon",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "nba",
+      "source": "google_trends_pk"
     },
     {
       "title": "uefa",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "psg vs fc barcelona standings",
       "source": "google_trends_pk"
     },
     {
@@ -69,18 +81,6 @@
     },
     {
       "title": "barca vs",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "uefa champions league",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "psg",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "roma vs slovan bratislava",
       "source": "google_trends_pk"
     },
     {
@@ -180,11 +180,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Ryan Achterberg Returns to KSM to Lead AI Consulting - Inside Public Accounting",
+      "title": "How AI agents can go from hype to results - Transport Topics",
       "source": "google_news_ai"
     },
     {
-      "title": "How AI agents can go from hype to results - Transport Topics",
+      "title": "The new-hire test for AI decision models - IBM",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI-native networking vs. traditional network automation - TechTarget",
       "source": "google_news_ai"
     },
     {
@@ -192,7 +196,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI-native networking vs. traditional network automation - TechTarget",
+      "title": "Siemens Aims to Raise Factory Automation to 80% With AI - Technology Org",
       "source": "google_news_ai"
     },
     {
@@ -204,7 +208,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens Aims to Raise Factory Automation to 80% With AI - Technology Org",
+      "title": "Grupo EULEN Advances Robotics, AI and Secure Automation in Professional Cleaning - Business Focus Magazine",
       "source": "google_news_ai"
     },
     {
@@ -212,11 +216,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Mouser Highlights Industrial AI and Machine Learning in Automation Resource Center - Robotics Tomorrow",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Grupo EULEN Advances Robotics, AI and Secure Automation in Professional Cleaning - Business Focus Magazine",
+      "title": "The Automation Era Has A Trust Problem Your AI Can Launch a Campaign. Can You Trust It? — LBB - LBB - Little Black Book",
       "source": "google_news_ai"
     },
     {
@@ -224,15 +224,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "The Automation Era Has A Trust Problem Your AI Can Launch a Campaign. Can You Trust It? — LBB - LBB - Little Black Book",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents (V:NYSE) - Seeking Alpha",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree - Dark Reading",
+      "title": "Siemens targets up to 80% factory automation with AI, board member says - Reuters",
       "source": "google_news_ai"
     },
     {
@@ -240,11 +232,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Siemens targets up to 80% factory automation with AI, board member says - Reuters",
+      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree - Dark Reading",
       "source": "google_news_ai"
     },
     {
-      "title": "Lincoln Electric Introduces XpertLINC™, a Physical AI-Technology Platform That Redefines the Future of Robotic Automation - Morningstar",
+      "title": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents (V:NYSE) - Seeking Alpha",
       "source": "google_news_ai"
     },
     {
@@ -260,15 +252,11 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Lincoln Electric Introduces XpertLINC™, a Physical AI-Technology Platform That Redefines the Future of Robotic Automation - Business Wire",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Robot Arms Finally Crack the Meal Assembly Line - PYMNTS.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Tech The AI forwarder of the future - The Loadstar",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "ABBYY Introduces PHOENIX Plus, Advanced AI Models Optimized for Intelligent Document Processing - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -276,11 +264,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Justt Wins Silver at the 2026 Money Awards for AI &amp; Automation in Payments - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
       "title": "ABB CEO’s View for More Data Centers Fails to Offset AI Jitters - Energy Connects",
       "source": "google_news_ai"
     },
     {
-      "title": "Justt Wins Silver at the 2026 Money Awards for AI &amp; Automation in Payments - PR Newswire",
+      "title": "ABBYY Introduces PHOENIX Plus, Advanced AI Models Optimized for Intelligent Document Processing - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Tech The AI forwarder of the future - The Loadstar",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Notable introduces Flow Compass, giving healthcare operators control of their AI workforce - PR Newswire",
       "source": "google_news_ai"
     },
     {
@@ -296,7 +296,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
+      "title": "Google Had Internal Issues With Square Brackets [] Punctuation Marks In URLs - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -304,11 +304,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Quick Strike Media Integrates AI Into Local SEO, Google Maps and AI Search - EIN News",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Launches A Video Series For Odd Technical SEO Questions - Search Engine Journal",
+      "title": "Rank Tracker Data, ChatGPT Tags &amp; AI Search Links – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -316,11 +320,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO - Search Engine Roundtable",
+      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
+      "title": "Danielle Birriel’s D&amp;D SEO Services Doubles Organic Rankings for a Multilocation Pest Control Company and Places It Inside Google AI Overviews in 90 Days - StreetInsider",
       "source": "google_news_seo"
     },
     {
@@ -332,23 +336,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Rank Tracker Data, ChatGPT Tags &amp; AI Search Links – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT &amp; SEO - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Ranking Volatility &amp; Chatter October 16 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -360,11 +360,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
+      "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
       "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -388,19 +396,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "MozCast - PPC Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google feeds rank trackers swapped results on 8% of pages, Nozzle finds - PPC Land",
       "source": "google_news_seo"
     },
     {
       "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Viral SEO Launches AI Assistant for Google Search Console Insights - Yahoo Finance",
       "source": "google_news_seo"
     },
     {
@@ -444,11 +444,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers Compromise Rank Math PRO WordPress Plugin to Install Self-Rebuilding Backdoors - CyberSecurityNews",
+      "title": "Hackers Can Take Over WordPress Websites Without a Password Using Two Security Flaws - GBHackers News",
       "source": "google_news_wordpress"
     },
     {
       "title": "Is WordPress free? An overview of contributing factors - Hostinger",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Hackers Compromise Rank Math PRO WordPress Plugin to Install Self-Rebuilding Backdoors - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
@@ -468,19 +472,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "Rank Math PRO WordPress Plugin Compromised to Spread Malware and Steal Credentials - GBHackers News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Gwyneth Paltrow signs on for Netflix’s The Apology - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Inside New York’s spookiest 19th century mansion, dubbed “the house of many mysteries” before it was abandoned - Ephemeral New York",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Decoding the original cast-iron subway entrance that’s been on a Brooklyn corner for 110 years - Ephemeral New York",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "When Monopoly Comes Naturally - Energy Institute Blog",
       "source": "google_news_wordpress"
     }
   ],
