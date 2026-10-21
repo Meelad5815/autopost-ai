@@ -10,35 +10,17 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "stop & shop near me",
+      "keyword": "how much did prince harry get from princess diana",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
-      "keyword": "stop & shop weekly flyer",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "stop & shop weekly circular",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "nikoloz basilashvili vs facundo diaz",
-      "intent": "informational",
+      "keyword": "billy napier buyout at florida",
+      "intent": "commercial",
       "demand": 82.0,
       "competition": 40.0,
       "ranking_probability": 75.4,
@@ -47,24 +29,6 @@
     },
     {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "what is miami ranked in college football",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "the rolling stones who you callin' crazy",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -91,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "miami hurricanes college football ranking change",
+      "keyword": "david hearn reflecting pool case dismissed",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,121 +64,13 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stephen hubbard why was he arrested",
+      "keyword": "prince harry memory of princess diana",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
-    },
-    {
-      "keyword": "school closings and delays toledo ohio",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "school closings in my area today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "school closings and delays near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "grand theft auto vi economic impact",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "stop & shop pharmacy",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "stop & shop hours",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "stop & shop flyer",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "stop & shop circular",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "stop & shop photos",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "stop & shop app",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "nikoloz basilashvili vs diaz",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "nikoloz basilashvili vs acosta",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -226,7 +82,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "subway sub of the day",
+      "keyword": "billy napier record at florida",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +91,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "subway meal of the day",
+      "keyword": "angine de poitrine band tour",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "stephen hubbard before and after",
+      "keyword": "david hearn reflecting pool case",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "school closings today near me",
+      "keyword": "live nation calvin harris presale",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "grand theft auto 4 rating",
+      "keyword": "live nation matchbox 20 presale",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,26 +127,8 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "grand theft auto vi rating",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "grand theft auto 4 codes",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "stop & shop",
-      "intent": "informational",
+      "keyword": "billy napier buyout",
+      "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
       "ranking_probability": 61.0,
@@ -298,7 +136,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "john husted net worth",
+      "keyword": "billy napier coaching history",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +145,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jon husted first energy",
+      "keyword": "billy napier jmu salary",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +154,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "miami hurricanes biggest rival",
+      "keyword": "dhs office near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +163,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jay bhattacharya md phd",
+      "keyword": "angine de poitrine tour",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +172,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stephen hubbard of michigan",
+      "keyword": "angine de poitrine band",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stephen hubbard teacher russia",
+      "keyword": "angine de poitrine meaning",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "school closings and delays",
+      "keyword": "angine de poitrine unmasked",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "school closings near me",
+      "keyword": "angine de poitrine pronounce",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "school closings for today",
+      "keyword": "angine de poitrine songs",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "grand theft auto summary",
+      "keyword": "angine de poitrine translation",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nikoloz basilashvili match today",
+      "keyword": "angine de poitrine costume",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nikoloz basilashvili tennis ranking",
+      "keyword": "interland be internet awesome",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nikoloz basilashvili live score",
+      "keyword": "interland game for kids",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +253,43 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "john husted ohio",
+      "keyword": "live nation calvin harris",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "live nation presale code",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "live nation all access",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "odu football schedule 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "billy napier jmu",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +298,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john husted polls",
+      "keyword": "billy napier salary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +307,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jon husted football",
+      "keyword": "billy napier wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +316,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jon husted trump",
+      "keyword": "billy napier florida",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +325,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john husted jr",
+      "keyword": "dhs san antonio",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +334,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john husted epstein",
+      "keyword": "dhs phone number",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +343,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya nih",
+      "keyword": "angine de poitrine",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +352,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya wife",
+      "keyword": "live nation presale",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +361,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya controversy",
+      "keyword": "live nation careers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +370,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya children",
+      "keyword": "live nation tickets",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya wikipedia",
+      "keyword": "live nation jobs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya vaccines",
+      "keyword": "odu football schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya singer",
+      "keyword": "odu housing portal",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,124 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay bhattacharya cdc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "subway near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "subway promo code",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard russia",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard family",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard ukraine",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stephen hubbard teacher",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "school closings toledo",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "school closings tomorrow",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nikoloz basilashvili ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nikoloz basilashvili tennis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nikoloz basilashvili flashscore",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john husted",
+      "keyword": "billy napier",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -658,7 +415,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jay bhattacharya",
+      "keyword": "dhs austin",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,7 +424,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway menu",
+      "keyword": "dhs login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -676,7 +433,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway coupons",
+      "keyword": "dhs live",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -685,7 +442,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway surfers",
+      "keyword": "dhs portal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -694,7 +451,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway deals",
+      "keyword": "dhs office",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -703,7 +460,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway hours",
+      "keyword": "dhs jobs",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,7 +469,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "stephen hubbard",
+      "keyword": "interland game",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -721,7 +478,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "school closings",
+      "keyword": "interland 2",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +487,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nikoloz basilashvili",
+      "keyword": "interland inc",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +496,214 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "subway",
+      "keyword": "interland google",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland 3",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland 4",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "interland 1",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "live nation",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector spectrum",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector steam",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector verizon",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector xfinity",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector roblox",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector youtube",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector discord",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector att",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "downdetector microsoft",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "odu football",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "odu portal",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "odu news",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "odu bal",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "odu bookstore",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "dhs",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "interland",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "downdetector",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "odu",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "odunze",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -760,15 +724,24 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        },
+        {
+          "keyword": "how much did prince harry get from princess diana",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
         }
       ]
     },
     {
-      "pillar": "stop & shop near me",
+      "pillar": "billy napier buyout at florida",
       "cluster": [
         {
-          "keyword": "stop & shop near me",
-          "intent": "informational",
+          "keyword": "billy napier buyout at florida",
+          "intent": "commercial",
           "demand": 82.0,
           "competition": 40.0,
           "ranking_probability": 75.4,
@@ -776,120 +749,25 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "stop & shop weekly flyer",
+          "keyword": "billy napier record at florida",
           "intent": "informational",
-          "demand": 82.0,
+          "demand": 70.0,
           "competition": 40.0,
-          "ranking_probability": 75.4,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 67.0
         },
         {
-          "keyword": "stop & shop weekly circular",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "stop & shop pharmacy",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "stop & shop hours",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "stop & shop flyer",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "stop & shop circular",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "stop & shop photos",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "stop & shop app",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "stop & shop",
-          "intent": "informational",
+          "keyword": "billy napier buyout",
+          "intent": "commercial",
           "demand": 70.0,
           "competition": 60.0,
           "ranking_probability": 61.0,
           "learning_boost": 0.0,
           "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "nikoloz basilashvili vs facundo diaz",
-      "cluster": [
-        {
-          "keyword": "nikoloz basilashvili vs facundo diaz",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
         },
         {
-          "keyword": "nikoloz basilashvili vs diaz",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "nikoloz basilashvili vs acosta",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "nikoloz basilashvili match today",
+          "keyword": "billy napier coaching history",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -898,7 +776,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nikoloz basilashvili tennis ranking",
+          "keyword": "billy napier jmu salary",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -907,16 +785,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nikoloz basilashvili live score",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nikoloz basilashvili ranking",
+          "keyword": "billy napier jmu",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -925,7 +794,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nikoloz basilashvili tennis",
+          "keyword": "billy napier salary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -934,7 +803,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nikoloz basilashvili flashscore",
+          "keyword": "billy napier wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -943,7 +812,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nikoloz basilashvili",
+          "keyword": "billy napier florida",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "billy napier",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -958,29 +836,6 @@
       "cluster": [
         {
           "keyword": "what is the price of website development",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "what is miami ranked in college football",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "the rolling stones who you callin' crazy",
-      "cluster": [
-        {
-          "keyword": "the rolling stones who you callin' crazy",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1023,10 +878,10 @@
       ]
     },
     {
-      "pillar": "miami hurricanes college football ranking change",
+      "pillar": "david hearn reflecting pool case dismissed",
       "cluster": [
         {
-          "keyword": "miami hurricanes college football ranking change",
+          "keyword": "david hearn reflecting pool case dismissed",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1035,30 +890,35 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "miami hurricanes biggest rival",
+          "keyword": "david hearn reflecting pool case",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         }
       ]
     },
     {
-      "pillar": "stephen hubbard why was he arrested",
+      "pillar": "prince harry memory of princess diana",
       "cluster": [
         {
-          "keyword": "stephen hubbard why was he arrested",
+          "keyword": "prince harry memory of princess diana",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
+        }
+      ]
+    },
+    {
+      "pillar": "angine de poitrine band tour",
+      "cluster": [
         {
-          "keyword": "stephen hubbard before and after",
+          "keyword": "angine de poitrine band tour",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1067,7 +927,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "stephen hubbard of michigan",
+          "keyword": "angine de poitrine tour",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1076,7 +936,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stephen hubbard teacher russia",
+          "keyword": "angine de poitrine band",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1085,7 +945,120 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stephen hubbard russia",
+          "keyword": "angine de poitrine meaning",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "angine de poitrine unmasked",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "angine de poitrine pronounce",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "angine de poitrine songs",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "angine de poitrine translation",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "angine de poitrine costume",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "angine de poitrine",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "live nation calvin harris presale",
+      "cluster": [
+        {
+          "keyword": "live nation calvin harris presale",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "live nation matchbox 20 presale",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "live nation calvin harris",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "live nation presale code",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "live nation all access",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "live nation presale",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1094,7 +1067,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stephen hubbard family",
+          "keyword": "live nation careers",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1103,7 +1076,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stephen hubbard age",
+          "keyword": "live nation tickets",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1112,7 +1085,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stephen hubbard ukraine",
+          "keyword": "live nation jobs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1121,16 +1094,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stephen hubbard teacher",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stephen hubbard",
+          "keyword": "live nation",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1141,46 +1105,10 @@
       ]
     },
     {
-      "pillar": "school closings and delays toledo ohio",
+      "pillar": "dhs office near me",
       "cluster": [
         {
-          "keyword": "school closings and delays toledo ohio",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "school closings in my area today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "school closings and delays near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "school closings today near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "school closings and delays",
+          "keyword": "dhs office near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1189,25 +1117,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "school closings near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "school closings for today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "school closings toledo",
+          "keyword": "dhs san antonio",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1216,7 +1126,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "school closings tomorrow",
+          "keyword": "dhs phone number",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1225,107 +1135,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "school closings",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "grand theft auto vi economic impact",
-      "cluster": [
-        {
-          "keyword": "grand theft auto vi economic impact",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "grand theft auto 4 rating",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "grand theft auto vi rating",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "grand theft auto 4 codes",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "grand theft auto summary",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "subway sub of the day",
-      "cluster": [
-        {
-          "keyword": "subway sub of the day",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "subway meal of the day",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "subway near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "subway promo code",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "subway menu",
+          "keyword": "dhs austin",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1334,7 +1144,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "subway coupons",
+          "keyword": "dhs login",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1343,7 +1153,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "subway surfers",
+          "keyword": "dhs live",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1352,7 +1162,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "subway deals",
+          "keyword": "dhs portal",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1361,7 +1171,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "subway hours",
+          "keyword": "dhs office",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1370,7 +1180,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "subway",
+          "keyword": "dhs jobs",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "dhs",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1381,10 +1200,10 @@
       ]
     },
     {
-      "pillar": "john husted net worth",
+      "pillar": "interland be internet awesome",
       "cluster": [
         {
-          "keyword": "john husted net worth",
+          "keyword": "interland be internet awesome",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1393,176 +1212,280 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john husted ohio",
+          "keyword": "interland game for kids",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
-          "keyword": "john husted polls",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john husted jr",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john husted epstein",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john husted",
+          "keyword": "interland game",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jon husted first energy",
-      "cluster": [
-        {
-          "keyword": "jon husted first energy",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         },
         {
-          "keyword": "jon husted football",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jon husted trump",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "jay bhattacharya md phd",
-      "cluster": [
-        {
-          "keyword": "jay bhattacharya md phd",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jay bhattacharya nih",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya controversy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya wikipedia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya vaccines",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya singer",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya cdc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay bhattacharya",
+          "keyword": "interland 2",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        },
+        {
+          "keyword": "interland inc",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland google",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland 3",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland 4",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland 1",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "interland",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "odu football schedule 2026",
+      "cluster": [
+        {
+          "keyword": "odu football schedule 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "odu football schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "odu housing portal",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "odu football",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "odu portal",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "odu news",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "odu bal",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "odu bookstore",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "odu",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "downdetector spectrum",
+      "cluster": [
+        {
+          "keyword": "downdetector spectrum",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector steam",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector verizon",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector xfinity",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector roblox",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector youtube",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector discord",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector att",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector microsoft",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "downdetector",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "odunze",
+      "cluster": [
+        {
+          "keyword": "odunze",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     }
