@@ -100,15 +100,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "gwb traffic right now map",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "jd vance cincinnati bengals practice",
       "intent": "informational",
       "demand": 70.0,
@@ -244,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "connections today oct 21",
+      "keyword": "connections today oct 22",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "connections today oct 22",
+      "keyword": "connections today oct 21",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,6 +289,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "gwb traffic news",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "gwb traffic twitter",
       "intent": "informational",
       "demand": 58.0,
@@ -307,7 +307,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gwb traffic cam",
+      "keyword": "gwb traffic report",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -860,15 +860,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "gwb traffic right now map",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "gwb traffic right now",
           "intent": "informational",
           "demand": 64.0,
@@ -914,6 +905,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "gwb traffic news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "gwb traffic twitter",
           "intent": "informational",
           "demand": 58.0,
@@ -923,7 +923,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "gwb traffic cam",
+          "keyword": "gwb traffic report",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1089,10 +1089,10 @@
       ]
     },
     {
-      "pillar": "connections today oct 21",
+      "pillar": "connections today oct 22",
       "cluster": [
         {
-          "keyword": "connections today oct 21",
+          "keyword": "connections today oct 22",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1101,7 +1101,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "connections today oct 22",
+          "keyword": "connections today oct 21",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
