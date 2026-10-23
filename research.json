@@ -1,50 +1,62 @@
 {
-  "generated_at": "2026-10-22T23:13:00.653975+00:00",
+  "generated_at": "2026-10-23T01:35:34.717604+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "wicker",
+      "title": "kentavious caldwell-pope",
       "source": "google_trends_us"
     },
     {
-      "title": "social security database data overhaul",
+      "title": "gavin newsom",
       "source": "google_trends_us"
     },
     {
-      "title": "d&apos;andre swift",
+      "title": "christine ebersole",
       "source": "google_trends_us"
     },
     {
-      "title": "east carolina vs memphis",
+      "title": "drake may",
       "source": "google_trends_us"
     },
     {
-      "title": "kings vs islanders",
+      "title": "red wings vs canucks",
       "source": "google_trends_us"
     },
     {
-      "title": "ari emanuel",
+      "title": "jennifer siebel newsom",
       "source": "google_trends_us"
     },
     {
-      "title": "treveyon henderson",
+      "title": "mammoth vs kraken",
       "source": "google_trends_us"
     },
     {
-      "title": "marshall faulk",
+      "title": "anfernee simons",
       "source": "google_trends_us"
     },
     {
-      "title": "konata mumpfield",
+      "title": "joe thuney",
       "source": "google_trends_us"
     },
     {
-      "title": "sixers game tonight",
+      "title": "adem bona",
       "source": "google_trends_us"
+    },
+    {
+      "title": "کرکٹ",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "indian",
+      "source": "google_trends_pk"
     },
     {
       "title": "south africa",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "bournemouth vs milan",
       "source": "google_trends_pk"
     },
     {
@@ -69,18 +81,6 @@
     },
     {
       "title": "getafe vs lugano",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "jablonec vs brighton",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "megan schutt",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "sharvari",
       "source": "google_trends_pk"
     },
     {
@@ -176,10 +176,6 @@
       "source": "google_news_ai"
     },
     {
-      "title": "I Tried Automating My Relationships Using AI Agents. Muse and Dots Overstepped - CNET",
-      "source": "google_news_ai"
-    },
-    {
       "title": "TÜV SÜD and Accenture Accelerate Certification of Physical AI in Automated Factories and Warehouses with NVIDIA Technologies to Drive Manufacturing Productivity - Accenture",
       "source": "google_news_ai"
     },
@@ -188,11 +184,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "I Tried Automating My Relationships Using AI Agents. Muse and Dots Overstepped - CNET",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents (V:NYSE) - Seeking Alpha",
       "source": "google_news_ai"
     },
     {
       "title": "From Automation to Execution: How AI is Reshaping Fixed Income Trading - Tradeweb",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "New Research Reveals Which Jobs and Tasks Are Most at Risk from AI and Increasing Automation - Fair Play Talks",
       "source": "google_news_ai"
     },
     {
@@ -220,7 +224,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Tracking AI’s Real-Time Footprint On The Labor Market - Stanford HAI",
+      "title": "AI’s next bottleneck is the engineer’s desk - AEC Magazine",
       "source": "google_news_ai"
     },
     {
@@ -228,7 +232,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI’s next bottleneck is the engineer’s desk - AEC Magazine",
+      "title": "Tracking AI’s Real-Time Footprint On The Labor Market - Stanford HAI",
       "source": "google_news_ai"
     },
     {
@@ -240,23 +244,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Oxipital AI Launches Foreign Material Detection Capability - Quality Assurance &amp; Food Safety",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI/ML Now: Bayesian Optimization and Automation for siRNA Method Development (Part Two) - LCGC International",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "How AI, Automation and Design Could Expand Additive Manufacturing - Machine Design",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Physical AI Enables Cobot to Automate Welding - Assembly Magazine",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "ABB adds closed-loop physical AI to fashion logistics automation - Just Style",
+      "title": "ISO/IEC TS 22440 Functional Safety and AI Systems Training | November 16–17 - A3 Association for Advancing Automation",
       "source": "google_news_ai"
     },
     {
@@ -264,11 +252,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "9 Best AI Workflow Automation Tools for 2026, Grouped by the Job They Do - Technology Org",
+      "title": "How AI, Automation and Design Could Expand Additive Manufacturing - Machine Design",
       "source": "google_news_ai"
     },
     {
-      "title": "Healthcare AI Must Not Automate Prior Authorization Errors | Opinion - Newsweek",
+      "title": "AI/ML Now: Bayesian Optimization and Automation for siRNA Method Development (Part Two) - LCGC International",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Oxipital AI Launches Foreign Material Detection Capability - Quality Assurance &amp; Food Safety",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Physical AI Enables Cobot to Automate Welding - Assembly Magazine",
       "source": "google_news_ai"
     },
     {
@@ -276,11 +272,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "ABB adds closed-loop physical AI to fashion logistics automation - Just Style",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Yooz Launches Agentic AI Allocation to Automate Line-Level Accounting - citybiz",
       "source": "google_news_ai"
     },
     {
-      "title": "Cisco chief automation officer talks 100x engineers vs. tech debt - InformationWeek",
+      "title": "New Acronis CEO on AI, automation and helping MSPs scale efficiently - Data Centre Solutions",
       "source": "google_news_ai"
     },
     {
@@ -304,23 +304,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Floorpop Offers Free Home Builder SEO Audit to Strengthen Search Visibility - EIN Presswire",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Ahrefs says Google poisons 5% to 20% of results served to SEO data tools - PPC Land",
       "source": "google_news_seo"
     },
     {
+      "title": "Floorpop Offers Free Home Builder SEO Audit to Strengthen Search Visibility - EIN Presswire",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Rankpage Vietnam Expands AI Search Optimization Services to Local and Global AI Platforms - StreetInsider",
       "source": "google_news_seo"
     },
     {
@@ -329,6 +321,10 @@
     },
     {
       "title": "Beware of AI Content for SEO - Practical Ecommerce",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Rankpage Vietnam Expands AI Search Optimization Services to Local and Global AI Platforms - StreetInsider",
       "source": "google_news_seo"
     },
     {
@@ -344,11 +340,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google’s Illyes: Robots.txt Covers Crawling, Not AI Training - Search Engine Journal",
+      "title": "Google Ads expands customer acquisition and retention controls - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads expands customer acquisition and retention controls - Search Engine Land",
+      "title": "3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Chicago SEO Consultant Kyle Eggleston Publishes Two Studies on How Google Treats AI Content and AI Overview Citations - EIN News",
       "source": "google_news_seo"
     },
     {
@@ -360,11 +360,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Chicago SEO Consultant Kyle Eggleston Publishes Two Studies on How Google Treats AI Content and AI Overview Citations - EIN News",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime - Search Engine Journal",
+      "title": "Google’s Illyes: Robots.txt Covers Crawling, Not AI Training - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -376,11 +372,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
+      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Is AI taking time away from Google Search? - Rebellion Research",
+      "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity - EIN Presswire",
       "source": "google_news_seo"
     },
     {
@@ -393,6 +389,10 @@
     },
     {
       "title": "Google Images &amp; Discover Previews Don’t Support JPEG XL - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Is AI taking time away from Google Search? - Rebellion Research",
       "source": "google_news_seo"
     },
     {
@@ -412,11 +412,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Some websites may go down as huge internet vulnerabilities found, cyber agency warns - The Independent",
+      "title": "Critical PHP flaws put WordPress sites on alert - Cybernews",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical PHP flaws put WordPress sites on alert - Cybernews",
+      "title": "Some websites may go down as huge internet vulnerabilities found, cyber agency warns - The Independent",
       "source": "google_news_wordpress"
     },
     {
@@ -432,15 +432,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "WordPress Has Crucial Security Flaw - Daily Kos",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
       "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks - Search Engine Journal",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites - BleepingComputer",
       "source": "google_news_wordpress"
     },
     {
@@ -472,15 +472,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "PHP Vulnerability Explained: Who Is At Risk, How To Fix It And What WordPress Users Should Know - NDTV Profit",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
       "source": "google_news_wordpress"
     },
     {
-      "title": "TeamUpdraft security breach exposes WordPress site connection keys - SC Media",
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites - BleepingComputer",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites - The Hacker News",
       "source": "google_news_wordpress"
     }
   ],
