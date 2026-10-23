@@ -1,47 +1,63 @@
 {
-  "generated_at": "2026-10-23T17:09:38.883031+00:00",
+  "generated_at": "2026-10-23T20:28:10.052693+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "crime",
+      "title": "nc central vs del state",
       "source": "google_trends_us"
     },
     {
-      "title": "grayson chrisley",
+      "title": "kalorik maxx air fryer burn risk",
       "source": "google_trends_us"
     },
     {
-      "title": "blackout",
+      "title": "tyler reddick",
       "source": "google_trends_us"
     },
     {
-      "title": "the dodo",
+      "title": "independiente del valle - u. católica",
       "source": "google_trends_us"
     },
     {
-      "title": "alexander command",
+      "title": "netflix mosquito bowl movie reviews",
       "source": "google_trends_us"
     },
     {
-      "title": "kelly krauskopf",
+      "title": "falcons throwback logo",
       "source": "google_trends_us"
     },
     {
-      "title": "sports",
+      "title": "appellate court",
       "source": "google_trends_us"
     },
     {
-      "title": "laura owens sentencing",
+      "title": "neco williams",
       "source": "google_trends_us"
     },
     {
-      "title": "craig conover",
+      "title": "ric flair",
       "source": "google_trends_us"
     },
     {
-      "title": "rebel ridge",
+      "title": "dólar estadounidense",
       "source": "google_trends_us"
+    },
+    {
+      "title": "ipswich town vs nottm forest",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "al qadsiah vs al-hilal",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "aamir khan",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "islamabad",
+      "source": "google_trends_pk"
     },
     {
       "title": "sultan of johor cup",
@@ -65,22 +81,6 @@
     },
     {
       "title": "shah rukh khan",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "gambia national cricket team vs uganda national cricket team standings",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "lahore high court",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "avengers doomsday",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "tom skerritt top gun",
       "source": "google_trends_pk"
     },
     {
@@ -164,6 +164,14 @@
       "source": "google_developers"
     },
     {
+      "title": "How The Rise Of Automation And AI Is Driving Tech Bros To Energy Shows - Forbes",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "I Tried Automating My Relationships Using AI Agents. Muse and Dots Overstepped - CNET",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Accountants Fear Automation. This $4.25 Billion Startup Says Their Real Opportunity Is Just Beginning - Inc.com",
       "source": "google_news_ai"
     },
@@ -172,7 +180,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "I Tried Automating My Relationships Using AI Agents. Muse and Dots Overstepped - CNET",
+      "title": "Intuit puts finance on the path to automation - SiliconANGLE",
       "source": "google_news_ai"
     },
     {
@@ -180,11 +188,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "HVAC AI Adoption: How Contractors Can Improve Profitability and Build Trust - Contracting Business",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "ESAB ROBBI AI™ Cobot for MIG and TIG Welding Automation Brings Physical AI to the Shop Floor - Morningstar",
+      "title": "10 Hot Products Helping MSPs Tackle AI, Security And Automation - www.crn.com",
       "source": "google_news_ai"
     },
     {
@@ -196,11 +200,19 @@
       "source": "google_news_ai"
     },
     {
+      "title": "American Express is cutting 5% of its workforce to 'prepare for AI' - CNBC",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Editorial Automation: An AI Tool Arises At UT Austin - Radio &amp; Television Business Report",
+      "source": "google_news_ai"
+    },
+    {
       "title": "New Research Reveals Which Jobs and Tasks Are Most at Risk from AI and Increasing Automation - Fair Play Talks",
       "source": "google_news_ai"
     },
     {
-      "title": "American Express is cutting 5% of its workforce to 'prepare for AI' - CNBC",
+      "title": "Mouser Highlights Industrial AI and Machine Learning in Automation Resource Center - AZoM",
       "source": "google_news_ai"
     },
     {
@@ -216,15 +228,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI is taking cybersecurity jobs at junior and experienced levels alike - Help Net Security",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Amex to cut 5 per cent of workforce 'to prepare for AI' - Canadian HR Reporter",
       "source": "google_news_ai"
     },
     {
-      "title": "AI: From Artificial Intelligence to Automated Impact – aviation enters the age of the agent - Routesonline",
+      "title": "AI is taking cybersecurity jobs at junior and experienced levels alike - Help Net Security",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "84% of PE-backed CFOs build budgets in Excel despite automation push - CFO.com",
       "source": "google_news_ai"
     },
     {
@@ -232,7 +244,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Chinese Hacker Deploys Fully Automated AI Agents to Breach 100 Companies at Trivial Cost - CPO Magazine",
+      "source": "google_news_ai"
+    },
+    {
       "title": "AI/ML Now: Bayesian Optimization and Automation for siRNA Method Development (Part Two) - LCGC International",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI: From Artificial Intelligence to Automated Impact – aviation enters the age of the agent - Routesonline",
       "source": "google_news_ai"
     },
     {
@@ -240,27 +260,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "How Can AI Actually Resolve Customer Issues, Not Just Answer Them? - CX Today",
-      "source": "google_news_ai"
-    },
-    {
       "title": "AI Automation Saves Businesses $1.5M Yearly - Supply &amp; Demand Chain Executive",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "ABBYY launches PHOENIX Plus for document automation - IT Brief Asia",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI Is Changing How Supply Chain Technology Buyers Find Suppliers. Are You Part of the Answer? - Logistics Viewpoints",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Teradyne Stock Faces A New Test As Warehouse Robotics Partnership Expands - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Smart Manufacturing &amp; AI Automation Convention 2027 Spotlights Texas Robotics Expansion and the Future of American Factories - StreetInsider",
       "source": "google_news_ai"
     },
     {
@@ -268,19 +268,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Formic Raises $50M to Expand From Factory Automation Into General-Purpose Robotics - AI Insider",
+      "title": "ABBYY launches PHOENIX Plus for document automation - IT Brief Asia",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Teradyne Stock Faces A New Test As Warehouse Robotics Partnership Expands - Yahoo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI Is Changing How Supply Chain Technology Buyers Find Suppliers. Are You Part of the Answer? - Logistics Viewpoints",
       "source": "google_news_ai"
     },
     {
       "title": "Union Home Mortgage unveils AI and automation advancements during 2026 Annual Partner Celebration - AOL.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "ABB Brings Physical AI to Fashion Logistics - Supply Chain Digital",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Pack Expo 2026: Rockwell Automation on AI’s role in tackling production labor shortages - Packaging Insights",
       "source": "google_news_ai"
     },
     {
@@ -292,11 +292,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell - Search Engine Roundtable",
+      "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More - Search Engine Roundtable",
+      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -308,7 +308,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Ahrefs says Google poisons 5% to 20% of results served to SEO data tools - PPC Land",
+      "title": "Google Rolls Out Universal Cart and a Holiday Buying Guide - ALM Corp",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "HQDM Announces “Results or Don’t Pay” SEO for Moving Companies - StreetInsider",
       "source": "google_news_seo"
     },
     {
@@ -316,7 +320,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Beware of AI Content for SEO - Practical Ecommerce",
+      "title": "Ahrefs says Google poisons 5% to 20% of results served to SEO data tools - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup - DesignRush",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "How to launch an awesome SEO campaign - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "A Cautionary Tale: One Site’s AI-Assisted SEO Crash - JumpFly, Inc.",
       "source": "google_news_seo"
     },
     {
@@ -324,7 +340,27 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Rankings Swing, ChatGPT Mislabels Traffic: DesignRush SEO Roundup - DesignRush",
+      "title": "Beware of AI Content for SEO - Practical Ecommerce",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "JPEG XL Image Format Not Supported By Google Images &amp; Google Discover - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Your CRM might be your most underrated keyword research tool - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Why the order of technical SEO fixes matters - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Build something so valuable that Google looks stupid for not ranking it - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -336,15 +372,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Chicago SEO Consultant Kyle Eggleston Publishes Two Studies on How Google Treats AI Content and AI Overview Citations - EIN News",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "JPEG XL Image Format Not Supported By Google Images &amp; Google Discover - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Why the order of technical SEO fixes matters - Search Engine Land",
+      "title": "Google Updates Control What You Share With Google Search With Existing Options - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -352,23 +380,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Build something so valuable that Google looks stupid for not ranking it - Search Engine Land",
+      "title": "Daily Search Forum Recap: October 21, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Updates Control What You Share With Google Search With Existing Options - Search Engine Roundtable",
+      "title": "Chicago SEO Consultant Kyle Eggleston Publishes Two Studies on How Google Treats AI Content and AI Overview Citations - EIN Presswire",
       "source": "google_news_seo"
     },
     {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Daily Search Forum Recap: October 21, 2026 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -384,26 +404,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Quick Strike Media Integrates AI Into Local SEO, Google Maps and AI Search - EIN Presswire",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Images &amp; Discover Previews Don’t Support JPEG XL - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Merchant Center’s 6 conversational attributes explained - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "A critical PHP vulnerability may take websites down today - The Verge",
       "source": "google_news_wordpress"
     },
@@ -412,11 +412,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical PHP flaws put WordPress sites on alert - Cybernews",
+      "title": "Some websites may go down as huge internet vulnerabilities found, cyber agency warns - The Independent",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Some websites may go down as huge internet vulnerabilities found, cyber agency warns - The Independent",
+      "title": "Critical PHP flaws put WordPress sites on alert - Cybernews",
       "source": "google_news_wordpress"
     },
     {
@@ -424,15 +424,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "PHP Vulnerability Explained: Who Is At Risk, How To Fix It And What WordPress Users Should Know - NDTV Profit",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks - Search Engine Journal",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -444,15 +436,19 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WP2Shell Attack Lets Hackers Create WordPress Admin Accounts and Install Web Shells Without Login - CyberSecurityNews",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
       "source": "google_news_wordpress"
     },
     {
       "title": "WordPress sites compromised after TeamUpdraft credential exposure - CSO Online",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -464,11 +460,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Automattic layoffs: WordPress, Tumblr parent cuts jobs with more expected - The American Bazaar",
+      "title": "PHP: What is it and why did it spark a global cyber security scramble? - BBC",
       "source": "google_news_wordpress"
     },
     {
-      "title": "The Pantry is Packed: Nearly 40,000 items collected during 25th annual KVOE Drive for Food Thursday - KVOE",
+      "title": "Automattic layoffs: WordPress, Tumblr parent cuts jobs with more expected - The American Bazaar",
       "source": "google_news_wordpress"
     },
     {
@@ -476,11 +472,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "“Just enough fun to pass muster” – The Winter Guest by Sarah Moss - Bookmunch",
+      "title": "The Pantry is Packed: Nearly 40,000 items collected during 25th annual KVOE Drive for Food Thursday - KVOE",
       "source": "google_news_wordpress"
     },
     {
       "title": "WordPress SEO plugin Rank Math compromised to backdoor websites - BleepingComputer",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites - The Hacker News",
       "source": "google_news_wordpress"
     }
   ],
