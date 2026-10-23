@@ -1,86 +1,82 @@
 {
-  "generated_at": "2026-10-23T06:31:30.323964+00:00",
+  "generated_at": "2026-10-23T12:09:34.974384+00:00",
   "feed_count": 8,
-  "item_count": 160,
+  "item_count": 159,
   "items": [
     {
-      "title": "rebel wilson",
+      "title": "ryan reynolds",
       "source": "google_trends_us"
     },
     {
-      "title": "doj seeks judges recusal immigration cases",
+      "title": "zimbabwe vs afghanistan",
       "source": "google_trends_us"
     },
     {
-      "title": "julia roberts",
+      "title": "barca vs real madrid",
       "source": "google_trends_us"
     },
     {
-      "title": "hilary duff",
+      "title": "anna kelly press secretary",
       "source": "google_trends_us"
     },
     {
-      "title": "kourtney kardashian",
+      "title": "marine corps marathon 2026",
       "source": "google_trends_us"
     },
     {
-      "title": "d4vd",
+      "title": "prince william earthshot prize appearance",
       "source": "google_trends_us"
     },
     {
-      "title": "jonathan majors",
+      "title": "michael weatherly",
       "source": "google_trends_us"
     },
     {
-      "title": "us",
+      "title": "easement",
       "source": "google_trends_us"
     },
     {
-      "title": "sara bejlek",
+      "title": "ionq",
       "source": "google_trends_us"
     },
     {
-      "title": "alabama auburn basketball game",
+      "title": "mariska hargitay",
       "source": "google_trends_us"
     },
     {
-      "title": "child",
+      "title": "zimbabwe national cricket team vs afghanistan national cricket team match scorecard",
       "source": "google_trends_pk"
     },
     {
-      "title": "james bond",
+      "title": "france",
       "source": "google_trends_pk"
     },
     {
-      "title": "anrich nortje",
+      "title": "namibia national cricket team",
       "source": "google_trends_pk"
     },
     {
-      "title": "wicker movie",
+      "title": "nbp",
       "source": "google_trends_pk"
     },
     {
-      "title": "gold price today",
+      "title": "bruno fernandes",
       "source": "google_trends_pk"
     },
     {
-      "title": "today petrol price in pakistan",
+      "title": "psx",
       "source": "google_trends_pk"
     },
     {
-      "title": "کرکٹ",
+      "title": "sam altman",
       "source": "google_trends_pk"
     },
     {
-      "title": "vivo",
+      "title": "housing",
       "source": "google_trends_pk"
     },
     {
-      "title": "south africa",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "bournemouth vs milan",
+      "title": "saudi arabia",
       "source": "google_trends_pk"
     },
     {
@@ -164,35 +160,11 @@
       "source": "google_developers"
     },
     {
-      "title": "New Research Reveals Which Jobs and Tasks Are Most at Risk from AI and Increasing Automation - Fair Play Talks",
+      "title": "Santander scales AI-powered process automation - www.santander.com",
       "source": "google_news_ai"
     },
     {
-      "title": "From Automation to Execution: How AI is Reshaping Fixed Income Trading - Tradeweb",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Leidos to Deploy AI Automation Across Pentagon Logistics System - Unite.AI",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Ericsson’s Karlsson: Don’t confuse AI automation with network autonomy - Fierce Network",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Teradyne Stock Faces A New Test As Warehouse Robotics Partnership Expands - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Smart Manufacturing &amp; AI Automation Convention 2027 Spotlights Texas Robotics Expansion and the Future of American Factories - StreetInsider",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Schneider Electric Data Shows U.S. CPG Manufacturers Lead Global AI Adoption - Automation World",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Honeywell Technologies raises 2026 outlook due to data center, AI demand - Manufacturing Dive",
+      "title": "HVAC AI Adoption: How Contractors Can Improve Profitability and Build Trust - Contracting Business",
       "source": "google_news_ai"
     },
     {
@@ -200,7 +172,47 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Libya Deploys AI, Automation and Connectivity to Boost Oil Production - News and Statistics - IndexBox",
+      "title": "What if an AI bubble bursts — and that accelerates AI job losses? : Planet Money - NPR",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Ericsson’s Karlsson: Don’t confuse AI automation with network autonomy - Fierce Network",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ESAB ROBBI AI™ Cobot for MIG and TIG Welding Automation Brings Physical AI to the Shop Floor - Morningstar",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "TÜV SÜD and Accenture Accelerate Certification of Physical AI in Automated Factories and Warehouses with NVIDIA Technologies to Drive Manufacturing Productivity - Accenture",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents (V:NYSE) - Seeking Alpha",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "From Automation to Execution: How AI is Reshaping Fixed Income Trading - Tradeweb",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "New Research Reveals Which Jobs and Tasks Are Most at Risk from AI and Increasing Automation - Fair Play Talks",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI is taking cybersecurity jobs at junior and experienced levels alike - Help Net Security",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Leidos to Deploy AI Automation Across Pentagon Logistics System - Unite.AI",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "How One Horizon brings independent AI automation to enterprises - IO+",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Smart Manufacturing &amp; AI Automation Convention 2027 Spotlights Texas Robotics Expansion and the Future of American Factories - StreetInsider",
       "source": "google_news_ai"
     },
     {
@@ -208,11 +220,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Task Automation Tips, AI-Build Landing Pages, and Industry News - Social Media Examiner",
+      "title": "Teradyne Stock Faces A New Test As Warehouse Robotics Partnership Expands - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
-      "title": "AI Automation Saves Businesses $1.5M Yearly - Supply &amp; Demand Chain Executive",
+      "title": "Schneider Electric Data Shows U.S. CPG Manufacturers Lead Global AI Adoption - Automation World",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Formic Raises $50M to Expand From Factory Automation Into General-Purpose Robotics - AI Insider",
       "source": "google_news_ai"
     },
     {
@@ -220,23 +236,27 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI’s next bottleneck is the engineer’s desk - AEC Magazine",
-      "source": "google_news_ai"
-    },
-    {
       "title": "How AI, Automation and Design Could Expand Additive Manufacturing - Machine Design",
       "source": "google_news_ai"
     },
     {
-      "title": "New Acronis CEO on AI, automation and helping MSPs scale efficiently - Data Centre Solutions",
+      "title": "AI Automation Saves Businesses $1.5M Yearly - Supply &amp; Demand Chain Executive",
       "source": "google_news_ai"
     },
     {
-      "title": "Is Rockwell Automation (ROK) Fairly Valued As Its FactoryTalk Conductor AI Platform Rolls Out? - Yahoo Finance",
+      "title": "Honeywell Technologies raises 2026 outlook due to data center, AI demand - Manufacturing Dive",
       "source": "google_news_ai"
     },
     {
-      "title": "AI/ML Now: Bayesian Optimization and Automation for siRNA Method Development (Part One) - LCGC International",
+      "title": "AI-enabled logistics to aid Pentagon in asset tracking, management - Military Embedded Systems",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Task Automation Tips, AI-Build Landing Pages, and Industry News - Social Media Examiner",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Schneider Electric, NVIDIA, and HPE announce collaboration to accelerate Physical AI - Hydrocarbon Engineering",
       "source": "google_news_ai"
     },
     {
@@ -244,11 +264,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Schneider Electric, NVIDIA &amp; HPE Debut Industrial AI Agents - Data Centre Magazine",
+      "title": "AI’s next bottleneck is the engineer’s desk - AEC Magazine",
       "source": "google_news_ai"
     },
     {
-      "title": "Reduck Secures $3M for AI Agent Web Automation - shattered.io",
+      "title": "New Acronis CEO on AI, automation and helping MSPs scale efficiently - Data Centre Solutions",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Libya Deploys AI, Automation and Connectivity to Boost Oil Production - News and Statistics - IndexBox",
       "source": "google_news_ai"
     },
     {
@@ -256,35 +280,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Formic Raises $50 Million to Expand AI-Powered Robotics Across U.S. Manufacturing - citybiz",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Physical AI Enables Cobot to Automate Welding - Assembly Magazine",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Healthcare AI Must Not Automate Prior Authorization Errors | Opinion - Newsweek",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Yooz Launches Agentic AI Allocation to Automate Line-Level Accounting - citybiz",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google Launches Gemini AI Platform for Government Services - Homeland Security Today",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Cisco chief automation officer talks 100x engineers vs. tech debt - InformationWeek",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Pichai Says AI Agents Now Brief Him Around the Clock as Google Pushes Deeper Into Automation - BigGo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google Search Ranking Volatility &amp; Chatter Heats Up October 20 &amp; 21 - Search Engine Roundtable",
+      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -292,7 +288,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell - Search Engine Roundtable",
+      "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Ranking Volatility &amp; Chatter Heats Up October 20 &amp; 21 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -308,11 +308,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Ahrefs says Google poisons 5% to 20% of results served to SEO data tools - PPC Land",
+      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
+      "title": "Ahrefs says Google poisons 5% to 20% of results served to SEO data tools - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -328,15 +328,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Quick Strike Media Integrates AI Into Local SEO, Google Maps and AI Search - EIN News",
+      "title": "JPEG XL Image Format Not Supported By Google Images &amp; Google Discover - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads expands customer acquisition and retention controls - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Chicago SEO Consultant Kyle Eggleston Publishes Two Studies on How Google Treats AI Content and AI Overview Citations - EIN News",
+      "title": "Chicago SEO Consultant Kyle Eggleston Publishes Two Studies on How Google Treats AI Content and AI Overview Citations - EIN Presswire",
       "source": "google_news_seo"
     },
     {
@@ -344,19 +340,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In - Search Engine Roundtable",
+      "title": "Quick Strike Media Integrates AI Into Local SEO, Google Maps and AI Search - EIN Presswire",
       "source": "google_news_seo"
     },
     {
       "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Merchant Center’s 6 conversational attributes explained - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -368,11 +356,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Had Internal Issues With Square Brackets [] Punctuation Marks In URLs - Search Engine Roundtable",
+      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Rankpage Vietnam Expands AI Search Optimization Services to Local and Global AI Platforms - StreetInsider",
+      "title": "Google Merchant Center’s 6 conversational attributes explained - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Had Internal Issues With Square Brackets [] Punctuation Marks In URLs - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -380,19 +372,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Adds More Links, Carousels and Creator Profiles to AI Mode and AI Overviews - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
-      "title": "I Was Tired of Building the Same GA4 + Search Console Report Every Month, So I Automated It - HackerNoon",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
+      "title": "Google Adds More Links, Carousels and Creator Profiles to AI Mode and AI Overviews - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -400,15 +384,27 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google adds 2 Search Central playlists for SEO beginners and developers - PPC Land",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Columbus Local SEO Company Columbus Marketing Experts Expands Google Search and Maps Services Across Columbus - Yahoo Finance",
       "source": "google_news_seo"
     },
     {
-      "title": "A critical PHP vulnerability may take websites down today - The Verge",
-      "source": "google_news_wordpress"
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Updated Its URL Structure Best Practices For Hyphens In URLs - Search Engine Roundtable",
+      "source": "google_news_seo"
     },
     {
       "title": "Critical PHP Core Security Flaws Affect Websites, Including WordPress - Search Engine Journal",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "A critical PHP vulnerability may take websites down today - The Verge",
       "source": "google_news_wordpress"
     },
     {
@@ -416,11 +412,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Some websites may go down as huge internet vulnerabilities found, cyber agency warns - The Independent",
+      "title": "Critical PHP Flaws Put WordPress Websites At Risk As Security Patches Roll Out - Tech Business News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical PHP Flaws Put WordPress Websites At Risk As Security Patches Roll Out - Tech Business News",
+      "title": "PHP Vulnerability Explained: Who Is At Risk, How To Fix It And What WordPress Users Should Know - NDTV Profit",
       "source": "google_news_wordpress"
     },
     {
@@ -436,11 +432,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites - BleepingComputer",
+      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence' - 404 Media",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence' - 404 Media",
+      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack - SecurityWeek",
       "source": "google_news_wordpress"
     },
     {
@@ -464,11 +460,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "5 ways to password protect your WordPress website and pages - One.com",
+      "title": "The Pantry is Packed: Nearly 40,000 items collected during 25th annual KVOE Drive for Food Thursday - KVOE",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Government websites go dark after AI-discovered flaw sparks security scramble - Reuters",
+      "title": "“Just enough fun to pass muster” – The Winter Guest by Sarah Moss - Bookmunch",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "TeamUpdraft security breach exposes WordPress site connection keys - SC Media",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress Security: 8 Ways To Protect Your Website - All About Cookies",
       "source": "google_news_wordpress"
     },
     {
@@ -476,11 +480,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Moving from WordPress.com to WordPress.org: a complete guide - Hostinger",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "TeamUpdraft security breach exposes WordPress site connection keys - SC Media",
+      "title": "EU Cyber Agency Warns Websites May Go Dark as PHP Prepares Critical Fix - Insurance Journal",
       "source": "google_news_wordpress"
     }
   ],
