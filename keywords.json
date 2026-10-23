@@ -73,6 +73,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "barca vs real madrid game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "barca vs real madrid 2017",
       "intent": "informational",
       "demand": 82.0,
@@ -91,24 +100,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "barca vs real madrid game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "barca vs real madrid 5-2",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "barca vs real madrid 11-1",
       "intent": "informational",
       "demand": 82.0,
@@ -118,7 +109,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "easement vs right of way",
+      "keyword": "barca vs real madrid 5-2",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -433,7 +424,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "ryan reynolds new movie",
+      "keyword": "ryan reynolds net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ryan reynolds net worth",
+      "keyword": "ryan reynolds new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +496,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "easements in real estate",
+      "keyword": "easement in real estate",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,6 +514,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "ionq stock upside potential",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "mariska hargitay net worth",
       "intent": "informational",
       "demand": 64.0,
@@ -532,25 +532,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ryan reynolds movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "ryan reynolds wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ryan reynolds mayday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -569,6 +551,24 @@
     },
     {
       "keyword": "ryan reynolds age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan reynolds mayday",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan reynolds kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,6 +676,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "easement in chinese",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ionq stock price",
       "intent": "informational",
       "demand": 58.0,
@@ -686,6 +695,15 @@
     },
     {
       "keyword": "ionq stock forecast",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ionq market cap",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,24 +829,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ionq bothell",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "ionq careers",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "ionq news",
       "intent": "informational",
       "demand": 52.0,
@@ -838,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ionq jobs",
+      "keyword": "ionq careers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1010,6 +1010,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "barca vs real madrid game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "barca vs real madrid 2017",
           "intent": "informational",
           "demand": 82.0,
@@ -1028,7 +1037,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "barca vs real madrid game",
+          "keyword": "barca vs real madrid 11-1",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1038,15 +1047,6 @@
         },
         {
           "keyword": "barca vs real madrid 5-2",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "barca vs real madrid 11-1",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1085,92 +1085,6 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "easement vs right of way",
-      "cluster": [
-        {
-          "keyword": "easement vs right of way",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "easement by prescription",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "easement in gross",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "easement by necessity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "easement on property",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "easement by implication",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "easement meaning",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "easement appurtenant",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "easement",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
@@ -1509,7 +1423,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ryan reynolds new movie",
+          "keyword": "ryan reynolds net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1518,7 +1432,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ryan reynolds net worth",
+          "keyword": "ryan reynolds new movie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1536,25 +1450,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ryan reynolds movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "ryan reynolds wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ryan reynolds mayday",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1573,6 +1469,24 @@
         },
         {
           "keyword": "ryan reynolds age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan reynolds mayday",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan reynolds kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1715,16 +1629,97 @@
       ]
     },
     {
-      "pillar": "easements in real estate",
+      "pillar": "easement in real estate",
       "cluster": [
         {
-          "keyword": "easements in real estate",
+          "keyword": "easement in real estate",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "easement by prescription",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "easement in gross",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "easement by necessity",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "easement on property",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "easement by implication",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "easement in chinese",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "easement meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "easement appurtenant",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "easement",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     },
@@ -1733,6 +1728,15 @@
       "cluster": [
         {
           "keyword": "ionq stock price today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ionq stock upside potential",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1759,6 +1763,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ionq market cap",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ionq earnings date",
           "intent": "informational",
           "demand": 58.0,
@@ -1777,24 +1790,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ionq bothell",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "ionq careers",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "ionq news",
           "intent": "informational",
           "demand": 52.0,
@@ -1804,7 +1799,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ionq jobs",
+          "keyword": "ionq careers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
