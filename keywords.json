@@ -10,6 +10,87 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "nz vs ind live score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "nz vs india t20 highlights",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "nz vs ind 1st t20",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "lsu vs auburn last game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "lsu vs auburn injury report",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "abubakar vagaev vs jacob malkoun",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "abubakar vagaev vs saygid izagakhmaev",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "grant dawson vs nurullo aliev",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "dove perfume where to buy",
+      "intent": "commercial",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -37,13 +118,121 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "laura owens sentencing where to watch",
+      "keyword": "nz vs ind highlights",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "nz vs ind live",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "nz vs india t20",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "nz vs ind t20",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "nz vs ind toss",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn prediction",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn 2026",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn spread",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn odds",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn time",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn football",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "lsu vs auburn channel",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "abubakar vagaev vs saygid",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -55,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "laura owens sentencing live stream",
+      "keyword": "state farm claims phone number",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -64,26 +253,8 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "laura owens sentencing hearing live",
+      "keyword": "nz vs ind",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "rebel ridge where to watch",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "rebel ridge reviews",
-      "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
       "ranking_probability": 61.0,
@@ -91,7 +262,25 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "grayson chrisley car crash",
+      "keyword": "nz vs india",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "lsu vs auburn",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "jack nicholson net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -100,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "grayson chrisley net worth",
+      "keyword": "jack nicholson the shining",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -109,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "blackout curtains for bedroom",
+      "keyword": "internet providers near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -118,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "blackout shades for windows",
+      "keyword": "internet outage near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -127,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "the dodo restaurant menu",
+      "keyword": "abubakar vagaev fighting style",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -136,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "the dodo car insurance",
+      "keyword": "zendaya and tom holland",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -145,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alexander command scouting report",
+      "keyword": "grant dawson next fight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -154,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alexander command nhl comparison",
+      "keyword": "grant dawson last fight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -163,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kelly krauskopf indiana fever",
+      "keyword": "dove perfume beauty bar",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -172,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sports bar near me",
+      "keyword": "state farm dividend payment",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -181,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sports on tv today",
+      "keyword": "state farm customer service",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -190,97 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sports store near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "laura owens sentencing date",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "laura owens sentencing hearing",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "laura owens sentencing time",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "laura owens sentencing today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "laura owens sentencing update",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "craig conover net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "craig conover paige desorbo",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "rebel ridge rotten tomatoes",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "rebel ridge ending explained",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "crime and punishment",
+      "keyword": "jack nicholson movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -289,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "crime radar app",
+      "keyword": "jack nicholson joker",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -298,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "crime scene cleaner",
+      "keyword": "jack nicholson son",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -307,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley accident",
+      "keyword": "jack nicholson age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -316,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley girlfriend",
+      "keyword": "jack nicholson children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -325,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley age",
+      "keyword": "jack nicholson now",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -334,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley drug",
+      "keyword": "jack nicholson young",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -343,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley height",
+      "keyword": "internet speed test",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -352,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley now",
+      "keyword": "internet providers texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -361,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "grayson chrisley college",
+      "keyword": "internet providers california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -370,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo restaurant",
+      "keyword": "detention center texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo bird",
+      "keyword": "detention center california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo youtube",
+      "keyword": "detention officer jobs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo slc",
+      "keyword": "abubakar vagaev ufc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo insurance",
+      "keyword": "abubakar vagaev record",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo website",
+      "keyword": "abubakar vagaev reach",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "the dodo videos",
+      "keyword": "abubakar vagaev tapology",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command hockey",
+      "keyword": "abubakar vagaev fight",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command dobber",
+      "keyword": "zendaya net worth",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command elite",
+      "keyword": "zendaya last name",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command highlights",
+      "keyword": "grant dawson record",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command stats",
+      "keyword": "grant dawson ufc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command devils",
+      "keyword": "grant dawson wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alexander command draft",
+      "keyword": "grant dawson tapology",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf children",
+      "keyword": "grant dawson ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf husband",
+      "keyword": "grant dawson age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf partner",
+      "keyword": "dove perfume waitlist",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf salary",
+      "keyword": "dove perfume original",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf wife",
+      "keyword": "dove perfume price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf married",
+      "keyword": "dove perfume release",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf family",
+      "keyword": "dove perfume notes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kelly krauskopf spouse",
+      "keyword": "dove perfume cost",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sports on today",
+      "keyword": "dove perfume fragrantica",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "laura owens sentencing",
+      "keyword": "state farm login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "laura owens punishment",
+      "keyword": "state farm dividend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "craig conover girlfriend",
+      "keyword": "state farm insurance",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "craig conover pillows",
+      "keyword": "state farm claims",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "craig conover age",
+      "keyword": "state farm stadium",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "craig conover movie",
+      "keyword": "state farm arena",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,79 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "craig conover dating",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "craig conover book",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "craig conover traitors",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "rebel ridge cast",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "rebel ridge 2",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "rebel ridge ending",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "rebel ridge trailer",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "rebel ridge netflix",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "crime 101",
+      "keyword": "jack nicholson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crime texas",
+      "keyword": "internet archive",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -721,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crime california",
+      "keyword": "internet speed",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crime radar",
+      "keyword": "internet test",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "crime junkie",
+      "keyword": "internet outage",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "grayson chrisley",
+      "keyword": "detention center",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout curtains",
+      "keyword": "detention officer",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout blinds",
+      "keyword": "detention movie",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout shades",
+      "keyword": "detention pond",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout movie",
+      "keyword": "detention meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout wednesday",
+      "keyword": "abubakar vagaev",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout coffee",
+      "keyword": "zendaya age",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blackout tattoo",
+      "keyword": "zendaya height",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "the dodo",
+      "keyword": "zendaya parents",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "alexander command",
+      "keyword": "zendaya odyssey",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kelly krauskopf",
+      "keyword": "zendaya movies",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sports clips",
+      "keyword": "zendaya songs",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sports connections",
+      "keyword": "grant dawson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sportsman warehouse",
+      "keyword": "dove perfume",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sports academy",
+      "keyword": "state farm",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,34 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "sports basement",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "craig conover",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rebel ridge",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "crime",
+      "keyword": "internet",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -919,7 +919,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "crimea",
+      "keyword": "detention",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -928,7 +928,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "blackout",
+      "keyword": "detentionaire",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -937,7 +937,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "sports",
+      "keyword": "zendaya",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -958,6 +958,481 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        }
+      ]
+    },
+    {
+      "pillar": "nz vs ind live score",
+      "cluster": [
+        {
+          "keyword": "nz vs ind live score",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "nz vs india t20 highlights",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "nz vs ind 1st t20",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "nz vs ind highlights",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "nz vs ind live",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "nz vs india t20",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "nz vs ind t20",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "nz vs ind toss",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "nz vs ind",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "nz vs india",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "lsu vs auburn last game",
+      "cluster": [
+        {
+          "keyword": "lsu vs auburn last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "lsu vs auburn injury report",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "lsu vs auburn prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn 2026",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn spread",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn time",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn football",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn channel",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lsu vs auburn",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "abubakar vagaev vs jacob malkoun",
+      "cluster": [
+        {
+          "keyword": "abubakar vagaev vs jacob malkoun",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "abubakar vagaev vs saygid izagakhmaev",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "abubakar vagaev vs saygid",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "abubakar vagaev fighting style",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "abubakar vagaev ufc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "abubakar vagaev record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "abubakar vagaev reach",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "abubakar vagaev tapology",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "abubakar vagaev fight",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "abubakar vagaev",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "grant dawson vs nurullo aliev",
+      "cluster": [
+        {
+          "keyword": "grant dawson vs nurullo aliev",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "grant dawson next fight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "grant dawson last fight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "grant dawson record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "grant dawson ufc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "grant dawson wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "grant dawson tapology",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "grant dawson ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "grant dawson age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "grant dawson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "dove perfume where to buy",
+      "cluster": [
+        {
+          "keyword": "dove perfume where to buy",
+          "intent": "commercial",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "dove perfume beauty bar",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dove perfume waitlist",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume original",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume release",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume notes",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume cost",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume fragrantica",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dove perfume",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1008,19 +1483,10 @@
       ]
     },
     {
-      "pillar": "laura owens sentencing where to watch",
+      "pillar": "state farm claims phone number",
       "cluster": [
         {
-          "keyword": "laura owens sentencing where to watch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "laura owens sentencing live stream",
+          "keyword": "state farm claims phone number",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1029,16 +1495,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "laura owens sentencing hearing live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "laura owens sentencing date",
+          "keyword": "state farm dividend payment",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1047,7 +1504,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "laura owens sentencing hearing",
+          "keyword": "state farm customer service",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1056,34 +1513,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "laura owens sentencing time",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "laura owens sentencing today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "laura owens sentencing update",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "laura owens sentencing",
+          "keyword": "state farm login",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1092,57 +1522,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "laura owens punishment",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "rebel ridge where to watch",
-      "cluster": [
-        {
-          "keyword": "rebel ridge where to watch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rebel ridge reviews",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "rebel ridge rotten tomatoes",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rebel ridge ending explained",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rebel ridge cast",
+          "keyword": "state farm dividend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1151,7 +1531,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rebel ridge 2",
+          "keyword": "state farm insurance",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1160,7 +1540,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rebel ridge ending",
+          "keyword": "state farm claims",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1169,7 +1549,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rebel ridge trailer",
+          "keyword": "state farm stadium",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1178,7 +1558,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rebel ridge netflix",
+          "keyword": "state farm arena",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1187,7 +1567,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rebel ridge",
+          "keyword": "state farm",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1198,10 +1578,10 @@
       ]
     },
     {
-      "pillar": "grayson chrisley car crash",
+      "pillar": "jack nicholson net worth",
       "cluster": [
         {
-          "keyword": "grayson chrisley car crash",
+          "keyword": "jack nicholson net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1210,7 +1590,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "grayson chrisley net worth",
+          "keyword": "jack nicholson the shining",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1219,7 +1599,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "grayson chrisley accident",
+          "keyword": "jack nicholson movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1228,7 +1608,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley girlfriend",
+          "keyword": "jack nicholson joker",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1237,7 +1617,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley age",
+          "keyword": "jack nicholson son",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1246,7 +1626,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley drug",
+          "keyword": "jack nicholson age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1255,7 +1635,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley height",
+          "keyword": "jack nicholson children",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1264,7 +1644,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley now",
+          "keyword": "jack nicholson now",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1273,7 +1653,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley college",
+          "keyword": "jack nicholson young",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1282,7 +1662,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "grayson chrisley",
+          "keyword": "jack nicholson",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1293,10 +1673,10 @@
       ]
     },
     {
-      "pillar": "blackout curtains for bedroom",
+      "pillar": "internet providers near me",
       "cluster": [
         {
-          "keyword": "blackout curtains for bedroom",
+          "keyword": "internet providers near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1305,7 +1685,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "blackout shades for windows",
+          "keyword": "internet outage near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1314,7 +1694,34 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "blackout curtains",
+          "keyword": "internet speed test",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "internet providers texas",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "internet providers california",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "internet archive",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1323,7 +1730,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "blackout blinds",
+          "keyword": "internet speed",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1332,7 +1739,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "blackout shades",
+          "keyword": "internet test",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1341,7 +1748,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "blackout movie",
+          "keyword": "internet outage",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1350,34 +1757,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "blackout wednesday",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blackout coffee",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blackout tattoo",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blackout",
+          "keyword": "internet",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1388,10 +1768,10 @@
       ]
     },
     {
-      "pillar": "the dodo restaurant menu",
+      "pillar": "zendaya and tom holland",
       "cluster": [
         {
-          "keyword": "the dodo restaurant menu",
+          "keyword": "zendaya and tom holland",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1400,16 +1780,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "the dodo car insurance",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "the dodo restaurant",
+          "keyword": "zendaya net worth",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1418,7 +1789,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the dodo bird",
+          "keyword": "zendaya last name",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,292 +1798,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "the dodo youtube",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "the dodo slc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "the dodo insurance",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "the dodo website",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "the dodo videos",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "the dodo",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "alexander command scouting report",
-      "cluster": [
-        {
-          "keyword": "alexander command scouting report",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alexander command nhl comparison",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alexander command hockey",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command dobber",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command elite",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command highlights",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command devils",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command draft",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alexander command",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "kelly krauskopf indiana fever",
-      "cluster": [
-        {
-          "keyword": "kelly krauskopf indiana fever",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kelly krauskopf children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf partner",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf married",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf family",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf spouse",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kelly krauskopf",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "sports bar near me",
-      "cluster": [
-        {
-          "keyword": "sports bar near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sports on tv today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sports store near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sports on today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "sports clips",
+          "keyword": "zendaya age",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1721,7 +1807,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "sports connections",
+          "keyword": "zendaya height",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1730,7 +1816,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "sports academy",
+          "keyword": "zendaya parents",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1739,7 +1825,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "sports basement",
+          "keyword": "zendaya odyssey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1748,7 +1834,25 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "sports",
+          "keyword": "zendaya movies",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "zendaya songs",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "zendaya",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1759,28 +1863,10 @@
       ]
     },
     {
-      "pillar": "craig conover net worth",
+      "pillar": "detention center texas",
       "cluster": [
         {
-          "keyword": "craig conover net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "craig conover paige desorbo",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "craig conover girlfriend",
+          "keyword": "detention center texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1789,7 +1875,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "craig conover pillows",
+          "keyword": "detention center california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1798,7 +1884,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "craig conover age",
+          "keyword": "detention officer jobs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1807,84 +1893,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "craig conover movie",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "craig conover dating",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "craig conover book",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "craig conover traitors",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "craig conover",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "crime and punishment",
-      "cluster": [
-        {
-          "keyword": "crime and punishment",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "crime radar app",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "crime scene cleaner",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "crime 101",
+          "keyword": "detention center",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1893,7 +1902,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crime texas",
+          "keyword": "detention officer",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1902,7 +1911,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crime california",
+          "keyword": "detention movie",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1911,7 +1920,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crime radar",
+          "keyword": "detention pond",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1920,7 +1929,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crime junkie",
+          "keyword": "detention meaning",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1929,7 +1938,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "crime",
+          "keyword": "detention",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1940,24 +1949,10 @@
       ]
     },
     {
-      "pillar": "sportsman warehouse",
+      "pillar": "detentionaire",
       "cluster": [
         {
-          "keyword": "sportsman warehouse",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "crimea",
-      "cluster": [
-        {
-          "keyword": "crimea",
+          "keyword": "detentionaire",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
