@@ -82,15 +82,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "connections hints today tom's guide",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "gina hinojosa vs greg abbott",
       "intent": "informational",
       "demand": 82.0,
@@ -172,6 +163,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "tottenham vs arsenal women",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "tottenham vs arsenal tickets",
       "intent": "informational",
       "demand": 76.0,
@@ -191,15 +191,6 @@
     },
     {
       "keyword": "tottenham vs arsenal matches",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "tottenham vs arsenal 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -280,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "connections hints today mashable today",
+      "keyword": "connections hints today october 24",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -308,6 +299,15 @@
     },
     {
       "keyword": "nyc marathon 2026 finisher jacket",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "gina hinojosa state income tax",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -389,6 +389,15 @@
     },
     {
       "keyword": "connections hints today forbes",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "connections hints today mashable",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -568,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "man city schedule",
+      "keyword": "man city game",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "man city game",
+      "keyword": "man city schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,15 +730,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gina hinojosa ethnicity",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "gina hinojosa family",
       "intent": "informational",
       "demand": 58.0,
@@ -784,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsitsipas basilashvili",
+      "keyword": "tsitsipas age",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tsitsipas age",
+      "keyword": "tsitsipas coach",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -879,6 +879,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "tottenham vs arsenal women",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
           "keyword": "tottenham vs arsenal tickets",
           "intent": "informational",
           "demand": 76.0,
@@ -898,15 +907,6 @@
         },
         {
           "keyword": "tottenham vs arsenal matches",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "tottenham vs arsenal 2026",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1038,7 +1038,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "man city schedule",
+          "keyword": "man city game",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1047,7 +1047,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "man city game",
+          "keyword": "man city schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1080,15 +1080,6 @@
       "cluster": [
         {
           "keyword": "connections hints today word tips",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "connections hints today tom's guide",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1133,7 +1124,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "connections hints today mashable today",
+          "keyword": "connections hints today october 24",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1143,6 +1134,15 @@
         },
         {
           "keyword": "connections hints today forbes",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "connections hints today mashable",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1181,6 +1181,15 @@
           "ranking_probability": 75.4,
           "learning_boost": 0.0,
           "learned_score": 75.4
+        },
+        {
+          "keyword": "gina hinojosa state income tax",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         },
         {
           "keyword": "gina hinojosa net worth",
@@ -1229,15 +1238,6 @@
         },
         {
           "keyword": "gina hinojosa campaign",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "gina hinojosa ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1505,7 +1505,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsitsipas basilashvili",
+          "keyword": "tsitsipas age",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1514,7 +1514,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tsitsipas age",
+          "keyword": "tsitsipas coach",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
