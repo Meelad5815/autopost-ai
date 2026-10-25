@@ -1,6 +1,6 @@
 # MRK Earning Opportunities
 
-Generated: 2026-10-24T20:49:53.239884+00:00
+Generated: 2026-10-25T04:41:32.814902+00:00
 
 ## 1. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
 - Score: **18**
@@ -48,7 +48,7 @@ Generated: 2026-10-24T20:49:53.239884+00:00
 - Score: **14**
 - Source: Hostinger
 - Published: Wed, 14 Oct 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ONkhsZG5SeEhqZ3lEeUVCZE9iNWVpNlV1dElqNHlxRC1GUU45dklZeS1NVkpsQ05BZEl6eWJkSzVmXzhZbUpSRlgwY0Z1ZXpRQ2szV0pWcmdjWTlBVHNHM0FyQ1pvNnVZOERiMmVRZlo?oc=5
+- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5DWmlBUlhsNXRURm9qaFlvak9VQ1h3MWxpUExUTkw5aG1WT0VCX1Voc1ZfWW5HbkVPZENpRS1aNlF6WW1CTFVCdDhRTENOam9KdVVWZVJuQzNXV0x5V3VkSjRnVXBkVjVVYk9JOTNCcUFmQS1X?oc=5
 
 ## 9. 9 Best Online Jobs College Students Can Do To Earn Money in 2022 - TechJuice
 - Score: **14**
@@ -104,80 +104,80 @@ Generated: 2026-10-24T20:49:53.239884+00:00
 - Published: Tue, 23 Jun 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFBGMGhlU1lVQmxMcVZYbFJ2ckFiX1NBdHAteDdfVjA5UDBlNjRBejhZNHNlSi1YYzU1TTZrbUR4c1pET2dWVGJQeVdzQlFqdzZDLTZLeGFrMEl1UktmOXd0Nm5TdHZBZGoydkc0QUx6eTdwWEpDMmUwZ2pHNmJ5UjVXNXBfNk54Zmd1MEg3dnZnRHYwMzg4UUVwd3VfWFBjN2tsREVQZ19qTFlZ?oc=5
 
-## 18. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
+## 18. Online Courses and Resources where Anyone can Learn to Code - Designmodo
+- Score: **14**
+- Source: Designmodo
+- Published: Tue, 21 Jul 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JYXBBTWNBUmRxX0xlUTZvakMxaHRqVEJoSEhrbFpWV0Z6M2dfZ1FTcmxpZVJUeWFkaVNLM3lrWDA0YUpOWi16Z2ZncUxZNHFqaVRMWmtB?oc=5
+
+## 19. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
 - Score: **14**
 - Source: hi-Tech.ua
 - Published: Tue, 20 Oct 2026 04:08:25 GMT
 - URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2M5NFFhdW9kWEhjdmQwaFBrS2RWejBCd0FybVo0Z2E5S0k0TWtqTTFMSHR0UnJ1U29udEhCd1dpVHBvRFlqcWlfNzV0SzFpZC1seUlfWFgwUG5sUWRwNEFHMmRCYWJyck1yQTJ2OHFsUFlyNUtqOVMyWThCU1c4eUxUd21xcURVRGp0SEpzNlNOZw?oc=5
 
-## 19. Freelance Statistics By Work, Growth, Platform (2026) - Market.us Scoop
+## 20. Freelance Statistics By Work, Growth, Platform (2026) - Market.us Scoop
 - Score: **14**
 - Source: Market.us Scoop
 - Published: Tue, 16 May 2023 11:47:44 GMT
 - URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtTy10NFl3bDFhNXd6UHJ3TVdfTi13SUc0Q0l2dl9nSG91MDd1eUZZTXhZQ09DTmptVmZ0dl9iNTcydHdYRjJLU3dVUDlicUlMcDRieVduM20?oc=5
 
-## 20. Why Is WordPress So Hard to Use: Reasons and How to Fix It - Hostinger
+## 21. Why Is WordPress So Hard to Use: Reasons and How to Fix It - Hostinger
 - Score: **14**
 - Source: Hostinger
 - Published: Tue, 10 Mar 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMid0FVX3lxTFB0MGJoMjFpb0Q5X0xRTzQ3c2R5LUdfdVFQYW1DVmdiV0FKb2diQ3dFQ0JyVno5T3Z2bDdHeGNDeDd0WkVfX0ZOa0IxdHZxWWRRbWhVcG9YdF9fYTdUVUFHUldKdVJZUUtYdWNGa21nU1BvT2c3SVEw?oc=5
 
-## 21. Wix Studio Offers Freelancers & Agencies Way To Scale Business - Search Engine Journal
+## 22. Wix Studio Offers Freelancers & Agencies Way To Scale Business - Search Engine Journal
 - Score: **14**
 - Source: Search Engine Journal
 - Published: Tue, 01 Aug 2023 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LQlctT3V4SnZMdWw0Z1VKd0hOV00xa0tpbVBTWjE4YldSZXF4X0VyNWVEVUQzamtmTDFaWGU5QXNvcks1Rzg4WHJjSkpuSEduU0NwRFBVM0FURl9fRFZmYXNmLU8?oc=5
 
-## 22. Vibe coding: what it is and how it works - Hostinger
+## 23. Vibe coding: what it is and how it works - Hostinger
 - Score: **14**
 - Source: Hostinger
 - Published: Tue, 01 Apr 2025 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE50QW1uWU9YVnFYa3ZtSUNfLTNqZU9IQmZFcVpIVGtvZnNXMmlWTldpa1pSZzJFZXN0UEJZMnVRRHRPLUpnOC1TS3Q2UDJFd1VobXNnS1RNaWwwUWN3R2hvSQ?oc=5
 
-## 23. Top 20 Web Development Companies in India - The Hindu
+## 24. Top 20 Web Development Companies in India - The Hindu
 - Score: **14**
 - Source: The Hindu
 - Published: Thu, 31 Mar 2022 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjdsMG1GV3VucW1nN0tRMFlwZzZUa2NjMVExRnJEYVlaZ1hhdHBOZXAtaEdqZDU4N0NOLVliM0Y0Tm1LaG1MVUxNR2xGQmZTOXI0NklGaDFvTm5rZEx4c3o5T1ZsZ2JnTzlFZVo5Q1U5ZEJCVkQydE43RnZ4bWJKLWZyLU1lU1hFNVU0aE9QVmZldzNZTE1fN0ZzMNIBogFBVV95cUxQbUY5bG1HSmdJel9vUTM1WW0wMEFhNWpCdmhNb3lIUGRLcnhGUzlRVk44S1ZKOHBSZENvR09hMlEwUWRBOVU2bWZ3QWJtQW5yZGJrNU5CYlpaSF9oY3dUdGF4QzNqSVR3b2RCZHNnbk9rWlE0Ti1QRjhoeVRaX0g1NDZyQ3p1VWJ0THVRUjZQcW1rZkRkLTlYOFVONXJKUFZFVUE?oc=5
 
-## 24. Exploring The Future of Python: Trends & Innovations Ahead! - Simplilearn.com
+## 25. Exploring The Future of Python: Trends & Innovations Ahead! - Simplilearn.com
 - Score: **14**
 - Source: Simplilearn.com
 - Published: Thu, 31 Jul 2025 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ITkxfYWRneFVmUUpMM3ZMbnlHbTJjcWhOWEJaN0ZfMHpsS0dGM3BhTTJ2MGFnNXdudHJucnNYdDI1OEREMjE4NTdEYXJkcUR2aTVlVzVueU5JSzhPalpKQm9B?oc=5
 
-## 25. Hidden Gems: Meet Joshua Rystedt of R Creative - Voyage ATL Magazine
+## 26. Free AI tools are killing South Africa’s web designer job market - Rest of World
+- Score: **14**
+- Source: Rest of World
+- Published: Thu, 31 Aug 2023 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiekFVX3lxTFBVcVlNLXVZbVNWcU9iZXJhdUJZLTl3YWh5NTRIQkpJTVVfdklaM0NQU2VkWTY3TG55a0xEMUZySnp6NV9IQ0pBbjhBMXV5ckNvQ0t3N052cUpHb18tbUxwTE9NM0M5X1pIXzhBWkplczNuMzNEWDlEYnlR?oc=5
+
+## 27. Hidden Gems: Meet Joshua Rystedt of R Creative - Voyage ATL Magazine
 - Score: **14**
 - Source: Voyage ATL Magazine
 - Published: Thu, 30 Oct 2025 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUIxZnkzcmtmcUdLeDFRQlIxVnZZZlBpTVFHTUVDbXJNWUphVXBQMkExLVROTlJIV1pkMmpGQXkxb1FSaEZrcW5MbXJ0a3FHdW1UdUpJcDdGNDRxY2ExNjFPYzUySy1vYnd5czZYTl9uRHJ4d1VZSTlFTUZrTjJiRXVFY0U?oc=5
 
-## 26. Discover Leading 30 Digital Marketing Consultants of 2024 - Indian Startup Times
-- Score: **14**
-- Source: Indian Startup Times
-- Published: Thu, 29 Feb 2024 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWlZaEFwUWY4bk5EUE1CbXRUaGM3UmhiYmZheXBBcTNtUlp3UEtETEM5RGFHeVl5dzBhck5wR2FFWTFsNWNGazZDa0J5c2swblpfUS0tOHQyejNITldyS1Vod1hhNVRBSnMxcGp6ZEVmbnFxcDhSeVJ4RXJnb2lVSUNYVkNjQ0JRd3pFOWRaVWVyckpWbFlNc0lCVllQWnM?oc=5
-
-## 27. 4 platforms that teach coding online - Deccan Chronicle
+## 28. 4 platforms that teach coding online - Deccan Chronicle
 - Score: **14**
 - Source: Deccan Chronicle
 - Published: Thu, 28 Nov 2019 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0owNVdud1V6MXhmbjVVYjNuamw3MnNnSzlCSWlMS2RhZnVkZ3hfRTJzdXVRT01WUXFlaVBVRjU3UnRUYkFCZS11SXRkX21MNExCQk9Tc3B3X3Z4dFUwWkdOZG42azNVZHdrMkljYkpwaExGNkJnZW1JUmdaMFpwNkdvOUt5b01rSmlpWGJIZnl5WDd0VlBvQ0xUVzhlb094NklIX3JRY0fSAa4BQVVfeXFMT1k5cVJsVGNaU3Fwb1JzNDNybGVLSi01SGtTMl9mOEhydjc3OFlIYnNLZF9JXzB1dXJXRmZnbjZaME5NVUd4XzV1NGJtN0dxNHRxUW5YdkN0LWRQLXc3aFBKMnlCZXFmZm13YXZtNU9icVRkYVdxOE9BcUdkQVJ4dzZPUHVlZXpBR2VkRG9SR19KcmxyOHZBZHk5Z2NZazdDMFJBT0dHZ3dOaGFSN2pB?oc=5
 
-## 28. 6 Sites to Hire WordPress Freelancers if You Need a Helping Hand - Themeisle
+## 29. Hidden Gems: Meet Sajid Khalil of Elevatrix Solutions LLC - Voyage ATL Magazine
+- Score: **14**
+- Source: Voyage ATL Magazine
+- Published: Thu, 27 Aug 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFlxVWNVY1owREZXWXEyQ3Qzbm5pV0tlMlZ4V2pYcVFYbF9jVEl2UUh4NmNtaUYzT3NKWC01YmtpUWdFaHJoTUc5dHd1VHlNYU1HTGFNMlFHb2tkejFNWlZyQ0FBZ0lYRzhaYTJ2MWxOaE9veWM3eWxVSm9ucXhnUVFTMkg2UkhUYURuaGIyRjlkX0U?oc=5
+
+## 30. 6 Sites to Hire WordPress Freelancers if You Need a Helping Hand - Themeisle
 - Score: **14**
 - Source: Themeisle
 - Published: Thu, 23 Nov 2023 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lUHRqTlJmREg3bWM4ZHRYdGJ2VExWZDNWNnllWGd4ZWs1TU1ZRjYxcnFqYkZERmlZSzhqa2FSWEF6NDJGbzFKbmVJV1ptNFlibnZHWm1wekY1M0liQTZPbjVCOGs?oc=5
-
-## 29. Introducing Our Google Season of Docs 2020 Participants - Creative Commons
-- Score: **14**
-- Source: Creative Commons
-- Published: Thu, 20 Aug 2020 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1WX3NKMU1DTVJXNTY2dEdzbER1YWxhZkUtSjZ4NEJEUk1HRmVsV2lzOUh6TElvdHRxcXVLbHhTcFlXU1FlWkNrb2J4Q0VUZWJYa2FrVjJNbXRXREN0OF9TUnhfZkZlS0ZzSWRvZDl6NTI5bWJS?oc=5
-
-## 30. Hostinger Review: Is It A Good Option in 2026? - Cybernews
-- Score: **14**
-- Source: Cybernews
-- Published: Thu, 15 Apr 2021 22:38:27 GMT
-- URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3WVpZS0pZdEpsZE1TWmVETGtTb1lpLWN3TWMtYjBseFMxOUoxYnFKdmhzYjQ5d01sMFE1Y0hWSElIVTRubDR4VExpTXN5WVFCZkJqc0g1LWFKTzh2czlFZjdxRWpuV00?oc=5
