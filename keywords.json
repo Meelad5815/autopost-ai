@@ -10,6 +10,15 @@
       "learned_score": 84.4
     },
     {
+      "keyword": "where to watch new orleans saints vs pittsburgh steelers live",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
       "keyword": "where to watch new orleans saints vs pittsburgh steelers online",
       "intent": "informational",
       "demand": 82.0,
@@ -118,6 +127,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "valencia half marathon 2026 results today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "valencia half marathon 2026 elite field",
       "intent": "informational",
       "demand": 70.0,
@@ -128,6 +146,15 @@
     },
     {
       "keyword": "valencia half marathon 2026 full results",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "valencia half marathon 2026 allie ostrander",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -182,24 +209,6 @@
     },
     {
       "keyword": "valencia half marathon 2026 live",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "valencia half marathon 2026 tracker",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "valencia half marathon 2026 expo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -326,6 +335,15 @@
     },
     {
       "keyword": "connections today 10 24",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "connections today october 25",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -541,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today forbes",
+      "keyword": "connections today nyt",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today nyt",
+      "keyword": "connections today forbes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,16 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today clues",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "connections today sports",
+      "keyword": "connections today 24",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,15 +676,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "taiwan weather",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "taiwan travelogue",
       "intent": "informational",
       "demand": 52.0,
@@ -686,6 +686,15 @@
     },
     {
       "keyword": "taiwan map",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "taiwan weather",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -718,6 +727,15 @@
       "cluster": [
         {
           "keyword": "where to watch new orleans saints vs pittsburgh steelers",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "where to watch new orleans saints vs pittsburgh steelers live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -887,6 +905,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "valencia half marathon 2026 results today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
           "keyword": "valencia half marathon 2026 elite field",
           "intent": "informational",
           "demand": 70.0,
@@ -905,6 +932,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "valencia half marathon 2026 allie ostrander",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
           "keyword": "valencia half marathon 2026 results",
           "intent": "informational",
           "demand": 70.0,
@@ -915,24 +951,6 @@
         },
         {
           "keyword": "valencia half marathon 2026 live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 tracker",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 expo",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1337,6 +1355,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "connections today october 25",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "connections today hint",
           "intent": "informational",
           "demand": 58.0,
@@ -1364,7 +1391,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today forbes",
+          "keyword": "connections today nyt",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1400,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today nyt",
+          "keyword": "connections today forbes",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1391,16 +1418,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today clues",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "connections today sports",
+          "keyword": "connections today 24",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1459,15 +1477,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "taiwan weather",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "taiwan travelogue",
           "intent": "informational",
           "demand": 52.0,
@@ -1478,6 +1487,15 @@
         },
         {
           "keyword": "taiwan map",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "taiwan weather",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
