@@ -1,6 +1,24 @@
 {
   "keywords": [
     {
+      "keyword": "where to watch new orleans saints vs pittsburgh steelers",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "where to watch new orleans saints vs pittsburgh steelers online",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,70 +28,25 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "katerina siniakova vs ashlyn krueger",
+      "keyword": "where are the polar caves in new hampshire",
       "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
       "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "katerina siniakova vs katie boulter",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ashlyn krueger vs katerina siniakova",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rams vs raiders last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rams vs raiders injury report",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rams vs raiders point spread",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "rams vs raiders 2026 tickets",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
+      "learned_score": 76.0
     },
     {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "is the saints game on amazon prime",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -100,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "salt lake city weather by month",
+      "keyword": "hanging boulder falls polar caves nh",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "salt lake city weather in october",
+      "keyword": "valencia half marathon 2026 live results",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,7 +91,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "salt lake city weather in september",
+      "keyword": "valencia half marathon 2026 live tracking",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -127,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "salt lake city weather in november",
+      "keyword": "valencia half marathon 2026 live stream",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -136,7 +109,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "salt lake city weather 10 day",
+      "keyword": "valencia half marathon 2026 elite field",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -145,85 +118,13 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "salt lake city weather in december",
+      "keyword": "valencia half marathon 2026 results today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
-    },
-    {
-      "keyword": "katerina siniakova vs krueger",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ashlyn krueger vs siniakova",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ashlyn krueger vs katerina",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rams vs raiders prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rams vs raiders 2026",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rams vs raiders history",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rams vs raiders odds",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "rams vs raiders spread",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -235,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "from season 5 release date",
+      "keyword": "largest waterfall in new hampshire",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "from season 5 total episodes",
+      "keyword": "valencia half marathon 2026 results",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "from season 5 episode 1",
+      "keyword": "valencia half marathon 2026 live",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "salt lake city weather forecast",
+      "keyword": "valencia half marathon 2026 tracker",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "salt lake city weather today",
+      "keyword": "valencia half marathon 2026 expo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "salt lake city weather tomorrow",
+      "keyword": "jonathan frakes daytime emmy presenter",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "leonardo dicaprio romeo and juliet",
+      "keyword": "daytime talk show emmy winners",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,25 +199,25 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rams vs raiders",
+      "keyword": "premier league schedule on peacock",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "aliens vs monsters",
+      "keyword": "premier league schedule this weekend",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "katerina siniakova taylor townsend",
+      "keyword": "polar caves nh hours",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katerina siniakova match today",
+      "keyword": "saquon barkley injury update",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "from season 5 reddit",
+      "keyword": "valencia half marathon 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "from season 5 release",
+      "keyword": "jonathan frakes director credits",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "from season 5 trailer",
+      "keyword": "jesse eisenberg net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "from season 5 spoilers",
+      "keyword": "jesse eisenberg tv shows",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "from season 5 cast",
+      "keyword": "jesse eisenberg lex luthor",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "from season 5 theories",
+      "keyword": "jesse eisenberg nc state",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ashlyn krueger match suspended",
+      "keyword": "connections today 10 24",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "blade runner 2049 cast",
+      "keyword": "premier league schedule today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "salt lake city weather",
+      "keyword": "premier league schedule 2026/27",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "medal of honor game",
+      "keyword": "premier league schedule 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aliens in the attic",
+      "keyword": "premier league schedule standings",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aliens fireteam elite 2",
+      "keyword": "premier league schedule table",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aliens from toy story",
+      "keyword": "premier league schedule 26/27",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aliens holding each other",
+      "keyword": "premier league schedule tomorrow",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,16 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "leonardo dicaprio net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "katerina siniakova prediction",
+      "keyword": "saquon barkley injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +370,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katerina siniakova ranking",
+      "keyword": "saquon barkley stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katerina siniakova age",
+      "keyword": "saquon barkley trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katerina siniakova husband",
+      "keyword": "saquon barkley wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "from season 5",
+      "keyword": "saquon barkley contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashlyn krueger ranking",
+      "keyword": "saquon barkley age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashlyn krueger prediction",
+      "keyword": "saquon barkley news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashlyn krueger tennis",
+      "keyword": "saquon barkley fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashlyn krueger college",
+      "keyword": "jesse eisenberg movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ashlyn krueger coach",
+      "keyword": "jesse eisenberg wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blade runner 2049",
+      "keyword": "jesse eisenberg sister",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blades of glory",
+      "keyword": "jesse eisenberg height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "blade runner 2099",
+      "keyword": "jesse eisenberg minions",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "theft by deception",
+      "keyword": "connections today hint",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "theft of services",
+      "keyword": "connections today answer",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "theft by conversion",
+      "keyword": "connections today mashable",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "theft deterrent system",
+      "keyword": "connections today nyt",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "theft of swords",
+      "keyword": "connections today forbes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "medal of honor",
+      "keyword": "connections today reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "medallion signature guarantee",
+      "keyword": "connections today clues",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "aliens white house",
+      "keyword": "connections today sports",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "aliens touching heads",
+      "keyword": "taiwan semiconductor stock",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leonardo dicaprio movies",
+      "keyword": "taiwanese popcorn chicken",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leonardo dicaprio girlfriend",
+      "keyword": "premier league schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,52 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leonardo dicaprio meme",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "leonardo dicaprio wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "leonardo dicaprio age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "leonardo dicaprio young",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "leonardo dicaprio height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katerina siniakova",
+      "keyword": "saquon barkley",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +586,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ashlyn krueger",
+      "keyword": "jesse eisenberg",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +595,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blade runner",
+      "keyword": "connections today",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +604,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blade hq",
+      "keyword": "taiwan typhoon",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +613,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blade movie",
+      "keyword": "taiwan time",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +622,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blade 2",
+      "keyword": "taiwan flag",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +631,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "blade stance",
+      "keyword": "taiwan weather",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +640,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "theft texas",
+      "keyword": "taiwan travelogue",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +649,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "theft california",
+      "keyword": "taiwan map",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,88 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "theft meaning",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "theft orc",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medal tv",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medallion bank",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medal download",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medal clipping",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "aliens cast",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "aliens meme",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "leonardo dicaprio",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "blade",
+      "keyword": "taiwan",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -901,43 +667,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "theft",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "medal",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "medallion",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "medallia",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "aliens",
+      "keyword": "taiwanese",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -947,6 +677,38 @@
     }
   ],
   "clusters": [
+    {
+      "pillar": "where to watch new orleans saints vs pittsburgh steelers",
+      "cluster": [
+        {
+          "keyword": "where to watch new orleans saints vs pittsburgh steelers",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "where to watch new orleans saints vs pittsburgh steelers online",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "where are the polar caves in new hampshire",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -962,295 +724,24 @@
       ]
     },
     {
-      "pillar": "katerina siniakova vs ashlyn krueger",
-      "cluster": [
-        {
-          "keyword": "katerina siniakova vs ashlyn krueger",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "katerina siniakova vs katie boulter",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "katerina siniakova vs krueger",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "katerina siniakova taylor townsend",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "katerina siniakova match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "katerina siniakova prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katerina siniakova ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katerina siniakova age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katerina siniakova husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katerina siniakova",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "ashlyn krueger vs katerina siniakova",
-      "cluster": [
-        {
-          "keyword": "ashlyn krueger vs katerina siniakova",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ashlyn krueger vs siniakova",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ashlyn krueger vs katerina",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ashlyn krueger match suspended",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ashlyn krueger ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashlyn krueger prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashlyn krueger tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashlyn krueger college",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashlyn krueger coach",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ashlyn krueger",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "rams vs raiders last game",
-      "cluster": [
-        {
-          "keyword": "rams vs raiders last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rams vs raiders injury report",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rams vs raiders point spread",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rams vs raiders 2026 tickets",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "rams vs raiders prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rams vs raiders 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rams vs raiders history",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rams vs raiders odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rams vs raiders spread",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "rams vs raiders",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
           "keyword": "what is the price of website development",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "is the saints game on amazon prime",
+      "cluster": [
+        {
+          "keyword": "is the saints game on amazon prime",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1293,10 +784,24 @@
       ]
     },
     {
-      "pillar": "salt lake city weather by month",
+      "pillar": "hanging boulder falls polar caves nh",
       "cluster": [
         {
-          "keyword": "salt lake city weather by month",
+          "keyword": "hanging boulder falls polar caves nh",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "valencia half marathon 2026 live results",
+      "cluster": [
+        {
+          "keyword": "valencia half marathon 2026 live results",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1305,7 +810,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "salt lake city weather in october",
+          "keyword": "valencia half marathon 2026 live tracking",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1314,7 +819,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "salt lake city weather in september",
+          "keyword": "valencia half marathon 2026 live stream",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1323,7 +828,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "salt lake city weather in november",
+          "keyword": "valencia half marathon 2026 elite field",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1332,7 +837,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "salt lake city weather 10 day",
+          "keyword": "valencia half marathon 2026 results today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1341,16 +846,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "salt lake city weather in december",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "salt lake city weather forecast",
+          "keyword": "valencia half marathon 2026 results",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1359,7 +855,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "salt lake city weather today",
+          "keyword": "valencia half marathon 2026 live",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1368,7 +864,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "salt lake city weather tomorrow",
+          "keyword": "valencia half marathon 2026 tracker",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1377,7 +873,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "salt lake city weather",
+          "keyword": "valencia half marathon 2026 expo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "valencia half marathon 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1388,10 +893,24 @@
       ]
     },
     {
-      "pillar": "from season 5 release date",
+      "pillar": "largest waterfall in new hampshire",
       "cluster": [
         {
-          "keyword": "from season 5 release date",
+          "keyword": "largest waterfall in new hampshire",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "jonathan frakes daytime emmy presenter",
+      "cluster": [
+        {
+          "keyword": "jonathan frakes daytime emmy presenter",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1400,7 +919,35 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "from season 5 total episodes",
+          "keyword": "jonathan frakes director credits",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "daytime talk show emmy winners",
+      "cluster": [
+        {
+          "keyword": "daytime talk show emmy winners",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "premier league schedule on peacock",
+      "cluster": [
+        {
+          "keyword": "premier league schedule on peacock",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1409,7 +956,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "from season 5 episode 1",
+          "keyword": "premier league schedule this weekend",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1418,7 +965,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "from season 5 reddit",
+          "keyword": "premier league schedule today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1427,7 +974,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "from season 5 release",
+          "keyword": "premier league schedule 2026/27",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1436,7 +983,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "from season 5 trailer",
+          "keyword": "premier league schedule 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1445,7 +992,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "from season 5 spoilers",
+          "keyword": "premier league schedule standings",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1454,7 +1001,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "from season 5 cast",
+          "keyword": "premier league schedule table",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1463,7 +1010,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "from season 5 theories",
+          "keyword": "premier league schedule 26/27",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1472,7 +1019,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "from season 5",
+          "keyword": "premier league schedule tomorrow",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1483,19 +1039,24 @@
       ]
     },
     {
-      "pillar": "leonardo dicaprio romeo and juliet",
+      "pillar": "polar caves nh hours",
       "cluster": [
         {
-          "keyword": "leonardo dicaprio romeo and juliet",
+          "keyword": "polar caves nh hours",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "saquon barkley injury update",
+      "cluster": [
         {
-          "keyword": "leonardo dicaprio net worth",
+          "keyword": "saquon barkley injury update",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1504,7 +1065,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "leonardo dicaprio movies",
+          "keyword": "saquon barkley injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1513,7 +1074,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio girlfriend",
+          "keyword": "saquon barkley stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1522,7 +1083,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio meme",
+          "keyword": "saquon barkley trade",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1531,7 +1092,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio wife",
+          "keyword": "saquon barkley wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1540,7 +1101,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio age",
+          "keyword": "saquon barkley contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1549,7 +1110,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio young",
+          "keyword": "saquon barkley age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1558,7 +1119,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio height",
+          "keyword": "saquon barkley news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1567,7 +1128,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leonardo dicaprio",
+          "keyword": "saquon barkley fantasy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "saquon barkley",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1578,19 +1148,10 @@
       ]
     },
     {
-      "pillar": "aliens vs monsters",
+      "pillar": "jesse eisenberg net worth",
       "cluster": [
         {
-          "keyword": "aliens vs monsters",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "aliens in the attic",
+          "keyword": "jesse eisenberg net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1599,7 +1160,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aliens fireteam elite 2",
+          "keyword": "jesse eisenberg tv shows",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1608,7 +1169,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aliens from toy story",
+          "keyword": "jesse eisenberg lex luthor",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1617,7 +1178,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aliens holding each other",
+          "keyword": "jesse eisenberg nc state",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1626,7 +1187,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "aliens white house",
+          "keyword": "jesse eisenberg movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1635,7 +1196,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "aliens touching heads",
+          "keyword": "jesse eisenberg wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1205,152 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "aliens cast",
+          "keyword": "jesse eisenberg sister",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jesse eisenberg height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jesse eisenberg minions",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jesse eisenberg",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "connections today 10 24",
+      "cluster": [
+        {
+          "keyword": "connections today 10 24",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "connections today hint",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today answer",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today mashable",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today nyt",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today forbes",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today reddit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today clues",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today sports",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "connections today",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "taiwan semiconductor stock",
+      "cluster": [
+        {
+          "keyword": "taiwan semiconductor stock",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taiwan typhoon",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1653,7 +1359,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "aliens meme",
+          "keyword": "taiwan time",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1662,7 +1368,43 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "aliens",
+          "keyword": "taiwan flag",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "taiwan weather",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "taiwan travelogue",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "taiwan map",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "taiwan",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1673,19 +1415,10 @@
       ]
     },
     {
-      "pillar": "blade runner 2049 cast",
+      "pillar": "taiwanese popcorn chicken",
       "cluster": [
         {
-          "keyword": "blade runner 2049 cast",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "blade runner 2049",
+          "keyword": "taiwanese popcorn chicken",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1694,275 +1427,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "blade runner 2099",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "blade runner",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blade hq",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blade movie",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blade 2",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blade stance",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "blade",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "medal of honor game",
-      "cluster": [
-        {
-          "keyword": "medal of honor game",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "medal of honor",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "medal tv",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medal download",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medal clipping",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medal",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "blades of glory",
-      "cluster": [
-        {
-          "keyword": "blades of glory",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "theft by deception",
-      "cluster": [
-        {
-          "keyword": "theft by deception",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "theft of services",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "theft by conversion",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "theft deterrent system",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "theft of swords",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "theft texas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "theft california",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "theft meaning",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "theft orc",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "theft",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "medallion signature guarantee",
-      "cluster": [
-        {
-          "keyword": "medallion signature guarantee",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "medallion bank",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medallion",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "medallia",
-      "cluster": [
-        {
-          "keyword": "medallia",
+          "keyword": "taiwanese",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
