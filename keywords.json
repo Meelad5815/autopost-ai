@@ -1,7 +1,7 @@
 {
   "keywords": [
     {
-      "keyword": "where to watch new orleans saints vs pittsburgh steelers",
+      "keyword": "liverpool f.c. vs brighton & hove albion f.c. standings",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -10,7 +10,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "where to watch new orleans saints vs pittsburgh steelers live",
+      "keyword": "liverpool fc vs brighton & hove albion fc standings live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -19,13 +19,22 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "where to watch new orleans saints vs pittsburgh steelers online",
+      "keyword": "liverpool fc vs brighton & hove albion fc standings today",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
       "ranking_probability": 84.4,
       "learning_boost": 0.0,
       "learned_score": 84.4
+    },
+    {
+      "keyword": "marseille vs le havre last match",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
     },
     {
       "keyword": "how much does it cost to build a wordpress website",
@@ -37,22 +46,148 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "where are the polar caves in new hampshire",
+      "keyword": "lecce vs juventus last match",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
       "learning_boost": 0.0,
-      "learned_score": 76.0
+      "learned_score": 75.4
     },
     {
-      "keyword": "did andy reid ever play in the nfl",
+      "keyword": "lecce vs juventus prediction today",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
       "learning_boost": 0.0,
-      "learned_score": 76.0
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "buccaneers vs panthers last game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "buccaneers vs panthers injury report",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "buccaneers vs panthers score prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre live",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre ac",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre h2h",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre results",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre highlights",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "marseille vs le havre forebet",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "dolphins vs jets last game",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "dolphins vs jets score prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "dolphins vs jets injury report",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "what is the price of website development",
@@ -64,7 +199,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "is the saints game on amazon prime",
+      "keyword": "hunger games ballad of songbirds and snakes",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -91,7 +226,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "hanging boulder falls polar caves nh",
+      "keyword": "hunger games sunrise on the reaping",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,7 +235,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "valencia half marathon 2026 live results",
+      "keyword": "new managers in the premier league",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,76 +244,184 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "valencia half marathon 2026 live tracking",
+      "keyword": "lecce vs juventus prediction",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "valencia half marathon 2026 live stream",
+      "keyword": "lecce vs juventus tickets",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "valencia half marathon 2026 results today",
+      "keyword": "lecce vs juventus h2h",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "valencia half marathon 2026 elite field",
+      "keyword": "lecce vs juventus forebet",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "valencia half marathon 2026 full results",
+      "keyword": "lecce vs juventus results",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "valencia half marathon 2026 allie ostrander",
+      "keyword": "lecce vs juventus turin",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "andy reid patrick mahomes josh simmons",
+      "keyword": "lecce vs juventus live",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "did andy reid draft patrick mahomes",
+      "keyword": "buccaneers vs panthers predictions",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "buccaneers vs panthers 2025",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "buccaneers vs panthers odds",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "buccaneers vs panthers 2026",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "buccaneers vs panthers spread",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "buccaneers vs panthers pickdawgz",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "marseille vs le havre",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "dolphins vs jets prediction",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "dolphins vs jets history",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "dolphins vs jets spread",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "dolphins vs jets tickets",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "dolphins vs jets pickdawgz",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "dolphins vs jets odds",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -190,7 +433,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "largest waterfall in new hampshire",
+      "keyword": "hunger games movies in order",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +442,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "valencia half marathon 2026 results",
+      "keyword": "hunger games catching fire cast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +451,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "valencia half marathon 2026 live",
+      "keyword": "new manager for man city",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +460,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jonathan frakes daytime emmy presenter",
+      "keyword": "new manager of manchester city",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +469,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "daytime talk show emmy winners",
+      "keyword": "new manager for real madrid",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +478,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "andy reid record before mahomes",
+      "keyword": "new manager of red sox",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,25 +487,34 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "premier league schedule on peacock",
+      "keyword": "lecce vs juventus",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "premier league schedule this weekend",
+      "keyword": "buccaneers vs panthers",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
       "learning_boost": 0.0,
-      "learned_score": 67.0
+      "learned_score": 61.0
     },
     {
-      "keyword": "polar caves nh hours",
+      "keyword": "dolphins vs jets",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "hunger games in order",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +523,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "saquon barkley injury update",
+      "keyword": "hunger games 3 cast",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +532,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "valencia half marathon 2026",
+      "keyword": "james reimer hamilton ohio",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +541,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan frakes director credits",
+      "keyword": "james reimer san dimas",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +550,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jesse eisenberg net worth",
+      "keyword": "new manager training courses",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +559,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jesse eisenberg tv shows",
+      "keyword": "epl table last season",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +568,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jesse eisenberg lex luthor",
+      "keyword": "marshall faulk rookie card",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,97 +577,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jesse eisenberg nc state",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "connections today 10 24",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "connections today october 25",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule 2026/27",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule 2026",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule standings",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule table",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule 26/27",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "premier league schedule tomorrow",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "saquon barkley injury",
+      "keyword": "hunger games cast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley stats",
+      "keyword": "hunger games movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley trade",
+      "keyword": "hunger games books",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley wife",
+      "keyword": "james reimer actor",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley contract",
+      "keyword": "james reimer nhl",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley news",
+      "keyword": "james reimer odyssey",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley age",
+      "keyword": "james reimer md",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley fantasy",
+      "keyword": "james reimer stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jesse eisenberg movies",
+      "keyword": "james reimer wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jesse eisenberg wife",
+      "keyword": "james reimer retirement",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jesse eisenberg sister",
+      "keyword": "new manager training",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jesse eisenberg height",
+      "keyword": "new manager assimilation",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jesse eisenberg minions",
+      "keyword": "new manager meme",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today hint",
+      "keyword": "epl table 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today answer",
+      "keyword": "epl table today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today mashable",
+      "keyword": "epl table standings",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today nyt",
+      "keyword": "epl table 2025",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today forbes",
+      "keyword": "epl table live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today reddit",
+      "keyword": "epl table 2025/26",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "connections today 24",
+      "keyword": "epl table 2026/27",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taiwan semiconductor stock",
+      "keyword": "epl table 25/26",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taiwanese popcorn chicken",
+      "keyword": "marshall faulk parkinsons",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "premier league schedule",
+      "keyword": "marshall faulk stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +784,61 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "saquon barkley",
+      "keyword": "marshall faulk age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "marshall faulk wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "marshall faulk college",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "marshall faulk diagnosis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "marshall faulk jersey",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "marshall faulk illness",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "hunger games",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -631,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "jesse eisenberg",
+      "keyword": "james reimer",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -640,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "connections today",
+      "keyword": "new manager",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -649,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "taiwan typhoon",
+      "keyword": "epl table",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -658,75 +874,21 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "taiwan time",
+      "keyword": "marshall faulk",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "taiwan flag",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "taiwan travelogue",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "taiwan map",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "taiwan weather",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "taiwan",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "taiwanese",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "where to watch new orleans saints vs pittsburgh steelers",
+      "pillar": "liverpool f.c. vs brighton & hove albion f.c. standings",
       "cluster": [
         {
-          "keyword": "where to watch new orleans saints vs pittsburgh steelers",
+          "keyword": "liverpool f.c. vs brighton & hove albion f.c. standings",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -735,7 +897,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "where to watch new orleans saints vs pittsburgh steelers live",
+          "keyword": "liverpool fc vs brighton & hove albion fc standings live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -744,22 +906,108 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "where to watch new orleans saints vs pittsburgh steelers online",
+          "keyword": "liverpool fc vs brighton & hove albion fc standings today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
           "ranking_probability": 84.4,
           "learning_boost": 0.0,
           "learned_score": 84.4
+        }
+      ]
+    },
+    {
+      "pillar": "marseille vs le havre last match",
+      "cluster": [
+        {
+          "keyword": "marseille vs le havre last match",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
         },
         {
-          "keyword": "where are the polar caves in new hampshire",
+          "keyword": "marseille vs le havre prediction",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 76.0
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre live",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre ac",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre h2h",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre results",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre highlights",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre forebet",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "marseille vs le havre",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
         }
       ]
     },
@@ -778,25 +1026,287 @@
       ]
     },
     {
-      "pillar": "did andy reid ever play in the nfl",
+      "pillar": "lecce vs juventus last match",
       "cluster": [
         {
-          "keyword": "did andy reid ever play in the nfl",
+          "keyword": "lecce vs juventus last match",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 76.0
+          "learned_score": 75.4
         },
         {
-          "keyword": "did andy reid draft patrick mahomes",
+          "keyword": "lecce vs juventus prediction today",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "lecce vs juventus prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus tickets",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus h2h",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus forebet",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus results",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus turin",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus live",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lecce vs juventus",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "buccaneers vs panthers last game",
+      "cluster": [
+        {
+          "keyword": "buccaneers vs panthers last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "buccaneers vs panthers injury report",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "buccaneers vs panthers score prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "buccaneers vs panthers predictions",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "buccaneers vs panthers 2025",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "buccaneers vs panthers odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "buccaneers vs panthers 2026",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "buccaneers vs panthers spread",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "buccaneers vs panthers pickdawgz",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "buccaneers vs panthers",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "dolphins vs jets last game",
+      "cluster": [
+        {
+          "keyword": "dolphins vs jets last game",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "dolphins vs jets score prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "dolphins vs jets injury report",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "dolphins vs jets prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "dolphins vs jets history",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "dolphins vs jets spread",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "dolphins vs jets tickets",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "dolphins vs jets pickdawgz",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "dolphins vs jets odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "dolphins vs jets",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
         }
       ]
     },
@@ -815,16 +1325,97 @@
       ]
     },
     {
-      "pillar": "is the saints game on amazon prime",
+      "pillar": "hunger games ballad of songbirds and snakes",
       "cluster": [
         {
-          "keyword": "is the saints game on amazon prime",
+          "keyword": "hunger games ballad of songbirds and snakes",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        },
+        {
+          "keyword": "hunger games sunrise on the reaping",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "hunger games movies in order",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "hunger games catching fire cast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "hunger games in order",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "hunger games 3 cast",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "hunger games cast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hunger games movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hunger games books",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hunger games",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -861,24 +1452,10 @@
       ]
     },
     {
-      "pillar": "hanging boulder falls polar caves nh",
+      "pillar": "new managers in the premier league",
       "cluster": [
         {
-          "keyword": "hanging boulder falls polar caves nh",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "valencia half marathon 2026 live results",
-      "cluster": [
-        {
-          "keyword": "valencia half marathon 2026 live results",
+          "keyword": "new managers in the premier league",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -887,61 +1464,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "valencia half marathon 2026 live tracking",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 live stream",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 results today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 elite field",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 full results",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 allie ostrander",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "valencia half marathon 2026 results",
+          "keyword": "new manager for man city",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -950,7 +1473,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "valencia half marathon 2026 live",
+          "keyword": "new manager of manchester city",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -959,58 +1482,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "valencia half marathon 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "andy reid patrick mahomes josh simmons",
-      "cluster": [
-        {
-          "keyword": "andy reid patrick mahomes josh simmons",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "andy reid record before mahomes",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "largest waterfall in new hampshire",
-      "cluster": [
-        {
-          "keyword": "largest waterfall in new hampshire",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "jonathan frakes daytime emmy presenter",
-      "cluster": [
-        {
-          "keyword": "jonathan frakes daytime emmy presenter",
+          "keyword": "new manager for real madrid",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1019,35 +1491,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jonathan frakes director credits",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "daytime talk show emmy winners",
-      "cluster": [
-        {
-          "keyword": "daytime talk show emmy winners",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "premier league schedule on peacock",
-      "cluster": [
-        {
-          "keyword": "premier league schedule on peacock",
+          "keyword": "new manager of red sox",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1056,16 +1500,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "premier league schedule this weekend",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "premier league schedule today",
+          "keyword": "new manager training courses",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1074,98 +1509,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "premier league schedule 2026/27",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "premier league schedule 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "premier league schedule standings",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "premier league schedule table",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "premier league schedule 26/27",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "premier league schedule tomorrow",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "premier league schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "polar caves nh hours",
-      "cluster": [
-        {
-          "keyword": "polar caves nh hours",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "saquon barkley injury update",
-      "cluster": [
-        {
-          "keyword": "saquon barkley injury update",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "saquon barkley injury",
+          "keyword": "new manager training",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1174,7 +1518,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "saquon barkley stats",
+          "keyword": "new manager assimilation",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1183,7 +1527,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "saquon barkley trade",
+          "keyword": "new manager meme",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1192,52 +1536,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "saquon barkley wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "saquon barkley contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "saquon barkley news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "saquon barkley age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "saquon barkley fantasy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "saquon barkley",
+          "keyword": "new manager",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1248,10 +1547,10 @@
       ]
     },
     {
-      "pillar": "jesse eisenberg net worth",
+      "pillar": "james reimer hamilton ohio",
       "cluster": [
         {
-          "keyword": "jesse eisenberg net worth",
+          "keyword": "james reimer hamilton ohio",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1260,7 +1559,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jesse eisenberg tv shows",
+          "keyword": "james reimer san dimas",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1269,25 +1568,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jesse eisenberg lex luthor",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jesse eisenberg nc state",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jesse eisenberg movies",
+          "keyword": "james reimer actor",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1296,7 +1577,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jesse eisenberg wife",
+          "keyword": "james reimer nhl",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1305,7 +1586,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jesse eisenberg sister",
+          "keyword": "james reimer odyssey",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1314,7 +1595,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jesse eisenberg height",
+          "keyword": "james reimer md",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1323,7 +1604,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jesse eisenberg minions",
+          "keyword": "james reimer stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1332,7 +1613,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jesse eisenberg",
+          "keyword": "james reimer wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james reimer retirement",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "james reimer",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1343,10 +1642,10 @@
       ]
     },
     {
-      "pillar": "connections today 10 24",
+      "pillar": "epl table last season",
       "cluster": [
         {
-          "keyword": "connections today 10 24",
+          "keyword": "epl table last season",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1355,16 +1654,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "connections today october 25",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "connections today hint",
+          "keyword": "epl table 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1663,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today answer",
+          "keyword": "epl table today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,7 +1672,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today mashable",
+          "keyword": "epl table standings",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1391,7 +1681,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today nyt",
+          "keyword": "epl table 2025",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1400,7 +1690,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today forbes",
+          "keyword": "epl table live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1409,7 +1699,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today reddit",
+          "keyword": "epl table 2025/26",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1418,7 +1708,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today 24",
+          "keyword": "epl table 2026/27",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,7 +1717,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "connections today",
+          "keyword": "epl table 25/26",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "epl table",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1438,10 +1737,19 @@
       ]
     },
     {
-      "pillar": "taiwan semiconductor stock",
+      "pillar": "marshall faulk rookie card",
       "cluster": [
         {
-          "keyword": "taiwan semiconductor stock",
+          "keyword": "marshall faulk rookie card",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "marshall faulk parkinsons",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1450,75 +1758,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taiwan typhoon",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "taiwan time",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "taiwan flag",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "taiwan travelogue",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "taiwan map",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "taiwan weather",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "taiwan",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "taiwanese popcorn chicken",
-      "cluster": [
-        {
-          "keyword": "taiwanese popcorn chicken",
+          "keyword": "marshall faulk stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1527,13 +1767,67 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taiwanese",
+          "keyword": "marshall faulk age",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marshall faulk wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marshall faulk college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marshall faulk diagnosis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marshall faulk jersey",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marshall faulk illness",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marshall faulk",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
