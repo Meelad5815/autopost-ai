@@ -1,86 +1,86 @@
 {
-  "generated_at": "2026-10-26T16:53:07.795584+00:00",
+  "generated_at": "2026-10-26T21:28:34.024078+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 160,
   "items": [
     {
-      "title": "cyanide lol",
+      "title": "antoine de massy monaco",
       "source": "google_trends_us"
     },
     {
-      "title": "nascar news",
+      "title": "pere romeu",
       "source": "google_trends_us"
     },
     {
-      "title": "trabzonspor",
+      "title": "fox news lawrence jones jd degree",
       "source": "google_trends_us"
     },
     {
-      "title": "rwanda",
+      "title": "nfl trade rumors",
       "source": "google_trends_us"
     },
     {
-      "title": "donal lunny",
+      "title": "thierry henry",
       "source": "google_trends_us"
     },
     {
-      "title": "maurene comey",
+      "title": "saquon barkley",
       "source": "google_trends_us"
     },
     {
-      "title": "star wars",
+      "title": "mnf tonight",
       "source": "google_trends_us"
     },
     {
-      "title": "walter koenig",
+      "title": "troy aikman joe buck feud",
       "source": "google_trends_us"
+    },
+    {
+      "title": "malik scott",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "kopa trophy",
+      "source": "google_trends_us"
+    },
+    {
+      "title": "phantom blade zero review",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "sevilla vs osasuna",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "ballon d&apos;or 2026 live stream",
+      "source": "google_trends_pk"
     },
     {
       "title": "microsoft",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "tax",
-      "source": "google_trends_us"
-    },
-    {
-      "title": "leeds united",
       "source": "google_trends_pk"
     },
     {
-      "title": "pakistan cricket",
+      "title": "psg vs ol",
       "source": "google_trends_pk"
     },
     {
-      "title": "ai bubble",
+      "title": "galatasaray vs fenerbahçe",
       "source": "google_trends_pk"
     },
     {
-      "title": "moon",
+      "title": "ethan klein",
       "source": "google_trends_pk"
     },
     {
-      "title": "hadi ali chattha",
+      "title": "hyundai bayon",
       "source": "google_trends_pk"
     },
     {
-      "title": "jermaine pennant",
+      "title": "dazn live",
       "source": "google_trends_pk"
     },
     {
-      "title": "islamabad traffic police",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "oxford street",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "videos",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "federal investigation agency",
+      "title": "pakistan england cricket match",
       "source": "google_trends_pk"
     },
     {
@@ -88,23 +88,15 @@
       "source": "google_developers"
     },
     {
-      "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
-      "source": "google_developers"
-    },
-    {
       "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
       "source": "google_developers"
     },
     {
+      "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+      "source": "google_developers"
+    },
+    {
       "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
-      "source": "google_developers"
-    },
-    {
-      "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
-      "source": "google_developers"
-    },
-    {
-      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
       "source": "google_developers"
     },
     {
@@ -113,6 +105,14 @@
     },
     {
       "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+      "source": "google_developers"
+    },
+    {
+      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+      "source": "google_developers"
+    },
+    {
+      "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
       "source": "google_developers"
     },
     {
@@ -168,11 +168,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Locala Brings APAC Marketers Together to Explore What Comes After AI Automation - ExchangeWire",
+      "title": "AI fills front office staffing gaps, but who manages the AI? - TechTarget",
       "source": "google_news_ai"
     },
     {
-      "title": "Quick Take: Cheap Pilots, Pricey Production With Order AI - Automation World",
+      "title": "Locala Brings APAC Marketers Together to Explore What Comes After AI Automation - ExchangeWire",
       "source": "google_news_ai"
     },
     {
@@ -180,19 +180,31 @@
       "source": "google_news_ai"
     },
     {
-      "title": "C.H. Robinson Brings Lean AI to Ocean Shipping - Supply Chain Digital",
+      "title": "Quick Take: Cheap Pilots, Pricey Production With Order AI - Automation World",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Tech providers offer new AI agents for freight companies &amp; more - Commercial Carrier Journal",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "OMRON to acquire OnLogic to address edge AI applications - The Robot Report",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Ripple Treasury adds 24/7 returns with RLUSD and AI cash management - Crypto News",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "C.H. Robinson Brings Lean AI to Ocean Shipping - Supply Chain Digital Magazine",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Bedrock Robotics Raises $600M as Autonomous Excavators Enter Commercial Construction - A3 Association for Advancing Automation",
       "source": "google_news_ai"
     },
     {
       "title": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring, cybersecurity and energy optimization - Industrial Cyber",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes | NVIDIA Technical Blog - NVIDIA Developer",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The next wave of marketing automation is taking aim at Marketo - MarTech",
       "source": "google_news_ai"
     },
     {
@@ -212,23 +224,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Rockwell FactoryTalk Conductor: AI Orchestration for Industry - ETMM",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Ericsson’s Karlsson: Don’t confuse AI automation with network autonomy - Fierce Network",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "In Payroll, the Most Dangerous AI Errors Look Correct - Unite.AI",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "ReferralMD Completes the Referral with End-to-End AI-Powered Workflow Automation - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Leidos Brings AI to Pentagon Asset Management - Supply Chain Digital Magazine",
       "source": "google_news_ai"
     },
     {
@@ -236,7 +232,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Genon Clears Nike Footwear Production Validation, Wins New AI Automation Contracts in Indonesia - Yahoo Finance",
+      "title": "NISCO And Huawei Scale Industrial AI For Predictive Maintenance, Quality Control And Energy Efficiency - Automation World",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Leidos Brings AI to Pentagon Asset Management - Supply Chain Digital Magazine",
       "source": "google_news_ai"
     },
     {
@@ -248,11 +248,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Florence automating the connection between study sites and sponsors, with AI tools already live - Chinook Observer",
+      "title": "Rockwell FactoryTalk Conductor: AI Orchestration for Industry - ETMM",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "In Payroll, the Most Dangerous AI Errors Look Correct - Unite.AI",
       "source": "google_news_ai"
     },
     {
       "title": "Tether wins backing from 15 Bitcoin mining firms for AI automation tools - Crypto News",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "ReferralMD Completes the Referral with End-to-End AI-Powered Workflow Automation - Business Wire",
       "source": "google_news_ai"
     },
     {
@@ -272,19 +280,19 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI Automation Saves Businesses $1.5M Yearly - Supply &amp; Demand Chain Executive",
+      "title": "Florence automating the connection between study sites and sponsors, with AI tools already live - Chinook Observer",
       "source": "google_news_ai"
     },
     {
-      "title": "AI Automation Can Lift Margins Despite Pricing Pressure: Coforge CEO - TradingView",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Oracle NetSuite Unveils AI Tools to Automate Business Operations - Small Business Trends",
-      "source": "google_news_ai"
+      "title": "Google Search Ranking Volatility Gets Heated October 24th - Search Engine Roundtable",
+      "source": "google_news_seo"
     },
     {
       "title": "Category vs. product pages: Which does Google favor? - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "How Rank Trackers Say They Handle Suspect Google Results - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -300,7 +308,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
+      "title": "Rank Data Skews, AIOs Hit 97% of Buyer Queries: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -312,11 +320,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google's AI Search Overhaul Disrupts Publishing Industry - The Tech Buzz",
+      "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "title": "Six-step essential guide to choosing keywords - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -324,19 +332,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Five SEO “Errors” on My Static Site That Weren’t Errors - HackerNoon",
+      "title": "Google confirms AI-generated review summaries in Search ads - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "How to launch an awesome SEO campaign - Search Engine Land",
+      "title": "Google Updates User-Generated Spam Guidance To Specify Tools &amp; More - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Ranking Volatility Gets Heated October 24th - Search Engine Roundtable",
+      "title": "Google Search says you should block indexing of link-shared content - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Why the order of technical SEO fixes matters - Search Engine Land",
+      "title": "AI search is a branding channel, not a distraction - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -344,7 +352,27 @@
       "source": "google_news_seo"
     },
     {
+      "title": "How to launch an awesome SEO campaign - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Why the order of technical SEO fixes matters - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google's AI Search Overhaul Disrupts Publishing Industry - The Tech Buzz",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google AI Overviews nearly double for commercial keywords: Study - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -352,31 +380,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Updates Control What You Share With Google Search With Existing Options - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "3 New Studies Suggest AI Visibility &amp; Search Not Worth Investing In - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Rolls Out Universal Cart and a Holiday Buying Guide - ALM Corp",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "SEO Still Matters? Yes. Google Says So. - CMSWire",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
+      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
       "source": "google_news_seo"
     },
     {
@@ -384,28 +388,20 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Daily Search Forum Recap: October 21, 2026 - Search Engine Roundtable",
+      "title": "Google Ends Spam Update, Opens UGC: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Can Lose Faith In Sites Based On Low Value Programmatic SEO Pages - Search Engine Roundtable",
+      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
+      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console: the ultimate guide for 2026 - Semrush",
+      "title": "Five SEO “Errors” on My Static Site That Weren’t Errors - HackerNoon",
       "source": "google_news_seo"
-    },
-    {
-      "title": "Shopify Migration and Replatforming: Google Search Can Take One to Three Months to Settle - Yahoo Finance",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence' - 404 Media",
-      "source": "google_news_wordpress"
     },
     {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
@@ -417,6 +413,10 @@
     },
     {
       "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress - Search Engine Journal",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence' - 404 Media",
       "source": "google_news_wordpress"
     },
     {
@@ -432,6 +432,10 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "Rank Math PRO WordPress Plugin Compromised in Supply Chain Attack - SecurityWeek",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites - BleepingComputer",
       "source": "google_news_wordpress"
     },
@@ -440,15 +444,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution - The Hacker News",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "WordPress sites compromised after TeamUpdraft credential exposure - CSO Online",
       "source": "google_news_wordpress"
     },
     {
-      "title": "“A credit to everyone involved” – The Great Marc Evers by Gemma Plum - Bookmunch",
+      "title": "Big Oil’s Billion Dollar California Oopsie - Energy Institute Blog",
       "source": "google_news_wordpress"
     },
     {
@@ -472,7 +472,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "The original meaning of the spooky witch and owl sculptures at Bethesda Fountain in Central Park - Ephemeral New York",
+      "title": "“A credit to everyone involved” – The Great Marc Evers by Gemma Plum - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
@@ -480,14 +480,13 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Unraveling the backstory of an architecturally mysterious holdout house on East 75th Street - Ephemeral New York",
+      "title": "The original meaning of the spooky witch and owl sculptures at Bethesda Fountain in Central Park - Ephemeral New York",
       "source": "google_news_wordpress"
     }
   ],
   "improvement_queue": [
     "Review local-AI prompts and AI-tool topics for freshness.",
     "Review SEO/content rules against current Google Search guidance.",
-    "Refresh Shopify topic clusters.",
     "Refresh WordPress topic clusters."
   ],
   "policy": {
