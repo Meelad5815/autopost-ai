@@ -64,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "walter koenig movies and tv shows",
+      "keyword": "walter koenig is he still alive",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,7 +82,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "trabzonspor vs beşiktaş lineups",
+      "keyword": "trabzonspor vs rizespor prediction",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -136,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "maurene comey age and height",
+      "keyword": "star wars movies in order",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,13 +145,22 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "star wars movies in order",
+      "keyword": "walter koenig cause of death",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
       "ranking_probability": 67.0,
       "learning_boost": 0.0,
       "learned_score": 67.0
+    },
+    {
+      "keyword": "trabzonspor vs rizespor",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
     },
     {
       "keyword": "nascar news kyle larson",
@@ -208,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "maurene comey husband picture",
+      "keyword": "maurene comey illegally fired",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +226,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "star wars battlefront ii",
+      "keyword": "maurene comey unlawfully fired",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "maurene comey fox news",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -227,6 +245,15 @@
     },
     {
       "keyword": "star wars zero company",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "star wars battlefront ii",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "walter koenig net worth",
+      "keyword": "walter koenig star trek",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +289,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "walter koenig star trek",
+      "keyword": "walter koenig passed away",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "walter koenig net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +325,7 @@
       "learned_score": 53.8
     },
     {
-      "keyword": "cyanide lol player",
+      "keyword": "cyanide lol death",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -298,7 +334,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cyanide lol death",
+      "keyword": "cyanide lol player",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -344,6 +380,15 @@
     },
     {
       "keyword": "cyanide lol esports",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "cyanide lol passing",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,33 +469,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maurene comey height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "maurene comey husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "maurene comey wedding",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "maurene comey lawsuit",
       "intent": "informational",
       "demand": 58.0,
@@ -460,7 +478,34 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maurene comey age",
+      "keyword": "maurene comey ruling",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maurene comey opinion",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maurene comey decision",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "maurene comey news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -470,15 +515,6 @@
     },
     {
       "keyword": "maurene comey case",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "maurene comey wikipedia",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walter koenig age",
+      "keyword": "walter koenig death",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walter koenig son",
+      "keyword": "walter koenig died",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walter koenig health",
+      "keyword": "walter koenig news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,25 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "walter koenig columbo",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "walter koenig wiki",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "walter koenig height",
+      "keyword": "walter koenig tmz",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -605,15 +623,6 @@
     },
     {
       "keyword": "cyanide lol",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "cyanide lollipop",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -668,15 +677,6 @@
     },
     {
       "keyword": "trabzonspor stadium",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "trabzonspor jersey",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -928,7 +928,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "taxi",
+      "keyword": "tax",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -937,7 +937,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "tax",
+      "keyword": "taxi",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1219,7 +1219,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "star wars battlefront ii",
+          "keyword": "star wars zero company",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1228,7 +1228,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "star wars zero company",
+          "keyword": "star wars battlefront ii",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1293,10 +1293,10 @@
       ]
     },
     {
-      "pillar": "walter koenig movies and tv shows",
+      "pillar": "walter koenig is he still alive",
       "cluster": [
         {
-          "keyword": "walter koenig movies and tv shows",
+          "keyword": "walter koenig is he still alive",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1305,13 +1305,13 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "walter koenig net worth",
+          "keyword": "walter koenig cause of death",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         },
         {
           "keyword": "walter koenig star trek",
@@ -1323,7 +1323,25 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "walter koenig age",
+          "keyword": "walter koenig passed away",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "walter koenig net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "walter koenig death",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1332,7 +1350,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "walter koenig son",
+          "keyword": "walter koenig died",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1341,7 +1359,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "walter koenig health",
+          "keyword": "walter koenig news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1350,25 +1368,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "walter koenig columbo",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "walter koenig wiki",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "walter koenig height",
+          "keyword": "walter koenig tmz",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1400,13 +1400,22 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "trabzonspor vs beşiktaş lineups",
+          "keyword": "trabzonspor vs rizespor prediction",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
           "ranking_probability": 68.2,
           "learning_boost": 0.0,
           "learned_score": 68.2
+        },
+        {
+          "keyword": "trabzonspor vs rizespor",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
         },
         {
           "keyword": "trabzonspor vs",
@@ -1463,15 +1472,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trabzonspor jersey",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "trabzonspor",
           "intent": "informational",
           "demand": 46.0,
@@ -1495,7 +1495,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "cyanide lol player",
+          "keyword": "cyanide lol death",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1504,7 +1504,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "cyanide lol death",
+          "keyword": "cyanide lol player",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1558,16 +1558,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "cyanide lol",
+          "keyword": "cyanide lol passing",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 52.6
         },
         {
-          "keyword": "cyanide lollipop",
+          "keyword": "cyanide lol",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1578,19 +1578,10 @@
       ]
     },
     {
-      "pillar": "maurene comey age and height",
+      "pillar": "maurene comey illegally fired",
       "cluster": [
         {
-          "keyword": "maurene comey age and height",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "maurene comey husband picture",
+          "keyword": "maurene comey illegally fired",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1599,31 +1590,22 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "maurene comey height",
+          "keyword": "maurene comey unlawfully fired",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
-          "keyword": "maurene comey husband",
+          "keyword": "maurene comey fox news",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "maurene comey wedding",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
           "keyword": "maurene comey lawsuit",
@@ -1635,7 +1617,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "maurene comey age",
+          "keyword": "maurene comey ruling",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maurene comey opinion",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maurene comey decision",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maurene comey news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1645,15 +1654,6 @@
         },
         {
           "keyword": "maurene comey case",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "maurene comey wikipedia",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
