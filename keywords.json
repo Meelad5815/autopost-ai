@@ -1,42 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "liverpool f.c. vs brighton & hove albion f.c. standings",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "liverpool fc vs brighton & hove albion fc standings live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "liverpool fc vs brighton & hove albion fc standings today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "marseille vs le havre last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -46,7 +10,43 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "lecce vs juventus last match",
+      "keyword": "did the time change last night in usa",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "did the time change last night in florida",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "did the time change last night in california",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "apple tv best sci fi",
+      "intent": "commercial",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "harriet dart vs tatiana prozorova",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -55,133 +55,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "lecce vs juventus prediction today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "buccaneers vs panthers last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "buccaneers vs panthers injury report",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "buccaneers vs panthers score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre tickets",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre ac",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre h2h",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre results",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre highlights",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "marseille vs le havre forebet",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "dolphins vs jets last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "dolphins vs jets score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "dolphins vs jets injury report",
+      "keyword": "harriet dart vs mei yamaguchi",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -199,7 +73,25 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "hunger games ballad of songbirds and snakes",
+      "keyword": "did the time change last night 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "did the time change last night uk",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "did the time change happen last night",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -226,7 +118,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "hunger games sunrise on the reaping",
+      "keyword": "apple tv sci fi thriller silo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -235,7 +127,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "new managers in the premier league",
+      "keyword": "thriller tv shows on apple tv",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -244,7 +136,61 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lecce vs juventus prediction",
+      "keyword": "new thriller series on apple tv",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "horror movies coming out in 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "did the time change last night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "was the time change last night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "did the clocks change last night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "did the hour change last night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "harriet dart vs prozorova",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -253,169 +199,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "lecce vs juventus tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "lecce vs juventus h2h",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "lecce vs juventus forebet",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "lecce vs juventus results",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "lecce vs juventus turin",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "lecce vs juventus live",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "buccaneers vs panthers predictions",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "buccaneers vs panthers 2025",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "buccaneers vs panthers odds",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "buccaneers vs panthers 2026",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "buccaneers vs panthers spread",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "buccaneers vs panthers pickdawgz",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "marseille vs le havre",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "dolphins vs jets prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "dolphins vs jets history",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "dolphins vs jets spread",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "dolphins vs jets tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "dolphins vs jets pickdawgz",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "dolphins vs jets odds",
+      "keyword": "harriet dart vs tatiana",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -433,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "hunger games movies in order",
+      "keyword": "indiana fever front office changes",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -442,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "hunger games catching fire cast",
+      "keyword": "thriller shows on apple tv",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -451,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "new manager for man city",
+      "keyword": "space shows on apple tv",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -460,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "new manager of manchester city",
+      "keyword": "local news today near me",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -469,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "new manager for real madrid",
+      "keyword": "kyle whittingham ohio state comments",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -478,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "new manager of red sox",
+      "keyword": "coastal flood warning near me",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -487,8 +271,17 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lecce vs juventus",
+      "keyword": "coastal flood warning virginia beach",
       "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "kyle whittingham buyout",
+      "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
       "ranking_probability": 61.0,
@@ -496,25 +289,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "buccaneers vs panthers",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "dolphins vs jets",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "hunger games in order",
+      "keyword": "horror movies on netflix",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "hunger games 3 cast",
+      "keyword": "horror movies to watch",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -532,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "james reimer hamilton ohio",
+      "keyword": "horror movies out now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -541,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "james reimer san dimas",
+      "keyword": "horror movies in theaters",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -550,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "new manager training courses",
+      "keyword": "horror movies coming out",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -559,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "epl table last season",
+      "keyword": "trump-xi summit in washington",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -568,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "marshall faulk rookie card",
+      "keyword": "trump-xi summit september 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -577,7 +352,124 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "hunger games cast",
+      "keyword": "local news today california",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "local news today nyc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "local news near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "kyle whittingham press conference",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "harriet dart prediction today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "harriet dart live score",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning miami",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning florida",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning california",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning nj",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning delaware",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning manhattan",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "horror movies 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hunger games movies",
+      "keyword": "horror movies streaming",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hunger games books",
+      "keyword": "horror movies 2025",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer actor",
+      "keyword": "trump-xi summit 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer nhl",
+      "keyword": "trump-xi summit date",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer odyssey",
+      "keyword": "trump-xi summit september",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer md",
+      "keyword": "trump-xi summit schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer stats",
+      "keyword": "trump-xi summit photos",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer wife",
+      "keyword": "trump-xi summit agenda",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "james reimer retirement",
+      "keyword": "trump-xi summit summary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "new manager training",
+      "keyword": "local news today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "new manager assimilation",
+      "keyword": "local news 8",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "new manager meme",
+      "keyword": "local news live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table 2026",
+      "keyword": "local news headlines",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table today",
+      "keyword": "kyle whittingham salary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table standings",
+      "keyword": "kyle whittingham wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table 2025",
+      "keyword": "kyle whittingham age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table live",
+      "keyword": "kyle whittingham contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table 2025/26",
+      "keyword": "kyle whittingham mormon",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table 2026/27",
+      "keyword": "kyle whittingham record",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "epl table 25/26",
+      "keyword": "harriet dart tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marshall faulk parkinsons",
+      "keyword": "harriet dart ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marshall faulk stats",
+      "keyword": "harriet dart prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marshall faulk age",
+      "keyword": "coastal flood warning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,52 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marshall faulk wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "marshall faulk college",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "marshall faulk diagnosis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "marshall faulk jersey",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "marshall faulk illness",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "hunger games",
+      "keyword": "horror movies",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +694,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "james reimer",
+      "keyword": "trump-xi summit",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "new manager",
+      "keyword": "local news",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "epl table",
+      "keyword": "local newspapers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +721,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "marshall faulk",
+      "keyword": "kyle whittingham",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "harriet dart",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -884,133 +740,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "liverpool f.c. vs brighton & hove albion f.c. standings",
-      "cluster": [
-        {
-          "keyword": "liverpool f.c. vs brighton & hove albion f.c. standings",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "liverpool fc vs brighton & hove albion fc standings live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "liverpool fc vs brighton & hove albion fc standings today",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        }
-      ]
-    },
-    {
-      "pillar": "marseille vs le havre last match",
-      "cluster": [
-        {
-          "keyword": "marseille vs le havre last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "marseille vs le havre prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre tickets",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre ac",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre h2h",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre results",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre highlights",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre forebet",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "marseille vs le havre",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1026,106 +755,97 @@
       ]
     },
     {
-      "pillar": "lecce vs juventus last match",
+      "pillar": "did the time change last night in usa",
       "cluster": [
         {
-          "keyword": "lecce vs juventus last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "lecce vs juventus prediction today",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "lecce vs juventus prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus h2h",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus forebet",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus results",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus turin",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus live",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lecce vs juventus",
+          "keyword": "did the time change last night in usa",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "did the time change last night in florida",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "did the time change last night in california",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "did the time change last night 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "did the time change last night uk",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "did the time change happen last night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "did the time change last night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "did the clocks change last night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "did the hour change last night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
         }
       ]
     },
     {
-      "pillar": "buccaneers vs panthers last game",
+      "pillar": "apple tv best sci fi",
       "cluster": [
         {
-          "keyword": "buccaneers vs panthers last game",
-          "intent": "informational",
+          "keyword": "apple tv best sci fi",
+          "intent": "commercial",
           "demand": 82.0,
           "competition": 40.0,
           "ranking_probability": 75.4,
@@ -1133,93 +853,21 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "buccaneers vs panthers injury report",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "buccaneers vs panthers score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "buccaneers vs panthers predictions",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "buccaneers vs panthers 2025",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "buccaneers vs panthers odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "buccaneers vs panthers 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "buccaneers vs panthers spread",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "buccaneers vs panthers pickdawgz",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "buccaneers vs panthers",
+          "keyword": "apple tv sci fi thriller silo",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 70.0
         }
       ]
     },
     {
-      "pillar": "dolphins vs jets last game",
+      "pillar": "harriet dart vs tatiana prozorova",
       "cluster": [
         {
-          "keyword": "dolphins vs jets last game",
+          "keyword": "harriet dart vs tatiana prozorova",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1228,7 +876,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "dolphins vs jets score prediction",
+          "keyword": "harriet dart vs mei yamaguchi",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1237,16 +885,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "dolphins vs jets injury report",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "dolphins vs jets prediction",
+          "keyword": "harriet dart vs prozorova",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1255,7 +894,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "dolphins vs jets history",
+          "keyword": "harriet dart vs tatiana",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1264,49 +903,58 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "dolphins vs jets spread",
+          "keyword": "harriet dart prediction today",
           "intent": "informational",
-          "demand": 76.0,
+          "demand": 64.0,
           "competition": 50.0,
-          "ranking_probability": 68.2,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 59.8
         },
         {
-          "keyword": "dolphins vs jets tickets",
+          "keyword": "harriet dart live score",
           "intent": "informational",
-          "demand": 76.0,
+          "demand": 64.0,
           "competition": 50.0,
-          "ranking_probability": 68.2,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 59.8
         },
         {
-          "keyword": "dolphins vs jets pickdawgz",
+          "keyword": "harriet dart tennis",
           "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "dolphins vs jets odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "dolphins vs jets",
-          "intent": "informational",
-          "demand": 70.0,
+          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 61.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harriet dart ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harriet dart prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harriet dart",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1321,101 +969,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "hunger games ballad of songbirds and snakes",
-      "cluster": [
-        {
-          "keyword": "hunger games ballad of songbirds and snakes",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "hunger games sunrise on the reaping",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "hunger games movies in order",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "hunger games catching fire cast",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "hunger games in order",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "hunger games 3 cast",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "hunger games cast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hunger games movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hunger games books",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hunger games",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1452,10 +1005,10 @@
       ]
     },
     {
-      "pillar": "new managers in the premier league",
+      "pillar": "thriller tv shows on apple tv",
       "cluster": [
         {
-          "keyword": "new managers in the premier league",
+          "keyword": "thriller tv shows on apple tv",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1464,43 +1017,44 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "new manager for man city",
+          "keyword": "thriller shows on apple tv",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
+        }
+      ]
+    },
+    {
+      "pillar": "new thriller series on apple tv",
+      "cluster": [
         {
-          "keyword": "new manager of manchester city",
+          "keyword": "new thriller series on apple tv",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "horror movies coming out in 2026",
+      "cluster": [
         {
-          "keyword": "new manager for real madrid",
+          "keyword": "horror movies coming out in 2026",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 70.0
         },
         {
-          "keyword": "new manager of red sox",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "new manager training courses",
+          "keyword": "horror movies on netflix",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1509,7 +1063,43 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "new manager training",
+          "keyword": "horror movies to watch",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "horror movies out now",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "horror movies in theaters",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "horror movies coming out",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "horror movies 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1518,7 +1108,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "new manager assimilation",
+          "keyword": "horror movies streaming",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1527,7 +1117,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "new manager meme",
+          "keyword": "horror movies 2025",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1536,7 +1126,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "new manager",
+          "keyword": "horror movies",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1547,10 +1137,61 @@
       ]
     },
     {
-      "pillar": "james reimer hamilton ohio",
+      "pillar": "was the time change last night",
       "cluster": [
         {
-          "keyword": "james reimer hamilton ohio",
+          "keyword": "was the time change last night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "indiana fever front office changes",
+      "cluster": [
+        {
+          "keyword": "indiana fever front office changes",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "space shows on apple tv",
+      "cluster": [
+        {
+          "keyword": "space shows on apple tv",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "local news today near me",
+      "cluster": [
+        {
+          "keyword": "local news today near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "local news today california",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1559,7 +1200,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "james reimer san dimas",
+          "keyword": "local news today nyc",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1568,7 +1209,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "james reimer actor",
+          "keyword": "local news near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "local news today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1577,7 +1227,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "james reimer nhl",
+          "keyword": "local news 8",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1586,7 +1236,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "james reimer odyssey",
+          "keyword": "local news live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1595,7 +1245,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "james reimer md",
+          "keyword": "local news headlines",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1604,34 +1254,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "james reimer stats",
+          "keyword": "local news",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "james reimer wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james reimer retirement",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "james reimer",
+          "keyword": "local newspapers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1642,10 +1274,28 @@
       ]
     },
     {
-      "pillar": "epl table last season",
+      "pillar": "kyle whittingham ohio state comments",
       "cluster": [
         {
-          "keyword": "epl table last season",
+          "keyword": "kyle whittingham ohio state comments",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kyle whittingham buyout",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "kyle whittingham press conference",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1654,7 +1304,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "epl table 2026",
+          "keyword": "kyle whittingham salary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1663,7 +1313,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "epl table today",
+          "keyword": "kyle whittingham wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1672,7 +1322,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "epl table standings",
+          "keyword": "kyle whittingham age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1681,7 +1331,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "epl table 2025",
+          "keyword": "kyle whittingham contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1690,7 +1340,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "epl table live",
+          "keyword": "kyle whittingham mormon",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1699,7 +1349,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "epl table 2025/26",
+          "keyword": "kyle whittingham record",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1708,25 +1358,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "epl table 2026/27",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "epl table 25/26",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "epl table",
+          "keyword": "kyle whittingham",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1737,10 +1369,28 @@
       ]
     },
     {
-      "pillar": "marshall faulk rookie card",
+      "pillar": "coastal flood warning near me",
       "cluster": [
         {
-          "keyword": "marshall faulk rookie card",
+          "keyword": "coastal flood warning near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "coastal flood warning virginia beach",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "coastal flood warning miami",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1749,7 +1399,93 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "marshall faulk parkinsons",
+          "keyword": "coastal flood warning florida",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning california",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning nj",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning delaware",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning manhattan",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "trump-xi summit in washington",
+      "cluster": [
+        {
+          "keyword": "trump-xi summit in washington",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump-xi summit september 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "trump-xi summit 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1758,7 +1494,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk stats",
+          "keyword": "trump-xi summit date",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1767,7 +1503,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk age",
+          "keyword": "trump-xi summit september",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1776,7 +1512,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk wife",
+          "keyword": "trump-xi summit schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1785,7 +1521,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk college",
+          "keyword": "trump-xi summit photos",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1794,7 +1530,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk diagnosis",
+          "keyword": "trump-xi summit agenda",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1803,7 +1539,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk jersey",
+          "keyword": "trump-xi summit summary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1812,16 +1548,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marshall faulk illness",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "marshall faulk",
+          "keyword": "trump-xi summit",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
