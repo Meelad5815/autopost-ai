@@ -10,6 +10,15 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "apple tv sci fi thriller silo season 4",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
       "keyword": "did the time change last night in usa",
       "intent": "informational",
       "demand": 70.0,
@@ -64,7 +73,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "did the time change last night 2026",
+      "keyword": "did the time change last night uk",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -73,7 +82,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "did the time change last night uk",
+      "keyword": "did the time change last night 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -334,6 +343,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "local news raleigh nc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "local news fayetteville nc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "local news near me",
       "intent": "informational",
       "demand": 64.0,
@@ -343,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "local news tribune obituaries",
+      "keyword": "local news durham nc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -353,6 +380,24 @@
     },
     {
       "keyword": "local newspaper near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "local newspaper raleigh nc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "kyle whittingham utah record",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -541,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "local news chicago",
+      "keyword": "local news raleigh",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,43 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "local news headlines",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "local news stations",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "kyle whittingham salary",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kyle whittingham michigan",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kyle whittingham mormon",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,6 +640,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "kyle whittingham mormon",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "kyle whittingham wikipedia",
       "intent": "informational",
       "demand": 58.0,
@@ -649,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harriet dart prediction",
+      "keyword": "harriet dart ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harriet dart ranking",
+      "keyword": "harriet dart prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,15 +730,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "local newspapers",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "kyle whittingham",
       "intent": "informational",
       "demand": 52.0,
@@ -755,6 +764,38 @@
       ]
     },
     {
+      "pillar": "apple tv sci fi thriller silo season 4",
+      "cluster": [
+        {
+          "keyword": "apple tv sci fi thriller silo season 4",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "apple tv best sci fi",
+          "intent": "commercial",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "apple tv sci fi thriller silo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
       "pillar": "did the time change last night in usa",
       "cluster": [
         {
@@ -785,7 +826,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "did the time change last night 2026",
+          "keyword": "did the time change last night uk",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -794,7 +835,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "did the time change last night uk",
+          "keyword": "did the time change last night 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -831,29 +872,6 @@
         },
         {
           "keyword": "did the hour change last night",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "apple tv best sci fi",
-      "cluster": [
-        {
-          "keyword": "apple tv best sci fi",
-          "intent": "commercial",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "apple tv sci fi thriller silo",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -921,7 +939,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "harriet dart prediction",
+          "keyword": "harriet dart ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -939,7 +957,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "harriet dart ranking",
+          "keyword": "harriet dart prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1286,25 +1304,16 @@
           "learned_score": 61.0
         },
         {
+          "keyword": "kyle whittingham utah record",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "kyle whittingham salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham michigan",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham mormon",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1332,6 +1341,15 @@
         },
         {
           "keyword": "kyle whittingham contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham mormon",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1464,8 +1482,26 @@
       ]
     },
     {
-      "pillar": "local news near me",
+      "pillar": "local news raleigh nc",
       "cluster": [
+        {
+          "keyword": "local news raleigh nc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "local news fayetteville nc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
         {
           "keyword": "local news near me",
           "intent": "informational",
@@ -1476,7 +1512,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "local news tribune obituaries",
+          "keyword": "local news durham nc",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1494,6 +1530,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "local newspaper raleigh nc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "local news today",
           "intent": "informational",
           "demand": 58.0,
@@ -1503,7 +1548,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "local news chicago",
+          "keyword": "local news raleigh",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1521,34 +1566,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "local news headlines",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "local news stations",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "local news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "local newspapers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
