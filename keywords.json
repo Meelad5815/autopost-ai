@@ -55,15 +55,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "harriet dart vs mei yamaguchi",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -244,25 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "local news today near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "kyle whittingham ohio state comments",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "coastal flood warning near me",
+      "keyword": "coastal flood warning san diego",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,6 +262,15 @@
       "learned_score": 61.0
     },
     {
+      "keyword": "harriet dart vs",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
       "keyword": "horror movies on netflix",
       "intent": "informational",
       "demand": 64.0,
@@ -299,15 +281,6 @@
     },
     {
       "keyword": "horror movies to watch",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "horror movies out now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,6 +307,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "horror movies out now",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "trump-xi summit in washington",
       "intent": "informational",
       "demand": 64.0,
@@ -352,24 +334,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "local news today california",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "local news today nyc",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "local news near me",
       "intent": "informational",
       "demand": 64.0,
@@ -379,7 +343,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kyle whittingham press conference",
+      "keyword": "local news tribune obituaries",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "local newspaper near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "harriet dart live score",
+      "keyword": "harriet dart tatiana prozorova",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "coastal flood warning california",
+      "keyword": "coastal flood warning jacksonville",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "coastal flood warning nj",
+      "keyword": "coastal flood warning meaning",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "coastal flood warning delaware",
+      "keyword": "coastal flood warning map",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "coastal flood warning manhattan",
+      "keyword": "coastal flood warning reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,15 +496,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit schedule",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "trump-xi summit photos",
       "intent": "informational",
       "demand": 58.0,
@@ -559,6 +523,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "trump-xi summit schedule",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "local news today",
       "intent": "informational",
       "demand": 58.0,
@@ -568,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "local news 8",
+      "keyword": "local news chicago",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,6 +568,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "local news stations",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "kyle whittingham salary",
       "intent": "informational",
       "demand": 58.0,
@@ -604,25 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kyle whittingham wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kyle whittingham age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kyle whittingham contract",
+      "keyword": "kyle whittingham michigan",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +604,52 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "kyle whittingham age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kyle whittingham wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kyle whittingham contract",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kyle whittingham wikipedia",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "kyle whittingham record",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "harriet dart prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -659,15 +668,6 @@
     },
     {
       "keyword": "harriet dart ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "harriet dart prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -876,15 +876,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "harriet dart vs mei yamaguchi",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "harriet dart vs prozorova",
           "intent": "informational",
           "demand": 76.0,
@@ -903,6 +894,15 @@
           "learned_score": 68.2
         },
         {
+          "keyword": "harriet dart vs",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
           "keyword": "harriet dart prediction today",
           "intent": "informational",
           "demand": 64.0,
@@ -912,13 +912,22 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "harriet dart live score",
+          "keyword": "harriet dart tatiana prozorova",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "harriet dart prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
           "keyword": "harriet dart tennis",
@@ -931,15 +940,6 @@
         },
         {
           "keyword": "harriet dart ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "harriet dart prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1072,15 +1072,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "horror movies out now",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "horror movies in theaters",
           "intent": "informational",
           "demand": 64.0,
@@ -1091,6 +1082,15 @@
         },
         {
           "keyword": "horror movies coming out",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "horror movies out now",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1179,200 +1179,10 @@
       ]
     },
     {
-      "pillar": "local news today near me",
+      "pillar": "coastal flood warning san diego",
       "cluster": [
         {
-          "keyword": "local news today near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "local news today california",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "local news today nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "local news near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "local news today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "local news 8",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "local news live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "local news headlines",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "local news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "local newspapers",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "kyle whittingham ohio state comments",
-      "cluster": [
-        {
-          "keyword": "kyle whittingham ohio state comments",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "kyle whittingham buyout",
-          "intent": "commercial",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "kyle whittingham press conference",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kyle whittingham salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham mormon",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham record",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kyle whittingham",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "coastal flood warning near me",
-      "cluster": [
-        {
-          "keyword": "coastal flood warning near me",
+          "keyword": "coastal flood warning san diego",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1408,7 +1218,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "coastal flood warning california",
+          "keyword": "coastal flood warning jacksonville",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1426,7 +1236,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "coastal flood warning nj",
+          "keyword": "coastal flood warning meaning",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1435,7 +1245,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "coastal flood warning delaware",
+          "keyword": "coastal flood warning map",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1444,7 +1254,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "coastal flood warning manhattan",
+          "keyword": "coastal flood warning reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1460,6 +1270,101 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "kyle whittingham buyout",
+      "cluster": [
+        {
+          "keyword": "kyle whittingham buyout",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "kyle whittingham salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham michigan",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham mormon",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham wikipedia",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham record",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kyle whittingham",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1512,15 +1417,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "trump-xi summit photos",
           "intent": "informational",
           "demand": 58.0,
@@ -1548,7 +1444,111 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "trump-xi summit schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "trump-xi summit",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "local news near me",
+      "cluster": [
+        {
+          "keyword": "local news near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "local news tribune obituaries",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "local newspaper near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "local news today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "local news chicago",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "local news live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "local news headlines",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "local news stations",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "local news",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "local newspapers",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
