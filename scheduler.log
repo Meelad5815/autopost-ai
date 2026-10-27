@@ -1118,3 +1118,19 @@
 2026-10-27T10:16:29.019435 | post_result ok=True language=roman topic=PLC and Arduino automation projects for small businesses
 2026-10-27T10:16:29.019974 | Update-only attempt=1
 2026-10-27T10:16:31.524806 | update_result ok=True
+2026-10-27T12:57:16.718616 | Run post attempt=1 language=en topic=Mobile and laptop software troubleshooting
+2026-10-27T12:57:22.051086 | Run post attempt=2 language=en topic=Mobile and laptop software troubleshooting
+2026-10-27T12:57:27.561727 | Run post attempt=3 language=en topic=Mobile and laptop software troubleshooting
+2026-10-27T12:57:32.476048 | post_result ok=False language=en topic=Mobile and laptop software troubleshooting
+2026-10-27T12:57:32.476675 | Run post attempt=1 language=ur topic=AI tools that can run locally without paid APIs
+2026-10-27T12:57:37.218543 | Run post attempt=2 language=ur topic=AI tools that can run locally without paid APIs
+2026-10-27T12:57:42.093322 | Run post attempt=3 language=ur topic=AI tools that can run locally without paid APIs
+2026-10-27T12:57:46.821609 | post_result ok=False language=ur topic=AI tools that can run locally without paid APIs
+2026-10-27T12:57:46.822245 | Run post attempt=1 language=roman topic=Website SEO and Google-friendly content practices
+2026-10-27T12:57:51.685608 | Run post attempt=2 language=roman topic=Website SEO and Google-friendly content practices
+2026-10-27T12:57:56.494313 | Run post attempt=3 language=roman topic=Website SEO and Google-friendly content practices
+2026-10-27T12:58:01.156631 | post_result ok=False language=roman topic=Website SEO and Google-friendly content practices
+2026-10-27T12:58:01.157332 | Update-only attempt=1
+2026-10-27T12:58:05.938732 | Update-only attempt=2
+2026-10-27T12:58:10.635518 | Update-only attempt=3
+2026-10-27T12:58:15.760423 | update_result ok=False
