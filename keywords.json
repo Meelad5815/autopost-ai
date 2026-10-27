@@ -145,25 +145,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "coastal flood warning near miami fl",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "is ncis on any streaming service",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "joan smalls movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -191,15 +173,6 @@
     },
     {
       "keyword": "coastal flood warning san diego",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "coastal flood warning huntington beach",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,6 +262,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "coastal flood warning california",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "coastal flood warning map",
       "intent": "informational",
       "demand": 64.0,
@@ -298,7 +280,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "coastal flood warning reddit",
+      "keyword": "coastal flood warning nj",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "coastal flood warning delaware",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -353,6 +344,15 @@
     },
     {
       "keyword": "joan smalls gisele bundchen",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "joan smalls net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,15 +496,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "elizabeth nj to nyc",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "coastal flood warning",
       "intent": "informational",
       "demand": 58.0,
@@ -550,15 +541,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "haiti news now",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "haiti news tps",
       "intent": "informational",
       "demand": 58.0,
@@ -568,7 +550,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "haiti news now",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "haiti news immigration",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "haiti news libre",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,15 +667,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "paul pierce wheelchair",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "paul pierce contract",
       "intent": "informational",
       "demand": 58.0,
@@ -685,7 +676,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "paul pierce stabbed",
+      "keyword": "paul pierce kids",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "paul pierce wheelchair",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elizabeth nj news",
+      "keyword": "elizabeth nj shooting",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "elizabeth nj shooting",
+      "keyword": "elizabeth nj news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,6 +739,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "elizabeth nj restaurants",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "elizabeth nj population",
       "intent": "informational",
       "demand": 58.0,
@@ -749,15 +758,6 @@
     },
     {
       "keyword": "haiti news",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "haiti newspapers",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nascar race",
+      "keyword": "nascar schedule",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nascar schedule",
+      "keyword": "nascar today",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nascar today",
+      "keyword": "nascar race",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1093,25 +1093,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "coastal flood warning near miami fl",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "coastal flood warning san diego",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "coastal flood warning huntington beach",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1147,6 +1129,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "coastal flood warning california",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "coastal flood warning map",
           "intent": "informational",
           "demand": 64.0,
@@ -1156,7 +1147,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "coastal flood warning reddit",
+          "keyword": "coastal flood warning nj",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "coastal flood warning delaware",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1186,101 +1186,6 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "joan smalls movies and tv shows",
-      "cluster": [
-        {
-          "keyword": "joan smalls movies and tv shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "joan smalls tom brady",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls candice swanepoel",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls summer house",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls gisele bundchen",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joan smalls model",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joan smalls candice",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joan smalls boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "joan smalls",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1428,7 +1333,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "haiti news now",
+          "keyword": "haiti news tps",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1437,7 +1342,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "haiti news tps",
+          "keyword": "haiti news now",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1455,16 +1360,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "haiti news",
+          "keyword": "haiti news libre",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 52.6
         },
         {
-          "keyword": "haiti newspapers",
+          "keyword": "haiti news",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1494,6 +1399,101 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "joan smalls tom brady",
+      "cluster": [
+        {
+          "keyword": "joan smalls tom brady",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls candice swanepoel",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls summer house",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls gisele bundchen",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joan smalls model",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joan smalls candice",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joan smalls boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "joan smalls",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1555,15 +1555,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "paul pierce wheelchair",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "paul pierce contract",
           "intent": "informational",
           "demand": 58.0,
@@ -1573,7 +1564,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "paul pierce stabbed",
+          "keyword": "paul pierce kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "paul pierce wheelchair",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1623,16 +1623,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "elizabeth nj to nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "elizabeth nj news",
+          "keyword": "elizabeth nj shooting",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1641,7 +1632,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "elizabeth nj shooting",
+          "keyword": "elizabeth nj news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1660,6 +1651,15 @@
         },
         {
           "keyword": "elizabeth nj county",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "elizabeth nj restaurants",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1727,7 +1727,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nascar race",
+          "keyword": "nascar schedule",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1736,7 +1736,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nascar schedule",
+          "keyword": "nascar today",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1754,7 +1754,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "nascar today",
+          "keyword": "nascar race",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
