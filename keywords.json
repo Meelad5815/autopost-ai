@@ -154,15 +154,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "michele tafoya husband net worth",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "paul anthony kelly ahs 13",
       "intent": "informational",
       "demand": 70.0,
@@ -442,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amc a list",
+      "keyword": "juju watkins height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins height",
+      "keyword": "juju watkins parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,15 +487,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins parents",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "juju watkins highlights",
       "intent": "informational",
       "demand": 58.0,
@@ -515,6 +497,15 @@
     },
     {
       "keyword": "michele tafoya polls",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "michele tafoya senate",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,6 +667,24 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "amc iowa",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "amc chicago",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "amc movies",
       "intent": "informational",
       "demand": 52.0,
@@ -686,15 +695,6 @@
     },
     {
       "keyword": "amc stock",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "amc plus",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1161,6 +1161,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "juju watkins parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "juju watkins boyfriend",
           "intent": "informational",
           "demand": 58.0,
@@ -1197,15 +1206,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "juju watkins parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "juju watkins highlights",
           "intent": "informational",
           "demand": 58.0,
@@ -1216,101 +1216,6 @@
         },
         {
           "keyword": "juju watkins",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "michele tafoya husband net worth",
-      "cluster": [
-        {
-          "keyword": "michele tafoya husband net worth",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "michele tafoya face surgery",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya first husband",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya political party",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya polls",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya trump",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1550,16 +1455,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amc a list",
+          "keyword": "amc theaters",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "amc theaters",
+          "keyword": "amc iowa",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amc chicago",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1586,15 +1500,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "amc plus",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "amc",
           "intent": "informational",
           "demand": 46.0,
@@ -1602,6 +1507,101 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "michele tafoya face surgery",
+      "cluster": [
+        {
+          "keyword": "michele tafoya face surgery",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michele tafoya first husband",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michele tafoya political party",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michele tafoya net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michele tafoya polls",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michele tafoya senate",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michele tafoya husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michele tafoya ethnicity",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michele tafoya trump",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michele tafoya",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
