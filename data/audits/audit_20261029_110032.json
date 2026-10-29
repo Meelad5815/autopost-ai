@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "checks": {
+    "audited_at": "2026-10-29T11:00:28.859970+00:00",
+    "wp_url": "https://dev-mrkofficial786.pantheonsite.io/",
+    "home_reachable": false,
+    "home_status": 0,
+    "wp_json_reachable": false,
+    "robots_status": 200,
+    "sitemap_status": 0,
+    "scheduler_log_exists": true,
+    "recent_scheduler_errors": 36
+  },
+  "issues": [
+    {
+      "severity": "critical",
+      "code": "site_unreachable",
+      "message": "Website homepage is not reachable (non-200 response).",
+      "recommended_fix": "Fix domain/DNS/hosting uptime first. Without this, monetization is blocked."
+    },
+    {
+      "severity": "high",
+      "code": "wp_api_blocked",
+      "message": "WordPress REST API is not reachable.",
+      "recommended_fix": "Enable REST API and remove security/firewall blocks for /wp-json/ endpoints."
+    },
+    {
+      "severity": "high",
+      "code": "sitemap_missing",
+      "message": "wp-sitemap.xml is missing or inaccessible.",
+      "recommended_fix": "Enable XML sitemap and submit it in Google Search Console."
+    },
+    {
+      "severity": "critical",
+      "code": "wp_auth_failed",
+      "message": "Failed to fetch posts with current WordPress credentials.",
+      "recommended_fix": "Re-check WP_USER/WP_APP_PASSWORD and app-password permissions."
+    },
+    {
+      "severity": "medium",
+      "code": "scheduler_failures",
+      "message": "Recent scheduler failures/errors detected: 36",
+      "recommended_fix": "Review scheduler.log failures and fix credentials/quota/topic duplication issues."
+    }
+  ],
+  "summary": {
+    "monetization_readiness_score": 3,
+    "issue_count": 5
+  }
+}
