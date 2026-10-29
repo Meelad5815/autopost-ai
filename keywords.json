@@ -1,6 +1,24 @@
 {
   "keywords": [
     {
+      "keyword": "black friday 2026 best buy",
+      "intent": "commercial",
+      "demand": 94.0,
+      "competition": 40.0,
+      "ranking_probability": 83.8,
+      "learning_boost": 0.0,
+      "learned_score": 83.8
+    },
+    {
+      "keyword": "yulia putintseva vs elena rybakina prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,25 +28,34 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "sl vs eng live score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "sl vs eng live streaming",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "yulia putintseva vs elena rybakina",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "prince harry duke of sussex net worth",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "prince harry duke of sussex and meghan",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -55,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "paul anthony kelly sexiest man alive",
+      "keyword": "one piece 1197 spoilers reddit raws",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -64,67 +91,76 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "prince harry duke of sussex children",
+      "keyword": "flood watch vs warning",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "prince harry duke of sussex books",
+      "keyword": "sl vs eng odi",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "prince harry duke of sussex wife",
+      "keyword": "sl vs eng live",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "prince harry duke of sussex young",
+      "keyword": "sl vs eng t20",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "prince harry duke of sussex 2026",
+      "keyword": "sl vs eng 2026",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "prince harry duke of sussex age",
+      "keyword": "sl vs eng schedule",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
     },
     {
-      "keyword": "prince harry duke of sussex news",
+      "keyword": "sl vs eng women",
       "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
       "learning_boost": 0.0,
-      "learned_score": 70.0
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "yulia putintseva vs rybakina",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -136,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "juju watkins wnba mock draft",
+      "keyword": "black friday 2026 tv deals",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "paul anthony kelly net worth",
+      "keyword": "black friday 2026 home depot",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "prince harry duke of sussex",
+      "keyword": "emma stone and andrew garfield",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ryan gosling project hail mary",
+      "keyword": "emma stone and ryan gosling",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ryan gosling and eva mendes",
+      "keyword": "japan open tennis 2026 schedule",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jojo siwa wedding dress photo",
+      "keyword": "one piece 1197 spoilers reddit",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +226,52 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "amc river park square",
+      "keyword": "one piece 1197 release date",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "one piece 1197 site www.reddit.com",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "one piece 1197 full summary",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "sl vs eng",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "sl vs england",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "black friday 2026 walmart",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "juju watkins net worth",
+      "keyword": "black friday 2026 ads",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -208,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "michele tafoya face surgery",
+      "keyword": "black friday 2026 deals",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "michele tafoya first husband",
+      "keyword": "black friday 2026 amazon",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "michele tafoya net worth",
+      "keyword": "black friday 2026 target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "michele tafoya political party",
+      "keyword": "black friday 2026 date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly wife",
+      "keyword": "flood watch near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly age",
+      "keyword": "emma stone net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly movies",
+      "keyword": "joan smalls tom brady",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly ahs",
+      "keyword": "joan smalls candice swanepoel",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly height",
+      "keyword": "joan smalls net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly shows",
+      "keyword": "joan smalls lipstick alley",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "paul anthony kelly batman",
+      "keyword": "emma watson net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ryan gosling ghost rider",
+      "keyword": "emma watson harry potter",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ryan gosling star wars",
+      "keyword": "yulia putintseva ball girl",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ryan gosling space movie",
+      "keyword": "tokyo open tennis 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa engagement ring",
+      "keyword": "tokyo open 2026 schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa getting married",
+      "keyword": "tokyo open 2026 wta",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa wedding dress",
+      "keyword": "japan open tennis 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa wedding fever",
+      "keyword": "japan open prize money",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa wedding photos",
+      "keyword": "one piece 1197 spoilers",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa wedding outfit",
+      "keyword": "one piece 1197 reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jojo siwa wedding brother",
+      "keyword": "one piece 1197 summary",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amc theater spokane",
+      "keyword": "black friday 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amc moses lake",
+      "keyword": "flood watch az",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amc downtown spokane",
+      "keyword": "flood watch texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amc spokane wa",
+      "keyword": "flood watch california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins height",
+      "keyword": "flood watch oahu",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins parents",
+      "keyword": "flood watch nyc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins boyfriend",
+      "keyword": "flood watch hawaii",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins stats",
+      "keyword": "flood watch nj",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins injury",
+      "keyword": "emma stone movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins age",
+      "keyword": "emma stone husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "juju watkins highlights",
+      "keyword": "emma stone age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michele tafoya polls",
+      "keyword": "emma stone spiderman",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michele tafoya senate",
+      "keyword": "emma stone ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michele tafoya ethnicity",
+      "keyword": "emma stone 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michele tafoya nfl",
+      "keyword": "joan smalls model",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michele tafoya husband",
+      "keyword": "joan smalls children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kiwi nutrition facts",
+      "keyword": "joan smalls husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "psicología in english",
+      "keyword": "joan smalls brady",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "psicología en inglés",
+      "keyword": "joan smalls married",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "psicología del color",
+      "keyword": "emma watson movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "psicología oscura libro",
+      "keyword": "emma watson husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "psicología oscura pdf",
+      "keyword": "emma watson age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "paul anthony kelly",
+      "keyword": "emma watson wicker",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ryan gosling movies",
+      "keyword": "emma watson boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ryan gosling wife",
+      "keyword": "emma watson 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ryan gosling band",
+      "keyword": "emma watson height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ryan gosling age",
+      "keyword": "yulia putintseva ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jojo siwa engaged",
+      "keyword": "yulia putintseva prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jojo siwa wedding",
+      "keyword": "yulia putintseva live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +739,142 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amc spokane",
+      "keyword": "yulia putintseva tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "yulia putintseva apology",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open 2026",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open wta",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open draw",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open scores",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open schedule",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "japan open tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "japan open wta",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "japan open 2026",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "japan open tokyo",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "japan open schedule",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "japan open draw",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "one piece 1197",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "flood watch",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amc theatres",
+      "keyword": "emma stone",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -676,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amc theaters",
+      "keyword": "joan smalls",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -685,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amc movies",
+      "keyword": "emma watson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -694,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "juju watkins",
+      "keyword": "yulia putintseva",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -703,7 +919,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "michele tafoya",
+      "keyword": "tokyo open",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,151 +928,206 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kiwi bird",
+      "keyword": "japan open",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "kiwi berries",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kiwi benefits",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kiwi cyberpunk",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kiwi fruit",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kiwi flights",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kiwi calories",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "psicología positiva",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "psicología oscura",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "psicología inversa",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "psicología meaning",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "ryan gosling",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "amc",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "kiwi",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "kiwico",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "psicología",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
+    {
+      "pillar": "black friday 2026 best buy",
+      "cluster": [
+        {
+          "keyword": "black friday 2026 best buy",
+          "intent": "commercial",
+          "demand": 94.0,
+          "competition": 40.0,
+          "ranking_probability": 83.8,
+          "learning_boost": 0.0,
+          "learned_score": 83.8
+        },
+        {
+          "keyword": "black friday 2026 tv deals",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "black friday 2026 home depot",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "black friday 2026 walmart",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "black friday 2026 ads",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "black friday 2026 deals",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "black friday 2026 amazon",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "black friday 2026 target",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "black friday 2026 date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "black friday 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "yulia putintseva vs elena rybakina prediction",
+      "cluster": [
+        {
+          "keyword": "yulia putintseva vs elena rybakina prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "yulia putintseva vs elena rybakina",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "yulia putintseva vs rybakina",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "yulia putintseva ball girl",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "yulia putintseva ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yulia putintseva prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yulia putintseva live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yulia putintseva tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yulia putintseva apology",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yulia putintseva",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -872,6 +1143,101 @@
       ]
     },
     {
+      "pillar": "sl vs eng live score",
+      "cluster": [
+        {
+          "keyword": "sl vs eng live score",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "sl vs eng live streaming",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "sl vs eng odi",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs eng live",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs eng t20",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs eng 2026",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs eng schedule",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs eng women",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs eng",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "sl vs england",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -882,101 +1248,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "prince harry duke of sussex net worth",
-      "cluster": [
-        {
-          "keyword": "prince harry duke of sussex net worth",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "prince harry duke of sussex and meghan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "prince harry duke of sussex children",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex books",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex wife",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex young",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex age",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex news",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "prince harry duke of sussex",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
         }
       ]
     },
@@ -1013,10 +1284,10 @@
       ]
     },
     {
-      "pillar": "paul anthony kelly sexiest man alive",
+      "pillar": "one piece 1197 spoilers reddit raws",
       "cluster": [
         {
-          "keyword": "paul anthony kelly sexiest man alive",
+          "keyword": "one piece 1197 spoilers reddit raws",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1025,7 +1296,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "paul anthony kelly net worth",
+          "keyword": "one piece 1197 spoilers reddit",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1034,84 +1305,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "paul anthony kelly wife",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly age",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly movies",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly ahs",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly height",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly shows",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly batman",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "paul anthony kelly",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "juju watkins wnba mock draft",
-      "cluster": [
-        {
-          "keyword": "juju watkins wnba mock draft",
+          "keyword": "one piece 1197 release date",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1120,93 +1314,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "juju watkins net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "juju watkins height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins highlights",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "juju watkins",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "ryan gosling project hail mary",
-      "cluster": [
-        {
-          "keyword": "ryan gosling project hail mary",
+          "keyword": "one piece 1197 site www.reddit.com",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1215,7 +1323,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ryan gosling and eva mendes",
+          "keyword": "one piece 1197 full summary",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1224,7 +1332,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ryan gosling ghost rider",
+          "keyword": "one piece 1197 spoilers",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1233,7 +1341,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ryan gosling star wars",
+          "keyword": "one piece 1197 reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1242,7 +1350,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ryan gosling space movie",
+          "keyword": "one piece 1197 summary",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1251,7 +1359,39 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ryan gosling movies",
+          "keyword": "one piece 1197",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "flood watch vs warning",
+      "cluster": [
+        {
+          "keyword": "flood watch vs warning",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "flood watch near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "flood watch az",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1260,7 +1400,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ryan gosling wife",
+          "keyword": "flood watch texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1269,7 +1409,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ryan gosling band",
+          "keyword": "flood watch california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1278,7 +1418,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ryan gosling age",
+          "keyword": "flood watch oahu",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1287,7 +1427,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ryan gosling",
+          "keyword": "flood watch nyc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "flood watch hawaii",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "flood watch nj",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "flood watch",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1298,10 +1465,10 @@
       ]
     },
     {
-      "pillar": "jojo siwa wedding dress photo",
+      "pillar": "emma stone and andrew garfield",
       "cluster": [
         {
-          "keyword": "jojo siwa wedding dress photo",
+          "keyword": "emma stone and andrew garfield",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1310,7 +1477,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jojo siwa engagement ring",
+          "keyword": "emma stone and ryan gosling",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "emma stone net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1319,7 +1495,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jojo siwa getting married",
+          "keyword": "emma watson net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1328,7 +1504,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jojo siwa wedding dress",
+          "keyword": "emma watson harry potter",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1337,43 +1513,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jojo siwa wedding fever",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jojo siwa wedding photos",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jojo siwa wedding outfit",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jojo siwa wedding brother",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jojo siwa engaged",
+          "keyword": "emma stone movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,30 +1522,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jojo siwa wedding",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "amc river park square",
-      "cluster": [
-        {
-          "keyword": "amc river park square",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amc theater spokane",
+          "keyword": "emma stone husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1414,7 +1531,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amc moses lake",
+          "keyword": "emma stone age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1423,7 +1540,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amc downtown spokane",
+          "keyword": "emma stone spiderman",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1432,7 +1549,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amc spokane wa",
+          "keyword": "emma stone ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1441,7 +1558,79 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amc spokane",
+          "keyword": "emma stone 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson wicker",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma stone",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1450,129 +1639,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "amc theatres",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "amc theaters",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "amc movies",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "amc",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "michele tafoya face surgery",
-      "cluster": [
-        {
-          "keyword": "michele tafoya face surgery",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya first husband",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya political party",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michele tafoya polls",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya senate",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya nfl",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michele tafoya",
+          "keyword": "emma watson",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1583,10 +1650,37 @@
       ]
     },
     {
-      "pillar": "kiwi nutrition facts",
+      "pillar": "japan open tennis 2026 schedule",
       "cluster": [
         {
-          "keyword": "kiwi nutrition facts",
+          "keyword": "japan open tennis 2026 schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "japan open tennis 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "japan open prize money",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "japan open tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1595,84 +1689,102 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kiwi bird",
+          "keyword": "japan open wta",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "japan open 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "japan open tokyo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "japan open schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "japan open draw",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "japan open",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi berries",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi benefits",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi cyberpunk",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi fruit",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi flights",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi calories",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kiwi",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "psicología in english",
+      "pillar": "joan smalls tom brady",
       "cluster": [
         {
-          "keyword": "psicología in english",
+          "keyword": "joan smalls tom brady",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls candice swanepoel",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls lipstick alley",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "joan smalls model",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1681,7 +1793,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "psicología en inglés",
+          "keyword": "joan smalls children",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1690,7 +1802,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "psicología del color",
+          "keyword": "joan smalls husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1699,7 +1811,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "psicología oscura libro",
+          "keyword": "joan smalls brady",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1708,7 +1820,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "psicología oscura pdf",
+          "keyword": "joan smalls married",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1717,63 +1829,108 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "psicología positiva",
+          "keyword": "joan smalls",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "psicología oscura",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "psicología inversa",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "psicología meaning",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "psicología",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "kiwico",
+      "pillar": "tokyo open tennis 2026",
       "cluster": [
         {
-          "keyword": "kiwico",
+          "keyword": "tokyo open tennis 2026",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tokyo open 2026 schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tokyo open 2026 wta",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tokyo open 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open wta",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open draw",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open scores",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
