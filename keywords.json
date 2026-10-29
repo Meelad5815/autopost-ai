@@ -1,22 +1,22 @@
 {
   "keywords": [
     {
-      "keyword": "black friday 2026 best buy",
-      "intent": "commercial",
-      "demand": 94.0,
-      "competition": 40.0,
-      "ranking_probability": 83.8,
-      "learning_boost": 0.0,
-      "learned_score": 83.8
-    },
-    {
-      "keyword": "yulia putintseva vs elena rybakina prediction",
+      "keyword": "afghanistan vs zimbabwe t20 live telecast in india",
       "intent": "informational",
       "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
       "learning_boost": 0.0,
-      "learned_score": 78.4
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "afghanistan vs zimbabwe t20 telecast in india",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
     },
     {
       "keyword": "how much does it cost to build a wordpress website",
@@ -28,7 +28,25 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "sl vs eng live score",
+      "keyword": "when is the nfl trade deadline this year",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline what week",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "afghanistan vs zimbabwe test match",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -37,16 +55,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "sl vs eng live streaming",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "yulia putintseva vs elena rybakina",
+      "keyword": "afghanistan vs zimbabwe test 2024",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -56,6 +65,51 @@
     },
     {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline date",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline over",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline end",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -82,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "one piece 1197 spoilers reddit raws",
+      "keyword": "sophia bush and chad michael murray",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,7 +145,52 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "flood watch vs warning",
+      "keyword": "sophia bush movies and tv shows",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "west apostle mountain in chaffee county",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "west apostle mountain and ice mountain",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "west apostle mountain chaffee county colorado",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is the nfl trade deadline",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "afghanistan vs zimbabwe 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -100,7 +199,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs eng odi",
+      "keyword": "afghanistan vs zimbabwe t20",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -109,7 +208,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs eng live",
+      "keyword": "afghanistan vs zimbabwe test",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -118,7 +217,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs eng t20",
+      "keyword": "afghanistan vs zimbabwe 2025",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -127,34 +226,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs eng 2026",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "sl vs eng schedule",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "sl vs eng women",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "yulia putintseva vs rybakina",
+      "keyword": "afghanistan vs zimbabwe odi",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -172,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "black friday 2026 home depot",
+      "keyword": "sophia bush and ashlyn harris",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "black friday 2026 tv deals",
+      "keyword": "duskbloods network test sign up",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "emma stone and andrew garfield",
+      "keyword": "west apostle mountain basin colorado",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,70 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "emma stone and ryan gosling",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "tokyo open tennis 2026 schedule",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "japan open tennis 2026 schedule",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "one piece 1197 spoilers reddit",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "one piece 1197 release date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "one piece 1197 site www.reddit.com",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "one piece 1197 full summary",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "sl vs eng",
+      "keyword": "afghanistan vs zimbabwe",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -271,16 +280,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "sl vs england",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "black friday 2026 walmart",
+      "keyword": "sophia bush chicago pd",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "black friday 2026 ads",
+      "keyword": "dylan larkin trade rumors",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "black friday 2026 deals",
+      "keyword": "dylan larkin trade list",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "black friday 2026 amazon",
+      "keyword": "dylan larkin mn wild",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "black friday 2026 target",
+      "keyword": "duskbloods closed network test",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "black friday 2026 date",
+      "keyword": "coby bryant injury update",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flood watch near me",
+      "keyword": "maxx crosby trade rumors",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "emma stone net worth",
+      "keyword": "west apostle mountain colorado",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "joan smalls tom brady",
+      "keyword": "west apostle mountain basin",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "joan smalls candice swanepoel",
+      "keyword": "west apostle mountain co",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "joan smalls net worth",
+      "keyword": "west apostle mountain deaths",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "joan smalls lipstick alley",
+      "keyword": "west apostle mountain hike",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,97 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "emma watson net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "yulia putintseva ball girl",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "tokyo open tennis 2026",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "tokyo open 2026 schedule",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "tokyo open 2026 wta",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "japan open tennis 2026",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "japan open prize money",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "one piece 1197 reddit",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "one piece 1197 spoilers",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "one piece 1197 summary",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "black friday 2026",
+      "keyword": "sophia bush wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch az",
+      "keyword": "sophia bush book",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch texas",
+      "keyword": "sophia bush children",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch california",
+      "keyword": "sophia bush parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch oahu",
+      "keyword": "sophia bush marriages",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch nyc",
+      "keyword": "hyperliquid price prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch hawaii",
+      "keyword": "hyperliquid stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "flood watch nj",
+      "keyword": "dylan larkin trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma stone movies",
+      "keyword": "dylan larkin news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma stone husband",
+      "keyword": "dylan larkin contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma stone age",
+      "keyword": "dylan larkin stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma stone spiderman",
+      "keyword": "dylan larkin rumors",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma stone ethnicity",
+      "keyword": "dylan larkin bruins",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma stone 2026",
+      "keyword": "duskbloods release date",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joan smalls model",
+      "keyword": "duskbloods network test",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joan smalls children",
+      "keyword": "duskbloods switch 2",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joan smalls husband",
+      "keyword": "coby bryant bears",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joan smalls brady",
+      "keyword": "coby bryant nfl",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joan smalls boyfriend",
+      "keyword": "coby bryant basketball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson movies",
+      "keyword": "coby bryant seahawks",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson husband",
+      "keyword": "coby bryant stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson age",
+      "keyword": "coby bryant football",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson wicker",
+      "keyword": "coby bryant college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson boyfriend",
+      "keyword": "maxx crosby stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson 2026",
+      "keyword": "maxx crosby trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson height",
+      "keyword": "maxx crosby 49ers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson songs",
+      "keyword": "maxx crosby contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yulia putintseva ranking",
+      "keyword": "maxx crosby wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yulia putintseva prediction",
+      "keyword": "maxx crosby bears",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yulia putintseva husband",
+      "keyword": "maxx crosby cowboys",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yulia putintseva live",
+      "keyword": "maxx crosby age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yulia putintseva tennis",
+      "keyword": "west apostle mountain",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tokyo open 2026",
+      "keyword": "montez sweat stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tokyo open tennis",
+      "keyword": "montez sweat suspension",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tokyo open wta",
+      "keyword": "montez sweat contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tokyo open schedule",
+      "keyword": "montez sweat brother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tokyo open draw",
+      "keyword": "montez sweat trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open tennis",
+      "keyword": "montez sweat wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open wta",
+      "keyword": "montez sweat pff",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open 2026",
+      "keyword": "montez sweat ped",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open tokyo",
+      "keyword": "montez sweat college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,34 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open draw",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "japan open schedule",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "one piece 1197",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "flood watch",
+      "keyword": "sophia bush",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "emma stone",
+      "keyword": "hyperliquid price",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "joan smalls",
+      "keyword": "hyperliquid news",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "emma watson",
+      "keyword": "hyperliquid stock",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "yulia putintseva",
+      "keyword": "hyperliquid crypto",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -919,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tokyo open",
+      "keyword": "hyperliquid strategies",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -928,125 +811,147 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "japan open",
+      "keyword": "hyperliquid coin",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
+    },
+    {
+      "keyword": "hyperliquid oil",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "dylan larkin",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "duskbloods gameplay",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "duskbloods characters",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "duskbloods reddit",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "duskbloods beta",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "coby bryant",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "kobe bryant",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "maxx crosby",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "montez sweat",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "hyperliquid",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "duskbloods",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "black friday 2026 best buy",
+      "pillar": "afghanistan vs zimbabwe t20 live telecast in india",
       "cluster": [
         {
-          "keyword": "black friday 2026 best buy",
-          "intent": "commercial",
-          "demand": 94.0,
-          "competition": 40.0,
-          "ranking_probability": 83.8,
-          "learning_boost": 0.0,
-          "learned_score": 83.8
-        },
-        {
-          "keyword": "black friday 2026 home depot",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "black friday 2026 tv deals",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "black friday 2026 walmart",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "black friday 2026 ads",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "black friday 2026 deals",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "black friday 2026 amazon",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "black friday 2026 target",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "black friday 2026 date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "black friday 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "yulia putintseva vs elena rybakina prediction",
-      "cluster": [
-        {
-          "keyword": "yulia putintseva vs elena rybakina prediction",
+          "keyword": "afghanistan vs zimbabwe t20 live telecast in india",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
           "learning_boost": 0.0,
-          "learned_score": 78.4
+          "learned_score": 84.4
         },
         {
-          "keyword": "yulia putintseva vs elena rybakina",
+          "keyword": "afghanistan vs zimbabwe t20 telecast in india",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "afghanistan vs zimbabwe test match",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1055,7 +960,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "yulia putintseva vs rybakina",
+          "keyword": "afghanistan vs zimbabwe test 2024",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "afghanistan vs zimbabwe 2026",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1064,67 +978,49 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "yulia putintseva ball girl",
+          "keyword": "afghanistan vs zimbabwe t20",
           "intent": "informational",
-          "demand": 64.0,
+          "demand": 76.0,
           "competition": 50.0,
-          "ranking_probability": 59.8,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 68.2
         },
         {
-          "keyword": "yulia putintseva ranking",
+          "keyword": "afghanistan vs zimbabwe test",
           "intent": "informational",
-          "demand": 58.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "afghanistan vs zimbabwe 2025",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "afghanistan vs zimbabwe odi",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "afghanistan vs zimbabwe",
+          "intent": "informational",
+          "demand": 70.0,
           "competition": 60.0,
-          "ranking_probability": 52.6,
+          "ranking_probability": 61.0,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yulia putintseva prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yulia putintseva husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yulia putintseva live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yulia putintseva tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yulia putintseva",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 61.0
         }
       ]
     },
@@ -1143,97 +1039,79 @@
       ]
     },
     {
-      "pillar": "sl vs eng live score",
+      "pillar": "when is the nfl trade deadline this year",
       "cluster": [
         {
-          "keyword": "sl vs eng live score",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "sl vs eng live streaming",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "sl vs eng odi",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs eng live",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs eng t20",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs eng 2026",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs eng schedule",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs eng women",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs eng",
+          "keyword": "when is the nfl trade deadline this year",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 76.0
         },
         {
-          "keyword": "sl vs england",
+          "keyword": "when is the nfl trade deadline what week",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when is the nfl trade deadline 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is the nfl trade deadline date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is the nfl trade deadline today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is the nfl trade deadline over",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is the nfl trade deadline end",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is the nfl trade deadline",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
         }
       ]
     },
@@ -1284,10 +1162,10 @@
       ]
     },
     {
-      "pillar": "one piece 1197 spoilers reddit raws",
+      "pillar": "sophia bush and chad michael murray",
       "cluster": [
         {
-          "keyword": "one piece 1197 spoilers reddit raws",
+          "keyword": "sophia bush and chad michael murray",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1296,7 +1174,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "one piece 1197 spoilers reddit",
+          "keyword": "sophia bush movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "sophia bush and ashlyn harris",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1305,34 +1192,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "one piece 1197 release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "one piece 1197 site www.reddit.com",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "one piece 1197 full summary",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "one piece 1197 reddit",
+          "keyword": "sophia bush chicago pd",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1341,57 +1201,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "one piece 1197 spoilers",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "one piece 1197 summary",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "one piece 1197",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "flood watch vs warning",
-      "cluster": [
-        {
-          "keyword": "flood watch vs warning",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "flood watch near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flood watch az",
+          "keyword": "sophia bush wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1400,7 +1210,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "flood watch texas",
+          "keyword": "sophia bush book",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1409,7 +1219,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "flood watch california",
+          "keyword": "sophia bush children",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1418,7 +1228,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "flood watch oahu",
+          "keyword": "sophia bush parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,7 +1237,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "flood watch nyc",
+          "keyword": "sophia bush marriages",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1436,25 +1246,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "flood watch hawaii",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "flood watch nj",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "flood watch",
+          "keyword": "sophia bush",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1465,10 +1257,37 @@
       ]
     },
     {
-      "pillar": "emma stone and andrew garfield",
+      "pillar": "west apostle mountain in chaffee county",
       "cluster": [
         {
-          "keyword": "emma stone and andrew garfield",
+          "keyword": "west apostle mountain in chaffee county",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "west apostle mountain and ice mountain",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "west apostle mountain chaffee county colorado",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "west apostle mountain basin colorado",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1477,7 +1296,66 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "emma stone and ryan gosling",
+          "keyword": "west apostle mountain colorado",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "west apostle mountain basin",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "west apostle mountain co",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "west apostle mountain deaths",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "west apostle mountain hike",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "west apostle mountain",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "duskbloods network test sign up",
+      "cluster": [
+        {
+          "keyword": "duskbloods network test sign up",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1486,7 +1364,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "emma stone net worth",
+          "keyword": "duskbloods closed network test",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1495,16 +1373,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "emma watson net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "emma stone movies",
+          "keyword": "duskbloods release date",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1513,7 +1382,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "emma stone husband",
+          "keyword": "duskbloods network test",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1522,7 +1391,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "emma stone age",
+          "keyword": "duskbloods switch 2",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1531,106 +1400,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "emma stone spiderman",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma stone ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma stone 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson wicker",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson songs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma stone",
+          "keyword": "duskbloods gameplay",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1639,7 +1409,129 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "emma watson",
+          "keyword": "duskbloods characters",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "duskbloods reddit",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "duskbloods beta",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "duskbloods",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "dylan larkin trade rumors",
+      "cluster": [
+        {
+          "keyword": "dylan larkin trade rumors",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dylan larkin trade list",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dylan larkin mn wild",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dylan larkin trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan larkin news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan larkin contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan larkin stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan larkin rumors",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan larkin bruins",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan larkin",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1650,19 +1542,10 @@
       ]
     },
     {
-      "pillar": "tokyo open tennis 2026 schedule",
+      "pillar": "coby bryant injury update",
       "cluster": [
         {
-          "keyword": "tokyo open tennis 2026 schedule",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "tokyo open tennis 2026",
+          "keyword": "coby bryant injury update",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1671,25 +1554,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tokyo open 2026 schedule",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tokyo open 2026 wta",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tokyo open 2026",
+          "keyword": "coby bryant bears",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1698,7 +1563,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tokyo open tennis",
+          "keyword": "coby bryant nfl",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1707,7 +1572,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tokyo open wta",
+          "keyword": "coby bryant basketball",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1716,7 +1581,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tokyo open schedule",
+          "keyword": "coby bryant seahawks",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1725,7 +1590,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tokyo open draw",
+          "keyword": "coby bryant stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1734,7 +1599,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tokyo open",
+          "keyword": "coby bryant football",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "coby bryant college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "coby bryant",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1745,19 +1628,10 @@
       ]
     },
     {
-      "pillar": "japan open tennis 2026 schedule",
+      "pillar": "maxx crosby trade rumors",
       "cluster": [
         {
-          "keyword": "japan open tennis 2026 schedule",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "japan open tennis 2026",
+          "keyword": "maxx crosby trade rumors",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1766,16 +1640,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "japan open prize money",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "japan open tennis",
+          "keyword": "maxx crosby stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1784,7 +1649,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open wta",
+          "keyword": "maxx crosby trade",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1793,7 +1658,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open 2026",
+          "keyword": "maxx crosby 49ers",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1802,7 +1667,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open tokyo",
+          "keyword": "maxx crosby contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1811,7 +1676,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open draw",
+          "keyword": "maxx crosby wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1820,7 +1685,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open schedule",
+          "keyword": "maxx crosby bears",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1829,7 +1694,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open",
+          "keyword": "maxx crosby cowboys",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maxx crosby age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maxx crosby",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1840,46 +1723,10 @@
       ]
     },
     {
-      "pillar": "joan smalls tom brady",
+      "pillar": "hyperliquid price prediction",
       "cluster": [
         {
-          "keyword": "joan smalls tom brady",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls candice swanepoel",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls lipstick alley",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joan smalls model",
+          "keyword": "hyperliquid price prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1888,7 +1735,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joan smalls children",
+          "keyword": "hyperliquid stock price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1897,7 +1744,84 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joan smalls husband",
+          "keyword": "hyperliquid price",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid news",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid crypto",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid strategies",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid coin",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid oil",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hyperliquid",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "montez sweat stats",
+      "cluster": [
+        {
+          "keyword": "montez sweat stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1906,7 +1830,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joan smalls brady",
+          "keyword": "montez sweat suspension",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1915,7 +1839,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joan smalls boyfriend",
+          "keyword": "montez sweat contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1924,7 +1848,75 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joan smalls",
+          "keyword": "montez sweat brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "montez sweat trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "montez sweat wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "montez sweat pff",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "montez sweat ped",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "montez sweat college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "montez sweat",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "kobe bryant",
+      "cluster": [
+        {
+          "keyword": "kobe bryant",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
