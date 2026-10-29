@@ -172,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "black friday 2026 tv deals",
+      "keyword": "black friday 2026 home depot",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "black friday 2026 home depot",
+      "keyword": "black friday 2026 tv deals",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -200,6 +200,15 @@
     },
     {
       "keyword": "emma stone and ryan gosling",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "tokyo open tennis 2026 schedule",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -388,15 +397,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "emma watson harry potter",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "yulia putintseva ball girl",
       "intent": "informational",
       "demand": 64.0,
@@ -451,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "one piece 1197 spoilers",
+      "keyword": "one piece 1197 reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "one piece 1197 reddit",
+      "keyword": "one piece 1197 spoilers",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -640,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "joan smalls married",
+      "keyword": "joan smalls boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,6 +712,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "emma watson songs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "yulia putintseva ranking",
       "intent": "informational",
       "demand": 58.0,
@@ -730,6 +739,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "yulia putintseva husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "yulia putintseva live",
       "intent": "informational",
       "demand": 58.0,
@@ -740,15 +758,6 @@
     },
     {
       "keyword": "yulia putintseva tennis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "yulia putintseva apology",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,25 +793,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tokyo open draw",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "tokyo open scores",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tokyo open schedule",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tokyo open draw",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,7 +847,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open schedule",
+      "keyword": "japan open draw",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -856,7 +856,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open draw",
+      "keyword": "japan open schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -951,7 +951,7 @@
           "learned_score": 83.8
         },
         {
-          "keyword": "black friday 2026 tv deals",
+          "keyword": "black friday 2026 home depot",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -960,7 +960,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "black friday 2026 home depot",
+          "keyword": "black friday 2026 tv deals",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1091,6 +1091,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "yulia putintseva husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "yulia putintseva live",
           "intent": "informational",
           "demand": 58.0,
@@ -1101,15 +1110,6 @@
         },
         {
           "keyword": "yulia putintseva tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yulia putintseva apology",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1332,7 +1332,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "one piece 1197 spoilers",
+          "keyword": "one piece 1197 reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1341,7 +1341,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "one piece 1197 reddit",
+          "keyword": "one piece 1197 spoilers",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1504,15 +1504,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "emma watson harry potter",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "emma stone movies",
           "intent": "informational",
           "demand": 58.0,
@@ -1630,6 +1621,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "emma watson songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "emma stone",
           "intent": "informational",
           "demand": 52.0,
@@ -1640,6 +1640,101 @@
         },
         {
           "keyword": "emma watson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "tokyo open tennis 2026 schedule",
+      "cluster": [
+        {
+          "keyword": "tokyo open tennis 2026 schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "tokyo open tennis 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tokyo open 2026 schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tokyo open 2026 wta",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tokyo open 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open wta",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open draw",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tokyo open",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1716,7 +1811,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open schedule",
+          "keyword": "japan open draw",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1725,7 +1820,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open draw",
+          "keyword": "japan open schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1820,7 +1915,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joan smalls married",
+          "keyword": "joan smalls boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1830,101 +1925,6 @@
         },
         {
           "keyword": "joan smalls",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "tokyo open tennis 2026",
-      "cluster": [
-        {
-          "keyword": "tokyo open tennis 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tokyo open 2026 schedule",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tokyo open 2026 wta",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tokyo open 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tokyo open tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tokyo open wta",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tokyo open draw",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tokyo open scores",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tokyo open schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tokyo open",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
