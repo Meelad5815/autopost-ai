@@ -109,24 +109,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "florida highway patrol public records request",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "florida highway patrol non emergency number",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "valentin vacherot vs rune",
       "intent": "informational",
       "demand": 76.0,
@@ -190,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "florida highway patrol phone number",
+      "keyword": "florida highway patrol accident reports",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "florida highway patrol accident report",
+      "keyword": "florida highway patrol phone number",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +208,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "valentin vacherot rafael jodar",
+      "keyword": "spy museum washington dc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,6 +289,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "lisa rinna net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "holger rune prediction today",
       "intent": "informational",
       "demand": 64.0,
@@ -343,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol number",
+      "keyword": "florida highway patrol uniform",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +343,25 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol accidents",
+      "keyword": "florida highway patrol corvette",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "florida highway patrol logo",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "florida highway patrol ranks",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -362,6 +371,15 @@
     },
     {
       "keyword": "camera store near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "camera store fredericksburg va",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,6 +415,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "valentin vacherot injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "valentin vacherot cousin",
       "intent": "informational",
       "demand": 58.0,
@@ -424,6 +451,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "spy museum dc",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "spy stock price",
       "intent": "informational",
       "demand": 58.0,
@@ -433,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy kids cast",
+      "keyword": "spy x family",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy x family",
+      "keyword": "spy kids cast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,15 +541,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "east freeway crash",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "east freeway houston",
       "intent": "informational",
       "demand": 58.0,
@@ -532,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "adrian mannarino ranking",
+      "keyword": "east freeway crash",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -542,6 +569,15 @@
     },
     {
       "keyword": "adrian mannarino wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "adrian mannarino ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,15 +658,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna young",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "holger rune prediction",
       "intent": "informational",
       "demand": 58.0,
@@ -649,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "holger rune injury",
+      "keyword": "holger rune tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "holger rune tennis",
+      "keyword": "holger rune injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,16 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "camera store texas",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "camera store california",
+      "keyword": "camera store fairfax",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "spy kids",
+      "keyword": "spy museum",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "spypoint login",
+      "keyword": "spy kids",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "camera app",
+      "keyword": "camera test",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "camera test",
+      "keyword": "camera app",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "camera lens",
+      "keyword": "camera online",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "camera bartolotta",
+      "keyword": "camera lens",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,25 +928,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "spypoint",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
       "keyword": "spym",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "spyro",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1001,15 +1001,6 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "valentin vacherot rafael jodar",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "valentin vacherot ranking",
           "intent": "informational",
           "demand": 58.0,
@@ -1029,6 +1020,15 @@
         },
         {
           "keyword": "valentin vacherot girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "valentin vacherot injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1114,15 +1114,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "east freeway crash",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "east freeway houston",
           "intent": "informational",
           "demand": 58.0,
@@ -1133,6 +1124,15 @@
         },
         {
           "keyword": "east freeway dps",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "east freeway crash",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1200,7 +1200,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "adrian mannarino ranking",
+          "keyword": "adrian mannarino wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1209,7 +1209,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "adrian mannarino wife",
+          "keyword": "adrian mannarino ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1304,7 +1304,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "holger rune injury",
+          "keyword": "holger rune tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1313,7 +1313,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "holger rune tennis",
+          "keyword": "holger rune injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1409,6 +1409,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "lisa rinna net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "lisa rinna traitors",
           "intent": "informational",
           "demand": 58.0,
@@ -1463,15 +1472,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lisa rinna young",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "lisa rinna",
           "intent": "informational",
           "demand": 52.0,
@@ -1479,101 +1479,6 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "florida highway patrol public records request",
-      "cluster": [
-        {
-          "keyword": "florida highway patrol public records request",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "florida highway patrol non emergency number",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "florida highway patrol phone number",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "florida highway patrol accident report",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "florida highway patrol crash reports",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "florida highway patrol salary",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol cars",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol number",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol accidents",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1673,6 +1578,101 @@
       ]
     },
     {
+      "pillar": "florida highway patrol accident reports",
+      "cluster": [
+        {
+          "keyword": "florida highway patrol accident reports",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "florida highway patrol phone number",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "florida highway patrol crash reports",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "florida highway patrol salary",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "florida highway patrol cars",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "florida highway patrol uniform",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "florida highway patrol corvette",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "florida highway patrol logo",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "florida highway patrol ranks",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "florida highway patrol",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "qqq vs qqqm",
       "cluster": [
         {
@@ -1723,6 +1723,92 @@
       ]
     },
     {
+      "pillar": "spy museum washington dc",
+      "cluster": [
+        {
+          "keyword": "spy museum washington dc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "spy museum dc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "spy stock price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "spy x family",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "spy kids cast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "spy stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "spy museum",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "spy kids",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "spy",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
       "pillar": "camera store near me",
       "cluster": [
         {
@@ -1735,7 +1821,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "camera store texas",
+          "keyword": "camera store fredericksburg va",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "camera store fairfax",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1744,16 +1839,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "camera store california",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "camera app",
+          "keyword": "camera test",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1762,7 +1848,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "camera test",
+          "keyword": "camera app",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1780,7 +1866,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "camera lens",
+          "keyword": "camera online",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1798,7 +1884,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "camera bartolotta",
+          "keyword": "camera lens",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1850,65 +1936,6 @@
       ]
     },
     {
-      "pillar": "spy stock price",
-      "cluster": [
-        {
-          "keyword": "spy stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy kids cast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy x family",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy kids",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "qqqi stock",
       "cluster": [
         {
@@ -1932,47 +1959,10 @@
       ]
     },
     {
-      "pillar": "spypoint login",
-      "cluster": [
-        {
-          "keyword": "spypoint login",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spypoint",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "spym",
       "cluster": [
         {
           "keyword": "spym",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "spyro",
-      "cluster": [
-        {
-          "keyword": "spyro",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
