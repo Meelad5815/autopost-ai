@@ -10,7 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "valentin vacherot vs rafael jodar",
+      "keyword": "valentin vacherot vs holger rune",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -19,7 +19,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "valentin vacherot vs holger rune",
+      "keyword": "valentin vacherot vs rafael jodar",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -154,15 +154,6 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "holger rune vs valentin",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "wordpress website price in pakistan",
       "intent": "informational",
       "demand": 70.0,
@@ -182,6 +173,15 @@
     },
     {
       "keyword": "silver price today in india",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "lisa rinna and rob rausch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -307,15 +307,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lisa rinna net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "holger rune prediction today",
       "intent": "informational",
       "demand": 64.0,
@@ -326,15 +317,6 @@
     },
     {
       "keyword": "holger rune valentin vacherot",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "holger rune us open",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "valentin vacherot prediction",
+      "keyword": "valentin vacherot ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "valentin vacherot ranking",
+      "keyword": "valentin vacherot prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,15 +577,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "lisa rinna movies",
       "intent": "informational",
       "demand": 58.0,
@@ -613,7 +586,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "lisa rinna husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "lisa rinna m&m",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "lisa rinna age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,15 +631,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna wig",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "holger rune prediction",
       "intent": "informational",
       "demand": 58.0,
@@ -659,6 +641,24 @@
     },
     {
       "keyword": "holger rune ranking",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "holger rune injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "holger rune tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -962,10 +962,10 @@
       ]
     },
     {
-      "pillar": "valentin vacherot vs rafael jodar",
+      "pillar": "valentin vacherot vs holger rune",
       "cluster": [
         {
-          "keyword": "valentin vacherot vs rafael jodar",
+          "keyword": "valentin vacherot vs holger rune",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -974,7 +974,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "valentin vacherot vs holger rune",
+          "keyword": "valentin vacherot vs rafael jodar",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1010,7 +1010,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "valentin vacherot prediction",
+          "keyword": "valentin vacherot ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1019,7 +1019,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "valentin vacherot ranking",
+          "keyword": "valentin vacherot prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1268,15 +1268,6 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "holger rune vs valentin",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
           "keyword": "holger rune prediction today",
           "intent": "informational",
           "demand": 64.0,
@@ -1295,15 +1286,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "holger rune us open",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "holger rune prediction",
           "intent": "informational",
           "demand": 58.0,
@@ -1314,6 +1296,24 @@
         },
         {
           "keyword": "holger rune ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "holger rune injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "holger rune tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1400,25 +1400,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "lisa rinna net worth",
+          "keyword": "lisa rinna and rob rausch",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         },
         {
           "keyword": "lisa rinna traitors",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lisa rinna husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1436,7 +1427,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "lisa rinna husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "lisa rinna m&m",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lisa rinna age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1455,15 +1464,6 @@
         },
         {
           "keyword": "lisa rinna young",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lisa rinna wig",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
