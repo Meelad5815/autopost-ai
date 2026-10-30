@@ -64,6 +64,24 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "flash flood warning near me today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "flash flood warning topeka",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "index funds vs etf",
       "intent": "informational",
       "demand": 76.0,
@@ -82,6 +100,24 @@
       "learned_score": 68.2
     },
     {
+      "keyword": "rybakina vs fernandez h2h",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "rybakina vs fernandez live",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "wordpress website price in pakistan",
       "intent": "informational",
       "demand": 70.0,
@@ -91,16 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flash flood warning san francisco",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "flash flood warning los angeles",
+      "keyword": "flash flood warning durham nc",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -119,6 +146,15 @@
     },
     {
       "keyword": "index funds to invest in",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "mac jones dating red flags",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,6 +244,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "flash flood warning nc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "flash flood warning raleigh",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "flash flood warning meaning",
       "intent": "informational",
       "demand": 64.0,
@@ -226,25 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flash flood warning nyc",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "flash flood warning utah",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "flash flood warning map",
+      "keyword": "index funds on robinhood",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,25 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "index funds on robinhood",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "mac jones trade rumors",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "mac jones sophie scott",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,15 +325,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fire detection systems inc",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "fire detection system aircraft",
       "intent": "informational",
       "demand": 64.0,
@@ -326,6 +335,15 @@
     },
     {
       "keyword": "fire detection systems aviation",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "fire detection systems inc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,24 +433,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stock futures cnbc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stock futures now",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "stock futures live",
       "intent": "informational",
       "demand": 58.0,
@@ -442,7 +442,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "stock futures cnbc",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "stock futures cnn",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "stock futures now",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mac jones girlfriend",
+      "keyword": "mac jones stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mac jones stats",
+      "keyword": "mac jones girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mac jones patriots",
+      "keyword": "mac jones construction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open tokyo",
+      "keyword": "japan open rybakina",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open rybakina",
+      "keyword": "japan open draw",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "japan open draw",
+      "keyword": "japan open today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "black friday outlet",
+      "keyword": "black friday liquidators",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -776,24 +794,6 @@
     },
     {
       "keyword": "rybakina walkover",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rybakina prediction",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rybakina age",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,25 +874,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "cmg engage",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "cmg arena",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "cmg gaming",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "cmg engage",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,6 +901,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "cmg cod",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "rybakina",
       "intent": "informational",
       "demand": 46.0,
@@ -919,7 +919,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "dietitian",
+      "keyword": "diet",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -928,7 +928,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "diet",
+      "keyword": "dietitian",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -974,16 +974,25 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "flash flood warning san francisco",
+          "keyword": "flash flood warning near me today",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 70.0
         },
         {
-          "keyword": "flash flood warning los angeles",
+          "keyword": "flash flood warning topeka",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "flash flood warning durham nc",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1001,6 +1010,24 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "flash flood warning nc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "flash flood warning raleigh",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "flash flood warning meaning",
           "intent": "informational",
           "demand": 64.0,
@@ -1011,33 +1038,6 @@
         },
         {
           "keyword": "flash flood warning today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning utah",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "flash flood warning map",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1087,7 +1087,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "index funds s&p 500",
+          "keyword": "index funds on robinhood",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1096,7 +1096,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "index funds on robinhood",
+          "keyword": "index funds s&p 500",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1287,6 +1287,24 @@
           "learned_score": 68.2
         },
         {
+          "keyword": "rybakina vs fernandez h2h",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "rybakina vs fernandez live",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
           "keyword": "rybakina vs fernandez",
           "intent": "informational",
           "demand": 70.0,
@@ -1341,24 +1359,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "rybakina prediction",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "rybakina age",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "rybakina",
           "intent": "informational",
           "demand": 46.0,
@@ -1366,6 +1366,101 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "mac jones dating red flags",
+      "cluster": [
+        {
+          "keyword": "mac jones dating red flags",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mac jones trade rumors",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mac jones stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones team",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones construction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mac jones",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1418,7 +1513,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open tokyo",
+          "keyword": "japan open rybakina",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1436,7 +1531,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open rybakina",
+          "keyword": "japan open draw",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1445,7 +1540,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "japan open draw",
+          "keyword": "japan open today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1486,15 +1581,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "fire detection systems inc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "fire detection system aircraft",
           "intent": "informational",
           "demand": 64.0,
@@ -1505,6 +1591,15 @@
         },
         {
           "keyword": "fire detection systems aviation",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "fire detection systems inc",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1599,24 +1694,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stock futures cnbc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stock futures now",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "stock futures live",
           "intent": "informational",
           "demand": 58.0,
@@ -1626,7 +1703,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "stock futures cnbc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "stock futures cnn",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stock futures now",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1645,101 +1740,6 @@
         },
         {
           "keyword": "stock futures",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "mac jones trade rumors",
-      "cluster": [
-        {
-          "keyword": "mac jones trade rumors",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "mac jones sophie scott",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "mac jones girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones trade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones team",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones patriots",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mac jones",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1825,7 +1825,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "black friday outlet",
+          "keyword": "black friday liquidators",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1893,24 +1893,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "cmg engage",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "cmg arena",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "cmg gaming",
           "intent": "informational",
           "demand": 52.0,
@@ -1920,7 +1902,25 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "cmg engage",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "cmg financial",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "cmg cod",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
