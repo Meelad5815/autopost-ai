@@ -19,15 +19,6 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "man city vs brighton & hove albion f.c. matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
       "keyword": "man city vs brighton & hove albion f.c. standings",
       "intent": "informational",
       "demand": 82.0,
@@ -37,7 +28,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "man city vs brighton & hove albion f.c",
+      "keyword": "man city vs brighton & hove albion f.c. timeline",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -46,7 +37,16 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "man city vs brighton & hove albion f.c. timeline",
+      "keyword": "man city vs brighton & hove albion f.c. matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -127,7 +127,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "west ham vs west brom standings",
+      "keyword": "west ham vs west brom lineups",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -136,7 +136,16 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "west ham vs west brom lineups",
+      "keyword": "west ham vs west brom stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom standings",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -154,7 +163,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "west ham vs west brom stats",
+      "keyword": "west ham vs west brom timeline",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -190,15 +199,6 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "west ham vs west brom results",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -217,7 +217,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "taylor fritz vs arthur fils",
+      "keyword": "taylor fritz vs valentin vacherot",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -226,7 +226,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "taylor fritz vs valentin vacherot",
+      "keyword": "taylor fritz vs arthur fils",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -424,6 +424,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "taylor fritz vs vacherot",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "augsburg vs freiburg prediction",
       "intent": "informational",
       "demand": 76.0,
@@ -559,7 +568,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "alcaraz vs paul",
+      "keyword": "alcaraz vs medvedev",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -568,7 +577,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "alcaraz vs medvedev",
+      "keyword": "alcaraz vs paul",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -667,25 +676,16 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "noah fifita prop bets",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "noah fifita nfl draft",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "noah fifita nil money",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "noah fifita high school",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -739,15 +739,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "noah fifita stats",
       "intent": "informational",
       "demand": 58.0,
@@ -766,7 +757,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "noah fifita age",
+      "keyword": "noah fifita nationality",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "noah fifita brother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "noah fifita nil",
+      "keyword": "noah fifita age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "alcaraz height",
+      "keyword": "alcaraz injury",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "alcaraz injury",
+      "keyword": "alcaraz height",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -888,15 +888,6 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "man city vs brighton & hove albion f.c. matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
           "keyword": "man city vs brighton & hove albion f.c. standings",
           "intent": "informational",
           "demand": 82.0,
@@ -906,7 +897,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "man city vs brighton & hove albion f.c",
+          "keyword": "man city vs brighton & hove albion f.c. timeline",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -915,7 +906,16 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "man city vs brighton & hove albion f.c. timeline",
+          "keyword": "man city vs brighton & hove albion f.c. matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -1098,10 +1098,10 @@
       ]
     },
     {
-      "pillar": "west ham vs west brom standings",
+      "pillar": "west ham vs west brom lineups",
       "cluster": [
         {
-          "keyword": "west ham vs west brom standings",
+          "keyword": "west ham vs west brom lineups",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1110,7 +1110,16 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "west ham vs west brom lineups",
+          "keyword": "west ham vs west brom stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom standings",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1128,7 +1137,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "west ham vs west brom stats",
+          "keyword": "west ham vs west brom timeline",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1156,15 +1165,6 @@
         },
         {
           "keyword": "west ham vs west brom matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "west ham vs west brom results",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1207,8 +1207,17 @@
       ]
     },
     {
-      "pillar": "taylor fritz vs arthur fils",
+      "pillar": "taylor fritz vs valentin vacherot",
       "cluster": [
+        {
+          "keyword": "taylor fritz vs valentin vacherot",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
         {
           "keyword": "taylor fritz vs arthur fils",
           "intent": "informational",
@@ -1219,13 +1228,13 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "taylor fritz vs valentin vacherot",
+          "keyword": "taylor fritz vs vacherot",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 68.2
         },
         {
           "keyword": "taylor fritz olivia jade",
@@ -1274,15 +1283,6 @@
         },
         {
           "keyword": "taylor fritz ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "taylor fritz height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1409,25 +1409,16 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "noah fifita prop bets",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "noah fifita nfl draft",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "noah fifita nil money",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "noah fifita high school",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1454,7 +1445,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "noah fifita age",
+          "keyword": "noah fifita nationality",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "noah fifita brother",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1472,7 +1472,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "noah fifita nil",
+          "keyword": "noah fifita age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1714,7 +1714,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "alcaraz vs paul",
+          "keyword": "alcaraz vs medvedev",
           "intent": "informational",
           "demand": 70.0,
           "competition": 60.0,
@@ -1723,7 +1723,7 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "alcaraz vs medvedev",
+          "keyword": "alcaraz vs paul",
           "intent": "informational",
           "demand": 70.0,
           "competition": 60.0,
@@ -1768,7 +1768,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "alcaraz height",
+          "keyword": "alcaraz injury",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1777,7 +1777,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "alcaraz injury",
+          "keyword": "alcaraz height",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
