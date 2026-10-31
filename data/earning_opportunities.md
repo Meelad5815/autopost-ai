@@ -1,6 +1,6 @@
 # MRK Earning Opportunities
 
-Generated: 2026-10-31T05:41:28.805372+00:00
+Generated: 2026-10-31T12:29:25.358694+00:00
 
 ## 1. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
 - Score: **18**
@@ -96,88 +96,88 @@ Generated: 2026-10-31T05:41:28.805372+00:00
 - Score: **13**
 - Source: Shopify
 - Published: Fri, 18 Aug 2017 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnNiWmJadm5lN2tLV0FnbWRiQm1NUjZwM19RX1FIdzdHNndIOFpRWDZKUnUzQVh1d19tSFRIbEJhVlc4aW5famtiWnlBQ1ZkZjdXWHUzcFpaaFkzZzVPRlMyRk9NMWt3LTk3aWd5aHpwekZjM2tVal9KUVI1aXlCZ1JiYzQ0ZlFsSVVvUElBb3VGUGtmQ2J6Yzh3UXhiYTdiQTVCOTBac01Qa1E?oc=5
+- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzBBbXJDWWFVVDRRYzBSMER6YllHOW5GcW55TUZwS05wRXcydWpvSlQ5SGU2MzEwQmlIUmNHYmhmRXJXYXZENGdCWE1Ic1VCTkhwc2FGcUdzcHBLem5MaVc2NVV3T2VvcEM4M0VZMm1lODRNSmJmbWxlck9QdVVLMmFPOEluVXAxLWk5ellCcTB2OTN1eVJYaDNPYWNZbXNuODZZYWZtdDdUMV9vV2tF?oc=5
 
-## 17. The 6 Best Sites for Hiring Freelance Programmers and Coders - MakeUseOf
-- Score: **10**
-- Source: MakeUseOf
-- Published: Wed, 20 Dec 2017 01:00:48 GMT
-- URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxOajlJb1FEdnFKdW5IaU40a3M5VEVaTzdKa3B4NWxMYnVQWTI0dmxZQUE0dE5qNHB6R3hfZGg5eS1mbDdPcV80X2cwVUNmZVE5OV9YdGxHb3poZW1tRFdCMFBteTZHVUl6N1d1cHJPX3g2TnY5RzUwQlBFNUxUVVQxWGR5QQ?oc=5
-
-## 18. 12 Free Tools for Remote Developers and Designers - Shopify
-- Score: **10**
-- Source: Shopify
-- Published: Tue, 11 Apr 2017 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNeV9aejNRbjE1ajlSbENRc2QzSXA4QWlLbEhUVm9laTcyaGlPY1owa3Vqc1dHUEphQjBCc01ISUJzdTJjRmxGYi0tT2p0YU1MbF9kRkRYWVIzdk5iQXQtLVk0WUJZMS10N3lpa3Y5T2g3OEcwYl9VblhNcURCX3FOMDRQb2c0ZTRzZERkTkRZQzk?oc=5
-
-## 19. 9 Remote Freelance Jobs That Can Turn into Full-Time Work from Home Careers - Vocal
-- Score: **10**
-- Source: Vocal
-- Published: Thu, 24 Apr 2025 11:33:57 GMT
-- URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1FOZTdRYzFzbDIyMXh6OUpGTXg0cm5OYUFhRG42V2I3aGJYRFU1b0RIS2ZQLVRCZW5wY1ZKZnZHak1ieGRLczlXdTZjRl9rZHR5RjFxU3BNX0w4YVdqQXpMYXBkLUM3cGNwRW5jaGJhbTB0YVhaSDJXdEYxZGFFbktwaXpROEU2WWVzVm5CVmVzZ0t4WkxleUdHeG5XNGZzRUZhTl93?oc=5
-
-## 20. 15 Remote Job Platforms Nigerians Are Using to Earn in Dollars - Zikoko!
-- Score: **10**
-- Source: Zikoko!
-- Published: Fri, 27 Jun 2025 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMieEFVX3lxTE5SeXlXdXFrS08zNHVaMEVHZ0pzWFpOc2dmX2pyd3RMZDk5R2lRQXZkSFFCZ0VSbWlvWnA0a1V2RGlRWDB5Z0pNUkFMSDA1VldTQUVOV0s5emNNYkJWTmtiVEVxZU15VlR6MnZmLU9HbDFfSVlzX05aeA?oc=5
-
-## 21. 5 Entry-Level Programming Jobs + How to Get One - Coursera
+## 17. 5 Entry-Level Programming Jobs + How to Get One - Coursera
 - Score: **9**
 - Source: Coursera
 - Published: Wed, 22 Apr 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE9fS2lQbVptUXlRR005eEkybW4xZWJtN2JOQ29wci1XRUlTWkdrOFYwVmJ5ejVVYmlIY19IUWtRenRLcEJ3Y19EZDR1VVg3Wks4LXA3b0xDZk5PMnlLcUNKTk5hVEMydmZFeTRYSTh1TQ?oc=5
 
-## 22. 30 High-Paying Remote Jobs With $100,000 (or Higher) Salaries - Money Talks News
+## 18. 30 High-Paying Remote Jobs With $100,000 (or Higher) Salaries - Money Talks News
 - Score: **9**
 - Source: Money Talks News
 - Published: Wed, 01 Jul 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0Y5MG9tVTBQY2lldmE2eXNUS1o3X01tZU9rb2lLcWE4cHBRbkxmb0hneU03OFk5eWdWeDh0WnZZV2txbzdUY1BTeHBZc0E4cVM3YVZfWDYya0xWUUFLRmF3S0E0ZE5aeDJLRHNNQ21QdkE4bEZoREVFTlFTYUVBZGc5YnI2dkRhajg3WVJZdHBTWk44bEJZXw?oc=5
 
-## 23. Top 10 Tech Jobs That Don't Require a Degree in Ecuador in 2026 - nucamp.co
+## 19. Top 10 Tech Jobs That Don't Require a Degree in Ecuador in 2026 - nucamp.co
 - Score: **9**
 - Source: nucamp.co
 - Published: Sun, 12 Apr 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkZWYUwxYjV2UTRGaXo0a3AyeDY3VndjU21rdi1pNzBzTDlZbUFhY29TU2lIdWdINWlMVklxWEk3Tzl3TEdlc2lnWGxDSzBGTlJuWmNvS3NfZjd0Z2NRNVZKamhLWlNRcUo4bEYzRDUyNGI0aHp1ZWlIM1NNOHlQbUNaZlFobXhjUldCeWhqUERmMjY4?oc=5
 
-## 24. Top 10 Entry-Level Tech Jobs in the US in 2026 (No Experience Required) - nucamp.co
+## 20. Top 10 Entry-Level Tech Jobs in the US in 2026 (No Experience Required) - nucamp.co
 - Score: **9**
 - Source: nucamp.co
 - Published: Sun, 04 Jan 2026 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1VYXhjbWR0U0VfZzJmWHFtUkgyaW5sM2lqZElMSm1POVIyQ0FHUXlVOUtlR2N4ZW16V2dES01mWnkzNlhYcjBCTDJRNng0dnRVeWV5SGw0bTg2SG5yaHEwOEJiVW9meDVNX0NzTkVwQWkyNXQyWEpPUkw5c3VUNGdJZ1pwWjM0UkdQM1Z0ZFFuX0R2bjJRcjVNeUo?oc=5
 
-## 25. 5 Entry-Level Remote Jobs to Explore (and Where to Find More) - Coursera
+## 21. 5 Entry-Level Remote Jobs to Explore (and Where to Find More) - Coursera
 - Score: **9**
 - Source: Coursera
 - Published: Mon, 30 Mar 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLTGd1SUpyMU9hUnN4WGF1UGhucVdVNzBOMHB0ZWYyNS00eENRM2oyVUpaY044QTR0U0FTNTFDaXRLR2QtZjZ6WTVLeGFmSkJwdzlLUHpSOU9FYlJQRlh0WE9rLUE4X05v?oc=5
 
-## 26. How to land an entry-level tech job (Even without experience) - University of Cincinnati
+## 22. How to land an entry-level tech job (Even without experience) - University of Cincinnati
 - Score: **9**
 - Source: University of Cincinnati
 - Published: Fri, 27 Mar 2026 22:27:41 GMT
 - URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ19OcTN4dmdXYktmd2hIWE55eXZDdnUtS0IwOWpvLUN1U3BEVGI2SVlRVUJxT1dtNkVrcU01NlFwZXcxWW5MZUxhQVk5Vlp2dVkxd1cxdUVmOHBvbktQX2Zqb2I2NzlKc3VnNTRKY24tZDgxVUVwakdZWlZXOFB3OHI2OUs3UFJEVEpj?oc=5
 
-## 27. The Job Seeker’s Guide to Entry-Level Software Engineer Jobs - Coursera
+## 23. The Job Seeker’s Guide to Entry-Level Software Engineer Jobs - Coursera
 - Score: **9**
 - Source: Coursera
 - Published: Fri, 02 Oct 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9odXV6ZEZMQnR2SEExY2ZMTEdrZVZzWnF6TThwYVJpcElkLVpyQzlVWFdrT2hUSzdYZVJIWnBTalF3MEtxRXVnVHlYQjFpcnZJNWpnV1BFdmMzRnRuWnEweXUwTFlETGRHMzFiZlk5M1Bwam50bkhF?oc=5
 
-## 28. 4 Essential Tips for Building Your First Shopify Theme - Shopify
-- Score: **8**
-- Source: Shopify
-- Published: Wed, 29 Aug 2018 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxQVTlFbl9YM1Z5TjJLLU9Wak9vVnROYWYwTzUySzREcXp5Sjg4NnBqdThTMnBHbXNwTWNzSzZ4S2pmR1Z2bzkzUF96OVJwRmhfM0ZPYkZ2N0xmRHk3dWpqcE5sS3ZBQWJVNDY5bWE5eUk2VzhBX3NFOVl6S0R1bU4wU2g2Tklfc1VmS1lLazBWWXdyUDFlVW9CYk5RUlJ0NC03SGow?oc=5
-
-## 29. StarApps expands Shopify merchandising and product discovery solutions for global e-commerce - Techli
-- Score: **8**
-- Source: Techli
-- Published: Wed, 28 Oct 2026 17:59:49 GMT
-- URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUpiRmJaMjVESlBHNmlKbXJVOWhOZXVrUWZDX0lnOHlWakxpaUkwaXpHTGlfZVExcWFBY3Q1ZUROelBSVkhoZVlGdlhkTGhveU54SmRZOG1HRzVDWXpET3RfT2wyVjlQMm4zUmNGU3QyMGl3cTlIYzdPektfY2VnekQtVDZJaWFsdVlKQ0VyZFZEY0RVYUpEZXRHVWs5d3c2V0JuQjdQSWJ2LVdISXIyODFSSlpjLS1YakE?oc=5
-
-## 30. 5 Best Essential Freelancer Tools - Shopify
+## 24. 5 Best Essential Freelancer Tools - Shopify
 - Score: **8**
 - Source: Shopify
 - Published: Wed, 24 Jan 2018 19:23:07 GMT
 - URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GdVpqVkpwVHFwTC1kUzFUV0V2b3k0SVBSbDVURGVHbHRLMWI1TTlJeWJGcmROWkFTMmtiSFZ3aWlibEVHNF9CVmFOTXQzV2NzaFl6WExfRXdnWGc3bTI1Yjgydk0?oc=5
+
+## 25. Meet the New Freelancers in the NYC Shopify Partner Studio - Shopify
+- Score: **8**
+- Source: Shopify
+- Published: Wed, 04 May 2016 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxOeEk2ZmF6cTBLWnNxNzkxbXJDR3FUOTc3SDQxTU5nVWZmcHVmeDlEZFlxaHFrZmw0c1NycmdMN3NQM1VOVjU5WFhVTGd6ODFxcjN3TXp2REJvTEFaLVZWRndEcXFMQjlfYTIyUEV4SzJQVHRlNTh2X0xHdzM0UnNaZnY0b1dxeDlvRk1VUXhKOVhYWFBpczV3eEo5NUlzR0ZfUlRYb2ZOLXVFZW81YXc?oc=5
+
+## 26. Top Freelance Resources on the Shopify Web Design and Development Blog - Shopify
+- Score: **8**
+- Source: Shopify
+- Published: Tue, 25 Oct 2016 20:52:00 GMT
+- URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkxXZ3Job0hzVy1DUTFhS2JMRFBnQjBpTW9idzJFb2FWMzZYdkVLTjFJQzAyOWlrNXNud1JBY1RmZzNybG1PWXVoSlVMX200SDJBVU1mREF4eWNBc3VfYWNobFdXSlN4US01UXJMdERpLXY4MHZSTEx2RTU5RmNJQmJDV2gzNjhMX2YtN0dLaFlHWG1lOUtXR2g1X2k4cDVDWUE3aUxLVHF5MHc3?oc=5
+
+## 27. 7 Tips to Calculate Your Freelance Rate - Shopify
+- Score: **8**
+- Source: Shopify
+- Published: Tue, 10 May 2016 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU5XVFVua3ViU1VsS2l3VHdZM3dXd2dGaVkyQUtrdk9RYmhGenZqOUVCbXB5bWdjVmRsdzZacEtGZ2kwYm84bmdycGVCS09UdWhGdHcweW5ISW9kRFRieFdSanJvVmRhRWlCbzBnOTdFaXVkTmVXVUtUMXJDTWhyNG50X3liY3pPbWcwNzVHUkc?oc=5
+
+## 28. 10 Successful Web Designers Share Their Best Advice for Aspiring Freelancers - Shopify
+- Score: **8**
+- Source: Shopify
+- Published: Thu, 10 Dec 2015 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxPYl9CRlQ4c0xMa0xuQnFhOFpNclNOdERFSDFyeVh1MHNodEFLTnloVWN0VW5yODFHQktGWlRpZUdHQVJHakVkaEhiS28tX3M2aGh6ZWk3elVHcWw5cWlreHpPY21mVXgzVjQtUy1sSnNteFUzZzZESzNnQzc4aDZwV2FHeVNyMlZ0M041eGdwbWY1YlZsU3laTjRUMXk0cGdDdzhabFhYWGwtYjFURGFHTEQwY2MtdnNXM2lxWDdYbDNUWGV1?oc=5
+
+## 29. 14 Agencies and Freelancers You Should Follow on Instagram - Shopify
+- Score: **8**
+- Source: Shopify
+- Published: Fri, 23 Sep 2016 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOQV93VGIxTWRucHpONXdDOUw5V05pdjlMRzZWa2RwWXNlcXB6VWJpZEV2VjIxTzB2V0ZiVXZnUE50OHZtWkczRzNwbjN2a3FDY2daTmtJbm9fSHZYMzBJbDU5VjFHc2NzdXA2ZUpoSE1ibkFNRFhpVGJjcXRKdUQxOXpYY3RSaG5FdFpSdUlzWXBScENWRzZadjRLcHg?oc=5
+
+## 30. How Much Do Web Developers Make in 2026? (Salary by Level + Location) - Nucamp
+- Score: **7**
+- Source: Nucamp
+- Published: Wed, 04 Feb 2026 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWNPSm1DVFp0bWNwNEJZcjNGNnVmbG40Z2xzdk5mamE3U2d5VjBHMUVnSG1JRXcxUFFWczhNdFJXYXhtZlBtMmM5aHhXMTFsYU1PWG9rUE93VWVyUzVLLWw2dVJ5VkF2LWl1QXhRTlgtUVRxYThEYWRRZG5fakphUldqZm9OTExDZFhETVVpcndFazd5MXc?oc=5
