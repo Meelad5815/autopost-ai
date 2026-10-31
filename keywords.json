@@ -1,7 +1,196 @@
 {
   "keywords": [
     {
-      "keyword": "sl vs pak t20 world cup",
+      "keyword": "man city vs brighton & hove albion f.c. lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c. stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c. matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c. standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c. timeline",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "man city vs brighton & hove albion f.c. tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "wolverhampton wanderers fc vs cardiff city fc matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "rayo vallecano vs celta de vigo h2h",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "wolverhampton wanderers fc vs cardiff city standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "wolverhampton wanderers fc vs cardiff city fc",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "wolverhampton wanderers fc vs cardiff city lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "wolverhampton wanderers fc vs cardiff city stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "man city vs brighton last match",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west bromwich prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "west ham vs west brom results",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -19,7 +208,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "sl vs pak women live",
+      "keyword": "rayo vallecano rc celta de vigo football spain",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "taylor fritz vs arthur fils",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -28,7 +226,97 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "sl vs pak asia cup",
+      "keyword": "taylor fritz vs valentin vacherot",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "augsburg vs freiburg prediction scores24",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "augsburg vs freiburg last match",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "augsburg vs freiburg prediction forebet",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "man city vs brighton prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "noah fifita vs texas tech",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "west ham vs west brom",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "west ham vs west bromwich",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "wolves vs cardiff city prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "wolves vs cardiff city tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "cardiff city vs wolves 2018",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -38,6 +326,24 @@
     },
     {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "rayo vallecano rc celta de vigo football",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "rayo vallecano rc celta de vigo forebet",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +370,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "emma watson beauty and the beast",
+      "keyword": "premier league table last season 25/26",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +379,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pizza near me within 5 mi",
+      "keyword": "premier league table 1 to 20",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,7 +388,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pizza near me delivery open now",
+      "keyword": "rayo vallecano celta de vigo entradas",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,7 +397,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "housing developments near me for sale",
+      "keyword": "resultado celta de vigo rayo vallecano",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,7 +406,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "swimming competition for kids near me",
+      "keyword": "rayo vallecano celta de vigo prediction",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +415,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "cruise lines that go to alaska",
+      "keyword": "rayo vallecano rc celta de vigo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,7 +424,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "cruise line runs out of money",
+      "keyword": "rayo vallecano v celta de vigo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -127,7 +433,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "sl vs pak live",
+      "keyword": "augsburg vs freiburg prediction",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -136,7 +442,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs pak women",
+      "keyword": "augsburg vs freiburg tickets",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -145,7 +451,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs pak t20",
+      "keyword": "augsburg vs freiburg forebet",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -154,7 +460,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs pak w",
+      "keyword": "augsburg vs freiburg h2h",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -163,7 +469,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "sl vs pak test",
+      "keyword": "augsburg vs freiburg predictz",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -172,7 +478,43 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "kickboxing vs muay thai",
+      "keyword": "augsburg vs freiburg results",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "man city vs brighton",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "wolves vs cardiff city",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "wolves vs city 2019",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "alcaraz vs medvedev prediction",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -190,7 +532,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kids soccer cleats near me",
+      "keyword": "premier league table 2023 24",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +541,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pizza near me open now",
+      "keyword": "rayo vallecano celta de vigo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +550,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "pizza near me that delivers",
+      "keyword": "philadelphia delivery robot sidewalk protest",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,61 +559,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "swimming facility access shortage ireland",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "cruise lines oil price impact",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "cruise line stuck in cambodia",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "cruise lines out of florida",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "cruise line that went bankrupt",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "housing authority des moines iowa",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "sl vs pak",
+      "keyword": "augsburg vs freiburg",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -280,7 +568,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "sl vs pakistan",
+      "keyword": "alcaraz vs paul",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -289,7 +577,16 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "kids soccer des moines",
+      "keyword": "alcaraz vs medvedev",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "premier league table today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +595,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kids soccer near me",
+      "keyword": "premier league table 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +604,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kids soccer shin guards",
+      "keyword": "premier league table 25/26",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +613,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "emma watson net worth",
+      "keyword": "premier league table 2025/26",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +622,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pizza near me delivery",
+      "keyword": "premier league table 2025",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +631,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pizza near me now",
+      "keyword": "premier league table predictor",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +640,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pizza near me open",
+      "keyword": "taylor fritz olivia jade",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +649,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "housing developments near me",
+      "keyword": "taylor fritz net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +658,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "housing developments in jamaica",
+      "keyword": "taylor fritz morgan riddle",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +667,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "swimming competition for kids",
+      "keyword": "noah fifita heisman odds",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +676,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "swimming competition near me",
+      "keyword": "noah fifita nfl draft",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +685,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "swimming competition for adults",
+      "keyword": "noah fifita draft projection",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +694,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "swimming facility near me",
+      "keyword": "noah fifita nil money",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +703,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kickboxing classes near me",
+      "keyword": "alcaraz us open 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,70 +712,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kickboxing gym near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "cruise lines for adults",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "housing authority des moines",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "housing authority oskaloosa iowa",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "housing authority near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "housing authority phone number",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "housing authority application online",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "kids soccer cleats",
+      "keyword": "premier league table",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kids soccer jerseys",
+      "keyword": "taylor fritz girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kids soccer socks",
+      "keyword": "taylor fritz ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kids soccer shoes",
+      "keyword": "taylor fritz prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kids soccer goal",
+      "keyword": "taylor fritz wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson movies",
+      "keyword": "noah fifita stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson husband",
+      "keyword": "noah fifita height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson age",
+      "keyword": "noah fifita age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson boyfriend",
+      "keyword": "noah fifita 247",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson 2026",
+      "keyword": "alcaraz us open",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +802,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson height",
+      "keyword": "alcaraz medvedev h2h",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,205 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "emma watson belle",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pizza near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pizza des moines",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing development meaning",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing development corporation",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing development jobs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing development alliance",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing development fund",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing development agency",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "swimming competition name",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "swimming competition events",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "swimming competition today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "swimming competition types",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "swimming competitions 2026",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kickboxing des moines",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kickboxing near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kickboxing ames iowa",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "cruise lines ranked",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "cruise line jobs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing authority login",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing authority application",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "housing authority jobs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kids soccer",
+      "keyword": "taylor fritz",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "emma watson",
+      "keyword": "noah fifita",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "pizza ames",
+      "keyword": "alcaraz height",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "housing development",
+      "keyword": "alcaraz age",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "swimming competition",
+      "keyword": "alcaraz injury",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,52 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kickboxing ankeny",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kickboxing classes",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kickboxing gloves",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "cruise lines",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "housing authority",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kickboxing",
+      "keyword": "alcaraz",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -876,10 +867,73 @@
   ],
   "clusters": [
     {
-      "pillar": "sl vs pak t20 world cup",
+      "pillar": "man city vs brighton & hove albion f.c. lineups",
       "cluster": [
         {
-          "keyword": "sl vs pak t20 world cup",
+          "keyword": "man city vs brighton & hove albion f.c. lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c. stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c. matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c. standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c. timeline",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton & hove albion f.c. tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "man city vs brighton last match",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -888,7 +942,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "sl vs pak women live",
+          "keyword": "man city vs brighton prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -897,7 +951,229 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "sl vs pak asia cup",
+          "keyword": "man city vs brighton",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        }
+      ]
+    },
+    {
+      "pillar": "wolverhampton wanderers fc vs cardiff city fc matches",
+      "cluster": [
+        {
+          "keyword": "wolverhampton wanderers fc vs cardiff city fc matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "wolverhampton wanderers fc vs cardiff city standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "wolverhampton wanderers fc vs cardiff city fc",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "wolverhampton wanderers fc vs cardiff city lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "wolverhampton wanderers fc vs cardiff city stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        }
+      ]
+    },
+    {
+      "pillar": "rayo vallecano vs celta de vigo h2h",
+      "cluster": [
+        {
+          "keyword": "rayo vallecano vs celta de vigo h2h",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "rayo vallecano rc celta de vigo football spain",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "rayo vallecano rc celta de vigo football",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "rayo vallecano rc celta de vigo forebet",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "rayo vallecano celta de vigo entradas",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rayo vallecano celta de vigo prediction",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rayo vallecano rc celta de vigo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rayo vallecano v celta de vigo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rayo vallecano celta de vigo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "west ham vs west brom standings",
+      "cluster": [
+        {
+          "keyword": "west ham vs west brom standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west bromwich prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom results",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "west ham vs west brom",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -906,67 +1182,13 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "sl vs pak live",
+          "keyword": "west ham vs west bromwich",
           "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs pak women",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs pak t20",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs pak w",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs pak test",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "sl vs pak",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "sl vs pakistan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 75.4
         }
       ]
     },
@@ -981,6 +1203,346 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        }
+      ]
+    },
+    {
+      "pillar": "taylor fritz vs arthur fils",
+      "cluster": [
+        {
+          "keyword": "taylor fritz vs arthur fils",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "taylor fritz vs valentin vacherot",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "taylor fritz olivia jade",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "taylor fritz net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "taylor fritz morgan riddle",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "taylor fritz girlfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taylor fritz ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taylor fritz prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taylor fritz wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taylor fritz",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "augsburg vs freiburg prediction scores24",
+      "cluster": [
+        {
+          "keyword": "augsburg vs freiburg prediction scores24",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "augsburg vs freiburg last match",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "augsburg vs freiburg prediction forebet",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "augsburg vs freiburg prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "augsburg vs freiburg tickets",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "augsburg vs freiburg forebet",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "augsburg vs freiburg h2h",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "augsburg vs freiburg predictz",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "augsburg vs freiburg results",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "augsburg vs freiburg",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
+    {
+      "pillar": "noah fifita vs texas tech",
+      "cluster": [
+        {
+          "keyword": "noah fifita vs texas tech",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "noah fifita heisman odds",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "noah fifita nfl draft",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "noah fifita draft projection",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "noah fifita nil money",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "noah fifita stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "noah fifita height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "noah fifita age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "noah fifita 247",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "noah fifita",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "wolves vs cardiff city prediction",
+      "cluster": [
+        {
+          "keyword": "wolves vs cardiff city prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "wolves vs cardiff city tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "wolves vs cardiff city",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "wolves vs city 2019",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        }
+      ]
+    },
+    {
+      "pillar": "cardiff city vs wolves 2018",
+      "cluster": [
+        {
+          "keyword": "cardiff city vs wolves 2018",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
         }
       ]
     },
@@ -1031,10 +1593,10 @@
       ]
     },
     {
-      "pillar": "emma watson beauty and the beast",
+      "pillar": "premier league table last season 25/26",
       "cluster": [
         {
-          "keyword": "emma watson beauty and the beast",
+          "keyword": "premier league table last season 25/26",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1043,7 +1605,25 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "emma watson net worth",
+          "keyword": "premier league table 1 to 20",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "premier league table 2023 24",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "premier league table today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1052,572 +1632,80 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "emma watson movies",
+          "keyword": "premier league table 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league table 25/26",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league table 2025/26",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league table 2025",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league table predictor",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league table",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson belle",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "emma watson",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "pizza near me within 5 mi",
+      "pillar": "resultado celta de vigo rayo vallecano",
       "cluster": [
         {
-          "keyword": "pizza near me within 5 mi",
+          "keyword": "resultado celta de vigo rayo vallecano",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
-        {
-          "keyword": "pizza near me delivery open now",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pizza near me open now",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pizza near me that delivers",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "pizza near me delivery",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pizza near me now",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pizza near me open",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pizza near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pizza des moines",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pizza ames",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "housing developments near me for sale",
+      "pillar": "alcaraz vs medvedev prediction",
       "cluster": [
         {
-          "keyword": "housing developments near me for sale",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "housing authority des moines iowa",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "housing developments near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing developments in jamaica",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing authority des moines",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing authority oskaloosa iowa",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing authority near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing authority phone number",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing authority application online",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "housing development meaning",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing development corporation",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing development jobs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing development alliance",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing development fund",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing development agency",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing authority login",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing authority application",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing authority jobs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing development",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing authority",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "swimming competition for kids near me",
-      "cluster": [
-        {
-          "keyword": "swimming competition for kids near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "swimming facility access shortage ireland",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "swimming competition for kids",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "swimming competition near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "swimming competition for adults",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "swimming facility near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "swimming competition name",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "swimming competition events",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "swimming competition today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "swimming competition types",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "swimming competitions 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "swimming competition",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "cruise lines that go to alaska",
-      "cluster": [
-        {
-          "keyword": "cruise lines that go to alaska",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "cruise line runs out of money",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "cruise lines oil price impact",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "cruise line stuck in cambodia",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "cruise lines out of florida",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "cruise line that went bankrupt",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "cruise lines for adults",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "cruise lines ranked",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cruise line jobs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "cruise lines",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "kickboxing vs muay thai",
-      "cluster": [
-        {
-          "keyword": "kickboxing vs muay thai",
+          "keyword": "alcaraz vs medvedev prediction",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1626,7 +1714,25 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "kickboxing classes near me",
+          "keyword": "alcaraz vs paul",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "alcaraz vs medvedev",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "alcaraz us open 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1635,16 +1741,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "kickboxing gym near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kickboxing des moines",
+          "keyword": "alcaraz us open",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,7 +1750,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kickboxing near me",
+          "keyword": "alcaraz medvedev h2h",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1662,16 +1759,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kickboxing ames iowa",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kickboxing ankeny",
+          "keyword": "alcaraz height",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1680,7 +1768,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "kickboxing classes",
+          "keyword": "alcaraz age",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1689,7 +1777,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "kickboxing gloves",
+          "keyword": "alcaraz injury",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1698,7 +1786,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "kickboxing",
+          "keyword": "alcaraz",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1709,97 +1797,16 @@
       ]
     },
     {
-      "pillar": "kids soccer cleats near me",
+      "pillar": "philadelphia delivery robot sidewalk protest",
       "cluster": [
         {
-          "keyword": "kids soccer cleats near me",
+          "keyword": "philadelphia delivery robot sidewalk protest",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "kids soccer des moines",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kids soccer near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kids soccer shin guards",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kids soccer cleats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kids soccer jerseys",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kids soccer socks",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kids soccer shoes",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kids soccer goal",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kids soccer",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     }
