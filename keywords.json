@@ -1,6 +1,24 @@
 {
   "keywords": [
     {
+      "keyword": "sl vs pak t20 world cup",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "sl vs pak 2023 world cup",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -10,7 +28,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "valentin vacherot vs holger rune",
+      "keyword": "sl vs pak women live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -19,52 +37,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "valentin vacherot vs rafael jodar",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "valentin vacherot vs rune prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "east freeway truck stop inc",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "adrian mannarino vs daniil medvedev",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "adrian mannarino vs medvedev prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "holger rune vs valentin vacherot",
+      "keyword": "sl vs pak asia cup",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -100,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lisa rinna movies and tv shows",
+      "keyword": "pizza near me within 5 mi",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +82,61 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "valentin vacherot vs rune",
+      "keyword": "pizza near me within 0.2 mi",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "pizza near me within 0.5 mi",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "pizza near me delivery open now",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "swimming competition for kids near me",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "cruise lines out of new orleans",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "cruise lines out of port canaveral",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "sl vs pak women",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -118,7 +145,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "adrian mannarino vs medvedev",
+      "keyword": "sl vs pak w",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -127,7 +154,34 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "holger rune vs vacherot",
+      "keyword": "sl vs pak t20",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "sl vs pak test",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "sl vs pak odi",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "kickboxing vs muay thai",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -145,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "silver price today per ounce",
+      "keyword": "kids soccer leagues near me",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "silver price today in india",
+      "keyword": "kids soccer cleats near me",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lisa rinna and rob rausch",
+      "keyword": "pizza near me open now",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "florida highway patrol accident reports",
+      "keyword": "pizza near me that delivers",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "florida highway patrol phone number",
+      "keyword": "housing development corporation of dekalb",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "florida highway patrol crash reports",
+      "keyword": "swimming facility access shortage ireland",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +253,79 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "qqq vs qqqm",
+      "keyword": "cruise lines oil price impact",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "cruise lines out of galveston",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "cruise lines out of florida",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "cruise line stuck in cambodia",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "cruise line that went bankrupt",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "housing authority of baltimore city",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "housing authority of cook county",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "housing authority of kansas city",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "sl vs pak",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -208,7 +334,16 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "spy museum washington dc",
+      "keyword": "kickboxing vs boxing",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "kids soccer near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "silver price per ounce",
+      "keyword": "kids soccer shin guards",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "silver price per gram",
+      "keyword": "emma watson net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "silver price in india",
+      "keyword": "emma watson harry potter",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "east freeway houston tx",
+      "keyword": "pizza near me delivery",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "east freeway accident today",
+      "keyword": "pizza near me now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "east freeway houston accident",
+      "keyword": "pizza near me open",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "adrian mannarino daniil medvedev",
+      "keyword": "housing developments near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "adrian mannarino net worth",
+      "keyword": "housing development fund corporation",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lisa rinna net worth",
+      "keyword": "swimming competition for kids",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "holger rune prediction today",
+      "keyword": "swimming competition near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "holger rune valentin vacherot",
+      "keyword": "swimming competition for adults",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol salary",
+      "keyword": "swimming facility near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol cars",
+      "keyword": "kickboxing classes near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol uniform",
+      "keyword": "kickboxing gym near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol corvette",
+      "keyword": "housing authority los angeles",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +487,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol logo",
+      "keyword": "housing authority san bernardino",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +496,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "florida highway patrol ranks",
+      "keyword": "housing authority near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,25 +505,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "camera store near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "camera store fredericksburg va",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "valentin vacherot ranking",
+      "keyword": "kids soccer cleats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "valentin vacherot prediction",
+      "keyword": "kids soccer jerseys",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "valentin vacherot girlfriend",
+      "keyword": "kids soccer socks",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "valentin vacherot injury",
+      "keyword": "kids soccer shoes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "valentin vacherot cousin",
+      "keyword": "kids soccer goal",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "qqq stock price",
+      "keyword": "emma watson movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "qqqm stock price",
+      "keyword": "emma watson husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy museum dc",
+      "keyword": "emma watson age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy stock price",
+      "keyword": "emma watson boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy x family",
+      "keyword": "emma watson 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy kids cast",
+      "keyword": "emma watson height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "silver price today",
+      "keyword": "emma watson belle",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "silver price chart",
+      "keyword": "pizza near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "silver price prediction",
+      "keyword": "housing development corporation",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "silver price now",
+      "keyword": "housing development alliance",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "east freeway walmart",
+      "keyword": "housing development fund",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "east freeway accident",
+      "keyword": "housing development consortium",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "east freeway houston",
+      "keyword": "housing development center",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "east freeway dps",
+      "keyword": "housing development meaning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "east freeway crash",
+      "keyword": "swimming competition name",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "adrian mannarino wife",
+      "keyword": "swimming competition events",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "adrian mannarino ranking",
+      "keyword": "swimming competition today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "adrian mannarino age",
+      "keyword": "swimming competition types",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "adrian mannarino tennis",
+      "keyword": "swimming competitions 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna traitors",
+      "keyword": "kickboxing near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna movies",
+      "keyword": "cruise lines ranked",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna husband",
+      "keyword": "cruise line jobs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna m&m",
+      "keyword": "housing authority texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna age",
+      "keyword": "housing authority california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lisa rinna daughters",
+      "keyword": "housing authority login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,70 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "holger rune prediction",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "holger rune ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "holger rune tennis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "holger rune injury",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "holger rune flashscore",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "florida highway patrol",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "camera store fairfax",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "valentin vacherot",
+      "keyword": "kids soccer",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +784,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "qqq stock",
+      "keyword": "emma watson",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +793,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "qqqm stock",
+      "keyword": "housing development",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "qqqi stock",
+      "keyword": "swimming competition",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "qqq price",
+      "keyword": "kickboxing classes",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "spy stock",
+      "keyword": "kickboxing gloves",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "spy museum",
+      "keyword": "kickboxing gym",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "spy kids",
+      "keyword": "kickboxing bag",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "silver price",
+      "keyword": "cruise lines",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "east freeway",
+      "keyword": "housing authority",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,133 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "adrian mannarino",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "lisa rinna",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "holger rune",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "camera test",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "camera app",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "camera parts",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "camera online",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "camera glasses",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "camera lens",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "qqq",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "qqqm",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "qqqi",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "spy",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "spym",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "camera",
+      "keyword": "kickboxing",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -947,6 +875,101 @@
     }
   ],
   "clusters": [
+    {
+      "pillar": "sl vs pak t20 world cup",
+      "cluster": [
+        {
+          "keyword": "sl vs pak t20 world cup",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "sl vs pak 2023 world cup",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "sl vs pak women live",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "sl vs pak asia cup",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "sl vs pak women",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs pak w",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs pak t20",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs pak test",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs pak odi",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "sl vs pak",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -958,386 +981,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        }
-      ]
-    },
-    {
-      "pillar": "valentin vacherot vs holger rune",
-      "cluster": [
-        {
-          "keyword": "valentin vacherot vs holger rune",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "valentin vacherot vs rafael jodar",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "valentin vacherot vs rune prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "valentin vacherot vs rune",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "valentin vacherot ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "valentin vacherot prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "valentin vacherot girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "valentin vacherot injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "valentin vacherot cousin",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "valentin vacherot",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "east freeway truck stop inc",
-      "cluster": [
-        {
-          "keyword": "east freeway truck stop inc",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "east freeway houston tx",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "east freeway accident today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "east freeway houston accident",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "east freeway walmart",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "east freeway accident",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "east freeway houston",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "east freeway dps",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "east freeway crash",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "east freeway",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "adrian mannarino vs daniil medvedev",
-      "cluster": [
-        {
-          "keyword": "adrian mannarino vs daniil medvedev",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "adrian mannarino vs medvedev prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "adrian mannarino vs medvedev",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "adrian mannarino daniil medvedev",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "adrian mannarino net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "adrian mannarino wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "adrian mannarino ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "adrian mannarino age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "adrian mannarino tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "adrian mannarino",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "holger rune vs valentin vacherot",
-      "cluster": [
-        {
-          "keyword": "holger rune vs valentin vacherot",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "holger rune vs vacherot",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "holger rune prediction today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "holger rune valentin vacherot",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "holger rune prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "holger rune ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "holger rune tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "holger rune injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "holger rune flashscore",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "holger rune",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1388,10 +1031,10 @@
       ]
     },
     {
-      "pillar": "lisa rinna movies and tv shows",
+      "pillar": "pizza near me within 5 mi",
       "cluster": [
         {
-          "keyword": "lisa rinna movies and tv shows",
+          "keyword": "pizza near me within 5 mi",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1400,7 +1043,34 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "lisa rinna and rob rausch",
+          "keyword": "pizza near me within 0.2 mi",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "pizza near me within 0.5 mi",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "pizza near me delivery open now",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "pizza near me open now",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1409,7 +1079,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lisa rinna net worth",
+          "keyword": "pizza near me that delivers",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "pizza near me delivery",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1418,7 +1097,93 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lisa rinna traitors",
+          "keyword": "pizza near me now",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pizza near me open",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "pizza near me",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "swimming competition for kids near me",
+      "cluster": [
+        {
+          "keyword": "swimming competition for kids near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "swimming facility access shortage ireland",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "swimming competition for kids",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "swimming competition near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "swimming competition for adults",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "swimming facility near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "swimming competition name",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1427,7 +1192,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lisa rinna movies",
+          "keyword": "swimming competition events",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1436,7 +1201,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lisa rinna husband",
+          "keyword": "swimming competition today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1445,7 +1210,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lisa rinna m&m",
+          "keyword": "swimming competition types",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1454,7 +1219,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lisa rinna age",
+          "keyword": "swimming competitions 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1463,16 +1228,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lisa rinna daughters",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lisa rinna",
+          "keyword": "swimming competition",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1483,10 +1239,28 @@
       ]
     },
     {
-      "pillar": "silver price today per ounce",
+      "pillar": "cruise lines out of new orleans",
       "cluster": [
         {
-          "keyword": "silver price today per ounce",
+          "keyword": "cruise lines out of new orleans",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cruise lines out of port canaveral",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "cruise lines oil price impact",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1495,7 +1269,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "silver price today in india",
+          "keyword": "cruise lines out of galveston",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1504,43 +1278,34 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "silver price per ounce",
+          "keyword": "cruise lines out of florida",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         },
         {
-          "keyword": "silver price per gram",
+          "keyword": "cruise line stuck in cambodia",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         },
         {
-          "keyword": "silver price in india",
+          "keyword": "cruise line that went bankrupt",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 67.0
         },
         {
-          "keyword": "silver price today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "silver price chart",
+          "keyword": "cruise lines ranked",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1549,7 +1314,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "silver price prediction",
+          "keyword": "cruise line jobs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1558,16 +1323,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "silver price now",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "silver price",
+          "keyword": "cruise lines",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1578,105 +1334,19 @@
       ]
     },
     {
-      "pillar": "florida highway patrol accident reports",
+      "pillar": "kickboxing vs muay thai",
       "cluster": [
         {
-          "keyword": "florida highway patrol accident reports",
+          "keyword": "kickboxing vs muay thai",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "florida highway patrol phone number",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "florida highway patrol crash reports",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "florida highway patrol salary",
-          "intent": "informational",
-          "demand": 64.0,
+          "demand": 76.0,
           "competition": 50.0,
-          "ranking_probability": 59.8,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 68.2
         },
         {
-          "keyword": "florida highway patrol cars",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol uniform",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol corvette",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol logo",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol ranks",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "florida highway patrol",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "qqq vs qqqm",
-      "cluster": [
-        {
-          "keyword": "qqq vs qqqm",
+          "keyword": "kickboxing vs boxing",
           "intent": "informational",
           "demand": 70.0,
           "competition": 60.0,
@@ -1685,48 +1355,7 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "qqq stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "qqq stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "qqq price",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "qqq",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "spy museum washington dc",
-      "cluster": [
-        {
-          "keyword": "spy museum washington dc",
+          "keyword": "kickboxing classes near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1735,84 +1364,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "spy museum dc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy x family",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy kids cast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "spy stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy museum",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy kids",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "camera store near me",
-      "cluster": [
-        {
-          "keyword": "camera store near me",
+          "keyword": "kickboxing gym near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1821,7 +1373,84 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "camera store fredericksburg va",
+          "keyword": "kickboxing near me",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kickboxing classes",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "kickboxing gloves",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "kickboxing gym",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "kickboxing bag",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "kickboxing",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "kids soccer leagues near me",
+      "cluster": [
+        {
+          "keyword": "kids soccer leagues near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kids soccer cleats near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kids soccer near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1830,7 +1459,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "camera store fairfax",
+          "keyword": "kids soccer shin guards",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kids soccer cleats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1839,75 +1477,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "camera test",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "camera app",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "camera parts",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "camera online",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "camera glasses",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "camera lens",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "camera",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "qqqm stock price",
-      "cluster": [
-        {
-          "keyword": "qqqm stock price",
+          "keyword": "kids soccer jerseys",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1916,7 +1486,210 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "qqqm stock",
+          "keyword": "kids soccer socks",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kids soccer shoes",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kids soccer goal",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kids soccer",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "housing development corporation of dekalb",
+      "cluster": [
+        {
+          "keyword": "housing development corporation of dekalb",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "housing authority of baltimore city",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "housing authority of cook county",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "housing authority of kansas city",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "housing developments near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "housing development fund corporation",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "housing authority los angeles",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "housing authority san bernardino",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "housing authority near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "housing development corporation",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing development alliance",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing development fund",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing development consortium",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing development center",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing development meaning",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing authority texas",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing authority california",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing authority login",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing development",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1925,50 +1698,108 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "qqqm",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "qqqi stock",
-      "cluster": [
-        {
-          "keyword": "qqqi stock",
+          "keyword": "housing authority",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "qqqi",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "spym",
+      "pillar": "emma watson net worth",
       "cluster": [
         {
-          "keyword": "spym",
+          "keyword": "emma watson net worth",
           "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 38.2
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "emma watson harry potter",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "emma watson movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson 2026",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson belle",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "emma watson",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
