@@ -136,7 +136,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "west ham vs west brom prediction",
+      "keyword": "west ham vs west brom lineups",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -145,7 +145,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "west ham vs west brom lineups",
+      "keyword": "west ham vs west brom prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -370,15 +370,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "premier league table last season 25/26",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "premier league table 1 to 20",
       "intent": "informational",
       "demand": 70.0,
@@ -595,7 +586,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "premier league table 2026",
+      "keyword": "premier league table 25/26",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -604,7 +595,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "premier league table 25/26",
+      "keyword": "premier league table 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +613,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "premier league table 2025",
+      "keyword": "premier league table 2026/27",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -640,7 +631,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "premier league table predictions",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "taylor fritz olivia jade",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "taylor fritz us open",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -658,24 +667,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "taylor fritz morgan riddle",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "noah fifita heisman odds",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "noah fifita nfl draft",
       "intent": "informational",
       "demand": 64.0,
@@ -685,7 +676,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah fifita draft projection",
+      "keyword": "noah fifita nil money",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -694,7 +685,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah fifita nil money",
+      "keyword": "noah fifita high school",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -730,15 +721,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz ranking",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "taylor fritz prediction",
       "intent": "informational",
       "demand": 58.0,
@@ -748,7 +730,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz wife",
+      "keyword": "taylor fritz ranking",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "taylor fritz height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +775,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "noah fifita 247",
+      "keyword": "noah fifita parents",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "noah fifita nil",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -794,15 +794,6 @@
     },
     {
       "keyword": "alcaraz us open",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "alcaraz medvedev h2h",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "alcaraz height",
+      "keyword": "alcaraz paul",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -839,6 +830,15 @@
     },
     {
       "keyword": "alcaraz age",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "alcaraz height",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1110,7 +1110,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "west ham vs west brom prediction",
+          "keyword": "west ham vs west brom lineups",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1119,7 +1119,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "west ham vs west brom lineups",
+          "keyword": "west ham vs west brom prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1237,7 +1237,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "taylor fritz net worth",
+          "keyword": "taylor fritz us open",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1246,7 +1246,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "taylor fritz morgan riddle",
+          "keyword": "taylor fritz net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1264,15 +1264,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "taylor fritz prediction",
           "intent": "informational",
           "demand": 58.0,
@@ -1282,7 +1273,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz wife",
+          "keyword": "taylor fritz ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "taylor fritz height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1409,15 +1409,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "noah fifita heisman odds",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "noah fifita nfl draft",
           "intent": "informational",
           "demand": 64.0,
@@ -1427,7 +1418,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah fifita draft projection",
+          "keyword": "noah fifita nil money",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1436,7 +1427,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah fifita nil money",
+          "keyword": "noah fifita high school",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1472,7 +1463,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "noah fifita 247",
+          "keyword": "noah fifita parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "noah fifita nil",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1593,17 +1593,8 @@
       ]
     },
     {
-      "pillar": "premier league table last season 25/26",
+      "pillar": "premier league table 1 to 20",
       "cluster": [
-        {
-          "keyword": "premier league table last season 25/26",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
         {
           "keyword": "premier league table 1 to 20",
           "intent": "informational",
@@ -1632,7 +1623,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "premier league table 2026",
+          "keyword": "premier league table 25/26",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1641,7 +1632,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "premier league table 25/26",
+          "keyword": "premier league table 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1659,7 +1650,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "premier league table 2025",
+          "keyword": "premier league table 2026/27",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1669,6 +1660,15 @@
         },
         {
           "keyword": "premier league table predictor",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "premier league table predictions",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1750,16 +1750,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alcaraz medvedev h2h",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alcaraz height",
+          "keyword": "alcaraz paul",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1769,6 +1760,15 @@
         },
         {
           "keyword": "alcaraz age",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "alcaraz height",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
