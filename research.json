@@ -1,47 +1,79 @@
 {
-  "generated_at": "2026-10-30T22:59:06.376603+00:00",
+  "generated_at": "2026-10-31T02:14:40.170005+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "knicks vs 76ers",
+      "title": "rockets",
       "source": "google_trends_us"
     },
     {
-      "title": "bulls vs celtics",
+      "title": "joel embiid",
       "source": "google_trends_us"
     },
     {
-      "title": "selma blair",
+      "title": "lebron james age",
       "source": "google_trends_us"
     },
     {
-      "title": "magic vs raptors",
+      "title": "espn nba scores",
       "source": "google_trends_us"
     },
     {
-      "title": "cruise ship",
+      "title": "knicks vs 76ers match player stats",
       "source": "google_trends_us"
     },
     {
-      "title": "marvin shanken",
+      "title": "tacko fall",
       "source": "google_trends_us"
     },
     {
-      "title": "pistons vs nets",
+      "title": "vj edgecombe",
       "source": "google_trends_us"
     },
     {
-      "title": "byron donalds",
+      "title": "scottie barnes",
       "source": "google_trends_us"
     },
     {
-      "title": "mcdonald&apos;s mcrib class action lawsuit",
+      "title": "pascal siakam",
       "source": "google_trends_us"
     },
     {
-      "title": "corinthians x mirassol",
+      "title": "cuando pelea el canelo",
       "source": "google_trends_us"
+    },
+    {
+      "title": "uae vs ind",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "vishen halambage",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "oman vs afghanistan",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "nokia 2360 flip",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "reddit",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "car",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "poland",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "d",
+      "source": "google_trends_pk"
     },
     {
       "title": "prime video",
@@ -49,38 +81,6 @@
     },
     {
       "title": "crypto exchange binance hacked",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "nana patekar",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "le havre ac vs psg standings",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "villarreal vs espanyol",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "girls",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "al-shabab vs al-ahli",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "konyaspor vs galatasaray",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "le havre vs psg",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "dar e nijaat",
       "source": "google_trends_pk"
     },
     {
@@ -164,19 +164,11 @@
       "source": "google_developers"
     },
     {
-      "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation - Reuters",
+      "title": "These Are the Essential AI Skills to Stay Ahead at Work - Inc.com",
       "source": "google_news_ai"
     },
     {
-      "title": "AI Startup Serval Raises $150 Million To Automate Annoying IT And HR Tasks - Forbes",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Opentrons Announces $40M Series E Round to Standardize AI-Driven Science on Its Robots - Business Wire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Remote work automation just crossed a troubling threshold - The Washington Post",
+      "title": "Modernizing Enterprise Storage: How Automation and AI Are Changing Infrastructure Engineering - HackerNoon",
       "source": "google_news_ai"
     },
     {
@@ -189,10 +181,6 @@
     },
     {
       "title": "Opentrons Raises $40M in Series E to Expand Its Robotics, Software, Data Infrastructure - Genetic Engineering and Biotechnology News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Everlaw Introduces Everlaw Omni and Workflows, Bringing Agentic Intelligence and Review Automation to Complex Legal Work - Business Wire",
       "source": "google_news_ai"
     },
     {
@@ -212,11 +200,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "SAP SE (SAP) Combines Decades of Enterprise Data Security with New AI Automation Tools - Yahoo Finance",
+      "title": "Yooz Adds to Its Line-Level Automation Capabilities with Agentic AI Allocation - CPA Practice Advisor",
       "source": "google_news_ai"
     },
     {
-      "title": "Yooz Adds to Its Line-Level Automation Capabilities with Agentic AI Allocation - CPA Practice Advisor",
+      "title": "SAP SE (SAP) Combines Decades of Enterprise Data Security with New AI Automation Tools - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -228,19 +216,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "These Are the Essential AI Skills to Stay Ahead at Work - Inc.com",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Goodfriend Memorial Lecture: Automation, Learning and Career Dynamics - Federal Reserve Bank of Richmond",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Inside food and beverage’s AI-powered future - FoodNavigator.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Work It! Automation For The Fashion Runway - Automation World",
       "source": "google_news_ai"
     },
     {
@@ -248,7 +224,15 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Inside food and beverage’s AI-powered future - FoodNavigator.com",
+      "source": "google_news_ai"
+    },
+    {
       "title": "AI automation hinges on portability, says Cloudera analyst - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Work It! Automation For The Fashion Runway - Automation World",
       "source": "google_news_ai"
     },
     {
@@ -260,23 +244,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI for Business Automation in 2026: A Practical US Guide - Bitcoin Foundation",
+      "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation - Reuters",
       "source": "google_news_ai"
     },
     {
-      "title": "You Have Two Jobs Now. The Second One Is Automating the First - Inc.com",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Mid-market ERP: How Intuit uses AI to avoid failed migrations - SiliconANGLE",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Campfire Taps NetSuite Veteran Alexandra Roveda to Lead Enterprise Expansion - Fortune",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI agents are upending digital business processes - InfoWorld",
+      "title": "U.S. Manufacturing Leaders to Convene in Dallas for Smart Manufacturing &amp; AI Automation Convention 2027 - StreetInsider",
       "source": "google_news_ai"
     },
     {
@@ -284,11 +256,35 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
-      "source": "google_news_seo"
+      "title": "AI for Business Automation in 2026: A Practical US Guide - Bitcoin Foundation",
+      "source": "google_news_ai"
     },
     {
-      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth - Search Engine Journal",
+      "title": "UBS Employees Run 12,700 AI Agents as Bank Automation Accelerates - PYMNTS.com",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Canada investing CAD 50 million in automation, AI to boost domestic processing capacity - SeafoodSource",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Mid-market ERP: How Intuit uses AI to avoid failed migrations - SiliconANGLE",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI agents are upending digital business processes - InfoWorld",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Campfire Taps NetSuite Veteran Alexandra Roveda to Lead Enterprise Expansion - Fortune",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Casap Raises $56M Series B to Expand AI Automation Across Financial Services - citybiz",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Google: AI Mode’s lower monetization slowed Search ad growth - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -308,15 +304,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google: AI Mode’s lower monetization slowed Search ad growth - Search Engine Land",
+      "title": "Semrush confirms ‘poisoned’ Google results are impacting SEO tools - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Adopts New AI Training Control - Search Engine Roundtable",
+      "title": "Google Also Adopts New AI Training Control - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "What Search Console Can Still Tell You When Indexing Data Lags - Search Engine Journal",
+      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -332,19 +328,19 @@
       "source": "google_news_seo"
     },
     {
-      "title": "How to Rank Higher (&amp; Get More Visibility) on Google in 2026 - Backlinko",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google AI Overviews are pushing News Boxes out of search results: Study - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO - Search Engine Journal",
+      "title": "What Search Console Can Still Tell You When Indexing Data Lags - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
       "title": "Google AI Overviews &amp; AI Mode 0.9% Click-Through Rate, Opt Out Study Says - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Switches Off Discover Experiment After AI Summary Source Bug - ALM Corp",
       "source": "google_news_seo"
     },
     {
@@ -356,11 +352,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ - Search Engine Journal",
+      "title": "Google Tests a Save Button Overlay in Desktop Google Images - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads &amp; Organic, Google &amp; Microsoft Earnings - Search Engine Roundtable",
+      "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -372,19 +368,31 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Downplays The Importance Of Fresh Index Reporting - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google's Gary Illyes: AI Made Bot Impersonation Worse - Search Engine Roundtable",
+      "title": "Google Downplays The Importance Of Fresh Index Reporting - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads &amp; Organic, Google &amp; Microsoft Earnings - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "How to Rank Higher (&amp; Get More Visibility) on Google in 2026 - Backlinko",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
       "title": "Google Shows AI Review Summaries in Search Ads (2026 Guide) - ALM Corp",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google's Gary Illyes: AI Made Bot Impersonation Worse - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -393,14 +401,6 @@
     },
     {
       "title": "Google AI Mode sends 57% of product links to Google Shopping: Study - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Explains Why 404 Errors Aren't Scary 👻 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Former Royal Marines Commando Jacob Milner Launches HVAC SEO for AI Search - EIN News",
       "source": "google_news_seo"
     },
     {
@@ -444,15 +444,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in 24 Hours - Techaeris",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "“We will treasure this one” – Other Worlds Than These by Stephen King &amp; Peter Straub - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in 24 Hours - Techaeris",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "AI Translation for WordPress with Gato Plugins Founder Leonardo Losoviz - Slator",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Hackers Actively Exploiting WordPress Remote Code Execution Flaw Just Hours After Patch Release - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
@@ -464,23 +468,19 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability - CyberSecurityNews",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Coherent Agency Highlights Critical PHP2Shell Vulnerability and Urgent WordPress Security Risks - Benzinga",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "“A true gem” – Black House by Stephen King &amp; Peter Straub - Bookmunch",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
+      "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
-      "title": "“An essential read (for all its longueurs)” – The Talisman by Stephen King and Peter Straub - Bookmunch",
+      "title": "WordPress 7.1.4 Fixes 22 Security Flaws, Including an Unauthenticated RCE Vulnerability - CyberSecurityNews",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
       "source": "google_news_wordpress"
     }
   ],
