@@ -19,24 +19,6 @@
       "learned_score": 81.4
     },
     {
-      "keyword": "racing santander vs real madrid score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "racing santander vs real madrid past games",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
       "keyword": "racing santander vs real madrid standings",
       "intent": "informational",
       "demand": 82.0,
@@ -73,6 +55,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "racing santander vs real madrid timeline",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "racing santander vs real madrid lineups",
       "intent": "informational",
       "demand": 82.0,
@@ -82,7 +73,25 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "racing santander vs real madrid live",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when is election day in the united states",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -181,7 +190,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "when is election day in texas",
+      "keyword": "when is election day in illinois",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +199,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "when is election day in florida",
+      "keyword": "when is election day in indiana",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,7 +208,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "when is election day in california",
+      "keyword": "when is election day in november",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -226,16 +235,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "when is election day in pennsylvania",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "when is election day in november",
+      "keyword": "when is election day in chicago",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -245,6 +245,15 @@
     },
     {
       "keyword": "tracy morgan movies and tv shows",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "what is commissary in the military",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -397,6 +406,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "military commissary refrigeration cyberattack probe",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "charlton vs chelsea",
       "intent": "informational",
       "demand": 70.0,
@@ -434,15 +452,6 @@
     },
     {
       "keyword": "luigi suigo nba draft",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "luigi suigo nil deal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -514,7 +523,34 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "tracy morgan longest yard",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "tracy morgan walmart accident",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "michael manning weatherly sr",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "michael mann tv shows",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -532,15 +568,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "michael mann movies ranked",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "luigi suigo stats",
       "intent": "informational",
       "demand": 58.0,
@@ -550,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "luigi suigo age",
+      "keyword": "luigi suigo height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "luigi suigo highlights",
+      "keyword": "luigi suigo reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "luigi suigo weight",
+      "keyword": "luigi suigo age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -587,6 +614,15 @@
     },
     {
       "keyword": "luigi suigo 247",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "luigi suigo highlights",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,15 +658,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "basel open scores",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "basel open draw",
       "intent": "informational",
       "demand": 58.0,
@@ -641,6 +668,15 @@
     },
     {
       "keyword": "basel open results",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "basel open 2025",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,15 +712,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tracy morgan jr",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tracy morgan walmart",
       "intent": "informational",
       "demand": 58.0,
@@ -712,15 +739,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tracy morgan wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "michael mann movies",
       "intent": "informational",
       "demand": 58.0,
@@ -730,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michael mann manhunter",
+      "keyword": "michael mann thief",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "michael mann thief",
+      "keyword": "michael mann's manhunter",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -758,6 +776,15 @@
     },
     {
       "keyword": "michael mann films",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "military commissary locations",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "talarico kalshi",
+      "keyword": "talarico bakery",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -879,24 +906,6 @@
           "learned_score": 81.4
         },
         {
-          "keyword": "racing santander vs real madrid score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "racing santander vs real madrid past games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
           "keyword": "racing santander vs real madrid standings",
           "intent": "informational",
           "demand": 82.0,
@@ -933,7 +942,25 @@
           "learned_score": 78.4
         },
         {
+          "keyword": "racing santander vs real madrid timeline",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
           "keyword": "racing santander vs real madrid lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "racing santander vs real madrid live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -963,6 +990,101 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        }
+      ]
+    },
+    {
+      "pillar": "when is election day in the united states",
+      "cluster": [
+        {
+          "keyword": "when is election day in the united states",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when is election day in november 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is election day in illinois",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is election day in indiana",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is election day in november",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is election day for president",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is election day this year",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is election day in chicago",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is election day 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "when is election day",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -1137,7 +1259,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "talarico kalshi",
+          "keyword": "talarico bakery",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1262,101 +1384,15 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "when is election day in november 2026",
-      "cluster": [
-        {
-          "keyword": "when is election day in november 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
         },
         {
-          "keyword": "when is election day in texas",
+          "keyword": "what is commissary in the military",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day in florida",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day in california",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day for president",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day this year",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day in pennsylvania",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day in november",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "when is election day 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "when is election day",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1423,16 +1459,25 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tracy morgan accident",
+          "keyword": "tracy morgan longest yard",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
-          "keyword": "tracy morgan jr",
+          "keyword": "tracy morgan walmart accident",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tracy morgan accident",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1468,15 +1513,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tracy morgan wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "tracy morgan",
           "intent": "informational",
           "demand": 52.0,
@@ -1488,19 +1524,33 @@
       ]
     },
     {
+      "pillar": "military commissary refrigeration cyberattack probe",
+      "cluster": [
+        {
+          "keyword": "military commissary refrigeration cyberattack probe",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "military commissary locations",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "luigi suigo nba draft",
       "cluster": [
         {
           "keyword": "luigi suigo nba draft",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "luigi suigo nil deal",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1518,7 +1568,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "luigi suigo age",
+          "keyword": "luigi suigo height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1527,7 +1577,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "luigi suigo highlights",
+          "keyword": "luigi suigo reddit",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1545,7 +1595,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "luigi suigo weight",
+          "keyword": "luigi suigo age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1555,6 +1605,15 @@
         },
         {
           "keyword": "luigi suigo 247",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "luigi suigo highlights",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1640,15 +1699,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "basel open scores",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "basel open draw",
           "intent": "informational",
           "demand": 58.0,
@@ -1659,6 +1709,15 @@
         },
         {
           "keyword": "basel open results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "basel open 2025",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1690,7 +1749,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "michael mann miami vice",
+          "keyword": "michael mann tv shows",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1699,7 +1758,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "michael mann movies ranked",
+          "keyword": "michael mann miami vice",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1717,7 +1776,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "michael mann manhunter",
+          "keyword": "michael mann thief",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1726,7 +1785,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "michael mann thief",
+          "keyword": "michael mann's manhunter",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
