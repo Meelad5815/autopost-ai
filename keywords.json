@@ -127,6 +127,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "tonga vs samoa rugby 2026 score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "ravens vs bills last 5 games",
       "intent": "informational",
       "demand": 82.0,
@@ -172,15 +181,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "tonga vs samoa rugby game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "tonga vs samoa rugby score",
       "intent": "informational",
       "demand": 82.0,
@@ -190,7 +190,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "tonga vs samoa rugby live",
+      "keyword": "tonga vs samoa rugby game",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -199,7 +199,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "tonga vs samoa rugby stream",
+      "keyword": "tonga vs samoa rugby live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -254,6 +254,15 @@
     },
     {
       "keyword": "ind vs nz t20 2026",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ind vs nz odi 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -325,34 +334,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "powerball winning numbers 10 31 26",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "pizza near me within 5 mi",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "pizza near me within 0.2 mi",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "pizza near me within 0.5 mi",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -443,15 +425,6 @@
     },
     {
       "keyword": "ind vs nz highlights",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "ind vs nz live",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -604,6 +577,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "powerball winning numbers az",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "powerball winning numbers today",
       "intent": "informational",
       "demand": 64.0,
@@ -649,15 +631,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ihop menu with prices",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "apple iphone duo case",
       "intent": "informational",
       "demand": 64.0,
@@ -685,7 +658,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "apple iphone duo reddit",
+      "keyword": "apple iphone duo restock",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -704,15 +677,6 @@
     },
     {
       "keyword": "leni klum miss piggy",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "leni klum and seal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -766,7 +730,34 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "pizza mesa az",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ihop near me",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ihop mesa az",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ihop casa grande",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,6 +802,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "leni klum boyfriend",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "leni klum seal",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "leni klum halloween",
       "intent": "informational",
       "demand": 58.0,
@@ -820,16 +829,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "leni klum bikini",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "leni klum boyfriend",
+      "keyword": "leni klum parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -856,7 +856,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fundraiser popcorn",
+      "keyword": "fundraiser university",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "pizza phoenix",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,16 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ihop halloween",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "ihop hours",
+      "keyword": "ihop phoenix",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ihop coupons",
+      "keyword": "ihop flagstaff",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ihop deals",
+      "keyword": "ihop halloween",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -987,16 +987,16 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "tonga vs samoa rugby 2026",
+          "keyword": "tonga vs samoa rugby 2026 score",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 78.4
         },
         {
-          "keyword": "tonga vs samoa rugby game",
+          "keyword": "tonga vs samoa rugby 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1014,7 +1014,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "tonga vs samoa rugby live",
+          "keyword": "tonga vs samoa rugby game",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1023,7 +1023,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "tonga vs samoa rugby stream",
+          "keyword": "tonga vs samoa rugby live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1281,6 +1281,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "ind vs nz odi 2026",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "ind vs nz odi",
           "intent": "informational",
           "demand": 76.0,
@@ -1300,15 +1309,6 @@
         },
         {
           "keyword": "ind vs nz highlights",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "ind vs nz live",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1417,7 +1417,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "apple iphone duo reddit",
+          "keyword": "apple iphone duo restock",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1481,15 +1481,6 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "powerball winning numbers 10 31 26",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "powerball winning numbers october 31",
           "intent": "informational",
           "demand": 70.0,
@@ -1518,6 +1509,15 @@
         },
         {
           "keyword": "powerball winning numbers tonight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "powerball winning numbers az",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1590,24 +1590,6 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "pizza near me within 0.2 mi",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pizza near me within 0.5 mi",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "pizza near me delivery open now",
           "intent": "informational",
           "demand": 70.0,
@@ -1669,6 +1651,24 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "pizza mesa az",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "pizza phoenix",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1730,7 +1730,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "fundraiser popcorn",
+          "keyword": "fundraiser university",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1785,16 +1785,25 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ihop menu with prices",
+          "keyword": "ihop near me",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "ihop near me",
+          "keyword": "ihop mesa az",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ihop casa grande",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1812,16 +1821,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ihop halloween",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "ihop hours",
+          "keyword": "ihop phoenix",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1839,7 +1839,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ihop coupons",
+          "keyword": "ihop flagstaff",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1848,7 +1848,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ihop deals",
+          "keyword": "ihop halloween",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1889,15 +1889,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "leni klum and seal",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "leni klum father",
           "intent": "informational",
           "demand": 58.0,
@@ -1925,6 +1916,24 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "leni klum boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "leni klum seal",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "leni klum halloween",
           "intent": "informational",
           "demand": 58.0,
@@ -1934,16 +1943,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "leni klum bikini",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "leni klum boyfriend",
+          "keyword": "leni klum parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
