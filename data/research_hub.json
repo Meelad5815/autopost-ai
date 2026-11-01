@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:25:05.855509+00:00",
+  "generated_at": "2026-11-01T06:10:57.526253+00:00",
   "queries": [
     "wordpress website development tools",
     "web development automation tools",
@@ -194,7 +194,7 @@
       "language": null,
       "license": "NOASSERTION",
       "url": "https://github.com/rxmna8502/vybe-intelligence-vault",
-      "updated_at": "2026-10-31T21:02:46Z",
+      "updated_at": "2026-11-01T04:41:05Z",
       "query": "web development automation tools"
     },
     {
@@ -234,33 +234,33 @@
       "source": "github",
       "name": "darkzOGx/youtube-automation-agent",
       "description": "🎬 Open-source, self-hosted AI agent that runs a YouTube channel end to end: researches topics, writes scripts, generates narration, visuals and video, optimizes SEO, and publishes after your approval, then learns from analytics. Works with Gemini, OpenAI, OpenRouter, DeepSeek and more.",
-      "stars": 4912,
+      "stars": 4920,
       "language": "JavaScript",
       "license": "MIT",
       "url": "https://github.com/darkzOGx/youtube-automation-agent",
-      "updated_at": "2026-10-31T21:43:32Z",
+      "updated_at": "2026-11-01T05:36:50Z",
       "query": "SEO automation open source"
     },
     {
       "source": "github",
       "name": "ericosiu/ai-marketing-skills",
       "description": "Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation",
-      "stars": 3758,
+      "stars": 3761,
       "language": "Python",
       "license": "MIT",
       "url": "https://github.com/ericosiu/ai-marketing-skills",
-      "updated_at": "2026-10-31T21:14:10Z",
+      "updated_at": "2026-11-01T05:04:07Z",
       "query": "SEO automation open source"
     },
     {
       "source": "github",
       "name": "YuriCrystal/n8n-marketing-flows",
       "description": "開源 n8n 行銷自動化模板庫 — 79 支可一鍵匯入的工作流(社群/輿情/新聞/廣告/SEO),含免費本機 Ollama 版 + 待接 key 架構範本。Free & open-source n8n marketing-automation workflow templates.",
-      "stars": 182,
+      "stars": 183,
       "language": null,
       "license": "MIT",
       "url": "https://github.com/YuriCrystal/n8n-marketing-flows",
-      "updated_at": "2026-10-28T03:29:23Z",
+      "updated_at": "2026-11-01T03:16:04Z",
       "query": "SEO automation open source"
     },
     {
@@ -344,11 +344,11 @@
       "source": "github",
       "name": "enescingoz/awesome-n8n-templates",
       "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
-      "stars": 26206,
+      "stars": 26210,
       "language": null,
       "license": "NOASSERTION",
       "url": "https://github.com/enescingoz/awesome-n8n-templates",
-      "updated_at": "2026-10-31T23:04:46Z",
+      "updated_at": "2026-11-01T03:55:48Z",
       "query": "social media automation open source"
     },
     {
@@ -454,55 +454,55 @@
       "source": "github",
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 144389,
+      "stars": 144394,
       "language": null,
       "license": "GPL-3.0",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "updated_at": "2026-10-31T23:09:58Z",
+      "updated_at": "2026-11-01T05:34:33Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "career-ops-hq/career-ops",
       "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.",
-      "stars": 79067,
+      "stars": 79101,
       "language": "JavaScript",
       "license": "MIT",
       "url": "https://github.com/career-ops-hq/career-ops",
-      "updated_at": "2026-10-31T23:19:45Z",
+      "updated_at": "2026-11-01T06:09:57Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "stars": 73950,
+      "stars": 74072,
       "language": "Python",
       "license": "AGPL-3.0",
       "url": "https://github.com/calesthio/OpenMontage",
-      "updated_at": "2026-10-31T23:19:53Z",
+      "updated_at": "2026-11-01T06:04:41Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": 56050,
+      "stars": 56062,
       "language": "Rust",
       "license": "Apache-2.0",
       "url": "https://github.com/aaif-goose/goose",
-      "updated_at": "2026-10-31T22:02:13Z",
+      "updated_at": "2026-11-01T05:36:06Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "LibreChat-AI/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "stars": 46580,
+      "stars": 46588,
       "language": "TypeScript",
       "license": "MIT",
       "url": "https://github.com/LibreChat-AI/LibreChat",
-      "updated_at": "2026-10-31T22:37:20Z",
+      "updated_at": "2026-11-01T05:45:03Z",
       "query": "AI coding agents open source"
     },
     {
@@ -520,33 +520,33 @@
       "source": "github",
       "name": "continuedev/continue",
       "description": "open-source coding agent",
-      "stars": 36385,
+      "stars": 36388,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/continuedev/continue",
-      "updated_at": "2026-10-31T22:01:40Z",
+      "updated_at": "2026-11-01T06:04:23Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "iOfficeAI/AionUi",
       "description": "Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!",
-      "stars": 33958,
+      "stars": 33963,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/iOfficeAI/AionUi",
-      "updated_at": "2026-10-31T23:14:11Z",
+      "updated_at": "2026-11-01T05:20:21Z",
       "query": "AI coding agents open source"
     },
     {
       "source": "github",
       "name": "QwenLM/qwen-code",
       "description": "An open-source AI coding agent that lives in your terminal.",
-      "stars": 28853,
+      "stars": 28854,
       "language": "TypeScript",
       "license": "Apache-2.0",
       "url": "https://github.com/QwenLM/qwen-code",
-      "updated_at": "2026-10-31T22:58:16Z",
+      "updated_at": "2026-11-01T05:04:13Z",
       "query": "AI coding agents open source"
     },
     {
@@ -557,7 +557,7 @@
       "language": "Swift",
       "license": "NOASSERTION",
       "url": "https://github.com/manaflow-ai/cmux",
-      "updated_at": "2026-10-31T22:22:55Z",
+      "updated_at": "2026-11-01T05:53:47Z",
       "query": "AI coding agents open source"
     },
     {
@@ -612,7 +612,7 @@
       "language": "TypeScript",
       "license": "NOASSERTION",
       "url": "https://github.com/cially/cially",
-      "updated_at": "2026-10-26T21:59:53Z",
+      "updated_at": "2026-11-01T01:58:33Z",
       "query": "website analytics open source"
     },
     {
