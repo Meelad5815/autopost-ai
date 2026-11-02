@@ -19,15 +19,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "maria sakkari vs carol young",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "maria sakkari vs c lee",
       "intent": "informational",
       "demand": 82.0,
@@ -91,7 +82,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "katie volynets vs aliaksandra",
+      "keyword": "katie volynets vs sasnovich",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -100,7 +91,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "katie volynets vs sasnovich",
+      "keyword": "katie volynets vs aliaksandra",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -145,16 +136,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "lolos chicken and waffles",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "delaware business entity search",
+      "keyword": "earthquake today just now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -181,7 +163,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "weather orlando october 2026",
+      "keyword": "weather orlando this weekend",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,6 +181,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "maria sakkari us open",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "katie volynets tennis tonic",
       "intent": "informational",
       "demand": 64.0,
@@ -208,34 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katie volynets aliaksandra sasnovich",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "snowfall where to watch",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "presidential elections by year",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "presidential election candidates 2028",
+      "keyword": "snowfall the drop cast",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +226,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "earthquake mesa az",
+      "keyword": "lola iolani momoa",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -271,7 +235,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "earthquake in california",
+      "keyword": "earthquake near me",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -280,7 +244,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "earthquakes today california",
+      "keyword": "earthquake los angeles",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -298,16 +262,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "earthquake phoenix today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "delaware university shooting",
+      "keyword": "delaware state fair",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -325,15 +280,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delaware corporation commission",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "delaware state university",
       "intent": "informational",
       "demand": 58.0,
@@ -343,7 +289,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delaware llc search",
+      "keyword": "delaware university shooting",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "delaware county auditor",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -361,33 +316,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "weather orlando november",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "weather orlando october",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "weather orlando december",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "weather orlando radar",
       "intent": "informational",
       "demand": 58.0,
@@ -397,7 +325,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maria sakkari prediction",
+      "keyword": "weather orlando tomorrow",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather orlando today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather orlando hourly",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets ranking",
+      "keyword": "maria sakkari height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,6 +406,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "katie volynets ranking",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "katie volynets tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "snowfall ray ray",
       "intent": "informational",
       "demand": 58.0,
@@ -470,6 +434,15 @@
     },
     {
       "keyword": "snowfall tv series",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "snowfall spinoff cast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,6 +487,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "presidential election years",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "presidential election 2024",
       "intent": "informational",
       "demand": 58.0,
@@ -541,6 +523,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "presidential election usa",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "lola blankets",
       "intent": "informational",
       "demand": 52.0,
@@ -559,6 +550,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "lollapalooza 2026",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "lol esports",
       "intent": "informational",
       "demand": 52.0,
@@ -568,7 +568,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lola bunny",
+      "keyword": "earthquake today",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -577,7 +577,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lola coffee",
+      "keyword": "earthquake now",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -586,25 +586,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "earthquakes today",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "earthquake phoenix",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "earthquake arizona",
+      "keyword": "earthquake california",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -622,7 +604,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "insidious 6",
+      "keyword": "earthquake map",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -631,7 +613,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "instagram login",
+      "keyword": "insidious 6",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -649,7 +631,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "insurance quotes",
+      "keyword": "instagram login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -659,6 +641,15 @@
     },
     {
       "keyword": "delaware shooting",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "delaware online",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "snowfall cast",
+      "keyword": "snowfall spinoff",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -721,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "snowfall spinoff",
+      "keyword": "snowfall cast",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,15 +739,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "snowfall movie",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "presidential election",
       "intent": "informational",
       "demand": 52.0,
@@ -764,15 +746,6 @@
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "lol",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     },
     {
       "keyword": "lola",
@@ -784,7 +757,25 @@
       "learned_score": 38.2
     },
     {
+      "keyword": "lol",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
       "keyword": "lollapalooza",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "lolita",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -811,7 +802,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "insidious",
+      "keyword": "instacart",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -820,7 +811,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "instacart",
+      "keyword": "insidious",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -839,6 +830,15 @@
     },
     {
       "keyword": "insomnia",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "ins",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -893,15 +893,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "maria sakkari vs carol young",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "maria sakkari vs c lee",
           "intent": "informational",
           "demand": 82.0,
@@ -929,13 +920,13 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "maria sakkari prediction",
+          "keyword": "maria sakkari us open",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
           "keyword": "maria sakkari ranking",
@@ -957,6 +948,15 @@
         },
         {
           "keyword": "maria sakkari husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria sakkari height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -988,7 +988,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "katie volynets vs aliaksandra",
+          "keyword": "katie volynets vs sasnovich",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -997,7 +997,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "katie volynets vs sasnovich",
+          "keyword": "katie volynets vs aliaksandra",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1024,13 +1024,22 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "katie volynets aliaksandra sasnovich",
+          "keyword": "katie volynets prediction",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "katie volynets odds",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
           "keyword": "katie volynets ranking",
@@ -1042,16 +1051,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katie volynets prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katie volynets odds",
+          "keyword": "katie volynets tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1193,7 +1193,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "weather orlando october 2026",
+          "keyword": "weather orlando this weekend",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1211,34 +1211,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "weather orlando november",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "weather orlando october",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "weather orlando december",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "weather orlando radar",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather orlando tomorrow",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather orlando today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather orlando hourly",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1258,24 +1258,10 @@
       ]
     },
     {
-      "pillar": "lolos chicken and waffles",
+      "pillar": "earthquake today just now",
       "cluster": [
         {
-          "keyword": "lolos chicken and waffles",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "delaware business entity search",
-      "cluster": [
-        {
-          "keyword": "delaware business entity search",
+          "keyword": "earthquake today just now",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1284,7 +1270,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "delaware university shooting",
+          "keyword": "earthquake near me",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1293,7 +1279,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delaware state football",
+          "keyword": "earthquake los angeles",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1302,7 +1288,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delaware corporation commission",
+          "keyword": "earthquake in russia",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1311,25 +1297,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delaware state university",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "delaware llc search",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "delaware shooting",
+          "keyword": "earthquake today",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1338,7 +1306,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delaware football",
+          "keyword": "earthquake now",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1347,7 +1315,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delaware university",
+          "keyword": "earthquake california",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1356,7 +1324,25 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "delaware",
+          "keyword": "earthquake venezuela",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "earthquake map",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "earthquake",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1367,10 +1353,10 @@
       ]
     },
     {
-      "pillar": "snowfall where to watch",
+      "pillar": "snowfall the drop cast",
       "cluster": [
         {
-          "keyword": "snowfall where to watch",
+          "keyword": "snowfall the drop cast",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1397,6 +1383,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "snowfall spinoff cast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "snowfall saga cast",
           "intent": "informational",
           "demand": 58.0,
@@ -1406,7 +1401,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "snowfall cast",
+          "keyword": "snowfall spinoff",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1415,7 +1410,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "snowfall spinoff",
+          "keyword": "snowfall cast",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1442,15 +1437,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "snowfall movie",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "snowfall",
           "intent": "informational",
           "demand": 46.0,
@@ -1462,26 +1448,8 @@
       ]
     },
     {
-      "pillar": "presidential elections by year",
+      "pillar": "presidential election day 2026",
       "cluster": [
-        {
-          "keyword": "presidential elections by year",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "presidential election candidates 2028",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
         {
           "keyword": "presidential election day 2026",
           "intent": "informational",
@@ -1519,6 +1487,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "presidential election years",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "presidential election 2024",
           "intent": "informational",
           "demand": 58.0,
@@ -1538,6 +1515,15 @@
         },
         {
           "keyword": "presidential election results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "presidential election usa",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1569,25 +1555,16 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "lola iolani momoa",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "lola blankets",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "lola bunny",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "lola coffee",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1607,10 +1584,10 @@
       ]
     },
     {
-      "pillar": "earthquake mesa az",
+      "pillar": "delaware state fair",
       "cluster": [
         {
-          "keyword": "earthquake mesa az",
+          "keyword": "delaware state fair",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1619,7 +1596,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "earthquake in california",
+          "keyword": "delaware state football",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1628,7 +1605,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "earthquake in russia",
+          "keyword": "delaware state university",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1637,7 +1614,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "earthquake phoenix today",
+          "keyword": "delaware university shooting",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1646,7 +1623,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "earthquake phoenix",
+          "keyword": "delaware county auditor",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "delaware shooting",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1655,7 +1641,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "earthquake arizona",
+          "keyword": "delaware online",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1664,7 +1650,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "earthquake venezuela",
+          "keyword": "delaware football",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1673,36 +1659,22 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "earthquake",
+          "keyword": "delaware university",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "delaware",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "earthquakes today california",
-      "cluster": [
-        {
-          "keyword": "earthquakes today california",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "earthquakes today",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1739,10 +1711,10 @@
       ]
     },
     {
-      "pillar": "instagram login",
+      "pillar": "lollapalooza 2026",
       "cluster": [
         {
-          "keyword": "instagram login",
+          "keyword": "lollapalooza 2026",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1751,7 +1723,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "instagram",
+          "keyword": "lollapalooza",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1785,10 +1757,10 @@
       ]
     },
     {
-      "pillar": "insurance quotes",
+      "pillar": "instagram login",
       "cluster": [
         {
-          "keyword": "insurance quotes",
+          "keyword": "instagram login",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1797,7 +1769,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "insurance",
+          "keyword": "instagram",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1808,10 +1780,10 @@
       ]
     },
     {
-      "pillar": "lollapalooza",
+      "pillar": "lolita",
       "cluster": [
         {
-          "keyword": "lollapalooza",
+          "keyword": "lolita",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1826,6 +1798,34 @@
       "cluster": [
         {
           "keyword": "instacart",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "insurance",
+      "cluster": [
+        {
+          "keyword": "insurance",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "ins",
+      "cluster": [
+        {
+          "keyword": "ins",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
