@@ -10,15 +10,6 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "maria sakkari vs lee prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "maria sakkari vs c lee",
       "intent": "informational",
       "demand": 82.0,
@@ -127,15 +118,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "katie volynets vs",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
       "keyword": "earthquake today just now",
       "intent": "informational",
       "demand": 64.0,
@@ -190,7 +172,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katie volynets tennis tonic",
+      "keyword": "katie volynets wta ranking",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -208,7 +190,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "presidential election day 2026",
+      "keyword": "presidential election candidates 2028",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +253,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delaware state football",
+      "keyword": "delaware state university",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -280,7 +262,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "delaware state university",
+      "keyword": "delaware state football",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,16 +370,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katie volynets prediction",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katie volynets odds",
+      "keyword": "maria sakkari prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +388,34 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "katie volynets prediction",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "katie volynets tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "katie volynets husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "katie volynets age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,6 +505,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "presidential election day",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "presidential election date",
       "intent": "informational",
       "demand": 58.0,
@@ -515,15 +524,6 @@
     },
     {
       "keyword": "presidential election results",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "presidential election usa",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +577,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "earthquake now",
+      "keyword": "earthquake texas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -595,7 +595,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "earthquake venezuela",
+      "keyword": "earthquake now",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -604,7 +604,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "earthquake map",
+      "keyword": "earthquake venezuela",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -622,7 +622,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "insomnia cookies",
+      "keyword": "instagram login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -631,7 +631,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "instagram login",
+      "keyword": "insomnia cookies",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -881,17 +881,8 @@
       ]
     },
     {
-      "pillar": "maria sakkari vs lee prediction",
+      "pillar": "maria sakkari vs c lee",
       "cluster": [
-        {
-          "keyword": "maria sakkari vs lee prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
         {
           "keyword": "maria sakkari vs c lee",
           "intent": "informational",
@@ -965,6 +956,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "maria sakkari prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "maria sakkari",
           "intent": "informational",
           "demand": 52.0,
@@ -1006,40 +1006,13 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "katie volynets vs",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "katie volynets tennis tonic",
+          "keyword": "katie volynets wta ranking",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
-        },
-        {
-          "keyword": "katie volynets prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katie volynets odds",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         },
         {
           "keyword": "katie volynets ranking",
@@ -1051,7 +1024,34 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "katie volynets prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "katie volynets tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "katie volynets husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "katie volynets age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1306,7 +1306,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "earthquake now",
+          "keyword": "earthquake texas",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1324,7 +1324,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "earthquake venezuela",
+          "keyword": "earthquake now",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1333,7 +1333,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "earthquake map",
+          "keyword": "earthquake venezuela",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1448,10 +1448,10 @@
       ]
     },
     {
-      "pillar": "presidential election day 2026",
+      "pillar": "presidential election candidates 2028",
       "cluster": [
         {
-          "keyword": "presidential election day 2026",
+          "keyword": "presidential election candidates 2028",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1505,6 +1505,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "presidential election day",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "presidential election date",
           "intent": "informational",
           "demand": 58.0,
@@ -1515,15 +1524,6 @@
         },
         {
           "keyword": "presidential election results",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "presidential election usa",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1596,7 +1596,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delaware state football",
+          "keyword": "delaware state university",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1605,7 +1605,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "delaware state university",
+          "keyword": "delaware state football",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1734,29 +1734,6 @@
       ]
     },
     {
-      "pillar": "insomnia cookies",
-      "cluster": [
-        {
-          "keyword": "insomnia cookies",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "insomnia",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "instagram login",
       "cluster": [
         {
@@ -1770,6 +1747,29 @@
         },
         {
           "keyword": "instagram",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "insomnia cookies",
+      "cluster": [
+        {
+          "keyword": "insomnia cookies",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "insomnia",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
