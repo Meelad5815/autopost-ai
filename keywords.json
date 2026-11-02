@@ -55,15 +55,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "flight cancellation and delay middle east",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "flight cancellation and delay new york",
       "intent": "informational",
       "demand": 70.0,
@@ -80,15 +71,6 @@
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
-    },
-    {
-      "keyword": "amd stock vs nvidia",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
     },
     {
       "keyword": "benfica vs alverca prediction",
@@ -181,15 +163,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flight cancellation and delay chicago",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "flight cancellation and delay united",
       "intent": "informational",
       "demand": 70.0,
@@ -226,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flight cancellation and delay tomorrow",
+      "keyword": "flight cancellation and delay jfk",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -236,6 +209,24 @@
     },
     {
       "keyword": "flight cancellation and delay philadelphia",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "flight cancellation and delay newark",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "flight cancellation and delay nyc",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,6 +253,24 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "mike bobo going to fsu",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "mike bobo hired at fsu",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "benfica vs alverca",
       "intent": "informational",
       "demand": 70.0,
@@ -272,6 +281,15 @@
     },
     {
       "keyword": "helen chiang american securities",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "helen chiang net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,6 +361,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "tornado watch wichita ks",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "tornado watch near me",
       "intent": "informational",
       "demand": 64.0,
@@ -352,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ben wang karate kid",
+      "keyword": "tornado watch new mexico",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nail salons near me",
+      "keyword": "nail salon near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +406,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nail shop near me",
+      "keyword": "nail shops near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nail places near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,25 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mike bobo coaching career",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "mike bobo offensive scheme",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "helen chiang xbox",
+      "keyword": "helen chiang microsoft",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,6 +451,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "helen chiang xbox",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "helen chiang idc",
       "intent": "informational",
       "demand": 58.0,
@@ -442,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "helen chiang microsoft",
+      "keyword": "helen chiang linkedin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -452,24 +479,6 @@
     },
     {
       "keyword": "helen chiang minecraft",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "helen chiang mojang",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "helen chiang age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -506,6 +515,15 @@
     },
     {
       "keyword": "amd stock today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "amd stock news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,24 +613,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tornado watch chicago",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "tornado watch naperville",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tornado watch oklahoma",
       "intent": "informational",
       "demand": 58.0,
@@ -622,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tornado watch today",
+      "keyword": "tornado watch texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tornado watch live",
+      "keyword": "tornado watch california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +640,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tornado watch map",
+      "keyword": "tornado watch amarillo",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tornado watch okc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -650,6 +659,15 @@
     },
     {
       "keyword": "ben wang age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ben wang iceman",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,25 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ben wang rak",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nail salons chicago",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nail salons naperville",
+      "keyword": "ben wang actor",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +721,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "mike bobo fsu",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "mike bobo son",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mike bobo news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -749,24 +767,6 @@
     },
     {
       "keyword": "mike bobo family",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "mike bobo contract",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "mike bobo seahawks",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -865,15 +865,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tornado watcher",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "ben wang",
       "intent": "informational",
       "demand": 52.0,
@@ -910,7 +901,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "nailed it",
+      "keyword": "nail shapes",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "nail ideas",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1103,17 +1103,8 @@
       ]
     },
     {
-      "pillar": "flight cancellation and delay middle east",
+      "pillar": "flight cancellation and delay new york",
       "cluster": [
-        {
-          "keyword": "flight cancellation and delay middle east",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
         {
           "keyword": "flight cancellation and delay new york",
           "intent": "informational",
@@ -1122,15 +1113,6 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
-        {
-          "keyword": "flight cancellation and delay chicago",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
         },
         {
           "keyword": "flight cancellation and delay united",
@@ -1169,7 +1151,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "flight cancellation and delay tomorrow",
+          "keyword": "flight cancellation and delay jfk",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1179,6 +1161,24 @@
         },
         {
           "keyword": "flight cancellation and delay philadelphia",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flight cancellation and delay newark",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "flight cancellation and delay nyc",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1219,15 +1219,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ben wang karate kid",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "ben wang hunger games",
           "intent": "informational",
           "demand": 64.0,
@@ -1238,6 +1229,15 @@
         },
         {
           "keyword": "ben wang age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ben wang iceman",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1273,7 +1273,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ben wang rak",
+          "keyword": "ben wang actor",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1283,101 +1283,6 @@
         },
         {
           "keyword": "ben wang",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "amd stock vs nvidia",
-      "cluster": [
-        {
-          "keyword": "amd stock vs nvidia",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "amd stock price today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amd stock earnings date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amd stock news today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "amd stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amd stock reddit",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amd stock forecast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amd stock today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amd stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "amd stocktwits",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1400,6 +1305,15 @@
           "learned_score": 68.2
         },
         {
+          "keyword": "tornado watch wichita ks",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "tornado watch near me",
           "intent": "informational",
           "demand": 64.0,
@@ -1409,22 +1323,13 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tornado watch chicago",
+          "keyword": "tornado watch new mexico",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tornado watch naperville",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
           "keyword": "tornado watch oklahoma",
@@ -1436,7 +1341,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tornado watch today",
+          "keyword": "tornado watch texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1445,7 +1350,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tornado watch live",
+          "keyword": "tornado watch california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1454,7 +1359,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tornado watch map",
+          "keyword": "tornado watch amarillo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tornado watch okc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1464,15 +1378,6 @@
         },
         {
           "keyword": "tornado watch",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tornado watcher",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1504,7 +1409,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "helen chiang xbox",
+          "keyword": "helen chiang net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "helen chiang microsoft",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1522,6 +1436,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "helen chiang xbox",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "helen chiang idc",
           "intent": "informational",
           "demand": 58.0,
@@ -1531,7 +1454,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "helen chiang microsoft",
+          "keyword": "helen chiang linkedin",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1541,24 +1464,6 @@
         },
         {
           "keyword": "helen chiang minecraft",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "helen chiang mojang",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "helen chiang age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1673,6 +1578,196 @@
       ]
     },
     {
+      "pillar": "mike bobo going to fsu",
+      "cluster": [
+        {
+          "keyword": "mike bobo going to fsu",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mike bobo hired at fsu",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mike bobo florida state",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mike bobo fsu",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mike bobo son",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mike bobo news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mike bobo kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mike bobo salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mike bobo family",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mike bobo",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "amd stock price today",
+      "cluster": [
+        {
+          "keyword": "amd stock price today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amd stock earnings date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amd stock news today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "amd stock price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amd stock reddit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amd stock forecast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amd stock today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amd stock news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amd stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "amd stocktwits",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "gta vi release date",
       "cluster": [
         {
@@ -1768,10 +1863,10 @@
       ]
     },
     {
-      "pillar": "nail salons near me",
+      "pillar": "nail salon near me",
       "cluster": [
         {
-          "keyword": "nail salons near me",
+          "keyword": "nail salon near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1780,7 +1875,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nail shop near me",
+          "keyword": "nail shops near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1789,22 +1884,13 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nail salons chicago",
+          "keyword": "nail places near me",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nail salons naperville",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
           "keyword": "nail salon",
@@ -1832,95 +1918,18 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "mike bobo florida state",
-      "cluster": [
-        {
-          "keyword": "mike bobo florida state",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         },
         {
-          "keyword": "mike bobo coaching career",
+          "keyword": "nail shapes",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 45.4
         },
         {
-          "keyword": "mike bobo offensive scheme",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "mike bobo son",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mike bobo kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mike bobo salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mike bobo family",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mike bobo contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mike bobo seahawks",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mike bobo",
+          "keyword": "nail ideas",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1950,20 +1959,6 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "nailed it",
-      "cluster": [
-        {
-          "keyword": "nailed it",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     }
