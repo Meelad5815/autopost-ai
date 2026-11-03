@@ -10,7 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "did anyone win the powerball last night in arizona",
+      "keyword": "did anyone win the powerball for november 2nd",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -55,7 +55,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "did anyone win the powerball in arizona",
+      "keyword": "did anyone win the powerball on wednesday",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -64,7 +64,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "did anyone win the powerball on wednesday",
+      "keyword": "did anyone win the powerball monday night",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -83,6 +83,15 @@
     },
     {
       "keyword": "pirates of the caribbean 6 release date",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "pirates of the caribbean 6 movie name",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -145,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "did anyone win the powerball today",
+      "keyword": "did anyone win the powerball monday",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -217,7 +226,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "pirates of the caribbean 6 name",
+      "keyword": "rachel apa marathon cause of death",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -244,6 +253,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "austin weather 30 day forecast",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "pirates of the caribbean 6",
       "intent": "informational",
       "demand": 70.0,
@@ -262,15 +280,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "austin weather in october",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "austin weather by month",
       "intent": "informational",
       "demand": 64.0,
@@ -280,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "austin weather in november",
+      "keyword": "austin weather 15 day",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "austin weather 15 day",
+      "keyword": "austin weather in november",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,15 +361,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rachel apa marathon nyc",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "rachel apa marathon reddit",
       "intent": "informational",
       "demand": 64.0,
@@ -370,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rachel apa marathon runner",
+      "keyword": "rachel apa marathon nyc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,13 +379,22 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "austin weather forecast",
+      "keyword": "rachel apa marathon pace",
       "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
       "learning_boost": 0.0,
-      "learned_score": 52.6
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rachel apa marathon time",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
     },
     {
       "keyword": "austin weather radar",
@@ -397,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "austin weather today",
+      "keyword": "austin weather forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +424,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "austin weather december",
+      "keyword": "austin weather today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "austin weather october",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kimi ni todoke",
+      "keyword": "kimi antonelli height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kimi antonelli height",
+      "keyword": "kimi ni todoke",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "houston astros game",
+      "keyword": "houston astros standings",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "houston astros standings",
+      "keyword": "houston astros games",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,6 +541,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "houston astros tickets",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "houston astros stadium",
       "intent": "informational",
       "demand": 58.0,
@@ -532,25 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "houston astros roster",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "amazon prime video",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "american furniture warehouse",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +604,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kimiko glenn",
+      "keyword": "kimi ai",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -604,7 +613,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kimi ai",
+      "keyword": "kimi raikkonen",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -640,7 +649,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amazon jobs",
+      "keyword": "american express",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -658,7 +667,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "american express",
+      "keyword": "amd stock",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,7 +676,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "amc theatres",
+      "keyword": "amazon jobs",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -701,6 +710,15 @@
       "ranking_probability": 38.2,
       "learning_boost": 0.0,
       "learned_score": 38.2
+    },
+    {
+      "keyword": "amtrak",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
     }
   ],
   "clusters": [
@@ -719,10 +737,10 @@
       ]
     },
     {
-      "pillar": "did anyone win the powerball last night in arizona",
+      "pillar": "did anyone win the powerball for november 2nd",
       "cluster": [
         {
-          "keyword": "did anyone win the powerball last night in arizona",
+          "keyword": "did anyone win the powerball for november 2nd",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -749,7 +767,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "did anyone win the powerball in arizona",
+          "keyword": "did anyone win the powerball on wednesday",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -758,7 +776,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "did anyone win the powerball on wednesday",
+          "keyword": "did anyone win the powerball monday night",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -794,7 +812,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "did anyone win the powerball today",
+          "keyword": "did anyone win the powerball monday",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -827,6 +845,15 @@
         },
         {
           "keyword": "pirates of the caribbean 6 release date",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "pirates of the caribbean 6 movie name",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -881,15 +908,6 @@
         },
         {
           "keyword": "pirates of the caribbean 6th movie",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "pirates of the caribbean 6 name",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -992,6 +1010,169 @@
       ]
     },
     {
+      "pillar": "rachel apa marathon cause of death",
+      "cluster": [
+        {
+          "keyword": "rachel apa marathon cause of death",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rachel apa marathon death",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rachel apa marathon reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rachel apa marathon nyc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rachel apa marathon pace",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rachel apa marathon time",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rachel apa marathon",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "austin weather 30 day forecast",
+      "cluster": [
+        {
+          "keyword": "austin weather 30 day forecast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "austin weather by month",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather 15 day",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather in november",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "austin weather radar",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather forecast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather hourly",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather october",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "austin weather",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "stargate sg 1 important episodes",
       "cluster": [
         {
@@ -1033,101 +1214,6 @@
       ]
     },
     {
-      "pillar": "austin weather in october",
-      "cluster": [
-        {
-          "keyword": "austin weather in october",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "austin weather by month",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "austin weather in november",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "austin weather 15 day",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "austin weather forecast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "austin weather radar",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "austin weather today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "austin weather hourly",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "austin weather december",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "austin weather",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "kimi antonelli net worth",
       "cluster": [
         {
@@ -1158,7 +1244,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kimi ni todoke",
+          "keyword": "kimi antonelli height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1167,7 +1253,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kimi antonelli height",
+          "keyword": "kimi ni todoke",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1195,6 +1281,15 @@
         },
         {
           "keyword": "kimi ai",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "kimi raikkonen",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1253,7 +1348,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "houston astros game",
+          "keyword": "houston astros standings",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1262,7 +1357,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "houston astros standings",
+          "keyword": "houston astros games",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1280,7 +1375,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "houston astros stadium",
+          "keyword": "houston astros tickets",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1289,7 +1384,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "houston astros roster",
+          "keyword": "houston astros stadium",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1305,56 +1400,6 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "rachel apa marathon death",
-      "cluster": [
-        {
-          "keyword": "rachel apa marathon death",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rachel apa marathon nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rachel apa marathon reddit",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rachel apa marathon runner",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rachel apa marathon",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1414,28 +1459,10 @@
       ]
     },
     {
-      "pillar": "american furniture warehouse",
+      "pillar": "american airlines",
       "cluster": [
         {
-          "keyword": "american furniture warehouse",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "american airlines",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "american eagle",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1451,37 +1478,51 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "kimiko glenn",
-      "cluster": [
-        {
-          "keyword": "kimiko glenn",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "amc theatres",
-      "cluster": [
-        {
-          "keyword": "amc theatres",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         },
         {
+          "keyword": "american eagle",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "amd stock",
+      "cluster": [
+        {
+          "keyword": "amd stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "amc",
+      "cluster": [
+        {
           "keyword": "amc",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "amtrak",
+      "cluster": [
+        {
+          "keyword": "amtrak",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
