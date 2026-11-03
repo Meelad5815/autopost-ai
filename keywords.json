@@ -10,6 +10,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "shakhtar donetsk vs sporting cp lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "shakhtar donetsk vs sporting cp standings",
       "intent": "informational",
       "demand": 82.0,
@@ -20,15 +29,6 @@
     },
     {
       "keyword": "shakhtar donetsk vs sporting cp matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "shakhtar donetsk vs sporting cp lineups",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -65,24 +65,6 @@
     },
     {
       "keyword": "galatasaray vs vfb stuttgart last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "galatasaray vs vfb stuttgart last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "galatasaray vs vfb stuttgart past games",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -172,6 +154,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "galatasaray vs vfb stuttgart lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "galatasaray vs vfb stuttgart standings",
       "intent": "informational",
       "demand": 82.0,
@@ -190,7 +181,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "galatasaray vs vfb stuttgart lineups",
+      "keyword": "galatasaray vs vfb stuttgart timeline",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -200,6 +191,15 @@
     },
     {
       "keyword": "galatasaray vs vfb stuttgart prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "galatasaray vs vfb stuttgart live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -272,6 +272,15 @@
     },
     {
       "keyword": "shakhtar donetsk vs sporting",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "benjamin bonzi vs taylor",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -406,15 +415,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "benjamin bonzi us open",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "duce robinson nfl draft",
       "intent": "informational",
       "demand": 64.0,
@@ -424,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "duce robinson 40 time",
+      "keyword": "duce robinson florida state",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "duce robinson draft projection",
+      "keyword": "duce robinson 40 time",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -479,6 +479,15 @@
     },
     {
       "keyword": "guam election commission",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "guam election polls",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,15 +658,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "duce robinson stats",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "duce robinson fsu",
       "intent": "informational",
       "demand": 58.0,
@@ -667,25 +667,34 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "duce robinson stats",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "duce robinson nil",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "duce robinson out",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "duce robinson 247",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "duce robinson height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "duce robinson jersey",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -897,6 +906,15 @@
           "learned_score": 78.4
         },
         {
+          "keyword": "shakhtar donetsk vs sporting cp lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
           "keyword": "shakhtar donetsk vs sporting cp standings",
           "intent": "informational",
           "demand": 82.0,
@@ -907,15 +925,6 @@
         },
         {
           "keyword": "shakhtar donetsk vs sporting cp matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "shakhtar donetsk vs sporting cp lineups",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -992,24 +1001,6 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "galatasaray vs vfb stuttgart last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "galatasaray vs vfb stuttgart past games",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
           "keyword": "galatasaray vs vfb stuttgart stats prediction",
           "intent": "informational",
           "demand": 82.0,
@@ -1020,6 +1011,15 @@
         },
         {
           "keyword": "galatasaray vs vfb stuttgart stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "galatasaray vs vfb stuttgart lineups",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1046,7 +1046,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "galatasaray vs vfb stuttgart lineups",
+          "keyword": "galatasaray vs vfb stuttgart timeline",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1056,6 +1056,15 @@
         },
         {
           "keyword": "galatasaray vs vfb stuttgart prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "galatasaray vs vfb stuttgart live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1318,6 +1327,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "benjamin bonzi vs taylor",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
           "keyword": "benjamin bonzi match today",
           "intent": "informational",
           "demand": 64.0,
@@ -1328,15 +1346,6 @@
         },
         {
           "keyword": "benjamin bonzi prediction today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "benjamin bonzi us open",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1524,6 +1533,15 @@
         },
         {
           "keyword": "guam election commission",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "guam election polls",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1736,7 +1754,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "duce robinson 40 time",
+          "keyword": "duce robinson florida state",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1745,7 +1763,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "duce robinson draft projection",
+          "keyword": "duce robinson 40 time",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1763,15 +1781,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "duce robinson stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "duce robinson fsu",
           "intent": "informational",
           "demand": 58.0,
@@ -1781,25 +1790,34 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "duce robinson stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "duce robinson nil",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "duce robinson out",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "duce robinson 247",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "duce robinson height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "duce robinson jersey",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
