@@ -55,6 +55,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "in and out burger des moines",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "in and out burger near me",
       "intent": "informational",
       "demand": 70.0,
@@ -64,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "in and out burger las vegas",
+      "keyword": "in and out burger sauce recipe",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "in and out burger secret menu",
+      "keyword": "in and out burger animal style",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,25 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "in and out burger texas",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "in and out burger california",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "in and out burger menu",
+      "keyword": "in and out burger iowa",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,7 +127,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "in and out burger florida",
+      "keyword": "in and out burger menu",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "in and out burger bowls",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,15 +172,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ralph norman voting record",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "ralph norman darline graham",
       "intent": "informational",
       "demand": 64.0,
@@ -200,15 +191,6 @@
     },
     {
       "keyword": "amanda hollowell savannah ga",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "henry cuellar net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,6 +235,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "nasdaq futures live marketwatch",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "nd election results 2026",
       "intent": "informational",
       "demand": 64.0,
@@ -271,7 +262,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nd election results 2024",
+      "keyword": "nd election results 2025",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "north dakota election results",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,16 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ralph norman age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ralph norman wife",
+      "keyword": "ralph norman sc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -316,7 +307,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ralph norman family",
+      "keyword": "ralph norman wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ralph norman age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ralph norman polls",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -343,15 +352,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mark teixeira election",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "mark teixeira polls",
       "intent": "informational",
       "demand": 58.0,
@@ -361,25 +361,16 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "mark teixeira election",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "mark teixeira politics",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "mark teixeira mlb",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "mark teixeira campaign",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,6 +397,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "mark teixeira reddit",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mark teixeira college",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "jessica killin colorado",
       "intent": "informational",
       "demand": 58.0,
@@ -424,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jessica killin policies",
+      "keyword": "jessica killin race",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -443,24 +452,6 @@
     },
     {
       "keyword": "jessica killin age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jessica killin congress",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jessica killin husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,6 +487,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "henry cuellar texas",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "henry cuellar district",
       "intent": "informational",
       "demand": 58.0,
@@ -506,6 +506,15 @@
     },
     {
       "keyword": "henry cuellar trump",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "henry cuellar reelection",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "auqib nabi bowling",
+      "keyword": "auqib nabi ipl",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "auqib nabi ipl",
+      "keyword": "auqib nabi bowling",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,15 +568,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "auqib nabi age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "auqib nabi pace",
       "intent": "informational",
       "demand": 58.0,
@@ -577,7 +577,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "auqib nabi surrey",
+      "keyword": "auqib nabi age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "auqib nabi cricinfo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,25 +631,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nasdaq futures cnbc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nasdaq futures news",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "nasdaq futures market",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nasdaq futures cnbc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,6 +676,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "stock futures live",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "stock futures cnbc",
       "intent": "informational",
       "demand": 58.0,
@@ -686,15 +695,6 @@
     },
     {
       "keyword": "stock futures tomorrow",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stock futures live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -848,15 +848,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ralph norman voting record",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "ralph norman darline graham",
           "intent": "informational",
           "demand": 64.0,
@@ -866,16 +857,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ralph norman age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ralph norman wife",
+          "keyword": "ralph norman sc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -893,7 +875,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ralph norman family",
+          "keyword": "ralph norman wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ralph norman age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ralph norman polls",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -952,7 +952,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jessica killin policies",
+          "keyword": "jessica killin race",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -971,24 +971,6 @@
         },
         {
           "keyword": "jessica killin age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jessica killin congress",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jessica killin husband",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1054,8 +1036,17 @@
       ]
     },
     {
-      "pillar": "in and out burger near me",
+      "pillar": "in and out burger des moines",
       "cluster": [
+        {
+          "keyword": "in and out burger des moines",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
         {
           "keyword": "in and out burger near me",
           "intent": "informational",
@@ -1066,7 +1057,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "in and out burger las vegas",
+          "keyword": "in and out burger sauce recipe",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1075,7 +1066,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "in and out burger secret menu",
+          "keyword": "in and out burger animal style",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1084,25 +1075,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "in and out burger texas",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "in and out burger california",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "in and out burger menu",
+          "keyword": "in and out burger iowa",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1129,7 +1102,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "in and out burger florida",
+          "keyword": "in and out burger menu",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "in and out burger bowls",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1179,7 +1161,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nd election results 2024",
+          "keyword": "nd election results 2025",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1222,74 +1204,6 @@
       ]
     },
     {
-      "pillar": "henry cuellar net worth",
-      "cluster": [
-        {
-          "keyword": "henry cuellar net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "henry cuellar pardon",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "henry cuellar polls",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "henry cuellar election",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "henry cuellar district",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "henry cuellar trump",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "henry cuellar",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "auqib nabi bowling speed",
       "cluster": [
         {
@@ -1320,7 +1234,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "auqib nabi bowling",
+          "keyword": "auqib nabi ipl",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1329,7 +1243,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "auqib nabi ipl",
+          "keyword": "auqib nabi bowling",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1347,15 +1261,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "auqib nabi age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "auqib nabi pace",
           "intent": "informational",
           "demand": 58.0,
@@ -1365,7 +1270,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "auqib nabi surrey",
+          "keyword": "auqib nabi age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "auqib nabi cricinfo",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1398,6 +1312,15 @@
         },
         {
           "keyword": "nasdaq futures today live",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nasdaq futures live marketwatch",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1442,25 +1365,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nasdaq futures cnbc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nasdaq futures news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "nasdaq futures market",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nasdaq futures cnbc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1476,6 +1390,20 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "north dakota election results",
+      "cluster": [
+        {
+          "keyword": "north dakota election results",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -1510,6 +1438,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "stock futures live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "stock futures cnbc",
           "intent": "informational",
           "demand": 58.0,
@@ -1520,15 +1457,6 @@
         },
         {
           "keyword": "stock futures tomorrow",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stock futures live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1596,15 +1524,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mark teixeira election",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "mark teixeira polls",
           "intent": "informational",
           "demand": 58.0,
@@ -1614,25 +1533,16 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "mark teixeira election",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "mark teixeira politics",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mark teixeira mlb",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mark teixeira campaign",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1659,7 +1569,102 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "mark teixeira reddit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mark teixeira college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "mark teixeira",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "henry cuellar pardon",
+      "cluster": [
+        {
+          "keyword": "henry cuellar pardon",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar polls",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar election",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar texas",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar district",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar trump",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar reelection",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "henry cuellar",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
