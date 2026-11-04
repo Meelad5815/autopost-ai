@@ -28,15 +28,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "jessica killin vs joe reagan",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -154,6 +145,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "nd election results 2026 measures",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "ralph norman south carolina",
       "intent": "informational",
       "demand": 64.0,
@@ -181,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ralph norman previous offices",
+      "keyword": "ralph norman darline graham",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nasdaq futures today live",
+      "keyword": "nasdaq futures now live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nasdaq futures live marketwatch",
+      "keyword": "nasdaq futures today live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,25 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nd election results 2025",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "north dakota election results",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "stock futures for monday",
+      "keyword": "stock futures right now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +370,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mark teixeira campaign",
+      "keyword": "mark teixeira mlb",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mark teixeira texas",
+      "keyword": "mark teixeira campaign",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mark teixeira reddit",
+      "keyword": "mark teixeira texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -434,6 +416,15 @@
     },
     {
       "keyword": "jessica killin polls",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jessica killin policies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,15 +496,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "henry cuellar texas",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "henry cuellar district",
       "intent": "informational",
       "demand": 58.0,
@@ -577,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "auqib nabi pace",
+      "keyword": "auqib nabi age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "auqib nabi age",
+      "keyword": "auqib nabi pace",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,6 +622,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "nasdaq futures cnbc",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "nasdaq futures news",
       "intent": "informational",
       "demand": 58.0,
@@ -650,15 +641,6 @@
     },
     {
       "keyword": "nasdaq futures market",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nasdaq futures down",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,16 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stock futures news",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stock futures tonight",
+      "keyword": "stock futures cnn",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -740,6 +713,15 @@
     },
     {
       "keyword": "stock futures marketwatch",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "stock futures news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -875,7 +857,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ralph norman previous offices",
+          "keyword": "ralph norman darline graham",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -943,15 +925,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "jessica killin vs joe reagan",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "jessica killin colorado springs",
           "intent": "informational",
           "demand": 64.0,
@@ -971,6 +944,15 @@
         },
         {
           "keyword": "jessica killin polls",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jessica killin policies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1167,6 +1149,56 @@
       ]
     },
     {
+      "pillar": "nd election results 2026 measures",
+      "cluster": [
+        {
+          "keyword": "nd election results 2026 measures",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nd election results 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nd election results measures",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nd election results 2024",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nd election results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "amanda hollowell savannah ga",
       "cluster": [
         {
@@ -1221,15 +1253,6 @@
         },
         {
           "keyword": "henry cuellar election",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "henry cuellar texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1324,7 +1347,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "auqib nabi pace",
+          "keyword": "auqib nabi age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1333,7 +1356,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "auqib nabi age",
+          "keyword": "auqib nabi pace",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1362,10 +1385,10 @@
       ]
     },
     {
-      "pillar": "nasdaq futures today live",
+      "pillar": "nasdaq futures now live",
       "cluster": [
         {
-          "keyword": "nasdaq futures today live",
+          "keyword": "nasdaq futures now live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1374,7 +1397,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nasdaq futures live marketwatch",
+          "keyword": "nasdaq futures today live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1419,6 +1442,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "nasdaq futures cnbc",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "nasdaq futures news",
           "intent": "informational",
           "demand": 58.0,
@@ -1429,15 +1461,6 @@
         },
         {
           "keyword": "nasdaq futures market",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nasdaq futures down",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1457,74 +1480,10 @@
       ]
     },
     {
-      "pillar": "nd election results 2026",
+      "pillar": "stock futures right now",
       "cluster": [
         {
-          "keyword": "nd election results 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nd election results measures",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nd election results 2024",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nd election results 2025",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nd election results",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "north dakota election results",
-      "cluster": [
-        {
-          "keyword": "north dakota election results",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "stock futures for monday",
-      "cluster": [
-        {
-          "keyword": "stock futures for monday",
+          "keyword": "stock futures right now",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1578,16 +1537,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stock futures news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stock futures tonight",
+          "keyword": "stock futures cnn",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1597,6 +1547,15 @@
         },
         {
           "keyword": "stock futures marketwatch",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stock futures news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1664,7 +1623,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mark teixeira campaign",
+          "keyword": "mark teixeira mlb",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1673,7 +1632,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mark teixeira texas",
+          "keyword": "mark teixeira campaign",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1691,7 +1650,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mark teixeira reddit",
+          "keyword": "mark teixeira texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
