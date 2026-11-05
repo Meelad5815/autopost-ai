@@ -55,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "mccaysville ga to blue ridge ga",
+      "keyword": "guy fawkes day v for vendetta",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -64,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "guy fawkes day v for vendetta",
+      "keyword": "guy fawkes day celebration near me",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "crude oil prices chart today",
+      "keyword": "crude oil prices today oilprice.com",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,6 +136,24 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "crude oil prices chart today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "nc lottery pick 3 evening",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "coinbase customer service phone number",
       "intent": "informational",
       "demand": 70.0,
@@ -145,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "mccaysville ga things to do",
+      "keyword": "mccaysville ga webcam live camera",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,16 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "mccaysville ga & copperhill tn",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "mccaysville ga homes for sale",
+      "keyword": "mccaysville ga state of emergency",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -182,6 +191,15 @@
     },
     {
       "keyword": "dianna russini mike vrabel photos",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "guy fawkes day torn city",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,24 +271,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "crude oil prices yesterday",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "nc lottery pick 3",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "nc lottery pick 4",
       "intent": "informational",
       "demand": 64.0,
@@ -281,6 +281,15 @@
     },
     {
       "keyword": "nc lottery scratch offs",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nc lottery cash 5",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mccaysville ga zip code",
+      "keyword": "mccaysville ga flooding today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,15 +415,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "guy fawkes day nz",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "guy fawkes day celebration",
       "intent": "informational",
       "demand": 64.0,
@@ -424,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "guy fawkes day uk",
+      "keyword": "guy fawkes day nz",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,25 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "guy fawkes day fireworks",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "power outage los angeles",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "power outage san diego",
+      "keyword": "power outage near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -497,15 +479,6 @@
     },
     {
       "keyword": "nc lottery results",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nc lottery powerball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,6 +550,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "alan jones williams",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "alan jones singer",
       "intent": "informational",
       "demand": 58.0,
@@ -587,15 +569,6 @@
     },
     {
       "keyword": "alan jones actor",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "alan jones md",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +604,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mccaysville ga restaurants",
+      "keyword": "mccaysville ga flooding",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mccaysville ga map",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mccaysville ga flooding",
+      "keyword": "mccaysville ga news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +640,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mccaysville ga map",
+      "keyword": "mccaysville ga restaurants",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mccaysville ga evacuation",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -944,6 +935,15 @@
       "ranking_probability": 38.2,
       "learning_boost": 0.0,
       "learned_score": 38.2
+    },
+    {
+      "keyword": "powerbi",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
     }
   ],
   "clusters": [
@@ -1115,7 +1115,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "crude oil prices chart today",
+          "keyword": "crude oil prices today oilprice.com",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1125,6 +1125,15 @@
         },
         {
           "keyword": "crude oil prices per barrel",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "crude oil prices chart today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1178,15 +1187,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "crude oil prices yesterday",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "crude oil prices",
           "intent": "informational",
           "demand": 58.0,
@@ -1194,101 +1194,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "mccaysville ga to blue ridge ga",
-      "cluster": [
-        {
-          "keyword": "mccaysville ga to blue ridge ga",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "mccaysville ga things to do",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "mccaysville ga & copperhill tn",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "mccaysville ga homes for sale",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "mccaysville ga zip code",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "mccaysville ga restaurants",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga weather",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga flooding",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga map",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1303,6 +1208,24 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
+        },
+        {
+          "keyword": "guy fawkes day celebration near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "guy fawkes day torn city",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         },
         {
           "keyword": "guy fawkes day 2026",
@@ -1341,15 +1264,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "guy fawkes day nz",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "guy fawkes day celebration",
           "intent": "informational",
           "demand": 64.0,
@@ -1359,16 +1273,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "guy fawkes day uk",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "guy fawkes day fireworks",
+          "keyword": "guy fawkes day nz",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1384,6 +1289,101 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "nc lottery pick 3 evening",
+      "cluster": [
+        {
+          "keyword": "nc lottery pick 3 evening",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nc lottery pick 4",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nc lottery scratch offs",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nc lottery cash 5",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nc lottery post",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery numbers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery login",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1483,6 +1483,101 @@
       ]
     },
     {
+      "pillar": "mccaysville ga webcam live camera",
+      "cluster": [
+        {
+          "keyword": "mccaysville ga webcam live camera",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mccaysville ga state of emergency",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mccaysville ga flooding today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mccaysville ga flooding",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga map",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga restaurants",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga evacuation",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "dianna russini career return announcement",
       "cluster": [
         {
@@ -1578,101 +1673,6 @@
       ]
     },
     {
-      "pillar": "nc lottery pick 3",
-      "cluster": [
-        {
-          "keyword": "nc lottery pick 3",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nc lottery pick 4",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nc lottery scratch offs",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nc lottery post",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nc lottery results",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nc lottery powerball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nc lottery numbers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nc lottery live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nc lottery login",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nc lottery",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "météore by louis vuitton",
       "cluster": [
         {
@@ -1753,6 +1753,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "alan jones williams",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "alan jones singer",
           "intent": "informational",
           "demand": 58.0,
@@ -1763,15 +1772,6 @@
         },
         {
           "keyword": "alan jones actor",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alan jones md",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1791,19 +1791,10 @@
       ]
     },
     {
-      "pillar": "power outage los angeles",
+      "pillar": "power outage near me",
       "cluster": [
         {
-          "keyword": "power outage los angeles",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "power outage san diego",
+          "keyword": "power outage near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1968,6 +1959,20 @@
       "cluster": [
         {
           "keyword": "powerpoint",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "powerbi",
+      "cluster": [
+        {
+          "keyword": "powerbi",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
