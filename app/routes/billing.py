@@ -22,6 +22,9 @@ def usage(db: Session = Depends(get_db), user: User = Depends(get_current_user))
 def change_plan(plan: str, db: Session = Depends(get_db), user: User = Depends(get_current_user)):
     if plan not in {'free', 'pro', 'agency'}:
         raise HTTPException(status_code=400, detail='Invalid plan')
+    # Paid tiers must be enabled only after a real checkout is confirmed.
+    if plan in {'pro', 'agency'}:
+        raise HTTPException(status_code=503, detail='Paid plan checkout is not configured yet.')
     sub = db.query(Subscription).filter(Subscription.user_id == user.id).first()
     if not sub:
         sub = Subscription(user_id=user.id, plan=plan, monthly_post_limit=plan_limit(plan))

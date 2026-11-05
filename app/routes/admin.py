@@ -2,6 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 from app.db import get_db
+from app.core.config import settings
 from app.deps import require_admin
 from app.models import Site, Subscription, User
 from app.services.automation import summarize_health
@@ -33,6 +34,11 @@ def suspend_user(user_id: int, db: Session = Depends(get_db), _admin=Depends(req
 
 @router.post('/users/{user_id}/limits/{limit}')
 def set_limit(user_id: int, limit: int, db: Session = Depends(get_db), _admin=Depends(require_admin)):
+    if limit < 0 or limit > settings.agency_posts_limit:
+        raise HTTPException(
+            status_code=400,
+            detail=f'Limit must be between 0 and {settings.agency_posts_limit}',
+        )
     sub = db.query(Subscription).filter(Subscription.user_id == user_id).first()
     if not sub:
         raise HTTPException(status_code=404, detail='Subscription not found')

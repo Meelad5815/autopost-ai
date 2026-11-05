@@ -1,5 +1,8 @@
+import ipaddress
 import re
+import socket
 import time
+from urllib.parse import urlsplit
 from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from typing import Any, Dict, List, Optional
@@ -8,8 +11,46 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 
+def _validate_remote_wordpress_target(base_url: str) -> None:
+    """Reject non-HTTPS, local, and non-public WordPress targets before sending credentials."""
+    parsed = urlsplit(base_url)
+    if parsed.scheme.lower() != "https" or not parsed.hostname:
+        raise ValueError("WordPress URL must use HTTPS and include a hostname")
+    if parsed.username or parsed.password or parsed.query or parsed.fragment:
+        raise ValueError("WordPress URL must not contain credentials, a query, or a fragment")
+
+    host = parsed.hostname.rstrip(".").lower()
+    if host in {"localhost", "localhost.localdomain"} or host.endswith(
+        (".localhost", ".local", ".internal", ".test", ".invalid")
+    ):
+        raise ValueError("WordPress URL must use a public hostname")
+
+    try:
+        literal_address = ipaddress.ip_address(host)
+    except ValueError:
+        literal_address = None
+    if literal_address is not None:
+        if not literal_address.is_global or literal_address.is_multicast or literal_address.is_unspecified:
+            raise ValueError("WordPress URL must use a public IP address")
+        return
+
+    try:
+        resolved = socket.getaddrinfo(host, parsed.port or 443, type=socket.SOCK_STREAM)
+    except (OSError, ValueError):
+        raise ValueError("WordPress hostname could not be resolved safely") from None
+    if not resolved:
+        raise ValueError("WordPress hostname could not be resolved safely")
+    for item in resolved:
+        address = ipaddress.ip_address(item[4][0])
+        if not address.is_global or address.is_multicast or address.is_unspecified:
+            raise ValueError("WordPress hostname must resolve only to public IP addresses")
+
+
 def request(method: str, base_url: str, path: str, user: str, app_password: str, timeout: int, **kwargs: Any) -> requests.Response:
+    _validate_remote_wordpress_target(base_url)
     url = f"{base_url.rstrip('/')}/wp-json/wp/v2/{path.lstrip('/')}"
+    # Never follow redirects while carrying WordPress BasicAuth credentials.
+    kwargs.setdefault("allow_redirects", False)
     return requests.request(method, url, auth=HTTPBasicAuth(user, app_password), timeout=timeout, **kwargs)
 
 

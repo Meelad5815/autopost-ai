@@ -8,10 +8,11 @@ class Settings(BaseSettings):
 
     app_name: str = 'Autopost SaaS Platform'
     environment: str = 'development'
-    debug: bool = True
+    debug: bool = False
 
     database_url: str = 'sqlite:///./saas.db'
     jwt_secret_key: str = 'change-me'
+    app_encryption_key: str = ''
     jwt_algorithm: str = 'HS256'
     jwt_expire_minutes: int = 60 * 24
     jwt_refresh_expire_minutes: int = 60 * 24 * 30
