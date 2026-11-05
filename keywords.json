@@ -1,150 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "aek athens vs real madrid head to head",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "real madrid vs aek athens last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "real madrid vs aek athens last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "real madrid vs aek athens live stream",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "aek vs real madrid where to watch",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "real madrid vs aek athens prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "real madrid vs aek athens history",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "real madrid vs aek athens live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "real madrid vs aek athens lineup",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "real madrid vs aek athens reddit",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "real madrid vs aek athens tickets",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "liverpool vs fenerbahce head to head",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "aek athens vs real madrid 2002",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "aek vs real madrid last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "aek vs real madrid score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "aek vs real madrid last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -154,151 +10,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "real madrid vs aek athens",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "liverpool vs fenerbahce last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "liverpool vs fenerbahce score prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "aek athens vs real madrid",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c. lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c. stats",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c. standings",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c. matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c. timeline",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "aek vs real madrid prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "aek vs real madrid history",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "aek vs real madrid lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "aek vs real madrid tickets",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "aek vs real madrid espn",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c. prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool last game",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "clima de hoy en mi ubicación actual",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -325,7 +46,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "aek athènes – real madrid composition",
+      "keyword": "crude oil prices today per barrel",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -334,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "aek real madrid head to head",
+      "keyword": "mccaysville ga to blue ridge ga",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -343,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "aek real madrid champions league tickets",
+      "keyword": "guy fawkes day v for vendetta",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -352,85 +73,40 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "liverpool vs fenerbahce prediction",
+      "keyword": "clima de hoy en mi ubicación",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "liverpool vs fenerbahce history",
+      "keyword": "clima de hoy en new york",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "liverpool vs fenerbahce odds",
+      "keyword": "clima de hoy en nueva york",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
-      "keyword": "liverpool vs fenerbahce live",
+      "keyword": "clima de hoy en los angeles",
       "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
       "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "liverpool vs fenerbahce h2h",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "liverpool vs fenerbahce lineups",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool f.c",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "aek vs real madrid",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 70.0
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -442,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "oil prices today per barrel",
+      "keyword": "crude oil prices chart today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -451,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "oil prices today per gallon",
+      "keyword": "crude oil prices per barrel",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -460,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "oil prices today near me",
+      "keyword": "coinbase customer service phone number",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -469,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "oil prices today brent crude",
+      "keyword": "mccaysville ga things to do",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -478,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek athènes – real madrid",
+      "keyword": "mccaysville ga & copperhill tn",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -487,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek athens real madrid tickets",
+      "keyword": "mccaysville ga homes for sale",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -496,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek athens real madrid 3-3",
+      "keyword": "dianna russini career return announcement",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -505,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek athens real madrid history",
+      "keyword": "dianna russini mike vrabel photos",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -514,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek athens real madrid date",
+      "keyword": "clima de hoy en chicago",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -523,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek athens real madrid 2026",
+      "keyword": "clima de hoy en houston",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -532,52 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aek real madrid 3 3",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "aek real madrid 1 0",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "aek real madrid tickets price",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "liverpool vs fenerbahce",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "fenerbahçe vs liverpool",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "oil prices today brent",
+      "keyword": "crude oil prices today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -586,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "oil prices today wti",
+      "keyword": "crude oil prices chart",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -595,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "oil prices today barrel",
+      "keyword": "crude oil prices live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -604,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "oil prices today 2026",
+      "keyword": "crude oil prices futures",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -613,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "oil prices today news",
+      "keyword": "crude oil prices brent",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "garrett wilson trade rumors",
+      "keyword": "crude oil prices yesterday",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -631,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katherine clark job board",
+      "keyword": "nc lottery pick 3",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -640,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katherine clark primary challenge",
+      "keyword": "nc lottery pick 4",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -649,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aek real madrid ticket",
+      "keyword": "nc lottery scratch offs",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -658,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aek real madrid date",
+      "keyword": "météore by louis vuitton",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -667,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aek real madrid h2h",
+      "keyword": "alan jones racing driver",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -676,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "aek real madrid game",
+      "keyword": "alan jones formula 1",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -685,7 +316,169 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "oil prices today",
+      "keyword": "alan jones cleveland tn",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "alan jones wells fargo",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "mccaysville ga zip code",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dianna russini mike vrabel",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dianna russini still married",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dianna russini new job",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day torn",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day meaning",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day history",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day nz",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day celebration",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day uk",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "guy fawkes day fireworks",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "power outage los angeles",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "power outage san diego",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "clima de hoy español",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "clima de hoy miami",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "crude oil prices",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson trade",
+      "keyword": "nc lottery post",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson stats",
+      "keyword": "nc lottery results",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson concussion",
+      "keyword": "nc lottery powerball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson contract",
+      "keyword": "nc lottery numbers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson fantasy",
+      "keyword": "nc lottery live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson 49ers",
+      "keyword": "nc lottery login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson news",
+      "keyword": "météo new york",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson chiefs",
+      "keyword": "météo pour demain",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark massachusetts",
+      "keyword": "alan jones f1",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark scarborough",
+      "keyword": "alan jones driver",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark congress",
+      "keyword": "alan jones singer",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark aipac",
+      "keyword": "alan jones actor",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark district",
+      "keyword": "alan jones md",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark jobs",
+      "keyword": "coinbase stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "katherine clark israel",
+      "keyword": "coinbase customer service",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "aek real madrid",
+      "keyword": "coinbase support number",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +631,106 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "garrett wilson",
+      "keyword": "mccaysville ga restaurants",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mccaysville ga weather",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mccaysville ga flooding",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "mccaysville ga map",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dianna russini husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dianna russini bikini",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dianna russini kids",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dianna russini age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "guy fawkes day",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "powerball winning numbers",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "clima de hoy",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nc lottery",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -847,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "katherine clark",
+      "keyword": "météo demain",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fenerbahçe players",
+      "keyword": "météo aujourd'hui",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fenerbahçe standings",
+      "keyword": "météo paris",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +766,178 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fenerbahçe",
+      "keyword": "météo france",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "météo boston",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "alan jones",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "coinbase stock",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "coinbase login",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "coinbase careers",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "coinbase wallet",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "coinbase app",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "mccaysville ga",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "dianna russini",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "powerball numbers",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "powerball jackpot",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "powerball winner",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "powerschool login",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "météo",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "météore",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "coinbase",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "powerball",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "powerschool",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "powerpoint",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -884,471 +947,6 @@
     }
   ],
   "clusters": [
-    {
-      "pillar": "aek athens vs real madrid head to head",
-      "cluster": [
-        {
-          "keyword": "aek athens vs real madrid head to head",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "aek vs real madrid where to watch",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "aek athens vs real madrid 2002",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "aek vs real madrid last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "aek vs real madrid score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "aek vs real madrid last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "aek athens vs real madrid",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "aek vs real madrid prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "aek vs real madrid history",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "aek vs real madrid lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "aek vs real madrid tickets",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "aek vs real madrid espn",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "aek athènes – real madrid composition",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "aek real madrid head to head",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "aek real madrid champions league tickets",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "aek vs real madrid",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "aek athènes – real madrid",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek athens real madrid tickets",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek athens real madrid 3-3",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek athens real madrid history",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek athens real madrid date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek athens real madrid 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek real madrid 3 3",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek real madrid 1 0",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek real madrid tickets price",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "aek real madrid ticket",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "aek real madrid date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "aek real madrid h2h",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "aek real madrid game",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "aek real madrid",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "real madrid vs aek athens last match",
-      "cluster": [
-        {
-          "keyword": "real madrid vs aek athens last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "real madrid vs aek athens last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "real madrid vs aek athens live stream",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "real madrid vs aek athens prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real madrid vs aek athens history",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real madrid vs aek athens live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real madrid vs aek athens lineup",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real madrid vs aek athens reddit",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real madrid vs aek athens tickets",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real madrid vs aek athens",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        }
-      ]
-    },
-    {
-      "pillar": "liverpool vs fenerbahce head to head",
-      "cluster": [
-        {
-          "keyword": "liverpool vs fenerbahce head to head",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "liverpool vs fenerbahce last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "liverpool vs fenerbahce score prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "liverpool vs fenerbahce prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "liverpool vs fenerbahce history",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "liverpool vs fenerbahce odds",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "liverpool vs fenerbahce live",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "liverpool vs fenerbahce h2h",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "liverpool vs fenerbahce lineups",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "liverpool vs fenerbahce",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1364,128 +962,6 @@
       ]
     },
     {
-      "pillar": "fenerbahçe vs liverpool f.c. lineups",
-      "cluster": [
-        {
-          "keyword": "fenerbahçe vs liverpool f.c. lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool f.c. stats",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool f.c. standings",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool f.c. matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool f.c. timeline",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool f.c. prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool last game",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool f.c",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "fenerbahçe vs liverpool",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "fenerbahçe players",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fenerbahçe standings",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fenerbahçe",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -1496,6 +972,101 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "clima de hoy en mi ubicación actual",
+      "cluster": [
+        {
+          "keyword": "clima de hoy en mi ubicación actual",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "clima de hoy en mi ubicación",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "clima de hoy en new york",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "clima de hoy en nueva york",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "clima de hoy en los angeles",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "clima de hoy en chicago",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "clima de hoy en houston",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "clima de hoy español",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "clima de hoy miami",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "clima de hoy",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1532,10 +1103,19 @@
       ]
     },
     {
-      "pillar": "oil prices today per barrel",
+      "pillar": "crude oil prices today per barrel",
       "cluster": [
         {
-          "keyword": "oil prices today per barrel",
+          "keyword": "crude oil prices today per barrel",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "crude oil prices chart today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1544,7 +1124,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "oil prices today per gallon",
+          "keyword": "crude oil prices per barrel",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1553,25 +1133,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "oil prices today near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "oil prices today brent crude",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "oil prices today brent",
+          "keyword": "crude oil prices today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1580,7 +1142,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "oil prices today wti",
+          "keyword": "crude oil prices chart",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1589,7 +1151,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "oil prices today barrel",
+          "keyword": "crude oil prices live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1598,7 +1160,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "oil prices today 2026",
+          "keyword": "crude oil prices futures",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1607,7 +1169,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "oil prices today news",
+          "keyword": "crude oil prices brent",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1616,7 +1178,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "oil prices today",
+          "keyword": "crude oil prices yesterday",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "crude oil prices",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1627,10 +1198,46 @@
       ]
     },
     {
-      "pillar": "garrett wilson trade rumors",
+      "pillar": "mccaysville ga to blue ridge ga",
       "cluster": [
         {
-          "keyword": "garrett wilson trade rumors",
+          "keyword": "mccaysville ga to blue ridge ga",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "mccaysville ga things to do",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mccaysville ga & copperhill tn",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mccaysville ga homes for sale",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mccaysville ga zip code",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1639,7 +1246,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "garrett wilson trade",
+          "keyword": "mccaysville ga restaurants",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1648,7 +1255,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "garrett wilson stats",
+          "keyword": "mccaysville ga weather",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1657,7 +1264,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "garrett wilson concussion",
+          "keyword": "mccaysville ga flooding",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1666,7 +1273,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "garrett wilson contract",
+          "keyword": "mccaysville ga map",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1675,43 +1282,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "garrett wilson fantasy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "garrett wilson 49ers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "garrett wilson news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "garrett wilson chiefs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "garrett wilson",
+          "keyword": "mccaysville ga",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1722,10 +1293,19 @@
       ]
     },
     {
-      "pillar": "katherine clark job board",
+      "pillar": "guy fawkes day v for vendetta",
       "cluster": [
         {
-          "keyword": "katherine clark job board",
+          "keyword": "guy fawkes day v for vendetta",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "guy fawkes day 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1734,7 +1314,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "katherine clark primary challenge",
+          "keyword": "guy fawkes day torn",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1743,7 +1323,84 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "katherine clark massachusetts",
+          "keyword": "guy fawkes day meaning",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "guy fawkes day history",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "guy fawkes day nz",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "guy fawkes day celebration",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "guy fawkes day uk",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "guy fawkes day fireworks",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "guy fawkes day",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "coinbase customer service phone number",
+      "cluster": [
+        {
+          "keyword": "coinbase customer service phone number",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "coinbase stock price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1752,7 +1409,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katherine clark scarborough",
+          "keyword": "coinbase customer service",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1761,7 +1418,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katherine clark congress",
+          "keyword": "coinbase support number",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1770,49 +1427,553 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "katherine clark aipac",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katherine clark district",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katherine clark jobs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katherine clark israel",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katherine clark",
+          "keyword": "coinbase stock",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase login",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase careers",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase wallet",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase app",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "dianna russini career return announcement",
+      "cluster": [
+        {
+          "keyword": "dianna russini career return announcement",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "dianna russini mike vrabel photos",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "dianna russini mike vrabel",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dianna russini still married",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dianna russini new job",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dianna russini husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dianna russini bikini",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dianna russini kids",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dianna russini age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dianna russini",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "nc lottery pick 3",
+      "cluster": [
+        {
+          "keyword": "nc lottery pick 3",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nc lottery pick 4",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nc lottery scratch offs",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nc lottery post",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery powerball",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery numbers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery login",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "nc lottery",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "météore by louis vuitton",
+      "cluster": [
+        {
+          "keyword": "météore by louis vuitton",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "météore",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "alan jones racing driver",
+      "cluster": [
+        {
+          "keyword": "alan jones racing driver",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alan jones formula 1",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alan jones cleveland tn",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alan jones wells fargo",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alan jones f1",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alan jones driver",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alan jones singer",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alan jones actor",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alan jones md",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alan jones",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "power outage los angeles",
+      "cluster": [
+        {
+          "keyword": "power outage los angeles",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "power outage san diego",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "météo new york",
+      "cluster": [
+        {
+          "keyword": "météo new york",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "météo pour demain",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "météo demain",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "météo aujourd'hui",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "météo paris",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "météo france",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "météo boston",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "météo",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "powerball winning numbers",
+      "cluster": [
+        {
+          "keyword": "powerball winning numbers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "powerball numbers",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "powerball jackpot",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "powerball winner",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "powerball",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "powerschool login",
+      "cluster": [
+        {
+          "keyword": "powerschool login",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "powerschool",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "powerpoint",
+      "cluster": [
+        {
+          "keyword": "powerpoint",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     }
