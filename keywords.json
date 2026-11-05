@@ -91,7 +91,25 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "clima de hoy cerca de mi",
+      "keyword": "clima de hoy en new york",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "clima de hoy en nueva york",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "clima de hoy en los angeles",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "crude oil prices per barrel",
+      "keyword": "crude oil prices chart today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -128,6 +146,24 @@
     },
     {
       "keyword": "nc lottery pick 3 evening",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "coinbase customer service phone number",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "mccaysville ga state of emergency",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,25 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "clima de hoy en joliet",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "clima de hoy new york",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "clima de hoy por hora",
+      "keyword": "clima de hoy en houston",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,25 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "crude oil prices brent",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "crude oil prices live",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "crude oil prices yesterday",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,6 +253,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "crude oil prices yesterday",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "crude oil prices brent",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "nc lottery pick 3",
       "intent": "informational",
       "demand": 64.0,
@@ -262,16 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "nc lottery pick 4",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "nc lottery results post",
+      "keyword": "nc lottery scratch offs",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mccaysville ga flooding 2026",
+      "keyword": "mccaysville ga live cam",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mccaysville ga live cam",
+      "keyword": "mccaysville ga flooding 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,6 +406,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "guy fawkes day celebration",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "guy fawkes day nz",
       "intent": "informational",
       "demand": 64.0,
@@ -406,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "guy fawkes day uk",
+      "keyword": "power outage san jose",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "clima de hoy celsius",
+      "keyword": "clima de hoy miami",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nc lottery results",
+      "keyword": "nc lottery powerball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nc lottery powerball",
+      "keyword": "nc lottery results",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,6 +505,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "nc lottery login",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "météo new york",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "météo pour demain",
       "intent": "informational",
       "demand": 58.0,
@@ -505,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alan jones munster",
+      "keyword": "alan jones driver",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alan jones driver",
+      "keyword": "alan jones mbe",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alan jones mbe",
+      "keyword": "alan jones singer",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,15 +604,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "coinbase email scam",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "mccaysville ga flooding",
       "intent": "informational",
       "demand": 58.0,
@@ -596,15 +623,6 @@
     },
     {
       "keyword": "mccaysville ga weather",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "mccaysville ga evacuation",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dianna russini barstool",
+      "keyword": "dianna russini news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "powerball winning numbers",
+      "keyword": "power outage oakland",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "powerball jackpot winner",
+      "keyword": "powerball winning numbers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,15 +739,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "météo chicago",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "météo demain",
       "intent": "informational",
       "demand": 52.0,
@@ -748,6 +757,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "météo paris",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "météo france",
       "intent": "informational",
       "demand": 52.0,
@@ -757,16 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "météo montréal",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "météo paris",
+      "keyword": "météo boston",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -935,15 +944,6 @@
       "ranking_probability": 38.2,
       "learning_boost": 0.0,
       "learned_score": 38.2
-    },
-    {
-      "keyword": "powerbi",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
@@ -997,7 +997,25 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "clima de hoy cerca de mi",
+          "keyword": "clima de hoy en new york",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "clima de hoy en nueva york",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "clima de hoy en los angeles",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1015,25 +1033,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "clima de hoy en joliet",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "clima de hoy new york",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "clima de hoy por hora",
+          "keyword": "clima de hoy en houston",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1051,7 +1051,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "clima de hoy celsius",
+          "keyword": "clima de hoy miami",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1124,7 +1124,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "crude oil prices per barrel",
+          "keyword": "crude oil prices chart today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1151,7 +1151,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "crude oil prices brent",
+          "keyword": "crude oil prices live",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1160,7 +1160,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "crude oil prices live",
+          "keyword": "crude oil prices futures",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1178,7 +1178,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "crude oil prices futures",
+          "keyword": "crude oil prices brent",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1246,7 +1246,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alan jones munster",
+          "keyword": "alan jones driver",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1255,7 +1255,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alan jones driver",
+          "keyword": "alan jones mbe",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1273,7 +1273,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alan jones mbe",
+          "keyword": "alan jones singer",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1359,7 +1359,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "guy fawkes day nz",
+          "keyword": "guy fawkes day celebration",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1368,7 +1368,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "guy fawkes day uk",
+          "keyword": "guy fawkes day nz",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1409,16 +1409,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "nc lottery pick 4",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nc lottery results post",
+          "keyword": "nc lottery scratch offs",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1436,7 +1427,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nc lottery results",
+          "keyword": "nc lottery powerball",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1445,7 +1436,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nc lottery powerball",
+          "keyword": "nc lottery results",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1472,7 +1463,206 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "nc lottery login",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "nc lottery",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "coinbase customer service phone number",
+      "cluster": [
+        {
+          "keyword": "coinbase customer service phone number",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "coinbase stock price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "coinbase customer service",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "coinbase support number",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "coinbase stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase login",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase careers",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase wallet",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase app",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "coinbase",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "mccaysville ga state of emergency",
+      "cluster": [
+        {
+          "keyword": "mccaysville ga state of emergency",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "mccaysville ga flooding today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mccaysville ga live cam",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mccaysville ga flooding 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "mccaysville ga flooding",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga map",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga restaurants",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mccaysville ga",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1558,7 +1748,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dianna russini barstool",
+          "keyword": "dianna russini news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1601,10 +1791,10 @@
       ]
     },
     {
-      "pillar": "mccaysville ga flooding today",
+      "pillar": "power outage san jose",
       "cluster": [
         {
-          "keyword": "mccaysville ga flooding today",
+          "keyword": "power outage san jose",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1613,91 +1803,28 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "mccaysville ga flooding 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "mccaysville ga live cam",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "mccaysville ga flooding",
+          "keyword": "power outage oakland",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga map",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga weather",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga evacuation",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga restaurants",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "mccaysville ga",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "météo pour demain",
+      "pillar": "météo new york",
       "cluster": [
+        {
+          "keyword": "météo new york",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "météo pour demain",
           "intent": "informational",
@@ -1706,15 +1833,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "météo chicago",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         },
         {
           "keyword": "météo demain",
@@ -1735,6 +1853,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "météo paris",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "météo france",
           "intent": "informational",
           "demand": 52.0,
@@ -1744,16 +1871,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "météo montréal",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo paris",
+          "keyword": "météo boston",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1773,114 +1891,10 @@
       ]
     },
     {
-      "pillar": "coinbase stock price",
-      "cluster": [
-        {
-          "keyword": "coinbase stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "coinbase customer service",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "coinbase support number",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "coinbase email scam",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "coinbase stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "coinbase login",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "coinbase careers",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "coinbase wallet",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "coinbase app",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "coinbase",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "powerball winning numbers",
       "cluster": [
         {
           "keyword": "powerball winning numbers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "powerball jackpot winner",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1954,20 +1968,6 @@
       "cluster": [
         {
           "keyword": "powerpoint",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "powerbi",
-      "cluster": [
-        {
-          "keyword": "powerbi",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
