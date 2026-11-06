@@ -100,6 +100,15 @@
       "learned_score": 73.0
     },
     {
+      "keyword": "when is black friday in the us",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
       "keyword": "did they vote on daylight savings time",
       "intent": "informational",
       "demand": 70.0,
@@ -253,15 +262,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "ryan clark fired on air video",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "claire liu vs sonmez",
       "intent": "informational",
       "demand": 76.0,
@@ -316,16 +316,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "when is black friday deals",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "martin mcdonagh phoebe waller bridge",
+      "keyword": "martin mcdonagh wild horse nine",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -335,15 +326,6 @@
     },
     {
       "keyword": "martin mcdonagh movies in order",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "martin mcdonagh wild horse nine",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -362,6 +344,24 @@
     },
     {
       "keyword": "michelle obama as a child",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "ryan clark fired on air",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "ryan clark kyren lacy comments",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -398,6 +398,15 @@
     },
     {
       "keyword": "martin mcdonagh new movie",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "michelle obama presidential run",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,6 +532,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "martin mcdonagh interview",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "michelle obama age",
       "intent": "informational",
       "demand": 58.0,
@@ -560,15 +578,6 @@
     },
     {
       "keyword": "michelle obama podcast",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "michelle obama birthday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,15 +730,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ryan clark college",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "christian bale movies",
       "intent": "informational",
       "demand": 58.0,
@@ -838,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tanker tracker",
+      "keyword": "tanker def",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1051,6 +1051,15 @@
           "learned_score": 73.0
         },
         {
+          "keyword": "when is black friday in the us",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
           "keyword": "when is black friday this year",
           "intent": "informational",
           "demand": 70.0,
@@ -1160,15 +1169,6 @@
         },
         {
           "keyword": "when is black friday sales",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "when is black friday deals",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1424,16 +1424,215 @@
       ]
     },
     {
-      "pillar": "ryan clark fired on air video",
+      "pillar": "martin mcdonagh wild horse nine",
       "cluster": [
         {
-          "keyword": "ryan clark fired on air video",
+          "keyword": "martin mcdonagh wild horse nine",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "martin mcdonagh movies in order",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "martin mcdonagh new spy film",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "martin mcdonagh new movie",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "martin mcdonagh movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh films",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh plays",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh interview",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "michelle obama as a child",
+      "cluster": [
+        {
+          "keyword": "michelle obama as a child",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "michelle obama presidential run",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michelle obama net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michelle obama age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama books",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama podcast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama 2028",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "ryan clark fired on air",
+      "cluster": [
+        {
+          "keyword": "ryan clark fired on air",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ryan clark kyren lacy comments",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         },
         {
           "keyword": "ryan clark net worth",
@@ -1499,206 +1698,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ryan clark college",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "ryan clark",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "martin mcdonagh phoebe waller bridge",
-      "cluster": [
-        {
-          "keyword": "martin mcdonagh phoebe waller bridge",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "martin mcdonagh movies in order",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "martin mcdonagh wild horse nine",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "martin mcdonagh new spy film",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "martin mcdonagh new movie",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "martin mcdonagh movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "martin mcdonagh wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "martin mcdonagh films",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "martin mcdonagh plays",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "martin mcdonagh",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "michelle obama as a child",
-      "cluster": [
-        {
-          "keyword": "michelle obama as a child",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "michelle obama net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "michelle obama age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama brother",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama books",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama podcast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama birthday",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama 2028",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "michelle obama",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1784,7 +1784,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tanker tracker",
+          "keyword": "tanker def",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
