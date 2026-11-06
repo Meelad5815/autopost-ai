@@ -10,7 +10,43 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "taylor fritz vs arthur fils",
+      "keyword": "did they vote on daylight savings time yet",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "did they vote on the clarity act today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "did they vote lsu out of the sec",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when is black friday 2026 and cyber monday",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "zeynep sonmez vs claire liu",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -19,7 +55,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "arthur fils vs taylor fritz",
+      "keyword": "zeynep sonmez vs c liu",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -28,7 +64,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "arthur fils vs tomas machac",
+      "keyword": "claire liu vs zeynep sonmez",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -37,34 +73,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "trabzonspor vs sc freiburg stats",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "trabzonspor vs sc freiburg lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "trabzonspor vs sc freiburg standings",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "trabzonspor vs sc freiburg matches",
+      "keyword": "claire liu vs sonmez prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -74,6 +83,33 @@
     },
     {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when is black friday and cyber monday",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "did they vote on daylight savings time",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "did they vote on todd blanche today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -100,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "jalayshia alford found in new jersey",
+      "keyword": "when is black friday this year",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +145,124 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "arthur fils vs fritz",
+      "keyword": "when is black friday 2026 amazon",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday sales 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 walmart",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "did they vote on time change",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "did they vote to impeach trump",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "did they vote on todd blanche",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 usa",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 uk",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 sale",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 australia",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 canada",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "when is black friday 2026 samsung",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "ryan clark fired on air video",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "claire liu vs sonmez",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -118,25 +271,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "arthur fils vs machac",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "trabzonspor vs freiburg prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "trabzonspor vs sc freiburg",
+      "keyword": "claire liu vs zeynep",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -154,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jubilación en estados unidos edad",
+      "keyword": "when is black friday 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +298,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jalayshia alford found in nj",
+      "keyword": "when is black friday amazon",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,16 +307,70 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ajax vs midtjylland",
+      "keyword": "when is black friday sales",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "taylor fritz us open",
+      "keyword": "when is black friday deals",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "martin mcdonagh phoebe waller bridge",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "martin mcdonagh movies in order",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "martin mcdonagh wild horse nine",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "martin mcdonagh new spy film",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "michelle obama as a child",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "when is black friday",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -190,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "taylor fritz net worth",
+      "keyword": "tanker jobs near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jubilación en estados unidos",
+      "keyword": "tanker endorsement practice test",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -208,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jubilación en el salvador",
+      "keyword": "martin mcdonagh new movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "conference league final 2026",
+      "keyword": "michelle obama net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "erin napier net worth",
+      "keyword": "zeynep sonmez claire liu",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "brysen wright commitment time",
+      "keyword": "zeynep sonmez prediction today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "brysen wright commitment live",
+      "keyword": "did they vote website",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jalayshia alford foster mother",
+      "keyword": "claire liu zeynep sonmez",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jalayshia alford philadelphia pa",
+      "keyword": "claire liu tennis tonic",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jalayshia alford foster mom",
+      "keyword": "ryan clark net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,16 +469,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ajax vs",
+      "keyword": "christian bale the machinist",
       "intent": "informational",
       "demand": 64.0,
-      "competition": 70.0,
-      "ranking_probability": 53.8,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
       "learning_boost": 0.0,
-      "learned_score": 53.8
+      "learned_score": 59.8
     },
     {
-      "keyword": "taylor fritz girlfriend",
+      "keyword": "tanker endorsement test",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -298,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz prediction",
+      "keyword": "martin mcdonagh movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -307,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz ranking",
+      "keyword": "martin mcdonagh wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -316,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz height",
+      "keyword": "martin mcdonagh films",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -325,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz wife",
+      "keyword": "martin mcdonagh plays",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -334,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "taylor fritz son",
+      "keyword": "michelle obama age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -343,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils prediction",
+      "keyword": "michelle obama brother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -352,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils ranking",
+      "keyword": "michelle obama books",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -361,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils parents",
+      "keyword": "michelle obama height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -370,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils tennis",
+      "keyword": "michelle obama podcast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "arthur fils injury",
+      "keyword": "michelle obama birthday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "diésel panamá precio",
+      "keyword": "michelle obama 2028",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "diésel chile precio",
+      "keyword": "zeynep sonmez ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "diésel o gasolina",
+      "keyword": "zeynep sonmez age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ajax fc standings",
+      "keyword": "zeynep sonmez prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ajax the great",
+      "keyword": "zeynep sonmez height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jubilación in english",
+      "keyword": "zeynep sonmez boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jubilación en mexico",
+      "keyword": "did they vote",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jubilación en españa",
+      "keyword": "claire liu tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jubilación en ecuador",
+      "keyword": "claire liu prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jubilación patronal ecuador",
+      "keyword": "claire liu sonmez",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league standings",
+      "keyword": "ryan clark son",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league table",
+      "keyword": "ryan clark fired",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league schedule",
+      "keyword": "ryan clark espn",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league final",
+      "keyword": "ryan clark wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league predictions",
+      "keyword": "ryan clark stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league matches",
+      "keyword": "ryan clark podcast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league games",
+      "keyword": "ryan clark college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "conference league fixtures",
+      "keyword": "christian bale movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier children",
+      "keyword": "christian bale daughter",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier wikipedia",
+      "keyword": "christian bale batman",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier illness",
+      "keyword": "christian bale wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier age",
+      "keyword": "christian bale kids",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier height",
+      "keyword": "christian bale girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier wallpaper",
+      "keyword": "christian bale height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,124 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erin napier book",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "erin napier haircut",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright 247",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright commitment",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright announcement",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright football",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright youtube",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brysen wright miami",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jalayshia alford missing",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jalayshia alford philadelphia",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jalayshia alford mother",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jalayshia alford dad",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "taylor fritz",
+      "keyword": "tanker truck",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "arthur fils",
+      "keyword": "tanker meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trabzonspor standings",
+      "keyword": "tanker endorsement",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trabzonspor games",
+      "keyword": "tanker boots",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trabzonspor players",
+      "keyword": "tanker bbq",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "diésel precio",
+      "keyword": "tanker tracker",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "diésel perfume",
+      "keyword": "martin mcdonagh",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +856,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "diésel jeans",
+      "keyword": "michelle obama",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +865,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "diésel price",
+      "keyword": "zeynep sonmez",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +874,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "diésel rojo",
+      "keyword": "claire liu",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +883,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "diésel combustible",
+      "keyword": "ryan clark",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +892,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ajax fc",
+      "keyword": "christian bale",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +901,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ajax schedule",
+      "keyword": "christian baledrokadroka",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,106 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ajax cleaner",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "ajax amsterdam",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "ajax ai",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jubilación significado",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "conference league",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "erin napier",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "brysen wright",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jalayshia alford",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "trabzonspor",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "diésel",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "ajax",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "jubilación",
+      "keyword": "tanker",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -962,10 +935,263 @@
       ]
     },
     {
-      "pillar": "taylor fritz vs arthur fils",
+      "pillar": "did they vote on daylight savings time yet",
       "cluster": [
         {
-          "keyword": "taylor fritz vs arthur fils",
+          "keyword": "did they vote on daylight savings time yet",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "did they vote on the clarity act today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "did they vote lsu out of the sec",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "did they vote on daylight savings time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "did they vote on todd blanche today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "did they vote on time change",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "did they vote to impeach trump",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "did they vote on todd blanche",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "did they vote website",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "did they vote",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "when is black friday 2026 and cyber monday",
+      "cluster": [
+        {
+          "keyword": "when is black friday 2026 and cyber monday",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when is black friday and cyber monday",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when is black friday this year",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 amazon",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday sales 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 walmart",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 usa",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 uk",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 sale",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 australia",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 canada",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026 samsung",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when is black friday 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "when is black friday amazon",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "when is black friday sales",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "when is black friday deals",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "when is black friday",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "zeynep sonmez vs claire liu",
+      "cluster": [
+        {
+          "keyword": "zeynep sonmez vs claire liu",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -974,7 +1200,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "taylor fritz us open",
+          "keyword": "zeynep sonmez vs c liu",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "zeynep sonmez claire liu",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -983,7 +1218,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "taylor fritz net worth",
+          "keyword": "zeynep sonmez prediction today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -992,7 +1227,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "taylor fritz girlfriend",
+          "keyword": "zeynep sonmez ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1001,7 +1236,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz prediction",
+          "keyword": "zeynep sonmez age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1010,7 +1245,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz ranking",
+          "keyword": "zeynep sonmez prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1019,7 +1254,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz height",
+          "keyword": "zeynep sonmez height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1028,7 +1263,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz wife",
+          "keyword": "zeynep sonmez boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1037,16 +1272,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "taylor fritz son",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "taylor fritz",
+          "keyword": "zeynep sonmez",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1057,10 +1283,10 @@
       ]
     },
     {
-      "pillar": "arthur fils vs taylor fritz",
+      "pillar": "claire liu vs zeynep sonmez",
       "cluster": [
         {
-          "keyword": "arthur fils vs taylor fritz",
+          "keyword": "claire liu vs zeynep sonmez",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1069,7 +1295,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "arthur fils vs tomas machac",
+          "keyword": "claire liu vs sonmez prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1078,7 +1304,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "arthur fils vs fritz",
+          "keyword": "claire liu vs sonmez",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1087,7 +1313,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "arthur fils vs machac",
+          "keyword": "claire liu vs zeynep",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1096,153 +1322,58 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "arthur fils prediction",
+          "keyword": "claire liu zeynep sonmez",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "arthur fils",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "trabzonspor vs sc freiburg stats",
-      "cluster": [
-        {
-          "keyword": "trabzonspor vs sc freiburg stats",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "trabzonspor vs sc freiburg lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "trabzonspor vs sc freiburg standings",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "trabzonspor vs sc freiburg matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "trabzonspor vs freiburg prediction",
-          "intent": "informational",
-          "demand": 76.0,
+          "demand": 64.0,
           "competition": 50.0,
-          "ranking_probability": 68.2,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 59.8
         },
         {
-          "keyword": "trabzonspor vs sc freiburg",
+          "keyword": "claire liu tennis tonic",
           "intent": "informational",
-          "demand": 76.0,
+          "demand": 64.0,
           "competition": 50.0,
-          "ranking_probability": 68.2,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 59.8
         },
         {
-          "keyword": "trabzonspor standings",
+          "keyword": "claire liu tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claire liu prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claire liu sonmez",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claire liu",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "trabzonspor games",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "trabzonspor players",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "trabzonspor",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
@@ -1293,10 +1424,10 @@
       ]
     },
     {
-      "pillar": "jalayshia alford found in new jersey",
+      "pillar": "ryan clark fired on air video",
       "cluster": [
         {
-          "keyword": "jalayshia alford found in new jersey",
+          "keyword": "ryan clark fired on air video",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1305,7 +1436,93 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "jalayshia alford found in nj",
+          "keyword": "ryan clark net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ryan clark son",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark fired",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark espn",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark podcast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan clark",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "martin mcdonagh phoebe waller bridge",
+      "cluster": [
+        {
+          "keyword": "martin mcdonagh phoebe waller bridge",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1314,84 +1531,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jalayshia alford foster mother",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jalayshia alford philadelphia pa",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jalayshia alford foster mom",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jalayshia alford missing",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jalayshia alford philadelphia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jalayshia alford mother",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jalayshia alford dad",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jalayshia alford",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jubilación en estados unidos edad",
-      "cluster": [
-        {
-          "keyword": "jubilación en estados unidos edad",
+          "keyword": "martin mcdonagh movies in order",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1400,111 +1540,34 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jubilación en estados unidos",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jubilación en el salvador",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jubilación in english",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jubilación en mexico",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jubilación en españa",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jubilación en ecuador",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jubilación patronal ecuador",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jubilación significado",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "jubilación",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "ajax vs midtjylland",
-      "cluster": [
-        {
-          "keyword": "ajax vs midtjylland",
+          "keyword": "martin mcdonagh wild horse nine",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 67.0
         },
         {
-          "keyword": "ajax vs",
+          "keyword": "martin mcdonagh new spy film",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "martin mcdonagh new movie",
           "intent": "informational",
           "demand": 64.0,
-          "competition": 70.0,
-          "ranking_probability": 53.8,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 53.8
+          "learned_score": 59.8
         },
         {
-          "keyword": "ajax fc standings",
+          "keyword": "martin mcdonagh movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1513,7 +1576,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ajax the great",
+          "keyword": "martin mcdonagh wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1522,7 +1585,161 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ajax fc",
+          "keyword": "martin mcdonagh films",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh plays",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "martin mcdonagh",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "michelle obama as a child",
+      "cluster": [
+        {
+          "keyword": "michelle obama as a child",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "michelle obama net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "michelle obama age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama books",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama podcast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama birthday",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama 2028",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "michelle obama",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "tanker jobs near me",
+      "cluster": [
+        {
+          "keyword": "tanker jobs near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tanker endorsement practice test",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tanker endorsement test",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tanker truck",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1531,7 +1748,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ajax schedule",
+          "keyword": "tanker meaning",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1540,7 +1757,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ajax cleaner",
+          "keyword": "tanker endorsement",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1549,7 +1766,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ajax amsterdam",
+          "keyword": "tanker boots",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1558,7 +1775,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ajax ai",
+          "keyword": "tanker bbq",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1567,7 +1784,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ajax",
+          "keyword": "tanker tracker",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "tanker",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1578,10 +1804,10 @@
       ]
     },
     {
-      "pillar": "conference league final 2026",
+      "pillar": "christian bale the machinist",
       "cluster": [
         {
-          "keyword": "conference league final 2026",
+          "keyword": "christian bale the machinist",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1590,7 +1816,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "conference league standings",
+          "keyword": "christian bale movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1599,7 +1825,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league table",
+          "keyword": "christian bale daughter",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1608,7 +1834,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league schedule",
+          "keyword": "christian bale batman",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1617,7 +1843,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league final",
+          "keyword": "christian bale wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1626,7 +1852,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league predictions",
+          "keyword": "christian bale kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1635,7 +1861,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league matches",
+          "keyword": "christian bale girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1870,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league games",
+          "keyword": "christian bale height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,247 +1879,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "conference league fixtures",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "conference league",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "erin napier net worth",
-      "cluster": [
-        {
-          "keyword": "erin napier net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "erin napier children",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier wikipedia",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier illness",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier wallpaper",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier book",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier haircut",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "erin napier",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "brysen wright commitment time",
-      "cluster": [
-        {
-          "keyword": "brysen wright commitment time",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "brysen wright commitment live",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "brysen wright 247",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright commitment",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright announcement",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright football",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright youtube",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright miami",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brysen wright",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "diésel panamá precio",
-      "cluster": [
-        {
-          "keyword": "diésel panamá precio",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "diésel chile precio",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "diésel o gasolina",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "diésel precio",
+          "keyword": "christian bale",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1902,58 +1888,13 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "diésel perfume",
+          "keyword": "christian baledrokadroka",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "diésel jeans",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "diésel price",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "diésel rojo",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "diésel combustible",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "diésel",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
