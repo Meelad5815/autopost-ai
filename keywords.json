@@ -1,6 +1,15 @@
 {
   "keywords": [
     {
+      "keyword": "magda linette vs mai hontama prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -235,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tsm stock price target",
+      "keyword": "tsm stock news today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tsm stock in usd",
+      "keyword": "tsm stock price target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "john cena classic championship",
+      "keyword": "john cena wife age",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "john cena wife age",
+      "keyword": "john cena classic championship",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stephanie ruhle new show",
+      "keyword": "carson daly net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -335,15 +344,6 @@
     },
     {
       "keyword": "carson daly new job",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "carson daly net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -523,15 +523,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "magda linette husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "magda linette age",
       "intent": "informational",
       "demand": 58.0,
@@ -541,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "magda linette height",
+      "keyword": "magda linette husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,15 +586,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "naomi watts son",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "naomi watts mother",
       "intent": "informational",
       "demand": 58.0,
@@ -614,6 +596,15 @@
     },
     {
       "keyword": "naomi watts young",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "naomi watts spiderman",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carson daly wife",
+      "keyword": "stephanie ruhle marathon",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carson daly age",
+      "keyword": "carson daly wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,6 +766,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "carson daly age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "carson daly salary",
       "intent": "informational",
       "demand": 58.0,
@@ -784,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "carson daly promotion",
+      "keyword": "carson daly tattoos",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -948,6 +948,101 @@
   ],
   "clusters": [
     {
+      "pillar": "magda linette vs mai hontama prediction",
+      "cluster": [
+        {
+          "keyword": "magda linette vs mai hontama prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "magda linette vs mai hontama",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "magda linette vs hontama prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "magda linette vs hontama",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "magda linette mai hontama",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "magda linette prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "magda linette ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "magda linette age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "magda linette husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "magda linette",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
         {
@@ -1057,101 +1152,6 @@
       ]
     },
     {
-      "pillar": "magda linette vs mai hontama",
-      "cluster": [
-        {
-          "keyword": "magda linette vs mai hontama",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "magda linette vs hontama prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "magda linette vs hontama",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "magda linette mai hontama",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "magda linette prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "magda linette ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "magda linette husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "magda linette age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "magda linette height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "magda linette",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -1228,7 +1228,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tsm stock price target",
+          "keyword": "tsm stock news today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1237,7 +1237,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tsm stock in usd",
+          "keyword": "tsm stock price target",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1314,7 +1314,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john cena classic championship",
+          "keyword": "john cena wife age",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1323,7 +1323,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john cena wife age",
+          "keyword": "john cena classic championship",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1540,15 +1540,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "naomi watts son",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "naomi watts mother",
           "intent": "informational",
           "demand": 58.0,
@@ -1559,6 +1550,15 @@
         },
         {
           "keyword": "naomi watts young",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "naomi watts spiderman",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1600,15 +1600,6 @@
         },
         {
           "keyword": "stephanie ruhle marathon time",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stephanie ruhle new show",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1662,6 +1653,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "stephanie ruhle marathon",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "stephanie ruhle",
           "intent": "informational",
           "demand": 52.0,
@@ -1673,10 +1673,10 @@
       ]
     },
     {
-      "pillar": "carson daly new job",
+      "pillar": "carson daly net worth",
       "cluster": [
         {
-          "keyword": "carson daly new job",
+          "keyword": "carson daly net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1685,7 +1685,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "carson daly net worth",
+          "keyword": "carson daly new job",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1721,7 +1721,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "carson daly age",
+          "keyword": "carson daly kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1730,7 +1730,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "carson daly kids",
+          "keyword": "carson daly age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1748,7 +1748,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "carson daly promotion",
+          "keyword": "carson daly tattoos",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
