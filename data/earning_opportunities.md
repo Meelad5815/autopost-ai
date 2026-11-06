@@ -1,6 +1,6 @@
 # MRK Earning Opportunities
 
-Generated: 2026-11-06T06:45:55.546316+00:00
+Generated: 2026-11-06T19:24:30.997692+00:00
 
 ## 1. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
 - Score: **18**
@@ -26,47 +26,47 @@ Generated: 2026-11-06T06:45:55.546316+00:00
 - Published: Wed, 03 Apr 2024 14:45:32 GMT
 - URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXBqTGRyQ2tWeDRfQkg3VUw3RDBYSmNTcEV1eFd0NUtXQkJZNUJ4dUVvTUluWVlTSWdMbXRmSHltSlA1Vm0zdnZLVkxlTF8zUnFpWXNoMkhyUUpCRHFzSzlsZkV1YmR1OHRzMGg5VjdrS1RLTktlQTFJaHNIenFNenZJSUpfakNtaWxpQ0Z2S3BuTTk3TGJxelQ4blEwX3UtV2hFQXpxWUZ6Qi16dVNqdE1jVHF0VkoyX05Ha0ppVXF0eXliWkNUZA?oc=5
 
-## 5. 25 web developer portfolio examples for your inspiration - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Tue, 25 Aug 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE5CaWp5OGNyMjc5dDVSZENyMUlJZnRBMDZibV9zTG1CRElnUmJnZXlyR3Y5RGJ1ZkpPOUtXWmhWb1VjeDhEMDVTLXBhOVdhU05lWjZMbTJvU2pFMFFYaVg0RUdqSGZKVFhrY0ZMcQ?oc=5
-
-## 6. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
+## 5. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
 - Score: **14**
 - Source: hi-Tech.ua
 - Published: Tue, 20 Oct 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2M5NFFhdW9kWEhjdmQwaFBrS2RWejBCd0FybVo0Z2E5S0k0TWtqTTFMSHR0UnJ1U29udEhCd1dpVHBvRFlqcWlfNzV0SzFpZC1seUlfWFgwUG5sUWRwNEFHMmRCYWJyck1yQTJ2OHFsUFlyNUtqOVMyWThCU1c4eUxUd21xcURVRGp0SEpzNlNOZw?oc=5
 
-## 7. ADX : Industrial ATtiny1616 board, Arduino IDE Ready - Hackster.io
+## 6. ADX : Industrial ATtiny1616 board, Arduino IDE Ready - Hackster.io
 - Score: **14**
 - Source: Hackster.io
 - Published: Tue, 07 Apr 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxNVnpXMUZqWDJSOFlaN3k0VjExUTVWeHdLYXNiNjhLVDlIRko3UHFGaGlmQzFoUFlZc1NndFlwVWJyVHR3OGhPS1o2MUhlWm1xZ0hlMW5VaEJQZDhxcVh4X3l0QzhzdGppYk5oZ2F5RUs5UEFzWV9PYmhVWXBscHZ5VklmZC1jbEtteERTTkVvS1ZpbUE?oc=5
 
-## 8. Exploring The Future of Python: Trends & Innovations Ahead! - Simplilearn.com
+## 7. Exploring The Future of Python: Trends & Innovations Ahead! - Simplilearn.com
 - Score: **14**
 - Source: Simplilearn.com
 - Published: Thu, 31 Jul 2025 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ITkxfYWRneFVmUUpMM3ZMbnlHbTJjcWhOWEJaN0ZfMHpsS0dGM3BhTTJ2MGFnNXdudHJucnNYdDI1OEREMjE4NTdEYXJkcUR2aTVlVzVueU5JSzhPalpKQm9B?oc=5
 
-## 9. Free AI tools are killing South Africa’s web designer job market - Rest of World
+## 8. Free AI tools are killing South Africa’s web designer job market - Rest of World
 - Score: **14**
 - Source: Rest of World
 - Published: Thu, 31 Aug 2023 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiekFVX3lxTFBVcVlNLXVZbVNWcU9iZXJhdUJZLTl3YWh5NTRIQkpJTVVfdklaM0NQU2VkWTY3TG55a0xEMUZySnp6NV9IQ0pBbjhBMXV5ckNvQ0t3N052cUpHb18tbUxwTE9NM0M5X1pIXzhBWkplczNuMzNEWDlEYnlR?oc=5
 
-## 10. 30 best freelance websites to find work in 2026 - Hostinger
+## 9. 30 best freelance websites to find work in 2026 - Hostinger
 - Score: **14**
 - Source: Hostinger
 - Published: Thu, 24 Sep 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE4yTjAxdFlCMzlVRDNTQnhISFpBcVFwbFdpdHByVVlzWmRpNHA5a1FCRWtMa29fNUkxdUFWTmNlbGZEcXhQSm1HanFreHNZazEwVFpYd1dISlIyS3FJSXRHMGdsZnFMNmRlZUtxQQ?oc=5
 
-## 11. 6 Sites to Hire WordPress Freelancers if You Need a Helping Hand - Themeisle
+## 10. 6 Sites to Hire WordPress Freelancers if You Need a Helping Hand - Themeisle
 - Score: **14**
 - Source: Themeisle
 - Published: Thu, 23 Nov 2023 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lUHRqTlJmREg3bWM4ZHRYdGJ2VExWZDNWNnllWGd4ZWs1TU1ZRjYxcnFqYkZERmlZSzhqa2FSWEF6NDJGbzFKbmVJV1ptNFlibnZHWm1wekY1M0liQTZPbjVCOGs?oc=5
+
+## 11. 25 web developer portfolio examples for your inspiration - Hostinger
+- Score: **14**
+- Source: Hostinger
+- Published: Sun, 30 Aug 2026 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1rVjBYOGl5Z2l6SndaMkx1c0FRSVluRTMxY2ViT0JsbHNadHZYN2g0eGUzYk5qbXYxSEg3MVprTzU4YzVJQzByWnZoSzVxLThBc2xqMWZ4LW5FNkY4UzZyMmFmQy1TYjZ1Y0FKNlE2SEI?oc=5
 
 ## 12. Arduino Opta PLC: First Thoughts - Embedded Computing Design
 - Score: **14**
