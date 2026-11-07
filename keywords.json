@@ -298,7 +298,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "rockefeller center christmas tree lighting 2026",
+      "keyword": "rockefeller center christmas tree 2026 schedule",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -307,7 +307,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "rockefeller center christmas tree 2026 schedule",
+      "keyword": "rockefeller center christmas tree ice skating",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -551,6 +551,15 @@
     },
     {
       "keyword": "star wars ahsoka season 2",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "did lauren boebert lose update",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -820,7 +829,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "robin montgomery tennis",
+      "keyword": "robin montgomery prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +838,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "robin montgomery prediction",
+      "keyword": "robin montgomery ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1431,7 +1440,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "robin montgomery tennis",
+          "keyword": "robin montgomery prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1440,7 +1449,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "robin montgomery prediction",
+          "keyword": "robin montgomery ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1515,10 +1524,10 @@
       ]
     },
     {
-      "pillar": "rockefeller center christmas tree lighting 2026",
+      "pillar": "rockefeller center christmas tree 2026 schedule",
       "cluster": [
         {
-          "keyword": "rockefeller center christmas tree lighting 2026",
+          "keyword": "rockefeller center christmas tree 2026 schedule",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1527,7 +1536,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "rockefeller center christmas tree 2026 schedule",
+          "keyword": "rockefeller center christmas tree ice skating",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1629,6 +1638,15 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
+        },
+        {
+          "keyword": "did lauren boebert lose update",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         },
         {
           "keyword": "did lauren boebert lose",
