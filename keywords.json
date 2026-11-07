@@ -91,6 +91,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "lorenzo sonego vs olle wallin prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "bristol city vs norwich city prediction",
       "intent": "informational",
       "demand": 82.0,
@@ -199,6 +208,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "lorenzo sonego vs olle wallin",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "bristol city vs norwich city",
       "intent": "informational",
       "demand": 82.0,
@@ -290,15 +308,6 @@
     },
     {
       "keyword": "rockefeller center christmas tree 2026 schedule",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "rockefeller center christmas tree ice skating",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -406,7 +415,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "chelsea vs everton wsl",
+      "keyword": "chelsea vs everton women",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -415,7 +424,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "chelsea vs everton women",
+      "keyword": "chelsea vs everton wsl",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -488,6 +497,15 @@
     },
     {
       "keyword": "rockefeller center christmas tree lighting",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "rockefeller center christmas tree route",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -658,7 +676,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs bracket",
+      "keyword": "ghsa football playoffs 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -667,7 +685,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs 2026",
+      "keyword": "ghsa football playoffs bracket",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -775,15 +793,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego tennis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "lorenzo sonego ranking",
       "intent": "informational",
       "demand": 58.0,
@@ -793,25 +802,16 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "lorenzo sonego tennis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "lorenzo sonego score",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "lorenzo sonego flashscore",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "lorenzo sonego live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1075,6 +1075,101 @@
       ]
     },
     {
+      "pillar": "lorenzo sonego vs olle wallin prediction",
+      "cluster": [
+        {
+          "keyword": "lorenzo sonego vs olle wallin prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "lorenzo sonego vs olle wallin",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "lorenzo sonego vs wallin",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "lorenzo sonego match today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lorenzo sonego prediction today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lorenzo sonego prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lorenzo sonego ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lorenzo sonego tennis",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lorenzo sonego score",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lorenzo sonego",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "chelsea vs everton last 5 matches",
       "cluster": [
         {
@@ -1096,7 +1191,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "chelsea vs everton wsl",
+          "keyword": "chelsea vs everton women",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1105,7 +1200,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "chelsea vs everton women",
+          "keyword": "chelsea vs everton wsl",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1441,15 +1536,6 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "rockefeller center christmas tree ice skating",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "rockefeller center christmas tree 2026",
           "intent": "informational",
           "demand": 70.0,
@@ -1460,6 +1546,15 @@
         },
         {
           "keyword": "rockefeller center christmas tree lighting",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree route",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1547,101 +1642,6 @@
       ]
     },
     {
-      "pillar": "lorenzo sonego vs wallin",
-      "cluster": [
-        {
-          "keyword": "lorenzo sonego vs wallin",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lorenzo sonego match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lorenzo sonego prediction today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lorenzo sonego prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego score",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego flashscore",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "ghsa football playoffs 2026 schedule",
       "cluster": [
         {
@@ -1672,7 +1672,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ghsa football playoffs bracket",
+          "keyword": "ghsa football playoffs 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1681,7 +1681,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs 2026",
+          "keyword": "ghsa football playoffs bracket",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
