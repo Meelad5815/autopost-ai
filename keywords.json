@@ -172,25 +172,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "chelsea vs everton last 10 matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "rockefeller center christmas tree when does it go up",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -226,15 +208,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "robin montgomery vs maaya rajeshwaran",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "robin montgomery vs janice tjen",
       "intent": "informational",
       "demand": 82.0,
@@ -244,7 +217,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "chelsea vs everton last match",
+      "keyword": "robin montgomery vs tjen prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -253,7 +226,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "chelsea vs everton may 2027",
+      "keyword": "chelsea vs everton last match",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -308,6 +281,24 @@
     },
     {
       "keyword": "rockefeller center christmas tree lighting 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "rockefeller center christmas tree 2026 schedule",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "rockefeller center christmas tree ice skating",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -415,6 +406,24 @@
       "learned_score": 68.2
     },
     {
+      "keyword": "chelsea vs everton wsl",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "chelsea vs everton women",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "chelsea vs everton 6-0",
       "intent": "informational",
       "demand": 76.0,
@@ -479,15 +488,6 @@
     },
     {
       "keyword": "rockefeller center christmas tree lighting",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "rockefeller center christmas tree route",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -640,6 +640,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "robin montgomery janice tjen",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "did lauren boebert lose",
       "intent": "informational",
       "demand": 64.0,
@@ -649,7 +658,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs 2026",
+      "keyword": "ghsa football playoffs bracket",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -658,7 +667,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs bracket",
+      "keyword": "ghsa football playoffs 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -766,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego ranking",
+      "keyword": "lorenzo sonego tennis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego tennis",
+      "keyword": "lorenzo sonego ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +802,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego height",
+      "keyword": "lorenzo sonego flashscore",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego flashscore",
+      "keyword": "lorenzo sonego live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -830,15 +839,6 @@
     },
     {
       "keyword": "robin montgomery injury",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "robin montgomery parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1087,15 +1087,6 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "chelsea vs everton last 10 matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
           "keyword": "chelsea vs everton last match",
           "intent": "informational",
           "demand": 82.0,
@@ -1105,13 +1096,22 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "chelsea vs everton may 2027",
+          "keyword": "chelsea vs everton wsl",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "chelsea vs everton women",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
         },
         {
           "keyword": "chelsea vs everton 6-0",
@@ -1180,101 +1180,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        }
-      ]
-    },
-    {
-      "pillar": "rockefeller center christmas tree when does it go up",
-      "cluster": [
-        {
-          "keyword": "rockefeller center christmas tree when does it go up",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree lighting 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree lighting",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree route",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree tracker",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree arrival",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree location",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree dates",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1374,10 +1279,10 @@
       ]
     },
     {
-      "pillar": "robin montgomery vs maaya rajeshwaran",
+      "pillar": "robin montgomery vs janice tjen",
       "cluster": [
         {
-          "keyword": "robin montgomery vs maaya rajeshwaran",
+          "keyword": "robin montgomery vs janice tjen",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1386,7 +1291,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "robin montgomery vs janice tjen",
+          "keyword": "robin montgomery vs tjen prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1422,6 +1327,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "robin montgomery janice tjen",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "robin montgomery tennis",
           "intent": "informational",
           "demand": 58.0,
@@ -1441,15 +1355,6 @@
         },
         {
           "keyword": "robin montgomery injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "robin montgomery parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1511,6 +1416,101 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "rockefeller center christmas tree lighting 2026",
+      "cluster": [
+        {
+          "keyword": "rockefeller center christmas tree lighting 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree 2026 schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree ice skating",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree lighting",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree tracker",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree arrival",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree location",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree dates",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rockefeller center christmas tree",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -1586,7 +1586,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lorenzo sonego ranking",
+          "keyword": "lorenzo sonego tennis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1595,7 +1595,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lorenzo sonego tennis",
+          "keyword": "lorenzo sonego ranking",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1613,7 +1613,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lorenzo sonego height",
+          "keyword": "lorenzo sonego flashscore",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1622,7 +1622,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lorenzo sonego flashscore",
+          "keyword": "lorenzo sonego live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1672,7 +1672,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ghsa football playoffs 2026",
+          "keyword": "ghsa football playoffs bracket",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1681,7 +1681,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs bracket",
+          "keyword": "ghsa football playoffs 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
