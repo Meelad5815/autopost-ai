@@ -2094,3 +2094,19 @@
 2026-11-08T14:03:33.403798 | Update-only attempt=2
 2026-11-08T14:03:39.047684 | Update-only attempt=3
 2026-11-08T14:03:44.524541 | update_result ok=False
+2026-11-08T15:51:49.855811 | Run post attempt=1 language=en topic=PLC and Arduino automation projects for small businesses
+2026-11-08T15:51:56.948883 | Run post attempt=2 language=en topic=PLC and Arduino automation projects for small businesses
+2026-11-08T15:52:01.717515 | Run post attempt=3 language=en topic=PLC and Arduino automation projects for small businesses
+2026-11-08T15:52:06.402400 | post_result ok=False language=en topic=PLC and Arduino automation projects for small businesses
+2026-11-08T15:52:06.403545 | Run post attempt=1 language=ur topic=Mobile and laptop software troubleshooting
+2026-11-08T15:52:10.953392 | Run post attempt=2 language=ur topic=Mobile and laptop software troubleshooting
+2026-11-08T15:52:17.282495 | Run post attempt=3 language=ur topic=Mobile and laptop software troubleshooting
+2026-11-08T15:52:22.371948 | post_result ok=False language=ur topic=Mobile and laptop software troubleshooting
+2026-11-08T15:52:22.372944 | Run post attempt=1 language=roman topic=AI tools that can run locally without paid APIs
+2026-11-08T15:52:26.785747 | Run post attempt=2 language=roman topic=AI tools that can run locally without paid APIs
+2026-11-08T15:52:31.269992 | Run post attempt=3 language=roman topic=AI tools that can run locally without paid APIs
+2026-11-08T15:52:35.923765 | post_result ok=False language=roman topic=AI tools that can run locally without paid APIs
+2026-11-08T15:52:35.925200 | Update-only attempt=1
+2026-11-08T15:52:42.865778 | Update-only attempt=2
+2026-11-08T15:52:47.343462 | Update-only attempt=3
+2026-11-08T15:52:51.788651 | update_result ok=False
