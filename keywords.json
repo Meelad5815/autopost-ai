@@ -1,186 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "bristol city vs norwich city highlights today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "man city vs west ham lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham 2022",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham 3-1",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham stats",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham 2024",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham 25/26",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "man city vs west ham 2023",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "lorenzo sonego vs olle wallin prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city tickets",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city stats",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city lineups",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city standings",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city timeline",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "bristol city vs norwich city highlights",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "chelsea vs everton last 5 matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -190,16 +10,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "star wars ahsoka season 2 release date 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "man city vs west ham",
+      "keyword": "perth wildcats vs cairns taipans",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -208,43 +19,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "lorenzo sonego vs olle wallin",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bristol city vs norwich city",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "robin montgomery vs janice tjen",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "robin montgomery vs tjen prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "chelsea vs everton last match",
+      "keyword": "ryan garcia vs conor benn",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -262,16 +37,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "star wars ahsoka season 2 release date",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "star wars ahsoka season 2 teaser trailer",
+      "keyword": "nfl week 9 picks against the spread",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -298,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "rockefeller center christmas tree 2026 schedule",
+      "keyword": "artificial intelligence news articles for students",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -307,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "rockefeller center christmas tree ice skating",
+      "keyword": "artificial intelligence news rss read url",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -316,7 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "star wars ahsoka season 2 trailer",
+      "keyword": "nfl week 9 picks straight up",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -325,7 +91,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "star wars ahsoka season 2 cast",
+      "keyword": "michigan senate candidate abdul el sayed",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -334,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "star wars ahsoka season 2 wiki",
+      "keyword": "michigan senate race abdul el sayed",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -343,139 +109,13 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "star wars ahsoka season 2 reddit",
+      "keyword": "abdul el sayed michigan senate campaign",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
-    },
-    {
-      "keyword": "star wars ahsoka season 2 news",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "star wars ahsoka season 2 poster",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "did lauren boebert lose her election",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "did lauren boebert lose the election",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "lorenzo sonego vs wallin",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "robin montgomery vs tjen",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "robin montgomery vs janice",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton women",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton wsl",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton 6-0",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton tickets",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton prediction",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton 2024",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "chelsea vs everton peacock",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -487,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree 2026",
+      "keyword": "artificial intelligence news today usa",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -496,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree lighting",
+      "keyword": "artificial intelligence news in india",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -505,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree route",
+      "keyword": "austin butler movies and shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -514,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree tracker",
+      "keyword": "austin butler and vanessa hudgens",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -523,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree arrival",
+      "keyword": "nfl week 9 predictions 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -532,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree location",
+      "keyword": "nfl week 9 sleeper pickups",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -541,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rockefeller center christmas tree dates",
+      "keyword": "nfl week 9 tv map",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -550,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "star wars ahsoka season 2",
+      "keyword": "michigan senate abdul el sayed",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -559,52 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "did lauren boebert lose update",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ghsa football playoffs 2026 schedule",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ghsa football playoffs 2026 bracket",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ghsa football playoffs 2026 predictions",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "chelsea vs everton",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
-      "learning_boost": 0.0,
-      "learned_score": 61.0
-    },
-    {
-      "keyword": "tottenham schedule premier league",
+      "keyword": "perth wildcats prediction today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -613,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tottenham schedule google calendar",
+      "keyword": "perth wildcats basketball prediction",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tottenham schedule december 2026",
+      "keyword": "celine dion net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -631,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lorenzo sonego match today",
+      "keyword": "celine dion paris 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -640,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lorenzo sonego prediction today",
+      "keyword": "artificial intelligence news today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -649,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rockefeller center christmas tree",
+      "keyword": "artificial intelligence news articles",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -658,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "robin montgomery prediction today",
+      "keyword": "artificial intelligence news philippines",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -667,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "robin montgomery janice tjen",
+      "keyword": "artificial intelligence news updates",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -676,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "did lauren boebert lose",
+      "keyword": "artificial intelligence news paper",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -685,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs 2026",
+      "keyword": "austin butler zoey 101",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -694,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs bracket",
+      "keyword": "austin butler kaia gerber",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -703,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs 2025",
+      "keyword": "inundación en china 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -712,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs 26-27",
+      "keyword": "nfl week 9 schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -721,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs dates",
+      "keyword": "nfl week 9 picks",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -730,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ghsa football playoffs schedule",
+      "keyword": "nfl week 9 predictions",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -739,7 +334,61 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "tottenham schedule 2026",
+      "keyword": "nfl week 9 odds",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "kanye west concert dallas",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "kanye west net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "ryan garcia next fight",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "ryan garcia net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "ryan garcia last fight",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "perth wildcats basketball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tottenham schedule 2026/27",
+      "keyword": "perth wildcats prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tottenham schedule today",
+      "keyword": "perth wildcats roster",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tottenham schedule 2027",
+      "keyword": "perth wildcats schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tottenham schedule 2025",
+      "keyword": "perth wildcats flashscore",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tottenham schedule 25/26",
+      "keyword": "perth wildcats score",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego prediction",
+      "keyword": "celine dion disease",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego ranking",
+      "keyword": "celine dion songs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego tennis",
+      "keyword": "celine dion paris",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lorenzo sonego score",
+      "keyword": "celine dion concert",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "robin montgomery prediction",
+      "keyword": "celine dion age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "robin montgomery ranking",
+      "keyword": "celine dion tour",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "robin montgomery injury",
+      "keyword": "celine dion metallica",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -856,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ghsa football playoffs",
+      "keyword": "artificial intelligence news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -865,7 +514,259 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tottenham schedule",
+      "keyword": "austin butler movies",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "austin butler dune",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "austin butler girlfriend",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "austin butler age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "austin butler height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "inundación en ingles",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "inundación in english",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "inundación en nepal",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "inundación en china",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "inundación en venezuela",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "inundación en caracas",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "nfl week 9",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west dallas",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west concert",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west dad",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west tour",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west tickets",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west setlist",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "kanye west songs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "bitcoin price usd",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "bitcoin price today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "bitcoin price live",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "bitcoin price prediction",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan garcia fight",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan garcia record",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan garcia height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan garcia weight",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ryan garcia wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "perth wildcats",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -874,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lorenzo sonego",
+      "keyword": "celine dion",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,396 +784,115 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "robin montgomery",
+      "keyword": "austin butler",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
+    },
+    {
+      "keyword": "inundación castálida",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "inundación relámpago",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "kanye west",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "bitcoin price",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "bitcoin usd",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "bitcoin news",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "bitcoin stock",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "bitcoin value",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "ryan garcia",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "inundación",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "bitcoin",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
     }
   ],
   "clusters": [
-    {
-      "pillar": "bristol city vs norwich city highlights today",
-      "cluster": [
-        {
-          "keyword": "bristol city vs norwich city highlights today",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "bristol city vs norwich city prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city tickets",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city stats",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city standings",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city timeline",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city highlights",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "bristol city vs norwich city",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        }
-      ]
-    },
-    {
-      "pillar": "man city vs west ham lineups",
-      "cluster": [
-        {
-          "keyword": "man city vs west ham lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham 2022",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham 3-1",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham stats",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham 2024",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham 25/26",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham 2023",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "man city vs west ham",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        }
-      ]
-    },
-    {
-      "pillar": "lorenzo sonego vs olle wallin prediction",
-      "cluster": [
-        {
-          "keyword": "lorenzo sonego vs olle wallin prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "lorenzo sonego vs olle wallin",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "lorenzo sonego vs wallin",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "lorenzo sonego match today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lorenzo sonego prediction today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "lorenzo sonego prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego ranking",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego tennis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego score",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lorenzo sonego",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "chelsea vs everton last 5 matches",
-      "cluster": [
-        {
-          "keyword": "chelsea vs everton last 5 matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "chelsea vs everton last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "chelsea vs everton women",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton wsl",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton 6-0",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton tickets",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton prediction",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton 2024",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton peacock",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "chelsea vs everton",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -1288,105 +908,105 @@
       ]
     },
     {
-      "pillar": "star wars ahsoka season 2 release date 2026",
+      "pillar": "perth wildcats vs cairns taipans",
       "cluster": [
         {
-          "keyword": "star wars ahsoka season 2 release date 2026",
+          "keyword": "perth wildcats vs cairns taipans",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 release date",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 teaser trailer",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 trailer",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 cast",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 wiki",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 news",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2 poster",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "star wars ahsoka season 2",
-          "intent": "informational",
-          "demand": 70.0,
+          "demand": 82.0,
           "competition": 40.0,
-          "ranking_probability": 67.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "perth wildcats prediction today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "perth wildcats basketball prediction",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "perth wildcats basketball",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "perth wildcats prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "perth wildcats roster",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "perth wildcats schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "perth wildcats flashscore",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "perth wildcats score",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "perth wildcats",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "robin montgomery vs janice tjen",
+      "pillar": "ryan garcia vs conor benn",
       "cluster": [
         {
-          "keyword": "robin montgomery vs janice tjen",
+          "keyword": "ryan garcia vs conor benn",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1395,34 +1015,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "robin montgomery vs tjen prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "robin montgomery vs tjen",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "robin montgomery vs janice",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "robin montgomery prediction today",
+          "keyword": "ryan garcia next fight",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1431,7 +1024,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "robin montgomery janice tjen",
+          "keyword": "ryan garcia net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1440,7 +1033,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "robin montgomery prediction",
+          "keyword": "ryan garcia last fight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ryan garcia fight",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1449,7 +1051,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "robin montgomery ranking",
+          "keyword": "ryan garcia record",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1458,7 +1060,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "robin montgomery injury",
+          "keyword": "ryan garcia height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1467,7 +1069,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "robin montgomery",
+          "keyword": "ryan garcia weight",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan garcia wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ryan garcia",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1488,6 +1108,101 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "nfl week 9 picks against the spread",
+      "cluster": [
+        {
+          "keyword": "nfl week 9 picks against the spread",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "nfl week 9 picks straight up",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "nfl week 9 predictions 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nfl week 9 sleeper pickups",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nfl week 9 tv map",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nfl week 9 schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nfl week 9 picks",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nfl week 9 predictions",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nfl week 9 odds",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nfl week 9",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1524,10 +1239,10 @@
       ]
     },
     {
-      "pillar": "rockefeller center christmas tree 2026 schedule",
+      "pillar": "artificial intelligence news articles for students",
       "cluster": [
         {
-          "keyword": "rockefeller center christmas tree 2026 schedule",
+          "keyword": "artificial intelligence news articles for students",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1536,7 +1251,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "rockefeller center christmas tree ice skating",
+          "keyword": "artificial intelligence news rss read url",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1545,7 +1260,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "rockefeller center christmas tree 2026",
+          "keyword": "artificial intelligence news today usa",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1554,7 +1269,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "rockefeller center christmas tree lighting",
+          "keyword": "artificial intelligence news in india",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1563,134 +1278,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "rockefeller center christmas tree route",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree tracker",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree arrival",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree location",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree dates",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rockefeller center christmas tree",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "did lauren boebert lose her election",
-      "cluster": [
-        {
-          "keyword": "did lauren boebert lose her election",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "did lauren boebert lose the election",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "did lauren boebert lose update",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "did lauren boebert lose",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "ghsa football playoffs 2026 schedule",
-      "cluster": [
-        {
-          "keyword": "ghsa football playoffs 2026 schedule",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ghsa football playoffs 2026 bracket",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ghsa football playoffs 2026 predictions",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ghsa football playoffs 2026",
+          "keyword": "artificial intelligence news today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1699,7 +1287,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs bracket",
+          "keyword": "artificial intelligence news articles",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1708,7 +1296,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs 2025",
+          "keyword": "artificial intelligence news philippines",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1717,7 +1305,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs 26-27",
+          "keyword": "artificial intelligence news updates",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1726,7 +1314,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs dates",
+          "keyword": "artificial intelligence news paper",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1735,16 +1323,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ghsa football playoffs schedule",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ghsa football playoffs",
+          "keyword": "artificial intelligence news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1755,10 +1334,74 @@
       ]
     },
     {
-      "pillar": "tottenham schedule premier league",
+      "pillar": "michigan senate candidate abdul el sayed",
       "cluster": [
         {
-          "keyword": "tottenham schedule premier league",
+          "keyword": "michigan senate candidate abdul el sayed",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "michigan senate race abdul el sayed",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "michigan senate abdul el sayed",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "abdul el sayed michigan senate campaign",
+      "cluster": [
+        {
+          "keyword": "abdul el sayed michigan senate campaign",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "austin butler movies and shows",
+      "cluster": [
+        {
+          "keyword": "austin butler movies and shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "austin butler and vanessa hudgens",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "austin butler zoey 101",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1767,7 +1410,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tottenham schedule google calendar",
+          "keyword": "austin butler kaia gerber",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1776,16 +1419,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "tottenham schedule december 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tottenham schedule 2026",
+          "keyword": "austin butler movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1794,7 +1428,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tottenham schedule 2026/27",
+          "keyword": "austin butler dune",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1803,7 +1437,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tottenham schedule today",
+          "keyword": "austin butler girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1812,7 +1446,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tottenham schedule 2027",
+          "keyword": "austin butler age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1821,7 +1455,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tottenham schedule 2025",
+          "keyword": "austin butler height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1830,22 +1464,393 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "tottenham schedule 25/26",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tottenham schedule",
+          "keyword": "austin butler",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "celine dion net worth",
+      "cluster": [
+        {
+          "keyword": "celine dion net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "celine dion paris 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "celine dion disease",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion paris",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion concert",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion tour",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion metallica",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "celine dion",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "inundación en china 2026",
+      "cluster": [
+        {
+          "keyword": "inundación en china 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "inundación en ingles",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "inundación in english",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "inundación en nepal",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "inundación en china",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "inundación en venezuela",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "inundación en caracas",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "inundación castálida",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "inundación relámpago",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "inundación",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "kanye west concert dallas",
+      "cluster": [
+        {
+          "keyword": "kanye west concert dallas",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kanye west net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "kanye west dallas",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west concert",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west dad",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west tour",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west tickets",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west setlist",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "kanye west",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "bitcoin price usd",
+      "cluster": [
+        {
+          "keyword": "bitcoin price usd",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "bitcoin price today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "bitcoin price live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "bitcoin price prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "bitcoin price",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "bitcoin usd",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "bitcoin news",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "bitcoin stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "bitcoin value",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "bitcoin",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     }
