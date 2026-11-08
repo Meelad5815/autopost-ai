@@ -19,6 +19,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "real sociedad vs rayo vallecano lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "real sociedad vs rayo vallecano standings",
       "intent": "informational",
       "demand": 82.0,
@@ -37,7 +46,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "real sociedad vs rayo vallecano lineups",
+      "keyword": "real sociedad vs rayo vallecano live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -46,16 +55,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "real sociedad vs rayo vallecano matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "real sociedad vs rayo vallecano tickets",
+      "keyword": "real sociedad vs rayo vallecano timeline",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -83,15 +83,6 @@
     },
     {
       "keyword": "carlos alcaraz vs casper ruud",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "tee higgins stats vs falcons",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -163,6 +154,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "julia garner movies and tv shows",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "real sociedad rayo vallecano last match",
       "intent": "informational",
       "demand": 70.0,
@@ -209,6 +209,24 @@
     },
     {
       "keyword": "julia garner movies and shows",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "julia garner cbs sunday morning",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "carlos alcaraz us open 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -316,24 +334,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "carlos alcaraz next match",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "carlos alcaraz match today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "ben shelton us open",
       "intent": "informational",
       "demand": 64.0,
@@ -352,34 +352,16 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "tee higgins real name",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "dexter lawrence height weight",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "santiago bernabéu stadium tickets",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "santiago bernabéu stadium photos",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "santiago bernabéu stadium tours",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "game pass ultimate price",
+      "keyword": "santiago bernabéu stadium tickets",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,13 +388,22 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "julia garner husband",
+      "keyword": "santiago bernabéu stadium tours",
       "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
       "learning_boost": 0.0,
-      "learned_score": 52.6
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "game pass ultimate price",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
     },
     {
       "keyword": "julia garner movies",
@@ -424,34 +415,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "julia garner husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "julia garner height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "julia garner madonna",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "julia garner ozark",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "julia garner age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "julia garner weapons",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -488,6 +470,15 @@
     },
     {
       "keyword": "carlos alcaraz injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "carlos alcaraz ranking",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,24 +568,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tee higgins injury",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "tee higgins fantasy",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tee higgins parents",
       "intent": "informational",
       "demand": 58.0,
@@ -604,7 +577,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tee higgins mom",
+      "keyword": "tee higgins injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tee higgins height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tee higgins dad",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -695,6 +686,15 @@
     },
     {
       "keyword": "santiago bernabéu weather",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "santiago bernabéu capacity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -969,6 +969,15 @@
           "learned_score": 78.4
         },
         {
+          "keyword": "real sociedad vs rayo vallecano lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
           "keyword": "real sociedad vs rayo vallecano standings",
           "intent": "informational",
           "demand": 82.0,
@@ -987,7 +996,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "real sociedad vs rayo vallecano lineups",
+          "keyword": "real sociedad vs rayo vallecano live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -996,16 +1005,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "real sociedad vs rayo vallecano matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "real sociedad vs rayo vallecano tickets",
+          "keyword": "real sociedad vs rayo vallecano timeline",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1159,25 +1159,16 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "carlos alcaraz us open 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "carlos alcaraz net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "carlos alcaraz next match",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "carlos alcaraz match today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1222,102 +1213,16 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "carlos alcaraz ranking",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "carlos alcaraz",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "tee higgins stats vs falcons",
-      "cluster": [
-        {
-          "keyword": "tee higgins stats vs falcons",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "tee higgins vs falcons",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "tee higgins stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins college",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins fantasy",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins mom",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tee higgins",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1370,6 +1275,101 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "julia garner movies and tv shows",
+      "cluster": [
+        {
+          "keyword": "julia garner movies and tv shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "julia garner movies and shows",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "julia garner cbs sunday morning",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "julia garner silver surfer",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "julia garner net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "julia garner movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia garner husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia garner height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia garner madonna",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "julia garner",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1469,19 +1469,19 @@
       ]
     },
     {
-      "pillar": "julia garner movies and shows",
+      "pillar": "tee higgins vs falcons",
       "cluster": [
         {
-          "keyword": "julia garner movies and shows",
+          "keyword": "tee higgins vs falcons",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 68.2
         },
         {
-          "keyword": "julia garner silver surfer",
+          "keyword": "tee higgins real name",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1490,16 +1490,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "julia garner net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "julia garner husband",
+          "keyword": "tee higgins stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1508,7 +1499,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "julia garner movies",
+          "keyword": "tee higgins college",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1517,7 +1508,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "julia garner madonna",
+          "keyword": "tee higgins contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1526,7 +1517,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "julia garner ozark",
+          "keyword": "tee higgins parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1535,7 +1526,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "julia garner age",
+          "keyword": "tee higgins injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1544,7 +1535,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "julia garner weapons",
+          "keyword": "tee higgins height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1553,7 +1544,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "julia garner",
+          "keyword": "tee higgins dad",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tee higgins",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1768,8 +1768,17 @@
       ]
     },
     {
-      "pillar": "santiago bernabéu stadium tickets",
+      "pillar": "santiago bernabéu stadium capacity",
       "cluster": [
+        {
+          "keyword": "santiago bernabéu stadium capacity",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
         {
           "keyword": "santiago bernabéu stadium tickets",
           "intent": "informational",
@@ -1780,25 +1789,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "santiago bernabéu stadium photos",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "santiago bernabéu stadium tours",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "santiago bernabéu stadium capacity",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1817,6 +1808,15 @@
         },
         {
           "keyword": "santiago bernabéu weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "santiago bernabéu capacity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
