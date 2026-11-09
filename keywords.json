@@ -10,6 +10,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "west indies vs bangladesh test match",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -64,6 +73,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "west indies vs bangladesh 2026",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "west indies vs bangladesh test",
       "intent": "informational",
       "demand": 82.0,
@@ -74,24 +92,6 @@
     },
     {
       "keyword": "west indies vs bangladesh cricket",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "west indies vs bangladesh prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "west indies vs bangladesh 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -325,15 +325,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jonathan taylor trade deadline news",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "lori vallow wheel of fortune",
       "intent": "informational",
       "demand": 70.0,
@@ -424,25 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "hospitals in spokane washington",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood spokane valley",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood patient portal",
+      "keyword": "jonathan taylor trade broncos",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,16 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "planned parenthood moses lake",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood portal login",
+      "keyword": "planned parenthood patient portal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -497,6 +461,15 @@
     },
     {
       "keyword": "nfl football schedule today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nfl football game tonight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -577,24 +550,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hospital moses lake",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "hospitals in spokane",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "hospital indemnity insurance",
       "intent": "informational",
       "demand": 58.0,
@@ -604,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "planned parenthood spokane",
+      "keyword": "hospital of emotions",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "planned parenthood pullman",
+      "keyword": "planned parenthood mychart",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,6 +595,42 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "planned parenthood careers",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "planned parenthood appointment",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "planned parenthood jobs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "planned parenthood abortion",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "nfl football scores",
       "intent": "informational",
       "demand": 58.0,
@@ -658,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfl football schedule",
+      "keyword": "nfl football tonight",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -668,15 +659,6 @@
     },
     {
       "keyword": "nfl football games",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "nfl football tonight",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,6 +712,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "lori vallow reed",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "lori vallow netflix",
       "intent": "informational",
       "demand": 58.0,
@@ -749,15 +740,6 @@
     },
     {
       "keyword": "lori vallow brother",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "lori vallow husbands",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +775,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hospital wenatchee",
+      "keyword": "hospital texas",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "hospital california",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -812,6 +803,15 @@
     },
     {
       "keyword": "hospitality definition",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "hospital jobs",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -888,7 +888,25 @@
           "learned_score": 78.4
         },
         {
+          "keyword": "west indies vs bangladesh test match",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
           "keyword": "west indies vs bangladesh live",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "west indies vs bangladesh 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -907,24 +925,6 @@
         },
         {
           "keyword": "west indies vs bangladesh cricket",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "west indies vs bangladesh prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "west indies vs bangladesh 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1265,15 +1265,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jonathan taylor trade deadline news",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "jonathan taylor trade rumors",
           "intent": "informational",
           "demand": 64.0,
@@ -1329,6 +1320,15 @@
         },
         {
           "keyword": "jonathan taylor trade vikings",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jonathan taylor trade broncos",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1396,6 +1396,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "lori vallow reed",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "lori vallow netflix",
           "intent": "informational",
           "demand": 58.0,
@@ -1423,15 +1432,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lori vallow husbands",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "lori vallow",
           "intent": "informational",
           "demand": 52.0,
@@ -1443,33 +1443,10 @@
       ]
     },
     {
-      "pillar": "hospitals in spokane washington",
+      "pillar": "planned parenthood near me",
       "cluster": [
         {
-          "keyword": "hospitals in spokane washington",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "hospitals in spokane",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "planned parenthood spokane valley",
-      "cluster": [
-        {
-          "keyword": "planned parenthood spokane valley",
+          "keyword": "planned parenthood near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1487,43 +1464,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "planned parenthood near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood moses lake",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood portal login",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood spokane",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "planned parenthood pullman",
+          "keyword": "planned parenthood mychart",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1542,6 +1483,42 @@
         },
         {
           "keyword": "planned parenthood login",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "planned parenthood careers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "planned parenthood appointment",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "planned parenthood jobs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "planned parenthood abortion",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1591,6 +1568,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "nfl football game tonight",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "nfl football scores",
           "intent": "informational",
           "demand": 58.0,
@@ -1609,7 +1595,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfl football schedule",
+          "keyword": "nfl football tonight",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1619,15 +1605,6 @@
         },
         {
           "keyword": "nfl football games",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nfl football tonight",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1754,15 +1731,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hospital moses lake",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "hospital indemnity insurance",
           "intent": "informational",
           "demand": 58.0,
@@ -1772,7 +1740,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hospital wenatchee",
+          "keyword": "hospital of emotions",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hospital texas",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hospital california",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1782,6 +1768,15 @@
         },
         {
           "keyword": "hospital indemnity",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hospital jobs",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
