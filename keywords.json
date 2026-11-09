@@ -1,15 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "west indies vs bangladesh 1st test",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "west indies vs bangladesh test 2026",
       "intent": "informational",
       "demand": 82.0,
@@ -37,7 +28,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "the gilded age season 4 cast with pictures",
+      "keyword": "the gilded age season 4 episode 2 recap",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -46,7 +37,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "the gilded age season 4 episode 2 recap",
+      "keyword": "the gilded age season 4 cast with pictures",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -82,15 +73,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "west indies vs bangladesh 2026",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "west indies vs bangladesh cricket",
       "intent": "informational",
       "demand": 82.0,
@@ -109,6 +91,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "west indies vs bangladesh 2026",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "west indies vs bangladesh t20",
       "intent": "informational",
       "demand": 82.0,
@@ -119,6 +110,15 @@
     },
     {
       "keyword": "west indies vs bangladesh champions",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "west indies vs bangladesh odi",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -181,15 +181,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lakers kings fan ejected from game",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "the gilded age season 4 cast",
       "intent": "informational",
       "demand": 70.0,
@@ -227,6 +218,15 @@
     },
     {
       "keyword": "wordpress website price in pakistan",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "lakers kings fan ejected video",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -388,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan taylor trade update",
+      "keyword": "jonathan taylor trade kalshi",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jonathan taylor trade kalshi",
+      "keyword": "jonathan taylor trade update",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +424,25 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "hospitals in san francisco",
+      "keyword": "hospitals in spokane washington",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "planned parenthood spokane valley",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "planned parenthood patient portal",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "planned parenthood san francisco",
+      "keyword": "planned parenthood moses lake",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,43 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "planned parenthood san jose",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood santa rosa",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood redwood city",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood mar monte",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "planned parenthood walnut creek",
+      "keyword": "planned parenthood portal login",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -595,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hospital san francisco",
+      "keyword": "hospital moses lake",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hospital san jose",
+      "keyword": "hospitals in spokane",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "planned parenthood oakland",
+      "keyword": "planned parenthood spokane",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +613,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "planned parenthood appointment",
+      "keyword": "planned parenthood pullman",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "planned parenthood portal",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "planned parenthood login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,6 +712,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "lori vallow podcast",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "lori vallow interview",
       "intent": "informational",
       "demand": 58.0,
@@ -731,15 +740,6 @@
     },
     {
       "keyword": "lori vallow dateline",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "lori vallow podcast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "hospital indemnity",
+      "keyword": "hospital wenatchee",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "hospital playlist",
+      "keyword": "hospital indemnity",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -876,17 +876,8 @@
   ],
   "clusters": [
     {
-      "pillar": "west indies vs bangladesh 1st test",
+      "pillar": "west indies vs bangladesh test 2026",
       "cluster": [
-        {
-          "keyword": "west indies vs bangladesh 1st test",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
         {
           "keyword": "west indies vs bangladesh test 2026",
           "intent": "informational",
@@ -915,15 +906,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "west indies vs bangladesh 2026",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "west indies vs bangladesh cricket",
           "intent": "informational",
           "demand": 82.0,
@@ -942,6 +924,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "west indies vs bangladesh 2026",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "west indies vs bangladesh t20",
           "intent": "informational",
           "demand": 82.0,
@@ -952,6 +943,15 @@
         },
         {
           "keyword": "west indies vs bangladesh champions",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "west indies vs bangladesh odi",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -997,7 +997,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "the gilded age season 4 cast with pictures",
+          "keyword": "the gilded age season 4 episode 2 recap",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1006,7 +1006,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "the gilded age season 4 episode 2 recap",
+          "keyword": "the gilded age season 4 cast with pictures",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1135,29 +1135,6 @@
       ]
     },
     {
-      "pillar": "lakers kings fan ejected from game",
-      "cluster": [
-        {
-          "keyword": "lakers kings fan ejected from game",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "lakers kings fan ejected",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
       "pillar": "weather forecast snow storm near me",
       "cluster": [
         {
@@ -1253,6 +1230,29 @@
       ]
     },
     {
+      "pillar": "lakers kings fan ejected video",
+      "cluster": [
+        {
+          "keyword": "lakers kings fan ejected video",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "lakers kings fan ejected",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
       "pillar": "jonathan taylor trade rumors colts",
       "cluster": [
         {
@@ -1301,7 +1301,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jonathan taylor trade update",
+          "keyword": "jonathan taylor trade kalshi",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1310,7 +1310,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jonathan taylor trade kalshi",
+          "keyword": "jonathan taylor trade update",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1378,6 +1378,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "lori vallow podcast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "lori vallow interview",
           "intent": "informational",
           "demand": 58.0,
@@ -1397,15 +1406,6 @@
         },
         {
           "keyword": "lori vallow dateline",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "lori vallow podcast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1443,22 +1443,49 @@
       ]
     },
     {
-      "pillar": "hospitals in san francisco",
+      "pillar": "hospitals in spokane washington",
       "cluster": [
         {
-          "keyword": "hospitals in san francisco",
+          "keyword": "hospitals in spokane washington",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        },
+        {
+          "keyword": "hospitals in spokane",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "planned parenthood near me",
+      "pillar": "planned parenthood spokane valley",
       "cluster": [
+        {
+          "keyword": "planned parenthood spokane valley",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "planned parenthood patient portal",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
         {
           "keyword": "planned parenthood near me",
           "intent": "informational",
@@ -1469,7 +1496,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "planned parenthood san francisco",
+          "keyword": "planned parenthood moses lake",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1478,7 +1505,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "planned parenthood san jose",
+          "keyword": "planned parenthood portal login",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1487,43 +1514,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "planned parenthood santa rosa",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood redwood city",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood mar monte",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood walnut creek",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "planned parenthood oakland",
+          "keyword": "planned parenthood spokane",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1532,7 +1523,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "planned parenthood appointment",
+          "keyword": "planned parenthood pullman",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "planned parenthood portal",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "planned parenthood login",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1745,16 +1754,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hospital san francisco",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hospital san jose",
+          "keyword": "hospital moses lake",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1772,7 +1772,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "hospital indemnity",
+          "keyword": "hospital wenatchee",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1781,7 +1781,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "hospital playlist",
+          "keyword": "hospital indemnity",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
