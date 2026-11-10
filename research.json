@@ -1,47 +1,75 @@
 {
-  "generated_at": "2026-11-10T18:51:23.276945+00:00",
+  "generated_at": "2026-11-10T23:56:10.723219+00:00",
   "feed_count": 8,
   "item_count": 160,
   "items": [
     {
-      "title": "keenan allen",
+      "title": "panthers vs blue jackets",
       "source": "google_trends_us"
     },
     {
-      "title": "kirk cousins vikings",
+      "title": "illinois basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "michelle randolph",
+      "title": "western michigan football",
       "source": "google_trends_us"
     },
     {
-      "title": "abc, nbc cbs evening news ratings",
+      "title": "steven tyler",
       "source": "google_trends_us"
     },
     {
-      "title": "blackman high school",
+      "title": "rutgers basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "nintendo",
+      "title": "bucks vs knicks",
       "source": "google_trends_us"
     },
     {
-      "title": "kobe bryant",
+      "title": "duke basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "stubhub",
+      "title": "rick van vactor",
       "source": "google_trends_us"
     },
     {
-      "title": "don leonard",
+      "title": "iowa basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "ohio stadium",
+      "title": "drummer",
       "source": "google_trends_us"
+    },
+    {
+      "title": "psl",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "zero",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "gasoline",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "michael carrick",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "fuel price in pakistan",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "11.11 sale",
+      "source": "google_trends_pk"
+    },
+    {
+      "title": "abdul majeed achakzai",
+      "source": "google_trends_pk"
     },
     {
       "title": "real madrid vs paris fc",
@@ -53,34 +81,6 @@
     },
     {
       "title": "weather update",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "atonement",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "love in disguise ep 8",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "abu dhabi t10 league",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "single day",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "t 10",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "diwali",
-      "source": "google_trends_pk"
-    },
-    {
-      "title": "t10 live",
       "source": "google_trends_pk"
     },
     {
@@ -172,11 +172,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "AI Automation Reshapes Clinical Data Management as EDC Market Grows - The Clinical Trial Vanguard",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "'Software Is Eating the World' In a Bigger Way: Box CEO Says AI Automation Is Set to Reshape Film, Gaming - Benzinga",
+      "title": "Coupa Reports 58 Percent Payment Growth as AI Automation Expands - EME Outlook Magazine",
       "source": "google_news_ai"
     },
     {
@@ -184,7 +180,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Coupa Reports 58 Percent Payment Growth as AI Automation Expands - EME Outlook Magazine",
+      "title": "Avanade Agrees to Acquire Robiquity to Expand UK AI Automation - Unite.AI",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "'Software Is Eating the World' In a Bigger Way: Box CEO Says AI Automation Is Set to Reshape Film, Gaming - Benzinga",
       "source": "google_news_ai"
     },
     {
@@ -196,7 +196,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "UiPath Joins Google Cloud's Gemini For Healthcare As Launch Partner — Enables AI-Powered Workflow Automation - Stocktwits",
+      "source": "google_news_ai"
+    },
+    {
       "title": "How a Teams-Native AI Receptionist Makes Automation Feel More Human - CX Today",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Just 4% of Customer Service Leaders Hit Their Expected Automation Returns - CMSWire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI Agents Use Digital Twins to Design and Test Automated Lab Workflows - Lab Manager",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "The IPC Market's Shift from Traditional Automation to Edge Intelligence - ARC Advisory Group",
       "source": "google_news_ai"
     },
     {
@@ -204,7 +220,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "UiPath Joins Google Cloud's Gemini For Healthcare As Launch Partner — Enables AI-Powered Workflow Automation - Stocktwits",
+      "title": "Avanade acquires Manchester AI firm Robiquity in Microsoft automation push - Dealroom",
       "source": "google_news_ai"
     },
     {
@@ -212,11 +228,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Opportunities and Challenges of AI for Black Workers in the Rural South - Joint Center",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Advances Robotics, AI and Secure Automation in Professional Cleaning - EIN Presswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "NVIDIA GTC Berlin 2026: The Emergence of an AI-Native Industrial Stack - ARC Advisory Group",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Industrial AI Needs Better Data - NRX Extractor Helps Close the Gap - ARC Advisory Group",
       "source": "google_news_ai"
     },
     {
-      "title": "AI Agents Use Digital Twins to Plan Automated Labs - Lab Manager",
+      "title": "Exclusive: FormAssembly overhauls its platform to expand into AI-powered process automation - SiliconANGLE",
       "source": "google_news_ai"
     },
     {
@@ -224,11 +252,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Opportunities and Challenges of AI for Black Workers in the Rural South - Joint Center",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Exclusive: FormAssembly overhauls its platform to expand into AI-powered process automation - SiliconANGLE",
+      "title": "From Hype to Commercial Reality: ABI Research Reveals 60 Technology Predictions for 2027, Including AI Data Center Consolidation and Robotics Growth - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -240,7 +264,7 @@
       "source": "google_news_ai"
     },
     {
-      "title": "From Hype to Commercial Reality: ABI Research Reveals 60 Technology Predictions for 2027, Including AI Data Center Consolidation and Robotics Growth - Yahoo Finance",
+      "title": "Verato Accelerates Enterprise AI Transformation with Google Cloud’s Gemini for Healthcare - Google Cloud Press Corner",
       "source": "google_news_ai"
     },
     {
@@ -248,23 +272,11 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Path Robotics raises stunning $300 million at $2.45 billion valuation to expand physical AI in manufacturing - Robotics &amp; Automation News",
+      "title": "How rural healthcare organizations are turning AI investments into measurable performance improvements - Healthcare Dive",
       "source": "google_news_ai"
     },
     {
-      "title": "Industry Insights: Path Robotics Raises $300M Series E - A3 Association for Advancing Automation",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Notable Health: AI Intake &amp; EHR Automation Guide - CASRAI",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Verato Accelerates Enterprise AI Transformation with Google Cloud’s Gemini for Healthcare - Google Cloud Press Corner",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "PSC Biotech Partners with Clever Culture Systems to Bring AI-Enabled Microbiology Automation to Pharma Manufacturers - EIN News",
+      "title": "Provendry brings AI and automation to independent feed mills - Feedstuffs",
       "source": "google_news_ai"
     },
     {
@@ -272,16 +284,8 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Pope Leo XIV warns AI and automation could threaten jobs and workers' rights - AzerNews",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Rockwell Automation Bets on Industrial AI and Cross-Border Ecosystems to Break \"Order Drought\" at Sixth Consecutive CIIE Appearance - BigGo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Revolut to reduce hiring after AI automation campaign - City AM",
-      "source": "google_news_ai"
+      "title": "Google’s November 2026 Core Update Starts Rolling Out - Search Engine Journal",
+      "source": "google_news_seo"
     },
     {
       "title": "Google Search Ranking Volatility Status: Update November 8th/9th? - Search Engine Roundtable",
@@ -304,11 +308,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites - Search Engine Roundtable",
+      "title": "Why Google Search Grows Faster Than It Earns: 2026 Analysis - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Rank Data Issues, Lighthouse Update &amp; AI Opt-Out – SEO Pulse - Search Engine Journal",
+      "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -320,19 +324,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "ChatGPT Says It Handles 20% of Google Search Volume (2026) - ALM Corp",
+      "title": "How Google Treats 301 and 302 Redirects: 2026 Ranking Guide - ALM Corp",
       "source": "google_news_seo"
     },
     {
-      "title": "How to Rank Higher (&amp; Get More Visibility) on Google in 2026 - Backlinko",
+      "title": "Google Rank Data Issues, Lighthouse Update &amp; AI Opt-Out – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
       "title": "Daily Search Forum Recap: November 10, 2026 - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -352,6 +352,10 @@
       "source": "google_news_seo"
     },
     {
+      "title": "Google November 2026 Core Update Is Rolling Out - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Aggregator &amp; Supplier Units Gain 'Things To Do' Query Support - Search Engine Roundtable",
       "source": "google_news_seo"
     },
@@ -360,7 +364,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google November 2026 Core Update Is Rolling Out - Search Engine Roundtable",
+      "title": "How to Rank Higher (&amp; Get More Visibility) on Google in 2026 - Backlinko",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google’s AI Features Sent One Site An Estimated 21% Of Its Clicks - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -372,11 +380,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
+      "title": "Google Algorithm Updates &amp; Changes: A Complete History - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "YouTube description updates linked to 359% rise in AI retrievals - Search Engine Land",
+      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -388,19 +396,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google AI Mode multiturn ads are now rolling out - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
       "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Launches Core Update Amid I/O AI Search Overhaul – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -412,15 +412,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
       "title": "WordPress REST API vs MCP: Application Passwords, OAuth and When You Need Each - Themeisle",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -432,7 +428,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades - The Hacker News",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
@@ -444,11 +440,15 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session - The Hacker News",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Kinsta Launches Vulnerability Protection, Powered by Patchstack, to Protect WordPress Sites at No Extra Cost - Yahoo Finance",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Celebrating UP Week: The People, Processes or Partnerships Behind Our Work - WordPress.com",
+      "title": "REVIEW: Pierre (S1 E6/6) - The Killing Times",
       "source": "google_news_wordpress"
     },
     {
@@ -460,19 +460,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers Launch Over 240,000 Attacks Targeting WordPress Core Remote Code Execution Flaw - Cyber Press",
+      "title": "Hackers Launch 240,000 Attempts to Exploit a WordPress Core Flaw That Allows Remote Code Execution - CyberSecurityNews",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hackers Exploit WordPress Core RCE Vulnerability in Over 240,000 Attack Attempts - GBHackers News",
+      "title": "CISA Warns Hackers Are Exploiting 18-Year-Old WordPress Core Vulnerability - Hackread",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Update Flaw Draws 240,000 Attacks; Fix Is 7.1.4 - FourWeekMBA",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "“2026 Booker winner” – The End of Everything by M John Harrison #2026bookershortlist - Bookmunch",
+      "title": "Wordfence blocks over 240,000 requests targeting WordPress flaw - Mezha.net",
       "source": "google_news_wordpress"
     },
     {
@@ -480,7 +476,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Trailer drops for two-part Art Detectives special - The Killing Times",
+      "title": "Celebrating UP Week: The People, Processes or Partnerships Behind Our Work - WordPress.com",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "“2026 Booker winner” – The End of Everything by M John Harrison #2026bookershortlist - Bookmunch",
       "source": "google_news_wordpress"
     }
   ],
