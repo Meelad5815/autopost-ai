@@ -19,7 +19,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "are schools closed on veterans day in nj",
+      "keyword": "are schools closed on veterans day 2026 usa",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -28,7 +28,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "are schools closed on veterans day 2026 usa",
+      "keyword": "are schools closed on veterans day this year",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "are schools closed on veterans day in nj",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -56,15 +65,6 @@
     },
     {
       "keyword": "are schools closed on veterans day in maryland",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "are schools closed on veterans day in georgia",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -145,42 +145,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "rick hendrick chevrolet of buford",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "rick hendrick toyota of fayetteville",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "dallas weather 30 day forecast",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "dallas weather 15 day forecast",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "nfl scores week 9 2026",
       "intent": "informational",
       "demand": 70.0,
@@ -200,15 +164,6 @@
     },
     {
       "keyword": "keira knightley and natalie portman",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "keira knightley green dress atonement",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,6 +226,33 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "rick hendrick chevrolet buford",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rick hendrick private jet",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rick hendrick cdjr duluth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "djia futures now live",
       "intent": "informational",
       "demand": 64.0,
@@ -298,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "impuestos internos republica dominicana",
+      "keyword": "impuestos en estados unidos",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dallas weather in october",
+      "keyword": "dallas weather in january",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -326,6 +308,24 @@
     },
     {
       "keyword": "dallas weather in november",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dallas weather in october",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dallas weather in december",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,15 +370,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "keira knightley star wars",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "keira knightley green dress",
       "intent": "informational",
       "demand": 64.0,
@@ -388,7 +379,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "weather houston this week",
+      "keyword": "keira knightley love actually",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "keira knightley star wars",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +406,52 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "weather houston this week",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "weather houston tx today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "medicaid income limits iowa",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "medicaid iowa phone number",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "medicaid dentist near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "medicaid dentist des moines",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,15 +469,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rick hendrick honda",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "rick hendrick toyota",
       "intent": "informational",
       "demand": 58.0,
@@ -442,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rick hendrick bmw",
+      "keyword": "rick hendrick news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,15 +568,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "impuesto predial medellin",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "impuesto predial bogota",
       "intent": "informational",
       "demand": 58.0,
@@ -550,7 +577,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "impuesto predial quito",
+      "keyword": "impuesto predial medellin",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "impuesto vehicular bogotá",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfl scores tonight",
+      "keyword": "nfl scores sunday",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "nfl scores sunday",
+      "keyword": "nfl scores cbs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,6 +703,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "weather houston today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather houston october",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "weather houston radar",
       "intent": "informational",
       "demand": 58.0,
@@ -685,25 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "weather houston today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "weather houston celsius",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "medicaid phone number",
+      "keyword": "medicaid application iowa",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "impuesto predial",
+      "keyword": "impuestos meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "impuestos meaning",
+      "keyword": "impuesto predial",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,16 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "medicaid login",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medicaid eligibility",
+      "keyword": "medicaid iowa",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,34 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "medicaid texas",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medicaid california",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medicaid louisiana",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "medicaid florida",
+      "keyword": "medicaid login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -893,7 +893,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "are schools closed on veterans day in nj",
+          "keyword": "are schools closed on veterans day 2026 usa",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -902,7 +902,16 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "are schools closed on veterans day 2026 usa",
+          "keyword": "are schools closed on veterans day this year",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "are schools closed on veterans day in nj",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -930,15 +939,6 @@
         },
         {
           "keyword": "are schools closed on veterans day in maryland",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "are schools closed on veterans day in georgia",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1052,16 +1052,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "keira knightley green dress atonement",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "keira knightley star wars",
+          "keyword": "keira knightley green dress",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1070,7 +1061,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "keira knightley green dress",
+          "keyword": "keira knightley love actually",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "keira knightley star wars",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1107,196 +1107,6 @@
         },
         {
           "keyword": "keira knightley",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "rick hendrick chevrolet of buford",
-      "cluster": [
-        {
-          "keyword": "rick hendrick chevrolet of buford",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rick hendrick toyota of fayetteville",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "rick hendrick net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rick hendrick chevrolet duluth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rick hendrick city chevrolet",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "rick hendrick chevrolet",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rick hendrick honda",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rick hendrick toyota",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rick hendrick bmw",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "rick hendrick",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "dallas weather 30 day forecast",
-      "cluster": [
-        {
-          "keyword": "dallas weather 30 day forecast",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "dallas weather 15 day forecast",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "dallas weather 10 day",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dallas weather in october",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dallas weather in november",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dallas weather by month",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dallas weather forecast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dallas weather today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dallas weather radar",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dallas weather",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1373,7 +1183,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfl scores tonight",
+          "keyword": "nfl scores sunday",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,7 +1192,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "nfl scores sunday",
+          "keyword": "nfl scores cbs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1428,7 +1238,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "weather houston this week",
+          "keyword": "weather houston 10 day",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1437,7 +1247,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "weather houston 10 day",
+          "keyword": "weather houston this week",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1464,6 +1274,24 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "weather houston today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather houston october",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "weather houston radar",
           "intent": "informational",
           "demand": 58.0,
@@ -1474,24 +1302,6 @@
         },
         {
           "keyword": "weather houston hourly",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "weather houston today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "weather houston celsius",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1523,7 +1333,43 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "medicaid phone number",
+          "keyword": "medicaid income limits iowa",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "medicaid iowa phone number",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "medicaid dentist near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "medicaid dentist des moines",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "medicaid application iowa",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1532,16 +1378,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "medicaid login",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medicaid eligibility",
+          "keyword": "medicaid iowa",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1559,34 +1396,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "medicaid texas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medicaid california",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medicaid louisiana",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "medicaid florida",
+          "keyword": "medicaid login",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1602,6 +1412,101 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "rick hendrick net worth",
+      "cluster": [
+        {
+          "keyword": "rick hendrick net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rick hendrick chevrolet duluth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rick hendrick city chevrolet",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rick hendrick chevrolet buford",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rick hendrick private jet",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rick hendrick cdjr duluth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rick hendrick chevrolet",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rick hendrick toyota",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rick hendrick news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rick hendrick",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1722,15 +1627,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "impuesto predial medellin",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "impuesto predial bogota",
           "intent": "informational",
           "demand": 58.0,
@@ -1740,7 +1636,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "impuesto predial quito",
+          "keyword": "impuesto predial medellin",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "impuesto vehicular bogotá",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1769,10 +1674,10 @@
       ]
     },
     {
-      "pillar": "impuestos internos republica dominicana",
+      "pillar": "impuestos en estados unidos",
       "cluster": [
         {
-          "keyword": "impuestos internos republica dominicana",
+          "keyword": "impuestos en estados unidos",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1791,6 +1696,101 @@
         },
         {
           "keyword": "impuestos meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "dallas weather 10 day",
+      "cluster": [
+        {
+          "keyword": "dallas weather 10 day",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dallas weather in january",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dallas weather in november",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dallas weather in october",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dallas weather in december",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dallas weather by month",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dallas weather forecast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dallas weather today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dallas weather radar",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dallas weather",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,

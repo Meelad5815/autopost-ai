@@ -2270,3 +2270,19 @@
 2026-11-10T16:54:16.045952 | Update-only attempt=2
 2026-11-10T16:54:19.664616 | Update-only attempt=3
 2026-11-10T16:54:23.201814 | update_result ok=False
+2026-11-10T18:31:41.527904 | Run post attempt=1 language=en topic=Mobile and laptop software troubleshooting
+2026-11-10T18:31:54.241857 | Run post attempt=2 language=en topic=Mobile and laptop software troubleshooting
+2026-11-10T18:32:00.004574 | Run post attempt=3 language=en topic=Mobile and laptop software troubleshooting
+2026-11-10T18:32:05.873595 | post_result ok=False language=en topic=Mobile and laptop software troubleshooting
+2026-11-10T18:32:05.875176 | Run post attempt=1 language=ur topic=AI tools that can run locally without paid APIs
+2026-11-10T18:32:11.413607 | Run post attempt=2 language=ur topic=AI tools that can run locally without paid APIs
+2026-11-10T18:32:16.964508 | Run post attempt=3 language=ur topic=AI tools that can run locally without paid APIs
+2026-11-10T18:32:22.938293 | post_result ok=False language=ur topic=AI tools that can run locally without paid APIs
+2026-11-10T18:32:22.939727 | Run post attempt=1 language=roman topic=Website SEO and Google-friendly content practices
+2026-11-10T18:32:28.486040 | Run post attempt=2 language=roman topic=Website SEO and Google-friendly content practices
+2026-11-10T18:32:34.256859 | Run post attempt=3 language=roman topic=Website SEO and Google-friendly content practices
+2026-11-10T18:32:39.933256 | post_result ok=False language=roman topic=Website SEO and Google-friendly content practices
+2026-11-10T18:32:39.934515 | Update-only attempt=1
+2026-11-10T18:32:45.470926 | Update-only attempt=2
+2026-11-10T18:32:51.071646 | Update-only attempt=3
+2026-11-10T18:32:56.639064 | update_result ok=False
