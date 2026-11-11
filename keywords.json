@@ -19,6 +19,15 @@
       "learned_score": 73.0
     },
     {
+      "keyword": "veterans day parade nyc time and route",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
       "keyword": "stock market open today up or down",
       "intent": "informational",
       "demand": 70.0,
@@ -74,15 +83,6 @@
     },
     {
       "keyword": "veterans day parade nyc start time",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "veterans day parade nyc live stream",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc 2025",
+      "keyword": "veterans day parade nyc location",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dunkin veterans day free coffee",
+      "keyword": "dunkin veterans day free donut",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -460,15 +460,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dunkin veterans day 2025",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "dunkin veterans day donut",
       "intent": "informational",
       "demand": 64.0,
@@ -478,7 +469,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dunkin coffee veterans day",
+      "keyword": "dunkin veterans day free",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "dunkin veterans day 2025",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -533,6 +533,15 @@
     },
     {
       "keyword": "north royalton shooting today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "north royalton 3 dead",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -622,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer bikini",
+      "keyword": "dylan dreyer salary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer salary",
+      "keyword": "dylan dreyer bikini",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war memorial",
+      "keyword": "vietnam war game",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war game",
+      "keyword": "vietnam war memorial",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,7 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war casualties",
+      "keyword": "vietnam war songs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,16 +829,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war songs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton homicide",
+      "keyword": "vietnam war casualties",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -839,6 +839,15 @@
     },
     {
       "keyword": "north royalton shooting",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "north royalton homicide",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -866,15 +875,6 @@
     },
     {
       "keyword": "north royalton firefighter",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton police",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -954,6 +954,173 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "veterans day parade nyc time and route",
+      "cluster": [
+        {
+          "keyword": "veterans day parade nyc time and route",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "veterans day parade nyc street closures",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "veterans day parade nyc route map",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "veterans day parade nyc route 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "veterans day parade nyc start time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "veterans day parade 2026 near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "veterans day parade nyc 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade nyc route",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade nyc time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade nyc location",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade san diego",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade jacksonville fl",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade nyc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "veterans day parade 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "veterans day parade phoenix",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "veterans day parade route",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "veterans day parade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1081,173 +1248,6 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "veterans day parade nyc street closures",
-      "cluster": [
-        {
-          "keyword": "veterans day parade nyc street closures",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc route map",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc route 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc start time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc live stream",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade 2026 near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc route",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc 2025",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade san diego",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade jacksonville fl",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade phoenix",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade route",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
@@ -1442,10 +1442,10 @@
       ]
     },
     {
-      "pillar": "dunkin veterans day free coffee",
+      "pillar": "dunkin veterans day free donut",
       "cluster": [
         {
-          "keyword": "dunkin veterans day free coffee",
+          "keyword": "dunkin veterans day free donut",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1499,15 +1499,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin veterans day 2025",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "dunkin veterans day donut",
           "intent": "informational",
           "demand": 64.0,
@@ -1517,7 +1508,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin coffee veterans day",
+          "keyword": "dunkin veterans day free",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "dunkin veterans day 2025",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1653,7 +1653,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dylan dreyer bikini",
+          "keyword": "dylan dreyer salary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1662,7 +1662,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dylan dreyer salary",
+          "keyword": "dylan dreyer bikini",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1748,6 +1748,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "north royalton 3 dead",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "north royalton high school",
           "intent": "informational",
           "demand": 64.0,
@@ -1757,7 +1766,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "north royalton homicide",
+          "keyword": "north royalton shooting",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1766,7 +1775,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "north royalton shooting",
+          "keyword": "north royalton homicide",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1794,15 +1803,6 @@
         },
         {
           "keyword": "north royalton firefighter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "north royalton police",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1852,7 +1852,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war memorial",
+          "keyword": "vietnam war game",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1861,7 +1861,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war game",
+          "keyword": "vietnam war memorial",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1879,7 +1879,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war casualties",
+          "keyword": "vietnam war songs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1897,7 +1897,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war songs",
+          "keyword": "vietnam war casualties",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
