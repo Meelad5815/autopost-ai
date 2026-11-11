@@ -19,15 +19,6 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "veterans day parade nyc time and route",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
       "keyword": "stock market open today up or down",
       "intent": "informational",
       "demand": 70.0,
@@ -73,16 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "veterans day parade nyc route 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "veterans day parade nyc start time",
+      "keyword": "veterans day parade nyc live stream",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,15 +91,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today or closed",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "stock market open today in india",
       "intent": "informational",
       "demand": 70.0,
@@ -128,6 +101,15 @@
     },
     {
       "keyword": "stock market open today columbus day",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "stock market open today or closed",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +172,25 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "veterans day parade nyc map",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "veterans day parade nyc location",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "veterans day parade nyc schedule",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -451,6 +451,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "dunkin veterans day free",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "dunkin veterans day offer",
       "intent": "informational",
       "demand": 64.0,
@@ -469,16 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dunkin veterans day free",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day 2025",
+      "keyword": "dunkin veterans day freebie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -766,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war movies",
+      "keyword": "vietnam war years",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war years",
+      "keyword": "vietnam war movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war songs",
+      "keyword": "vietnam war draft",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +820,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war draft",
+      "keyword": "vietnam war songs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -958,10 +958,10 @@
       ]
     },
     {
-      "pillar": "veterans day parade nyc time and route",
+      "pillar": "stock market open today up or down",
       "cluster": [
         {
-          "keyword": "veterans day parade nyc time and route",
+          "keyword": "stock market open today up or down",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -969,6 +969,124 @@
           "learning_boost": 0.0,
           "learned_score": 73.0
         },
+        {
+          "keyword": "stock market open today veterans day",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stock market open today or not",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stock market open today in india",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stock market open today columbus day",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stock market open today or closed",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stock market open today central time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "stock market open today time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "stock market open today live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "stock market open today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "wordpress website development price in pakistan",
+      "cluster": [
+        {
+          "keyword": "wordpress website development price in pakistan",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "wordpress website development cost in india",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "wordpress website price in pakistan",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "veterans day parade nyc street closures",
+      "cluster": [
         {
           "keyword": "veterans day parade nyc street closures",
           "intent": "informational",
@@ -988,16 +1106,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "veterans day parade nyc route 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc start time",
+          "keyword": "veterans day parade nyc live stream",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1042,7 +1151,25 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "veterans day parade nyc map",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "veterans day parade nyc location",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "veterans day parade nyc schedule",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1121,133 +1248,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "stock market open today up or down",
-      "cluster": [
-        {
-          "keyword": "stock market open today up or down",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "stock market open today veterans day",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "stock market open today or not",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "stock market open today or closed",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "stock market open today in india",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "stock market open today columbus day",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "stock market open today central time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "stock market open today time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "stock market open today live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "stock market open today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "wordpress website development price in pakistan",
-      "cluster": [
-        {
-          "keyword": "wordpress website development price in pakistan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "wordpress website development cost in india",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "wordpress website price in pakistan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
         }
       ]
     },
@@ -1490,6 +1490,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "dunkin veterans day free",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "dunkin veterans day offer",
           "intent": "informational",
           "demand": 64.0,
@@ -1508,16 +1517,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin veterans day free",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day 2025",
+          "keyword": "dunkin veterans day freebie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1834,7 +1834,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war movies",
+          "keyword": "vietnam war years",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1843,7 +1843,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war years",
+          "keyword": "vietnam war movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1879,7 +1879,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war songs",
+          "keyword": "vietnam war draft",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1888,7 +1888,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "vietnam war draft",
+          "keyword": "vietnam war songs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
