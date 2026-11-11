@@ -55,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "veterans day parade nyc route map",
+      "keyword": "veterans day parade nyc live stream",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -64,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "veterans day parade nyc live stream",
+      "keyword": "measles symptoms in 1 year old",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,6 +199,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "veterans day parade nyc live",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "noah's ark discovery in turkey",
       "intent": "informational",
       "demand": 70.0,
@@ -271,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade san diego",
+      "keyword": "veterans day parade san francisco",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade jacksonville fl",
+      "keyword": "north royalton firefighter ryan milligan",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -460,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dunkin veterans day offer",
+      "keyword": "dunkin veterans day donut",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dunkin veterans day donut",
+      "keyword": "dunkin veterans day offer",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,15 +514,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "veterans day parade phoenix",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "veterans day parade route",
       "intent": "informational",
       "demand": 64.0,
@@ -523,16 +523,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "north royalton fire department",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "north royalton shooting today",
+      "keyword": "veterans day parade folsom",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -550,7 +541,25 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "north royalton high school",
+      "keyword": "north royalton shooting today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "north royalton swat standoff",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "north royalton tiffany drive",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -595,15 +604,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit schedule",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "trump-xi summit summary",
       "intent": "informational",
       "demand": 58.0,
@@ -613,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit live",
+      "keyword": "trump-xi summit schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer boyfriend",
+      "keyword": "trump-xi summit live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer divorce",
+      "keyword": "dylan dreyer boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -659,6 +659,15 @@
     },
     {
       "keyword": "dylan dreyer husband",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "dylan dreyer divorce",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer instagram",
+      "keyword": "dylan dreyer photos",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -722,15 +731,6 @@
     },
     {
       "keyword": "measles symptoms rash",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "measles symptoms infant",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -838,25 +838,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "north royalton shooting",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "north royalton homicide",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -875,6 +857,15 @@
     },
     {
       "keyword": "north royalton firefighter",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "north royalton swat",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1097,15 +1088,6 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "veterans day parade nyc route map",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "veterans day parade nyc live stream",
           "intent": "informational",
           "demand": 70.0,
@@ -1178,6 +1160,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "veterans day parade nyc live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "veterans day parade near me",
           "intent": "informational",
           "demand": 70.0,
@@ -1187,16 +1178,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "veterans day parade san diego",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade jacksonville fl",
+          "keyword": "veterans day parade san francisco",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1223,7 +1205,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "veterans day parade phoenix",
+          "keyword": "veterans day parade route",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1232,7 +1214,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "veterans day parade route",
+          "keyword": "veterans day parade folsom",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1248,6 +1230,101 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "measles symptoms in 1 year old",
+      "cluster": [
+        {
+          "keyword": "measles symptoms in 1 year old",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "measles symptoms in vaccinated adults",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "measles symptoms in kids",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "measles symptoms in babies",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "measles symptoms in toddlers",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "measles symptoms if vaccinated",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "measles symptoms adults",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "measles symptoms treatment",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "measles symptoms rash",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "measles symptoms",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1347,101 +1424,6 @@
       ]
     },
     {
-      "pillar": "measles symptoms in vaccinated adults",
-      "cluster": [
-        {
-          "keyword": "measles symptoms in vaccinated adults",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "measles symptoms in kids",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms in babies",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms in toddlers",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms if vaccinated",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms adults",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "measles symptoms treatment",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "measles symptoms rash",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "measles symptoms infant",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "measles symptoms",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "dunkin veterans day free donut",
       "cluster": [
         {
@@ -1499,7 +1481,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin veterans day offer",
+          "keyword": "dunkin veterans day donut",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1508,7 +1490,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin veterans day donut",
+          "keyword": "dunkin veterans day offer",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1533,6 +1515,101 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "north royalton firefighter ryan milligan",
+      "cluster": [
+        {
+          "keyword": "north royalton firefighter ryan milligan",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "north royalton 3 dead",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "north royalton shooting today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "north royalton swat standoff",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "north royalton tiffany drive",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "north royalton homicide",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "north royalton ohio",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "north royalton firefighter",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "north royalton swat",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "north royalton",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1594,7 +1671,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit schedule",
+          "keyword": "trump-xi summit summary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1603,7 +1680,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit summary",
+          "keyword": "trump-xi summit schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,15 +1721,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dylan dreyer boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "dylan dreyer salary",
           "intent": "informational",
           "demand": 58.0,
@@ -1671,7 +1739,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dylan dreyer divorce",
+          "keyword": "dylan dreyer boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1681,6 +1749,15 @@
         },
         {
           "keyword": "dylan dreyer husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "dylan dreyer divorce",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1707,7 +1784,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "dylan dreyer instagram",
+          "keyword": "dylan dreyer photos",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1717,101 +1794,6 @@
         },
         {
           "keyword": "dylan dreyer",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "north royalton fire department",
-      "cluster": [
-        {
-          "keyword": "north royalton fire department",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton shooting today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton 3 dead",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton high school",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton shooting",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "north royalton homicide",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "north royalton news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "north royalton ohio",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "north royalton firefighter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "north royalton",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
