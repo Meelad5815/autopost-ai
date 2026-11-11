@@ -1,6 +1,6 @@
 # MRK Earning Opportunities
 
-Generated: 2026-11-11T06:20:30.858888+00:00
+Generated: 2026-11-11T19:35:40.246459+00:00
 
 ## 1. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
 - Score: **18**
@@ -102,7 +102,7 @@ Generated: 2026-11-11T06:20:30.858888+00:00
 - Score: **13**
 - Source: Shopify
 - Published: Fri, 18 Aug 2017 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0h0YzVGaEYxNjg1U0Z3YjNoTm9sWHVtbXQ4ZTJ3SFFyeFhOV1AyeVN1TXJBUmJDSFc4Nm5YODFoS0g3SW84N3BzMWVLNEFJOTNaZGsxdkJFVjRuVkMxNm82eUNkdEU4WVNQNDZQS2FOQnlNV2dMM2RzMEJhTUZnZFhteU1ucHdMclJzVTRMaVJkM3kycUFLRXpLN0ZSRGhnd3ZUNFpwWHI5MEl1cmFJ?oc=5
+- URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnNiWmJadm5lN2tLV0FnbWRiQm1NUjZwM19RX1FIdzdHNndIOFpRWDZKUnUzQVh1d19tSFRIbEJhVlc4aW5famtiWnlBQ1ZkZjdXWHUzcFpaaFkzZzVPRlMyRk9NMWt3LTk3aWd5aHpwekZjM2tVal9KUVI1aXlCZ1JiYzQ0ZlFsSVVvUElBb3VGUGtmQ2J6Yzh3UXhiYTdiQTVCOTBac01Qa1E?oc=5
 
 ## 18. My Mother Didn't Understand Why I Left My Stable Tech Job to Freelance - Business Insider
 - Score: **11**
@@ -122,47 +122,47 @@ Generated: 2026-11-11T06:20:30.858888+00:00
 - Published: Wed, 01 Jul 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0Y5MG9tVTBQY2lldmE2eXNUS1o3X01tZU9rb2lLcWE4cHBRbkxmb0hneU03OFk5eWdWeDh0WnZZV2txbzdUY1BTeHBZc0E4cVM3YVZfWDYya0xWUUFLRmF3S0E0ZE5aeDJLRHNNQ21QdkE4bEZoREVFTlFTYUVBZGc5YnI2dkRhajg3WVJZdHBTWk44bEJZXw?oc=5
 
-## 21. 5 Entry-Level Remote Jobs (and How to Apply) - Coursera
-- Score: **9**
-- Source: Coursera
-- Published: Wed, 01 Jul 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9VV003WXlid2lxQzVXTUNtbUgtT2k4eWxUY1E0RGNWNW1pWHptTWdtS0s2bVJsNkJFcmpNZzQwdUdmZnR6QXVMTzk0aTBfeVV6eENadWNzM3ZjYmlYejhSR3NXb3JHZkpidlIyZA?oc=5
-
-## 22. Top 10 Entry-Level Tech Jobs in the US in 2026 (No Experience Required) - nucamp.co
+## 21. Top 10 Entry-Level Tech Jobs in the US in 2026 (No Experience Required) - nucamp.co
 - Score: **9**
 - Source: nucamp.co
 - Published: Sun, 04 Jan 2026 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE1VYXhjbWR0U0VfZzJmWHFtUkgyaW5sM2lqZElMSm1POVIyQ0FHUXlVOUtlR2N4ZW16V2dES01mWnkzNlhYcjBCTDJRNng0dnRVeWV5SGw0bTg2SG5yaHEwOEJiVW9meDVNX0NzTkVwQWkyNXQyWEpPUkw5c3VUNGdJZ1pwWjM0UkdQM1Z0ZFFuX0R2bjJRcjVNeUo?oc=5
 
-## 23. 5 Entry-Level Remote Jobs to Explore (and Where to Find More) - Coursera
+## 22. 5 Entry-Level Remote Jobs to Explore (and Where to Find More) - Coursera
 - Score: **9**
 - Source: Coursera
 - Published: Mon, 30 Mar 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLTGd1SUpyMU9hUnN4WGF1UGhucVdVNzBOMHB0ZWYyNS00eENRM2oyVUpaY044QTR0U0FTNTFDaXRLR2QtZjZ6WTVLeGFmSkJwdzlLUHpSOU9FYlJQRlh0WE9rLUE4X05v?oc=5
 
-## 24. Top 5 Entry-Level Computer Science Jobs + How to Get One - Coursera
+## 23. Top 5 Entry-Level Computer Science Jobs + How to Get One - Coursera
 - Score: **9**
 - Source: Coursera
 - Published: Mon, 08 Jun 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE8zaEpqYUR0Z0Z5MkdSNHpKVGw3QXBmMUd2WHljMGt3SEZNallYM2UxRndYTldpcXM3YkVyZVdxV2F4dDZRQUtoVEk3ZnR4WVNwakZ4NEZJX2pqd09UeGNFZlN5WkFzWlROQVhLdjlVLWg5V2dwWmc?oc=5
 
-## 25. How to land an entry-level tech job (Even without experience) - University of Cincinnati
+## 24. How to land an entry-level tech job (Even without experience) - University of Cincinnati
 - Score: **9**
 - Source: University of Cincinnati
 - Published: Fri, 27 Mar 2026 22:27:41 GMT
 - URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ19OcTN4dmdXYktmd2hIWE55eXZDdnUtS0IwOWpvLUN1U3BEVGI2SVlRVUJxT1dtNkVrcU01NlFwZXcxWW5MZUxhQVk5Vlp2dVkxd1cxdUVmOHBvbktQX2Zqb2I2NzlKc3VnNTRKY24tZDgxVUVwakdZWlZXOFB3OHI2OUs3UFJEVEpj?oc=5
 
-## 26. The Job Seeker’s Guide to Entry-Level Software Engineer Jobs - Coursera
+## 25. The Job Seeker’s Guide to Entry-Level Software Engineer Jobs - Coursera
 - Score: **9**
 - Source: Coursera
 - Published: Fri, 02 Oct 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9odXV6ZEZMQnR2SEExY2ZMTEdrZVZzWnF6TThwYVJpcElkLVpyQzlVWFdrT2hUSzdYZVJIWnBTalF3MEtxRXVnVHlYQjFpcnZJNWpnV1BFdmMzRnRuWnEweXUwTFlETGRHMzFiZlk5M1Bwam50bkhF?oc=5
 
-## 27. 5 Best Essential Freelancer Tools - Shopify
+## 26. 5 Best Essential Freelancer Tools - Shopify
 - Score: **8**
 - Source: Shopify
 - Published: Wed, 24 Jan 2018 19:23:07 GMT
 - URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GdVpqVkpwVHFwTC1kUzFUV0V2b3k0SVBSbDVURGVHbHRLMWI1TTlJeWJGcmROWkFTMmtiSFZ3aWlibEVHNF9CVmFOTXQzV2NzaFl6WExfRXdnWGc3bTI1Yjgydk0?oc=5
+
+## 27. Say Hello to the Shopify Partner Accelerator - Apply today - Shopify
+- Score: **8**
+- Source: Shopify
+- Published: Wed, 07 Sep 2016 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IdzlQQlFqZXY3RUIwc1hvX2xhblJncE1fQU9DZWJwRExhU2Y1dlRuWThFbGE1OVJxdENQbkxWZ1hoOXFVUURHSzNLZE0zc19zQ1ctX1NZVHNudFJRdFE?oc=5
 
 ## 28. Meet the New Freelancers in the NYC Shopify Partner Studio - Shopify
 - Score: **8**
@@ -176,8 +176,8 @@ Generated: 2026-11-11T06:20:30.858888+00:00
 - Published: Tue, 28 Apr 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fR0hTTUJHQW5EVkFXNFZKQm1wSDZrZVdCekFsSWRiek5WUDFkVWpXV2xYYVp5cDczdGo4Mnl6RnBRWlRZOGZYdzhEbWZreGIyWDMxM21SUmpkUG5tMXI5dXVxYw?oc=5
 
-## 30. My First Year as a Freelancer - Shopify
+## 30. 7 Tips to Calculate Your Freelance Rate - Shopify
 - Score: **8**
 - Source: Shopify
-- Published: Tue, 14 Apr 2015 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWVoVVgtYzlTY08zUlRpNkxZSVdXU2hPSFRPYk5RdkFLOEM3VVFnUU9zVmRjaUljYTQ0MkthWC1VWXRsaW9VUVUyUWYzTDZ3M21qaEUwbFhBU3JLNnFoMG56STdIVVpOQjJScE1IM1hfdEtYWURtLWhOTGQwcGFZdVRR?oc=5
+- Published: Tue, 10 May 2016 07:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNLU5XVFVua3ViU1VsS2l3VHdZM3dXd2dGaVkyQUtrdk9RYmhGenZqOUVCbXB5bWdjVmRsdzZacEtGZ2kwYm84bmdycGVCS09UdWhGdHcweW5ISW9kRFRieFdSanJvVmRhRWlCbzBnOTdFaXVkTmVXVUtUMXJDTWhyNG50X3liY3pPbWcwNzVHUkc?oc=5
