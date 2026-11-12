@@ -163,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "uefa nations league schedule portugal",
+      "keyword": "uefa nations league schedule mexico",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "uefa nations league schedule mexico",
+      "keyword": "uefa nations league schedule portugal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,15 +289,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "smci stock news today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "smci stock earnings date",
       "intent": "informational",
       "demand": 64.0,
@@ -307,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "costco stock price today",
+      "keyword": "smci stock news today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "costco stock price forecast",
+      "keyword": "costco stock price today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,6 +379,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "weather nyc today hourly",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "weather nyc 7 days",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "liga de naciones concacaf",
       "intent": "informational",
       "demand": 64.0,
@@ -442,15 +451,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sabrina carpenter age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "sabrina carpenter songs",
       "intent": "informational",
       "demand": 58.0,
@@ -460,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sabrina carpenter movies",
+      "keyword": "sabrina carpenter age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +469,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sabrina carpenter boyfriend",
+      "keyword": "sabrina carpenter merch",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sabrina carpenter store",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "smci stock prediction",
+      "keyword": "smci stock reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "smci stock quote",
+      "keyword": "smci stock news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -515,15 +524,6 @@
     },
     {
       "keyword": "costco stock price",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "costco stock today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,6 +550,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "costco stock today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "costco stock news",
       "intent": "informational",
       "demand": 58.0,
@@ -560,15 +569,6 @@
     },
     {
       "keyword": "costco stocker pay",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "barcelona - arsenal",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,6 +631,33 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "freeze watch iowa",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "freeze watch wisconsin",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "freeze watch lubbock",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "freeze watch brand",
       "intent": "informational",
       "demand": 58.0,
@@ -649,52 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freeze watch ohio",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "freeze watch weather",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "freeze watch indicator",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "weather nyc today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "weather nyc tomorrow",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "weather nyc november",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "weather nyc celsius",
+      "keyword": "weather nyc tomorrow",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "weather nyc october",
+      "keyword": "weather nyc celsius",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -767,6 +749,24 @@
     },
     {
       "keyword": "costco stock",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "costco stockton",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "barcelona arsenal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -848,6 +848,33 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "freeze watch iowa",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch wisconsin",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch lubbock",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "freeze watch brand",
           "intent": "informational",
           "demand": 58.0,
@@ -858,33 +885,6 @@
         },
         {
           "keyword": "freeze watch map",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freeze watch ohio",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freeze watch weather",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freeze watch indicator",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -984,7 +984,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "uefa nations league schedule portugal",
+          "keyword": "uefa nations league schedule mexico",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -993,7 +993,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "uefa nations league schedule mexico",
+          "keyword": "uefa nations league schedule portugal",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1093,15 +1093,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sabrina carpenter age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "sabrina carpenter songs",
           "intent": "informational",
           "demand": 58.0,
@@ -1111,7 +1102,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sabrina carpenter movies",
+          "keyword": "sabrina carpenter age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1120,7 +1111,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sabrina carpenter boyfriend",
+          "keyword": "sabrina carpenter merch",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter store",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1161,25 +1161,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "costco stock price forecast",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "costco stock price",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "costco stock today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1198,6 +1180,15 @@
         },
         {
           "keyword": "costco stock split",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stock today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1225,6 +1216,15 @@
         },
         {
           "keyword": "costco stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "costco stockton",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1383,15 +1383,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "barcelona - arsenal",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "barcelona arsenal 2006",
           "intent": "informational",
           "demand": 58.0,
@@ -1435,6 +1426,15 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "barcelona arsenal",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1488,7 +1488,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "smci stock news today",
+          "keyword": "smci stock earnings date",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1497,7 +1497,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "smci stock earnings date",
+          "keyword": "smci stock news today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1524,7 +1524,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "smci stock prediction",
+          "keyword": "smci stock reddit",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1533,7 +1533,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "smci stock quote",
+          "keyword": "smci stock news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1592,25 +1592,25 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "weather nyc today hourly",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "weather nyc 7 days",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "weather nyc today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "weather nyc tomorrow",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "weather nyc november",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1628,7 +1628,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "weather nyc celsius",
+          "keyword": "weather nyc tomorrow",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1637,7 +1637,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "weather nyc october",
+          "keyword": "weather nyc celsius",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
