@@ -1,33 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "ohio state buckeyes football vs texas longhorns football",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "ohio state buckeyes football vs northwestern wildcats football",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "ohio state buckeyes football vs indiana hoosiers football",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -35,6 +8,15 @@
       "ranking_probability": 76.0,
       "learning_boost": 0.0,
       "learned_score": 76.0
+    },
+    {
+      "keyword": "freeze watch vs freeze warning",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "what is the price of website development",
@@ -46,25 +28,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "is fortnite down right now on switch",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "is fortnite down right now on mobile",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "is fortnite down right now xbox one",
+      "keyword": "uefa nations league schedule where to watch",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -91,7 +55,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "is fortnite down right now xbox",
+      "keyword": "sabrina carpenter movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,7 +64,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "is fortnite down right now ps5",
+      "keyword": "costco stock price today per share",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +73,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "is fortnite down right now ps4",
+      "keyword": "liga de naciones de la uefa",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,52 +82,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "is fortnite down right now reddit",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "is fortnite down right now pc",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "is fortnite down right now playstation",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "ohio state buckeyes football schedule 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "jennifer aniston movies and tv shows",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "jennifer aniston and adam sandler movies",
+      "keyword": "liga de naciones concacaf grupos 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -181,7 +100,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "is fortnite down right now",
+      "keyword": "nvidia cmp 170hx voltage mod",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +109,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "fugitive slave act of 1850",
+      "keyword": "uefa nations league schedule 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +118,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ohio state buckeyes football schedule",
+      "keyword": "uefa nations league schedule today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ohio state buckeyes football tickets",
+      "keyword": "uefa nations league schedule final",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ohio state buckeyes football roster",
+      "keyword": "uefa nations league schedule 2027",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ohio state buckeyes football score",
+      "keyword": "uefa nations league schedule 26/27",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ohio state buckeyes football news",
+      "keyword": "uefa nations league schedule 2025",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jennifer aniston grey denim look",
+      "keyword": "uefa nations league schedule portugal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +172,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "aaron reitz letter richard blumenthal",
+      "keyword": "uefa nations league schedule mexico",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +181,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "yellowjackets season 4 release date",
+      "keyword": "barcelona arsenal champions league final",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "gta 6 pc release date",
+      "keyword": "barcelona arsenal head to head",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "gta 6 pc pre order",
+      "keyword": "ast spacemobile at&t verizon partnership",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,7 +208,52 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "amber alert near me",
+      "keyword": "is at&t compatible with verizon",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "liga de naciones concacaf 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "liga de naciones concacaf grupos",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "liga de naciones europa 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "liga de naciones concacaf schedule",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "uefa nations league schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "fugitive from justice meaning",
+      "keyword": "sabrina carpenter leopard print",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +271,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ohio state buckeyes football",
+      "keyword": "smci stock price today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rockstar games gta vi",
+      "keyword": "smci stock price target",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +289,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jennifer aniston net worth",
+      "keyword": "smci stock news today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc release",
+      "keyword": "smci stock earnings date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc requirements",
+      "keyword": "costco stock price today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc port",
+      "keyword": "costco stock price forecast",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc specs",
+      "keyword": "barcelona arsenal 4 1",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc reddit",
+      "keyword": "barcelona arsenal final 2006",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc price",
+      "keyword": "freeze watch for vaccine",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc launch",
+      "keyword": "freeze watch near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +361,61 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber alert movie",
+      "keyword": "weather nyc 10 days",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "weather nyc this week",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "weather nyc this weekend",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "liga de naciones concacaf",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "liga de naciones europa",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "liga de naciones 2026",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "sabrina carpenter height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert texas",
+      "keyword": "sabrina carpenter perfume",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert california",
+      "keyword": "sabrina carpenter tour",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert idaho",
+      "keyword": "sabrina carpenter age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert today",
+      "keyword": "sabrina carpenter songs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert jayleen",
+      "keyword": "sabrina carpenter movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert 2024",
+      "keyword": "sabrina carpenter boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert 2012",
+      "keyword": "smci stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fugitive slave act",
+      "keyword": "smci stock forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fugitive from justice",
+      "keyword": "smci stock prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "fugitive recovery agent",
+      "keyword": "smci stock quote",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rockstar games stock",
+      "keyword": "costco stock price",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rockstar gta vi",
+      "keyword": "costco stock today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rockstar social club",
+      "keyword": "costco stock dividend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jennifer aniston movies",
+      "keyword": "costco stock split",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jennifer aniston salad",
+      "keyword": "costco stock news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jennifer aniston boyfriend",
+      "keyword": "costco stocker pay",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jennifer aniston age",
+      "keyword": "barcelona - arsenal",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jennifer aniston husband",
+      "keyword": "barcelona arsenal 2006",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yellowjackets season 4",
+      "keyword": "barcelona arsenal 2010",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yellowjackets season 3",
+      "keyword": "barcelona arsenal players",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yellowjackets new season",
+      "keyword": "barcelona arsenal final",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yellowjackets season 2",
+      "keyword": "barcelona arsenal 2011",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "yellowjackets season 1",
+      "keyword": "freeze watch meaning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "gta 6 pc",
+      "keyword": "freeze watch brand",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +640,106 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert",
+      "keyword": "freeze watch map",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "freeze watch ohio",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "freeze watch weather",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "freeze watch indicator",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather nyc today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather nyc tomorrow",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather nyc november",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather nyc hourly",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather nyc celsius",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "weather nyc october",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "liga de naciones",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "sabrina carpenter",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -631,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fugitive meaning",
+      "keyword": "smci stock",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -640,7 +757,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fugitive movie",
+      "keyword": "smci stocktwits",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -649,7 +766,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fugitive definition",
+      "keyword": "costco stock",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -658,7 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "fugitive cast",
+      "keyword": "freeze watch",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,300 +784,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "rockstar games",
+      "keyword": "weather nyc",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "rockstar original",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rockstar stock",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rockstar clothing",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "rockstar store",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jennifer aniston",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "yellowjackets cast",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "yellowjackets episodes",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "yellowjackets premiere",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "fugitive",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "rockstar",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "yellowjackets",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋老婆",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋祖籍",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋女儿",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋老婆哪里人",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋儿子",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋身高",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋英文名",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋身价",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "黄仁勋老婆年轻照片",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
-    {
-      "pillar": "ohio state buckeyes football vs texas longhorns football",
-      "cluster": [
-        {
-          "keyword": "ohio state buckeyes football vs texas longhorns football",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "ohio state buckeyes football vs northwestern wildcats football",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "ohio state buckeyes football vs indiana hoosiers football",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "ohio state buckeyes football schedule 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "ohio state buckeyes football schedule",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ohio state buckeyes football tickets",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ohio state buckeyes football roster",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ohio state buckeyes football score",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ohio state buckeyes football news",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ohio state buckeyes football",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -972,6 +805,101 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
+        }
+      ]
+    },
+    {
+      "pillar": "freeze watch vs freeze warning",
+      "cluster": [
+        {
+          "keyword": "freeze watch vs freeze warning",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "freeze watch for vaccine",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "freeze watch near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "freeze watch meaning",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch brand",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch map",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch ohio",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch indicator",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freeze watch",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -990,10 +918,10 @@
       ]
     },
     {
-      "pillar": "is fortnite down right now on switch",
+      "pillar": "uefa nations league schedule where to watch",
       "cluster": [
         {
-          "keyword": "is fortnite down right now on switch",
+          "keyword": "uefa nations league schedule where to watch",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1002,85 +930,85 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "is fortnite down right now on mobile",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "is fortnite down right now xbox one",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "is fortnite down right now xbox",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is fortnite down right now ps5",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is fortnite down right now ps4",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is fortnite down right now reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is fortnite down right now pc",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is fortnite down right now playstation",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "is fortnite down right now",
+          "keyword": "uefa nations league schedule 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule final",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule 2027",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule 26/27",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule 2025",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule portugal",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule mexico",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "uefa nations league schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -1117,10 +1045,10 @@
       ]
     },
     {
-      "pillar": "jennifer aniston movies and tv shows",
+      "pillar": "sabrina carpenter movies and tv shows",
       "cluster": [
         {
-          "keyword": "jennifer aniston movies and tv shows",
+          "keyword": "sabrina carpenter movies and tv shows",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1129,7 +1057,93 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "jennifer aniston and adam sandler movies",
+          "keyword": "sabrina carpenter leopard print",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "sabrina carpenter height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter perfume",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter tour",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter movies",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sabrina carpenter",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "costco stock price today per share",
+      "cluster": [
+        {
+          "keyword": "costco stock price today per share",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1138,7 +1152,111 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "jennifer aniston grey denim look",
+          "keyword": "costco stock price today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "costco stock price forecast",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "costco stock price",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stock today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stock dividend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stock split",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stock news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stocker pay",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "costco stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "liga de naciones de la uefa",
+      "cluster": [
+        {
+          "keyword": "liga de naciones de la uefa",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "liga de naciones concacaf grupos 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "liga de naciones concacaf 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1147,75 +1265,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jennifer aniston net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "jennifer aniston movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jennifer aniston salad",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jennifer aniston boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jennifer aniston age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jennifer aniston husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jennifer aniston",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "fugitive slave act of 1850",
-      "cluster": [
-        {
-          "keyword": "fugitive slave act of 1850",
+          "keyword": "liga de naciones concacaf grupos",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1224,7 +1274,25 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "fugitive from justice meaning",
+          "keyword": "liga de naciones europa 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "liga de naciones concacaf schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "liga de naciones concacaf",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1233,84 +1301,39 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "fugitive slave act",
+          "keyword": "liga de naciones europa",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "liga de naciones 2026",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "liga de naciones",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "fugitive from justice",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fugitive recovery agent",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "fugitive meaning",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fugitive movie",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fugitive definition",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fugitive cast",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fugitive",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "aaron reitz letter richard blumenthal",
+      "pillar": "nvidia cmp 170hx voltage mod",
       "cluster": [
         {
-          "keyword": "aaron reitz letter richard blumenthal",
+          "keyword": "nvidia cmp 170hx voltage mod",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1321,10 +1344,10 @@
       ]
     },
     {
-      "pillar": "yellowjackets season 4 release date",
+      "pillar": "barcelona arsenal champions league final",
       "cluster": [
         {
-          "keyword": "yellowjackets season 4 release date",
+          "keyword": "barcelona arsenal champions league final",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1333,93 +1356,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "yellowjackets season 4",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yellowjackets season 3",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yellowjackets new season",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yellowjackets season 2",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yellowjackets season 1",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "yellowjackets cast",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "yellowjackets episodes",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "yellowjackets premiere",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "yellowjackets",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "gta 6 pc release date",
-      "cluster": [
-        {
-          "keyword": "gta 6 pc release date",
+          "keyword": "barcelona arsenal head to head",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1428,93 +1365,112 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "gta 6 pc pre order",
+          "keyword": "barcelona arsenal 4 1",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "barcelona arsenal final 2006",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "barcelona - arsenal",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barcelona arsenal 2006",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barcelona arsenal 2010",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barcelona arsenal players",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barcelona arsenal final",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barcelona arsenal 2011",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "ast spacemobile at&t verizon partnership",
+      "cluster": [
+        {
+          "keyword": "ast spacemobile at&t verizon partnership",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "gta 6 pc release",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc requirements",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc port",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc specs",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc reddit",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc price",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc launch",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "gta 6 pc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
         }
       ]
     },
     {
-      "pillar": "amber alert near me",
+      "pillar": "is at&t compatible with verizon",
       "cluster": [
         {
-          "keyword": "amber alert near me",
+          "keyword": "is at&t compatible with verizon",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "smci stock price today",
+      "cluster": [
+        {
+          "keyword": "smci stock price today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1523,7 +1479,34 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "amber alert movie",
+          "keyword": "smci stock price target",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "smci stock news today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "smci stock earnings date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "smci stock price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1532,7 +1515,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert texas",
+          "keyword": "smci stock forecast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1541,7 +1524,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert california",
+          "keyword": "smci stock prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1550,7 +1533,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert idaho",
+          "keyword": "smci stock quote",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1559,43 +1542,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert today",
+          "keyword": "smci stock",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "amber alert jayleen",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert 2024",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert 2012",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert",
+          "keyword": "smci stocktwits",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1606,10 +1562,10 @@
       ]
     },
     {
-      "pillar": "rockstar games gta vi",
+      "pillar": "weather nyc 10 days",
       "cluster": [
         {
-          "keyword": "rockstar games gta vi",
+          "keyword": "weather nyc 10 days",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1618,7 +1574,25 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "rockstar games stock",
+          "keyword": "weather nyc this week",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "weather nyc this weekend",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "weather nyc today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1627,7 +1601,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rockstar gta vi",
+          "keyword": "weather nyc tomorrow",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1636,7 +1610,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rockstar social club",
+          "keyword": "weather nyc november",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1645,198 +1619,40 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rockstar games",
+          "keyword": "weather nyc hourly",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather nyc celsius",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather nyc october",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "weather nyc",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "rockstar original",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "rockstar stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "rockstar clothing",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "rockstar store",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "rockstar",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋",
-      "cluster": [
-        {
-          "keyword": "黄仁勋",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋老婆",
-      "cluster": [
-        {
-          "keyword": "黄仁勋老婆",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋祖籍",
-      "cluster": [
-        {
-          "keyword": "黄仁勋祖籍",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋女儿",
-      "cluster": [
-        {
-          "keyword": "黄仁勋女儿",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋老婆哪里人",
-      "cluster": [
-        {
-          "keyword": "黄仁勋老婆哪里人",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋儿子",
-      "cluster": [
-        {
-          "keyword": "黄仁勋儿子",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋身高",
-      "cluster": [
-        {
-          "keyword": "黄仁勋身高",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋英文名",
-      "cluster": [
-        {
-          "keyword": "黄仁勋英文名",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋身价",
-      "cluster": [
-        {
-          "keyword": "黄仁勋身价",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "黄仁勋老婆年轻照片",
-      "cluster": [
-        {
-          "keyword": "黄仁勋老婆年轻照片",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
