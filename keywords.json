@@ -1,6 +1,42 @@
 {
   "keywords": [
     {
+      "keyword": "ohio state buckeyes football vs iowa hawkeyes football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "ohio state buckeyes football vs texas longhorns football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "ohio state buckeyes football vs northwestern wildcats football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "ohio state buckeyes football vs indiana hoosiers football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -19,7 +55,25 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "stock market open today up or down",
+      "keyword": "is fortnite down right now on switch",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "is fortnite down right now on mobile",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "is fortnite down right now xbox one",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -46,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "veterans day parade nyc street closures",
+      "keyword": "is fortnite down right now xbox",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -55,7 +109,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "veterans day parade nyc live stream",
+      "keyword": "is fortnite down right now ps5",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -64,7 +118,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "measles symptoms in 1 year old",
+      "keyword": "is fortnite down right now ps4",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -73,7 +127,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today veterans day",
+      "keyword": "is fortnite down right now reddit",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -82,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today or not",
+      "keyword": "is fortnite down right now pc",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,7 +145,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today in india",
+      "keyword": "is fortnite down right now playstation",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -100,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today columbus day",
+      "keyword": "ohio state buckeyes football schedule 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -109,7 +163,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today or closed",
+      "keyword": "jennifer aniston movies and tv shows",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -118,16 +172,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "stock market open today central time",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "veterans day parade 2026 near me",
+      "keyword": "jennifer aniston and adam sandler movies",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -145,7 +190,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc 2026",
+      "keyword": "is fortnite down right now",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +199,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc route",
+      "keyword": "fugitive slave act of 1850",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +208,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc time",
+      "keyword": "ohio state buckeyes football schedule",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +217,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc map",
+      "keyword": "ohio state buckeyes football roster",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -181,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc location",
+      "keyword": "ohio state buckeyes football score",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc schedule",
+      "keyword": "ohio state buckeyes football tickets",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -199,7 +244,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "veterans day parade nyc live",
+      "keyword": "jennifer aniston grey denim look",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -208,7 +253,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "noah's ark discovery in turkey",
+      "keyword": "aaron reitz letter richard blumenthal",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "noah's ark discovery fox news",
+      "keyword": "yellowjackets season 4 release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -226,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "noah's ark discovery ron wyatt",
+      "keyword": "gta 6 pc release date",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "measles symptoms in vaccinated adults",
+      "keyword": "gta 6 pc pre order",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,61 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dunkin veterans day free donut",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "stock market open today time",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "stock market open today live",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "veterans day parade near me",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "veterans day parade san francisco",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "north royalton firefighter ryan milligan",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "veterans day parade nyc",
+      "keyword": "amber alert near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump-xi summit in washington",
+      "keyword": "amber alert movie 2012",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +307,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump-xi summit september 2026",
+      "keyword": "fugitive from justice iowa",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dylan dreyer net worth",
+      "keyword": "ohio state buckeyes football",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +325,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah's ark discovery update",
+      "keyword": "rockstar games gta vi",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah's ark discovery location",
+      "keyword": "jennifer aniston net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah's ark discovery scans",
+      "keyword": "gta 6 pc release",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah's ark discovery kentucky",
+      "keyword": "gta 6 pc requirements",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah's ark discovery pictures",
+      "keyword": "gta 6 pc port",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "noah's ark discovery news",
+      "keyword": "gta 6 pc specs",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "measles symptoms in kids",
+      "keyword": "gta 6 pc reddit",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "measles symptoms in babies",
+      "keyword": "gta 6 pc price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "measles symptoms in toddlers",
+      "keyword": "gta 6 pc launch",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,160 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "measles symptoms if vaccinated",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day 2026",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day deal",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day discount",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day special",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day free",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day donut",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day offer",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "dunkin veterans day freebie",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "stock market open today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "veterans day parade 2026",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "veterans day parade route",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "veterans day parade folsom",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "north royalton 3 dead",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "north royalton shooting today",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "north royalton swat standoff",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "north royalton tiffany drive",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "trump-xi summit 2026",
+      "keyword": "amber alert movie",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit date",
+      "keyword": "amber alert iowa",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit september",
+      "keyword": "amber alert sound",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit agenda",
+      "keyword": "amber alert 2024",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit summary",
+      "keyword": "amber alert 2012",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit schedule",
+      "keyword": "amber alert meaning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit live",
+      "keyword": "amber alert origin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer salary",
+      "keyword": "fugitive slave act",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer bikini",
+      "keyword": "fugitive from justice",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer boyfriend",
+      "keyword": "fugitive recovery agent",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer husband",
+      "keyword": "rockstar games stock",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer divorce",
+      "keyword": "rockstar energy drink",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer age",
+      "keyword": "rockstar gta vi",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer height",
+      "keyword": "rockstar social club",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dylan dreyer photos",
+      "keyword": "rockstar lime freeze",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "noah's ark discovery",
+      "keyword": "jennifer aniston movies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "measles symptoms adults",
+      "keyword": "jennifer aniston salad",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "measles symptoms treatment",
+      "keyword": "jennifer aniston boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "measles symptoms rash",
+      "keyword": "jennifer aniston age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "dunkin veterans day",
+      "keyword": "jennifer aniston husband",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "veterans day parade",
+      "keyword": "yellowjackets season 4",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war dates",
+      "keyword": "yellowjackets season 3",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war years",
+      "keyword": "yellowjackets new season",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -775,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war movies",
+      "keyword": "yellowjackets season 2",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war game",
+      "keyword": "yellowjackets season 1",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war memorial",
+      "keyword": "gta 6 pc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,79 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "vietnam war timeline",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "vietnam war draft",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "vietnam war songs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "vietnam war casualties",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton homicide",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton ohio",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton firefighter",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "north royalton swat",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "trump-xi summit",
+      "keyword": "amber alert",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -883,7 +649,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "dylan dreyer",
+      "keyword": "fugitive meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "measles symptoms",
+      "keyword": "fugitive movie",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -901,7 +667,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "vietnam war",
+      "keyword": "fugitive definition",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -910,16 +676,291 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "north royalton",
+      "keyword": "fugitive cast",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
+    },
+    {
+      "keyword": "rockstar games",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "rockstar stock",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "rockstar original",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "jennifer aniston",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "yellowjackets cast",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "yellowjackets episodes",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "yellowjackets premiere",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "fugitive",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "rockstar",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "yellowjackets",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋老婆",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋祖籍",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋女儿",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋老婆哪里人",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋儿子",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋英文名",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋身高",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋身价",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "黄仁勋老婆年轻照片",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
     }
   ],
   "clusters": [
+    {
+      "pillar": "ohio state buckeyes football vs iowa hawkeyes football",
+      "cluster": [
+        {
+          "keyword": "ohio state buckeyes football vs iowa hawkeyes football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "ohio state buckeyes football vs texas longhorns football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "ohio state buckeyes football vs northwestern wildcats football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "ohio state buckeyes football vs indiana hoosiers football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "ohio state buckeyes football schedule 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "ohio state buckeyes football schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ohio state buckeyes football roster",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ohio state buckeyes football score",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ohio state buckeyes football tickets",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ohio state buckeyes football",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
     {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
@@ -949,10 +990,10 @@
       ]
     },
     {
-      "pillar": "stock market open today up or down",
+      "pillar": "is fortnite down right now on switch",
       "cluster": [
         {
-          "keyword": "stock market open today up or down",
+          "keyword": "is fortnite down right now on switch",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -961,7 +1002,25 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "stock market open today veterans day",
+          "keyword": "is fortnite down right now on mobile",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "is fortnite down right now xbox one",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "is fortnite down right now xbox",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -970,7 +1029,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "stock market open today or not",
+          "keyword": "is fortnite down right now ps5",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -979,7 +1038,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "stock market open today in india",
+          "keyword": "is fortnite down right now ps4",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -988,7 +1047,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "stock market open today columbus day",
+          "keyword": "is fortnite down right now reddit",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -997,7 +1056,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "stock market open today or closed",
+          "keyword": "is fortnite down right now pc",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1006,7 +1065,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "stock market open today central time",
+          "keyword": "is fortnite down right now playstation",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1015,31 +1074,13 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "stock market open today time",
+          "keyword": "is fortnite down right now",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "stock market open today live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "stock market open today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1076,10 +1117,10 @@
       ]
     },
     {
-      "pillar": "veterans day parade nyc street closures",
+      "pillar": "jennifer aniston movies and tv shows",
       "cluster": [
         {
-          "keyword": "veterans day parade nyc street closures",
+          "keyword": "jennifer aniston movies and tv shows",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1088,7 +1129,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "veterans day parade nyc live stream",
+          "keyword": "jennifer aniston and adam sandler movies",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1097,16 +1138,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "veterans day parade 2026 near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "veterans day parade nyc 2026",
+          "keyword": "jennifer aniston grey denim look",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1115,79 +1147,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "veterans day parade nyc route",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc map",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc location",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc schedule",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade near me",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade san francisco",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "veterans day parade nyc",
+          "keyword": "jennifer aniston net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1196,102 +1156,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "veterans day parade 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade route",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade folsom",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "veterans day parade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "measles symptoms in 1 year old",
-      "cluster": [
-        {
-          "keyword": "measles symptoms in 1 year old",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "measles symptoms in vaccinated adults",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "measles symptoms in kids",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms in babies",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms in toddlers",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms if vaccinated",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "measles symptoms adults",
+          "keyword": "jennifer aniston movies",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1300,7 +1165,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "measles symptoms treatment",
+          "keyword": "jennifer aniston salad",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1309,7 +1174,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "measles symptoms rash",
+          "keyword": "jennifer aniston boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1318,7 +1183,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "measles symptoms",
+          "keyword": "jennifer aniston age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jennifer aniston husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jennifer aniston",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1329,10 +1212,10 @@
       ]
     },
     {
-      "pillar": "noah's ark discovery in turkey",
+      "pillar": "fugitive slave act of 1850",
       "cluster": [
         {
-          "keyword": "noah's ark discovery in turkey",
+          "keyword": "fugitive slave act of 1850",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1341,7 +1224,107 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "noah's ark discovery fox news",
+          "keyword": "fugitive from justice iowa",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "fugitive slave act",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "fugitive from justice",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "fugitive recovery agent",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "fugitive meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "fugitive movie",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "fugitive definition",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "fugitive cast",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "fugitive",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "aaron reitz letter richard blumenthal",
+      "cluster": [
+        {
+          "keyword": "aaron reitz letter richard blumenthal",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "yellowjackets season 4 release date",
+      "cluster": [
+        {
+          "keyword": "yellowjackets season 4 release date",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1350,7 +1333,93 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "noah's ark discovery ron wyatt",
+          "keyword": "yellowjackets season 4",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yellowjackets season 3",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yellowjackets new season",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yellowjackets season 2",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yellowjackets season 1",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "yellowjackets cast",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "yellowjackets episodes",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "yellowjackets premiere",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "yellowjackets",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "gta 6 pc release date",
+      "cluster": [
+        {
+          "keyword": "gta 6 pc release date",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1359,7 +1428,16 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "noah's ark discovery update",
+          "keyword": "gta 6 pc pre order",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "gta 6 pc release",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1368,7 +1446,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah's ark discovery location",
+          "keyword": "gta 6 pc requirements",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1377,7 +1455,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah's ark discovery scans",
+          "keyword": "gta 6 pc port",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1386,7 +1464,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah's ark discovery kentucky",
+          "keyword": "gta 6 pc specs",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1395,7 +1473,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah's ark discovery pictures",
+          "keyword": "gta 6 pc reddit",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1404,7 +1482,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah's ark discovery news",
+          "keyword": "gta 6 pc price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1413,7 +1491,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "noah's ark discovery",
+          "keyword": "gta 6 pc launch",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gta 6 pc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1424,19 +1511,10 @@
       ]
     },
     {
-      "pillar": "dunkin veterans day free donut",
+      "pillar": "amber alert near me",
       "cluster": [
         {
-          "keyword": "dunkin veterans day free donut",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "dunkin veterans day 2026",
+          "keyword": "amber alert near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1445,7 +1523,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin veterans day deal",
+          "keyword": "amber alert movie 2012",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1454,120 +1532,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "dunkin veterans day discount",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day special",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day free",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day donut",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day offer",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day freebie",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dunkin veterans day",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "north royalton firefighter ryan milligan",
-      "cluster": [
-        {
-          "keyword": "north royalton firefighter ryan milligan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "north royalton 3 dead",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton shooting today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton swat standoff",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton tiffany drive",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "north royalton homicide",
+          "keyword": "amber alert movie",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1576,7 +1541,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "north royalton ohio",
+          "keyword": "amber alert iowa",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1585,7 +1550,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "north royalton firefighter",
+          "keyword": "amber alert sound",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1594,7 +1559,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "north royalton swat",
+          "keyword": "amber alert 2024",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1603,7 +1568,34 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "north royalton",
+          "keyword": "amber alert 2012",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber alert meaning",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber alert origin",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber alert",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1614,10 +1606,10 @@
       ]
     },
     {
-      "pillar": "trump-xi summit in washington",
+      "pillar": "rockstar games gta vi",
       "cluster": [
         {
-          "keyword": "trump-xi summit in washington",
+          "keyword": "rockstar games gta vi",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1626,16 +1618,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "trump-xi summit september 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "trump-xi summit 2026",
+          "keyword": "rockstar games stock",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1644,7 +1627,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit date",
+          "keyword": "rockstar energy drink",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1653,7 +1636,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit september",
+          "keyword": "rockstar gta vi",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1662,7 +1645,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit agenda",
+          "keyword": "rockstar social club",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1671,7 +1654,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit summary",
+          "keyword": "rockstar lime freeze",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1680,221 +1663,180 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump-xi summit live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump-xi summit",
+          "keyword": "rockstar games",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        },
+        {
+          "keyword": "rockstar stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "rockstar original",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "rockstar",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "dylan dreyer net worth",
+      "pillar": "黄仁勋",
       "cluster": [
         {
-          "keyword": "dylan dreyer net worth",
+          "keyword": "黄仁勋",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "dylan dreyer salary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer bikini",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer boyfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer divorce",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer photos",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "dylan dreyer",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "vietnam war dates",
+      "pillar": "黄仁勋老婆",
       "cluster": [
         {
-          "keyword": "vietnam war dates",
+          "keyword": "黄仁勋老婆",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋祖籍",
+      "cluster": [
         {
-          "keyword": "vietnam war years",
+          "keyword": "黄仁勋祖籍",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋女儿",
+      "cluster": [
         {
-          "keyword": "vietnam war movies",
+          "keyword": "黄仁勋女儿",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋老婆哪里人",
+      "cluster": [
         {
-          "keyword": "vietnam war game",
+          "keyword": "黄仁勋老婆哪里人",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋儿子",
+      "cluster": [
         {
-          "keyword": "vietnam war memorial",
+          "keyword": "黄仁勋儿子",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋英文名",
+      "cluster": [
         {
-          "keyword": "vietnam war timeline",
+          "keyword": "黄仁勋英文名",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋身高",
+      "cluster": [
         {
-          "keyword": "vietnam war draft",
+          "keyword": "黄仁勋身高",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋身价",
+      "cluster": [
         {
-          "keyword": "vietnam war songs",
+          "keyword": "黄仁勋身价",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "黄仁勋老婆年轻照片",
+      "cluster": [
         {
-          "keyword": "vietnam war casualties",
+          "keyword": "黄仁勋老婆年轻照片",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "vietnam war",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 38.2
         }
       ]
     }
