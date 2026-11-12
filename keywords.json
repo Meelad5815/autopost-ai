@@ -379,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc launch",
+      "keyword": "gta 6 pc price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc price",
+      "keyword": "gta 6 pc launch",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert colorado",
+      "keyword": "amber alert texas",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert denver",
+      "keyword": "amber alert california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,6 +442,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "amber alert jayleen",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "amber alert 2024",
       "intent": "informational",
       "demand": 58.0,
@@ -452,15 +461,6 @@
     },
     {
       "keyword": "amber alert 2012",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber alert meaning",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -515,15 +515,6 @@
     },
     {
       "keyword": "rockstar social club",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "rockstar energy drink",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,6 +676,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "rockstar original",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "rockstar stock",
       "intent": "informational",
       "demand": 52.0,
@@ -703,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "rockstar original",
+      "keyword": "rockstar store",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1482,7 +1482,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc launch",
+          "keyword": "gta 6 pc price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1491,7 +1491,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc price",
+          "keyword": "gta 6 pc launch",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1532,7 +1532,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert colorado",
+          "keyword": "amber alert texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1541,7 +1541,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert denver",
+          "keyword": "amber alert california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,6 +1568,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "amber alert jayleen",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "amber alert 2024",
           "intent": "informational",
           "demand": 58.0,
@@ -1578,15 +1587,6 @@
         },
         {
           "keyword": "amber alert 2012",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert meaning",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1645,16 +1645,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rockstar energy drink",
+          "keyword": "rockstar games",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
-          "keyword": "rockstar games",
+          "keyword": "rockstar original",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1681,7 +1681,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "rockstar original",
+          "keyword": "rockstar store",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
