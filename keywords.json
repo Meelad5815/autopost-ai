@@ -1,15 +1,6 @@
 {
   "keywords": [
     {
-      "keyword": "ohio state buckeyes football vs iowa hawkeyes football",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
       "keyword": "ohio state buckeyes football vs texas longhorns football",
       "intent": "informational",
       "demand": 82.0,
@@ -217,6 +208,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "ohio state buckeyes football tickets",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "ohio state buckeyes football roster",
       "intent": "informational",
       "demand": 70.0,
@@ -235,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "ohio state buckeyes football tickets",
+      "keyword": "ohio state buckeyes football news",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,16 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "amber alert movie 2012",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "fugitive from justice iowa",
+      "keyword": "fugitive from justice meaning",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc price",
+      "keyword": "gta 6 pc launch",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 pc launch",
+      "keyword": "gta 6 pc price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert iowa",
+      "keyword": "amber alert colorado",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +415,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "amber alert sound",
+      "keyword": "amber alert denver",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "amber alert idaho",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "amber alert today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -452,15 +461,6 @@
     },
     {
       "keyword": "amber alert meaning",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "amber alert origin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,15 +505,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rockstar energy drink",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "rockstar gta vi",
       "intent": "informational",
       "demand": 58.0,
@@ -532,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "rockstar lime freeze",
+      "keyword": "rockstar energy drink",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,6 +694,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "rockstar clothing",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "rockstar original",
       "intent": "informational",
       "demand": 52.0,
@@ -829,7 +829,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "黄仁勋英文名",
+      "keyword": "黄仁勋身高",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -838,7 +838,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "黄仁勋身高",
+      "keyword": "黄仁勋英文名",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -867,17 +867,8 @@
   ],
   "clusters": [
     {
-      "pillar": "ohio state buckeyes football vs iowa hawkeyes football",
+      "pillar": "ohio state buckeyes football vs texas longhorns football",
       "cluster": [
-        {
-          "keyword": "ohio state buckeyes football vs iowa hawkeyes football",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
         {
           "keyword": "ohio state buckeyes football vs texas longhorns football",
           "intent": "informational",
@@ -924,6 +915,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "ohio state buckeyes football tickets",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "ohio state buckeyes football roster",
           "intent": "informational",
           "demand": 70.0,
@@ -942,7 +942,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ohio state buckeyes football tickets",
+          "keyword": "ohio state buckeyes football news",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1224,7 +1224,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "fugitive from justice iowa",
+          "keyword": "fugitive from justice meaning",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1482,7 +1482,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc price",
+          "keyword": "gta 6 pc launch",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1491,7 +1491,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 pc launch",
+          "keyword": "gta 6 pc price",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1523,15 +1523,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "amber alert movie 2012",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "amber alert movie",
           "intent": "informational",
           "demand": 58.0,
@@ -1541,7 +1532,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert iowa",
+          "keyword": "amber alert colorado",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1550,7 +1541,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "amber alert sound",
+          "keyword": "amber alert denver",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber alert idaho",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "amber alert today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1578,15 +1587,6 @@
         },
         {
           "keyword": "amber alert meaning",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "amber alert origin",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1627,15 +1627,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rockstar energy drink",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "rockstar gta vi",
           "intent": "informational",
           "demand": 58.0,
@@ -1654,7 +1645,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "rockstar lime freeze",
+          "keyword": "rockstar energy drink",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1673,6 +1664,15 @@
         },
         {
           "keyword": "rockstar stock",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "rockstar clothing",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1785,10 +1785,10 @@
       ]
     },
     {
-      "pillar": "黄仁勋英文名",
+      "pillar": "黄仁勋身高",
       "cluster": [
         {
-          "keyword": "黄仁勋英文名",
+          "keyword": "黄仁勋身高",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1799,10 +1799,10 @@
       ]
     },
     {
-      "pillar": "黄仁勋身高",
+      "pillar": "黄仁勋英文名",
       "cluster": [
         {
-          "keyword": "黄仁勋身高",
+          "keyword": "黄仁勋英文名",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
