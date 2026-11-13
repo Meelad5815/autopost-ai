@@ -136,15 +136,6 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "avatar seven havens season 2 r=h www.reddit.com",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
       "keyword": "avatar seven havens season 2 release schedule",
       "intent": "informational",
       "demand": 70.0,
@@ -190,15 +181,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "avatar seven havens season 2 trailer",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "avatar seven havens season 2 synopsis",
       "intent": "informational",
       "demand": 70.0,
@@ -209,6 +191,24 @@
     },
     {
       "keyword": "avatar seven havens season 2 november",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "avatar seven havens season 2 release",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "avatar seven havens season 2 episodes",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -235,25 +235,25 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "weather new york giants stadium",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "weather new york giants game",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "weather new york city today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "weather new york 10 days",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "weather new york city tomorrow",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -415,6 +415,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "chip roy net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "laurence fishburne net worth",
       "intent": "informational",
       "demand": 64.0,
@@ -443,15 +452,6 @@
     },
     {
       "keyword": "espncricinfo live score",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "espncricinfo today match",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,6 +550,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "chip roy lost",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "chip roy reelection",
       "intent": "informational",
       "demand": 58.0,
@@ -568,25 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chip roy lost",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "chip roy news",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "chip roy race",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,6 +658,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "espncricinfo live",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "espncricinfo cricket",
       "intent": "informational",
       "demand": 52.0,
@@ -703,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trust wallet",
+      "keyword": "trustmark bank",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trustmark bank",
+      "keyword": "trust wallet",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +829,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "trustage",
+      "keyword": "trust",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -838,7 +838,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "trust",
+      "keyword": "trustage",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -892,6 +892,15 @@
       "learned_score": 38.2
     },
     {
+      "keyword": "王忠林彭丽媛",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
       "keyword": "王忠林背景",
       "intent": "informational",
       "demand": 46.0,
@@ -928,16 +937,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "王忠林近况",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "王忠林是谁的人",
+      "keyword": "王忠林落马",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1087,15 +1087,6 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "avatar seven havens season 2 r=h www.reddit.com",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
           "keyword": "avatar seven havens season 2 release schedule",
           "intent": "informational",
           "demand": 70.0,
@@ -1114,15 +1105,6 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "avatar seven havens season 2 trailer",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "avatar seven havens season 2 synopsis",
           "intent": "informational",
           "demand": 70.0,
@@ -1133,6 +1115,24 @@
         },
         {
           "keyword": "avatar seven havens season 2 november",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "avatar seven havens season 2 release",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "avatar seven havens season 2 episodes",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1173,6 +1173,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "chip roy net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "chip roy election",
           "intent": "informational",
           "demand": 58.0,
@@ -1183,6 +1192,15 @@
         },
         {
           "keyword": "chip roy results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy lost",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1209,25 +1227,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chip roy lost",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "chip roy news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy race",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1305,25 +1305,25 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "weather new york giants stadium",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "weather new york giants game",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "weather new york city today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "weather new york 10 days",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "weather new york city tomorrow",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1409,15 +1409,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "espncricinfo today match",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "espncricinfo news",
           "intent": "informational",
           "demand": 52.0,
@@ -1428,6 +1419,15 @@
         },
         {
           "keyword": "espncricinfo scorecard",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "espncricinfo live",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1949,6 +1949,20 @@
       ]
     },
     {
+      "pillar": "王忠林彭丽媛",
+      "cluster": [
+        {
+          "keyword": "王忠林彭丽媛",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
       "pillar": "王忠林背景",
       "cluster": [
         {
@@ -2005,24 +2019,10 @@
       ]
     },
     {
-      "pillar": "王忠林近况",
+      "pillar": "王忠林落马",
       "cluster": [
         {
-          "keyword": "王忠林近况",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "王忠林是谁的人",
-      "cluster": [
-        {
-          "keyword": "王忠林是谁的人",
+          "keyword": "王忠林落马",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
