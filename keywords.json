@@ -109,15 +109,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "chip roy vs mayes middleton",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -460,15 +451,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trusted traveler program",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "trustage life insurance",
       "intent": "informational",
       "demand": 58.0,
@@ -478,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trusted house sitters",
+      "keyword": "trusted traveler program",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -578,6 +560,15 @@
     },
     {
       "keyword": "chip roy race",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "chip roy primary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,6 +712,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "trust meaning",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "la weather",
       "intent": "informational",
       "demand": 52.0,
@@ -730,7 +730,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "storm texas",
+      "keyword": "storm denver",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "storm california",
+      "keyword": "storm colorado",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,6 +892,15 @@
       "learned_score": 38.2
     },
     {
+      "keyword": "王忠林彭丽媛",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
       "keyword": "王忠林背景",
       "intent": "informational",
       "demand": 46.0,
@@ -929,15 +938,6 @@
     },
     {
       "keyword": "王忠林落马",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "王忠林近况",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1148,101 +1148,6 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "chip roy vs mayes middleton",
-      "cluster": [
-        {
-          "keyword": "chip roy vs mayes middleton",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "chip roy election results",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "chip roy election",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy results",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy lost",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy texas",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy reelection",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy race",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chip roy",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1504,6 +1409,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "trust meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "trust",
           "intent": "informational",
           "demand": 46.0,
@@ -1640,7 +1554,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "storm texas",
+          "keyword": "storm denver",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1649,7 +1563,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "storm california",
+          "keyword": "storm colorado",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1683,6 +1597,101 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "chip roy election results",
+      "cluster": [
+        {
+          "keyword": "chip roy election results",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "chip roy election",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy results",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy lost",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy texas",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy reelection",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy race",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy primary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chip roy",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1782,29 +1791,6 @@
       ]
     },
     {
-      "pillar": "trusted traveler program",
-      "cluster": [
-        {
-          "keyword": "trusted traveler program",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trusted house sitters",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
       "pillar": "trustage life insurance",
       "cluster": [
         {
@@ -1824,6 +1810,20 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "trusted traveler program",
+      "cluster": [
+        {
+          "keyword": "trusted traveler program",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -1949,6 +1949,20 @@
       ]
     },
     {
+      "pillar": "王忠林彭丽媛",
+      "cluster": [
+        {
+          "keyword": "王忠林彭丽媛",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
       "pillar": "王忠林背景",
       "cluster": [
         {
@@ -2009,20 +2023,6 @@
       "cluster": [
         {
           "keyword": "王忠林落马",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "王忠林近况",
-      "cluster": [
-        {
-          "keyword": "王忠林近况",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
