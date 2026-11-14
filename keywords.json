@@ -46,7 +46,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "nc high school football scores yesterday near me",
+      "keyword": "nc high school football scores yesterday friday night",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -64,7 +64,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "nc high school football scores tonight friday night",
+      "keyword": "nc high school football scores 8 20 26",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -82,7 +82,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "haiti vs usa watch party",
+      "keyword": "haiti vs usa nu stadium",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -91,7 +91,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "haiti vs usa nu stadium",
+      "keyword": "haiti vs usa watch party",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -190,7 +190,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nc high school football scores today",
+      "keyword": "nc high school football scores live",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -217,24 +217,6 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "haiti vs usa soccer",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
-      "keyword": "haiti vs usa today",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "haiti vs usa miami",
       "intent": "informational",
       "demand": 76.0,
@@ -244,7 +226,25 @@
       "learned_score": 68.2
     },
     {
+      "keyword": "haiti vs usa soccer",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "haiti vs usa time",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "haiti vs usa odds",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -334,6 +334,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "orlando weather 30 day forecast",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "haiti vs usa",
       "intent": "informational",
       "demand": 70.0,
@@ -344,6 +353,15 @@
     },
     {
       "keyword": "lendeborg last name origin",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "lendeborg summer league stats",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ihsaa football scores live",
+      "keyword": "ihsaa football scores 8/21/26",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +496,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "orlando weather in january",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "orlando weather 10 day",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "orlando weather in february",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lendeborg preseason stats",
+      "keyword": "harper murray boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,6 +559,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "harper murray dui",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "harper murray age",
       "intent": "informational",
       "demand": 58.0,
@@ -532,7 +577,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "harper murray boyfriend",
+      "keyword": "harper murray documentary",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "harper murray nil",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -551,33 +605,6 @@
     },
     {
       "keyword": "harper murray volleyball",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "harper murray dui",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "harper murray ethnicity",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "harper murray documentary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,33 +649,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "orlando weather radar",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "orlando weather today",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "orlando weather tomorrow",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "lendeborg stats",
       "intent": "informational",
       "demand": 52.0,
@@ -659,6 +659,15 @@
     },
     {
       "keyword": "lendeborg nba",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "lendeborg curry",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -686,15 +695,6 @@
     },
     {
       "keyword": "lendeborg age",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "lendeborg height",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -839,7 +839,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "haiti vs usa watch party",
+          "keyword": "haiti vs usa nu stadium",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -848,7 +848,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "haiti vs usa nu stadium",
+          "keyword": "haiti vs usa watch party",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -875,24 +875,6 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "haiti vs usa soccer",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "haiti vs usa today",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
           "keyword": "haiti vs usa miami",
           "intent": "informational",
           "demand": 76.0,
@@ -902,7 +884,25 @@
           "learned_score": 68.2
         },
         {
+          "keyword": "haiti vs usa soccer",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
           "keyword": "haiti vs usa time",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa odds",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -948,7 +948,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "nc high school football scores yesterday near me",
+          "keyword": "nc high school football scores yesterday friday night",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -966,7 +966,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "nc high school football scores tonight friday night",
+          "keyword": "nc high school football scores 8 20 26",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1011,7 +1011,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "nc high school football scores today",
+          "keyword": "nc high school football scores live",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1194,7 +1194,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ihsaa football scores live",
+          "keyword": "ihsaa football scores 8/21/26",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1249,6 +1249,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "orlando weather 30 day forecast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "orlando weather in december",
           "intent": "informational",
           "demand": 64.0,
@@ -1276,6 +1285,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "orlando weather in january",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "orlando weather 10 day",
           "intent": "informational",
           "demand": 64.0,
@@ -1285,34 +1303,16 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "orlando weather in february",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "orlando weather forecast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "orlando weather radar",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "orlando weather today",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "orlando weather tomorrow",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1344,16 +1344,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lendeborg name origin",
+          "keyword": "lendeborg summer league stats",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
-          "keyword": "lendeborg preseason stats",
+          "keyword": "lendeborg name origin",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1372,6 +1372,15 @@
         },
         {
           "keyword": "lendeborg nba",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "lendeborg curry",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1407,15 +1416,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "lendeborg height",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "lendeborg",
           "intent": "informational",
           "demand": 46.0,
@@ -1427,8 +1427,17 @@
       ]
     },
     {
-      "pillar": "harper murray height",
+      "pillar": "harper murray boyfriend",
       "cluster": [
+        {
+          "keyword": "harper murray boyfriend",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "harper murray height",
           "intent": "informational",
@@ -1448,6 +1457,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "harper murray dui",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "harper murray age",
           "intent": "informational",
           "demand": 58.0,
@@ -1457,7 +1475,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "harper murray boyfriend",
+          "keyword": "harper murray documentary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "harper murray nil",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1476,33 +1503,6 @@
         },
         {
           "keyword": "harper murray volleyball",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "harper murray dui",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "harper murray ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "harper murray documentary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
