@@ -1,7 +1,25 @@
 {
   "keywords": [
     {
-      "keyword": "santa margarita football vs san clemente",
+      "keyword": "thiago agustín tirante vs taylor fritz",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "thiago agustín tirante vs novak djokovic",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "haiti vs usa where to watch",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -19,7 +37,52 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "kevin holland vs uros medic",
+      "keyword": "nc high school football scores from friday night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "nc high school football scores yesterday near me",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "nc high school football scores tonight live free",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "nc high school football scores tonight friday night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "nc high school football scores tonight live free near",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "haiti vs usa watch party",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -28,25 +91,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "karely ruiz antes vs ahora",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "karely ruiz vs marcela mistral",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "karely ruiz vs kim shantal",
+      "keyword": "haiti vs usa nu stadium",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -56,6 +101,15 @@
     },
     {
       "keyword": "what is the price of website development",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "nc high school football scores last night",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -82,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "bill hader movies and tv shows",
+      "keyword": "caitlin cunningham uss michael murphy relieved",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -91,13 +145,112 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "jamie lee curtis new tv show",
+      "keyword": "did collin gosselin win special forces",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
+    },
+    {
+      "keyword": "does collin gosselin win special forces",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "ihsaa football scores from friday night",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "nc high school football scores tonight",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "nc high school football scores 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "nc high school football scores today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "haiti vs usa prediction",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "haiti vs usa 2026",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "haiti vs usa soccer",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "haiti vs usa today",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "haiti vs usa miami",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "haiti vs usa time",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -109,7 +262,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "bill hader movies and shows",
+      "keyword": "collin gosselin special forces win",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -118,7 +271,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "santa margarita football game tonight",
+      "keyword": "collin gosselin special forces winner",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -127,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "santa margarita football score tonight",
+      "keyword": "thiago agustín tirante cincinnati open",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -136,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "santa margarita football schedule 2026",
+      "keyword": "thiago agustín tirante live ranking",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +298,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jamie lee curtis the bear",
+      "keyword": "ihsaa football scores tonight live",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -154,7 +307,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jamie lee curtis net worth",
+      "keyword": "ihsaa football scores last night",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -163,7 +316,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jamie lee curtis new show",
+      "keyword": "nc high school football scores",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -172,7 +325,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "trailblazers vs okc",
+      "keyword": "orlando weather 20 day forecast",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "haiti vs usa",
       "intent": "informational",
       "demand": 70.0,
       "competition": 60.0,
@@ -181,7 +343,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "billionaires bunker season 2",
+      "keyword": "lendeborg last name origin",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -190,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "billionaires in the us",
+      "keyword": "thiago agustín tirante ranking",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -199,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "bill hader south park",
+      "keyword": "thiago agustín tirante age",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -208,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "bill hader ali wong",
+      "keyword": "thiago agustín tirante prediction",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -217,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "bill hader tropic thunder",
+      "keyword": "thiago agustín tirante today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -226,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "santa margarita football score",
+      "keyword": "thiago agustín tirante serve",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -235,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "santa margarita football schedule",
+      "keyword": "ihsaa football scores tonight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "santa margarita football game",
+      "keyword": "ihsaa football scores 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "santa margarita football roster",
+      "keyword": "ihsaa football scores maxpreps",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -262,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "santa margarita football coach",
+      "keyword": "ihsaa football scores today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -271,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kevin holland next fight",
+      "keyword": "ihsaa football scores iowa",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -280,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kevin holland seal wikipedia",
+      "keyword": "ihsaa football scores live",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "de'andre hunter lakers trade",
+      "keyword": "orlando weather in december",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "karely ruiz net worth",
+      "keyword": "orlando weather in october",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "katt williams net worth",
+      "keyword": "orlando weather in november",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jamie lee curtis movies",
+      "keyword": "orlando weather 10 day",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,43 +487,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jamie lee curtis children",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "jamie lee curtis young",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "jamie lee curtis age",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "jamie lee curtis husband",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "jared mccain stats",
+      "keyword": "lendeborg name origin",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -370,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain height",
+      "keyword": "lendeborg preseason stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain contract",
+      "keyword": "harper murray height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain age",
+      "keyword": "harper murray dad",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain trade",
+      "keyword": "harper murray age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain jersey",
+      "keyword": "harper murray boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain girlfriend",
+      "keyword": "harper murray parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain nails",
+      "keyword": "harper murray volleyball",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jared mccain ethnicity",
+      "keyword": "harper murray dui",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trail blazers roster",
+      "keyword": "harper murray ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trail blazers schedule",
+      "keyword": "harper murray documentary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "billionaires row sf",
+      "keyword": "thiago agustín tirante",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bill hader wife",
+      "keyword": "ihsaa football scores",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bill hader movies",
+      "keyword": "virginia foxx election",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bill hader kids",
+      "keyword": "orlando weather forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bill hader impressions",
+      "keyword": "orlando weather radar",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "santa margarita football",
+      "keyword": "orlando weather today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kevin holland record",
+      "keyword": "orlando weather tomorrow",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,250 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kevin holland ufc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kevin holland age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kevin holland seal",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kevin holland delta",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kevin holland sherdog",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter stats",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter contract",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter trade",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter lakers",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter height",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter instagram",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter highlights",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "de'andre hunter defense",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "karely ruiz esposo",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "karely ruiz antes",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "karely ruiz fight",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "karely ruiz cobija",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "karely ruiz blanket",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams book",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams parents",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams kids",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams movies",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams wife",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams tour",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "katt williams birthday",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jamie lee curtis",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jared mccain",
+      "keyword": "lendeborg stats",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trailblazers game",
+      "keyword": "lendeborg nba",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,7 +667,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trailblazers score",
+      "keyword": "lendeborg jersey",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -793,7 +676,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trailblazers pizza",
+      "keyword": "lendeborg michigan",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -802,7 +685,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trailblazers nba",
+      "keyword": "lendeborg age",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -811,7 +694,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trailblazers owner",
+      "keyword": "lendeborg height",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -820,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trailblazers basketball",
+      "keyword": "harper murray",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "billionaires bunker",
+      "keyword": "orlando weather",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,106 +721,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "billionaires texas",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "billionaires california",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "billionaires list",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "billionaires row",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "billionaires niche",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "bill hader",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kevin holland",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "de'andre hunter",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "karely ruiz",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "katt williams",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "trailblazers",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "billionaires",
+      "keyword": "lendeborg",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -948,10 +732,10 @@
   ],
   "clusters": [
     {
-      "pillar": "santa margarita football vs san clemente",
+      "pillar": "thiago agustín tirante vs taylor fritz",
       "cluster": [
         {
-          "keyword": "santa margarita football vs san clemente",
+          "keyword": "thiago agustín tirante vs taylor fritz",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -960,7 +744,16 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "santa margarita football game tonight",
+          "keyword": "thiago agustín tirante vs novak djokovic",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "thiago agustín tirante cincinnati open",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -969,7 +762,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "santa margarita football score tonight",
+          "keyword": "thiago agustín tirante live ranking",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -978,16 +771,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "santa margarita football schedule 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "santa margarita football score",
+          "keyword": "thiago agustín tirante ranking",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -996,7 +780,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "santa margarita football schedule",
+          "keyword": "thiago agustín tirante age",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1005,7 +789,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "santa margarita football game",
+          "keyword": "thiago agustín tirante prediction",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1014,7 +798,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "santa margarita football roster",
+          "keyword": "thiago agustín tirante today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1023,7 +807,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "santa margarita football coach",
+          "keyword": "thiago agustín tirante serve",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1032,13 +816,108 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "santa margarita football",
+          "keyword": "thiago agustín tirante",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "haiti vs usa where to watch",
+      "cluster": [
+        {
+          "keyword": "haiti vs usa where to watch",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "haiti vs usa watch party",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "haiti vs usa nu stadium",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "haiti vs usa prediction",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa 2026",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa soccer",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa today",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa miami",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa time",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "haiti vs usa",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
         }
       ]
     },
@@ -1057,192 +936,97 @@
       ]
     },
     {
-      "pillar": "kevin holland vs uros medic",
+      "pillar": "nc high school football scores from friday night",
       "cluster": [
         {
-          "keyword": "kevin holland vs uros medic",
+          "keyword": "nc high school football scores from friday night",
           "intent": "informational",
-          "demand": 82.0,
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "nc high school football scores yesterday near me",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "nc high school football scores tonight live free",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "nc high school football scores tonight friday night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "nc high school football scores tonight live free near",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "nc high school football scores last night",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "nc high school football scores tonight",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "nc high school football scores 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "nc high school football scores today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "nc high school football scores",
+          "intent": "informational",
+          "demand": 70.0,
           "competition": 40.0,
-          "ranking_probability": 75.4,
+          "ranking_probability": 67.0,
           "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "kevin holland next fight",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kevin holland seal wikipedia",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "kevin holland record",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kevin holland ufc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kevin holland age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kevin holland seal",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kevin holland delta",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kevin holland sherdog",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kevin holland",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "karely ruiz antes vs ahora",
-      "cluster": [
-        {
-          "keyword": "karely ruiz antes vs ahora",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "karely ruiz vs marcela mistral",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "karely ruiz vs kim shantal",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "karely ruiz net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "karely ruiz esposo",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "karely ruiz antes",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "karely ruiz fight",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "karely ruiz cobija",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "karely ruiz blanket",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "karely ruiz",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 67.0
         }
       ]
     },
@@ -1293,105 +1077,52 @@
       ]
     },
     {
-      "pillar": "bill hader movies and tv shows",
+      "pillar": "caitlin cunningham uss michael murphy relieved",
       "cluster": [
         {
-          "keyword": "bill hader movies and tv shows",
+          "keyword": "caitlin cunningham uss michael murphy relieved",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        },
-        {
-          "keyword": "bill hader movies and shows",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "bill hader south park",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "bill hader ali wong",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "bill hader tropic thunder",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "bill hader wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bill hader movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bill hader kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bill hader impressions",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "bill hader",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
     {
-      "pillar": "jamie lee curtis new tv show",
+      "pillar": "did collin gosselin win special forces",
       "cluster": [
         {
-          "keyword": "jamie lee curtis new tv show",
+          "keyword": "did collin gosselin win special forces",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "does collin gosselin win special forces",
+      "cluster": [
+        {
+          "keyword": "does collin gosselin win special forces",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "ihsaa football scores from friday night",
+      "cluster": [
+        {
+          "keyword": "ihsaa football scores from friday night",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1400,7 +1131,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "jamie lee curtis the bear",
+          "keyword": "ihsaa football scores tonight live",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1409,7 +1140,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jamie lee curtis net worth",
+          "keyword": "ihsaa football scores last night",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1418,16 +1149,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "jamie lee curtis new show",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "jamie lee curtis movies",
+          "keyword": "ihsaa football scores tonight",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1436,7 +1158,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jamie lee curtis children",
+          "keyword": "ihsaa football scores 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1445,7 +1167,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jamie lee curtis young",
+          "keyword": "ihsaa football scores maxpreps",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1454,7 +1176,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jamie lee curtis age",
+          "keyword": "ihsaa football scores today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1463,7 +1185,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jamie lee curtis husband",
+          "keyword": "ihsaa football scores iowa",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1472,7 +1194,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "jamie lee curtis",
+          "keyword": "ihsaa football scores live",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ihsaa football scores",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1483,19 +1214,155 @@
       ]
     },
     {
-      "pillar": "trailblazers vs okc",
+      "pillar": "collin gosselin special forces win",
       "cluster": [
         {
-          "keyword": "trailblazers vs okc",
+          "keyword": "collin gosselin special forces win",
           "intent": "informational",
           "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "collin gosselin special forces winner",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "orlando weather 20 day forecast",
+      "cluster": [
+        {
+          "keyword": "orlando weather 20 day forecast",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "orlando weather in december",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "orlando weather in october",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "orlando weather in november",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "orlando weather 10 day",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "orlando weather forecast",
+          "intent": "informational",
+          "demand": 58.0,
           "competition": 60.0,
-          "ranking_probability": 61.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 61.0
+          "learned_score": 52.6
         },
         {
-          "keyword": "trailblazers game",
+          "keyword": "orlando weather radar",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "orlando weather today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "orlando weather tomorrow",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "orlando weather",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "lendeborg last name origin",
+      "cluster": [
+        {
+          "keyword": "lendeborg last name origin",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "lendeborg name origin",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lendeborg preseason stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "lendeborg stats",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1504,7 +1371,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trailblazers score",
+          "keyword": "lendeborg nba",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1513,7 +1380,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trailblazers pizza",
+          "keyword": "lendeborg jersey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1522,7 +1389,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trailblazers nba",
+          "keyword": "lendeborg michigan",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1531,7 +1398,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trailblazers owner",
+          "keyword": "lendeborg age",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1540,7 +1407,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trailblazers basketball",
+          "keyword": "lendeborg height",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1549,7 +1416,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trailblazers",
+          "keyword": "lendeborg",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1560,28 +1427,10 @@
       ]
     },
     {
-      "pillar": "billionaires bunker season 2",
+      "pillar": "harper murray height",
       "cluster": [
         {
-          "keyword": "billionaires bunker season 2",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "billionaires in the us",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "billionaires row sf",
+          "keyword": "harper murray height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1590,84 +1439,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "billionaires bunker",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "billionaires texas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "billionaires california",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "billionaires list",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "billionaires row",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "billionaires niche",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "billionaires",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "de'andre hunter lakers trade",
-      "cluster": [
-        {
-          "keyword": "de'andre hunter lakers trade",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "de'andre hunter stats",
+          "keyword": "harper murray dad",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1676,7 +1448,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter contract",
+          "keyword": "harper murray age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1685,7 +1457,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter trade",
+          "keyword": "harper murray boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1694,7 +1466,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter lakers",
+          "keyword": "harper murray parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1703,7 +1475,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter height",
+          "keyword": "harper murray volleyball",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1712,7 +1484,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter instagram",
+          "keyword": "harper murray dui",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1721,7 +1493,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter highlights",
+          "keyword": "harper murray ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1730,7 +1502,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter defense",
+          "keyword": "harper murray documentary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1739,7 +1511,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "de'andre hunter",
+          "keyword": "harper murray",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1750,209 +1522,10 @@
       ]
     },
     {
-      "pillar": "katt williams net worth",
+      "pillar": "virginia foxx election",
       "cluster": [
         {
-          "keyword": "katt williams net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "katt williams book",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams kids",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams tour",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams birthday",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "katt williams",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jared mccain stats",
-      "cluster": [
-        {
-          "keyword": "jared mccain stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain trade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain jersey",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain girlfriend",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain nails",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jared mccain",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "trail blazers roster",
-      "cluster": [
-        {
-          "keyword": "trail blazers roster",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trail blazers schedule",
+          "keyword": "virginia foxx election",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
