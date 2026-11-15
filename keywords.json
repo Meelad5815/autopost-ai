@@ -136,24 +136,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "bills vs jets injury report",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "bills vs jets prediction pickdawgz",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -280,7 +262,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "gta 6 pc release date estimate",
+      "keyword": "gta 6 pc release date 2028",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -289,7 +271,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "gta 6 pc release date 2028",
+      "keyword": "gta 6 pc release date estimate",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -415,7 +397,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "bills vs jets odds",
+      "keyword": "bills vs jets game",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -433,7 +415,25 @@
       "learned_score": 68.2
     },
     {
+      "keyword": "bills vs jets odds",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
       "keyword": "bills vs jets 2025",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "bills vs jets 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -568,6 +568,24 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "san diego padres schedule 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "maika monroe all movies list",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "bills vs jets",
       "intent": "informational",
       "demand": 70.0,
@@ -613,16 +631,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "winter storm warning weather",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "winter storm thanksgiving 2026",
+      "keyword": "winter storm november 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -658,6 +667,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "san diego padres tickets",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "san diego padres news",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "san diego padres roster",
       "intent": "informational",
       "demand": 64.0,
@@ -668,33 +695,6 @@
     },
     {
       "keyword": "san diego padres stadium",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "san diego padres tickets",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "san diego padres owner",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "san diego padres hat",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -721,34 +721,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "maika monroe net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "winter storm warning",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "winter storm nc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "winter storm watch",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,6 +739,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "winter storm watch",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "winter storm fern",
       "intent": "informational",
       "demand": 58.0,
@@ -775,7 +757,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "winter storm uri",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "winter storm coming",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "winter storm forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maika monroe boyfriend",
+      "keyword": "maika monroe height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +820,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maika monroe height",
+      "keyword": "maika monroe boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -910,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "shameless show",
+      "keyword": "shameless house",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -919,7 +919,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "shameless candy",
+      "keyword": "shameless show",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1154,7 +1154,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "gta 6 pc release date estimate",
+          "keyword": "gta 6 pc release date 2028",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1163,7 +1163,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "gta 6 pc release date 2028",
+          "keyword": "gta 6 pc release date estimate",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1358,24 +1358,6 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "bills vs jets injury report",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "bills vs jets prediction pickdawgz",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "bills vs jets prediction",
           "intent": "informational",
           "demand": 76.0,
@@ -1394,7 +1376,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "bills vs jets odds",
+          "keyword": "bills vs jets game",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1412,7 +1394,25 @@
           "learned_score": 68.2
         },
         {
+          "keyword": "bills vs jets odds",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
           "keyword": "bills vs jets 2025",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "bills vs jets 2026",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1585,6 +1585,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "maika monroe all movies list",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "maika monroe joe keery",
           "intent": "informational",
           "demand": 64.0,
@@ -1603,15 +1612,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "maika monroe net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "maika monroe movies",
           "intent": "informational",
           "demand": 58.0,
@@ -1621,7 +1621,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "maika monroe boyfriend",
+          "keyword": "maika monroe height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1630,7 +1630,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "maika monroe height",
+          "keyword": "maika monroe boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1680,6 +1680,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "san diego padres schedule 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "san diego padres schedule",
           "intent": "informational",
           "demand": 64.0,
@@ -1707,6 +1716,24 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "san diego padres tickets",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "san diego padres news",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "san diego padres roster",
           "intent": "informational",
           "demand": 64.0,
@@ -1717,33 +1744,6 @@
         },
         {
           "keyword": "san diego padres stadium",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "san diego padres tickets",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "san diego padres owner",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "san diego padres hat",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1775,16 +1775,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "winter storm warning weather",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "winter storm thanksgiving 2026",
+          "keyword": "winter storm november 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1802,7 +1793,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "winter storm nc",
+          "keyword": "winter storm 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1820,15 +1811,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "winter storm 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "winter storm fern",
           "intent": "informational",
           "demand": 58.0,
@@ -1838,7 +1820,25 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "winter storm uri",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "winter storm coming",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "winter storm forecast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1924,7 +1924,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "shameless show",
+          "keyword": "shameless house",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1933,7 +1933,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "shameless candy",
+          "keyword": "shameless show",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
