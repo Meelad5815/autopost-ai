@@ -28,6 +28,15 @@
       "learned_score": 81.4
     },
     {
+      "keyword": "australia vs new zealand live score today",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
       "keyword": "australia vs new zealand live score",
       "intent": "informational",
       "demand": 82.0,
@@ -47,15 +56,6 @@
     },
     {
       "keyword": "australia vs new zealand rugby league",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "australia vs new zealand rugby score",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -172,15 +172,6 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "dp world tour championship where to watch",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
       "keyword": "gta 6 release date and time est",
       "intent": "informational",
       "demand": 70.0,
@@ -200,15 +191,6 @@
     },
     {
       "keyword": "gta 6 release date and time california",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "gta 6 release date and time hawaii",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -245,6 +227,15 @@
     },
     {
       "keyword": "gta 6 release date and time xbox",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "gta 6 release date and time ps5",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -343,15 +334,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "dp world tour championship tee times",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "dp world tour championship tv coverage",
       "intent": "informational",
       "demand": 70.0,
@@ -361,16 +343,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "dp world tour championship 2026 leaderboard",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "dp world tour championship live stream",
+      "keyword": "dp world tour championship tee times",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -380,6 +353,15 @@
     },
     {
       "keyword": "dp world tour championship prize money",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "dp world tour championship 2026 leaderboard",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -451,7 +433,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "bills vs jets spread",
+      "keyword": "bills vs jets 2025",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -559,6 +541,24 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "dp world tour championship payout",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "dp world tour championship purse",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "san diego padres game today",
       "intent": "informational",
       "demand": 70.0,
@@ -604,7 +604,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "winter storm warning weather",
+      "keyword": "winter storm warning today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -613,7 +613,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "winter storm warning today",
+      "keyword": "winter storm warning weather",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -739,6 +739,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "winter storm nc",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "winter storm watch",
       "intent": "informational",
       "demand": 58.0,
@@ -758,15 +767,6 @@
     },
     {
       "keyword": "winter storm fern",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "winter storm nc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +811,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maika monroe height",
+      "keyword": "maika monroe boyfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -820,7 +820,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "maika monroe boyfriend",
+      "keyword": "maika monroe height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -969,6 +969,15 @@
           "learned_score": 81.4
         },
         {
+          "keyword": "australia vs new zealand live score today",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
           "keyword": "australia vs new zealand live score",
           "intent": "informational",
           "demand": 82.0,
@@ -988,15 +997,6 @@
         },
         {
           "keyword": "australia vs new zealand rugby league",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "australia vs new zealand rugby score",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -1100,15 +1100,6 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "gta 6 release date and time hawaii",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
           "keyword": "gta 6 release date and time usa",
           "intent": "informational",
           "demand": 70.0,
@@ -1137,6 +1128,15 @@
         },
         {
           "keyword": "gta 6 release date and time xbox",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "gta 6 release date and time ps5",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1254,13 +1254,13 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "dp world tour championship where to watch",
+          "keyword": "dp world tour championship tv coverage",
           "intent": "informational",
           "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 73.0
+          "learned_score": 70.0
         },
         {
           "keyword": "dp world tour championship tee times",
@@ -1272,7 +1272,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "dp world tour championship tv coverage",
+          "keyword": "dp world tour championship prize money",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1282,24 +1282,6 @@
         },
         {
           "keyword": "dp world tour championship 2026 leaderboard",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "dp world tour championship live stream",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "dp world tour championship prize money",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1318,6 +1300,24 @@
         },
         {
           "keyword": "dp world tour championship 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "dp world tour championship payout",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "dp world tour championship purse",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1412,7 +1412,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "bills vs jets spread",
+          "keyword": "bills vs jets 2025",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1621,7 +1621,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "maika monroe height",
+          "keyword": "maika monroe boyfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1630,7 +1630,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "maika monroe boyfriend",
+          "keyword": "maika monroe height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1763,10 +1763,10 @@
       ]
     },
     {
-      "pillar": "winter storm warning weather",
+      "pillar": "winter storm warning today",
       "cluster": [
         {
-          "keyword": "winter storm warning weather",
+          "keyword": "winter storm warning today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1775,7 +1775,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "winter storm warning today",
+          "keyword": "winter storm warning weather",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1794,6 +1794,15 @@
         },
         {
           "keyword": "winter storm warning",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "winter storm nc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1821,15 +1830,6 @@
         },
         {
           "keyword": "winter storm fern",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "winter storm nc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
