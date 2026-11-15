@@ -64,6 +64,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "finland vs san marino previous matches",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "usc vs south carolina women's basketball",
       "intent": "informational",
       "demand": 82.0,
@@ -100,15 +109,6 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "ou vs ole miss tv channel",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "how much does it cost to build a wordpress website",
       "intent": "informational",
       "demand": 70.0,
@@ -118,7 +118,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "españa vs inglaterra mundial 2026",
+      "keyword": "españa vs inglaterra nations league",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -127,7 +127,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "españa vs inglaterra nations league",
+      "keyword": "españa vs inglaterra mundial 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -163,15 +163,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "finland vs san marino highlights",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "finland vs san marino results",
       "intent": "informational",
       "demand": 82.0,
@@ -181,25 +172,16 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "finland vs san marino highlights",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "finland vs san marino score",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "finland vs san marino today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "usc vs south carolina prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -235,6 +217,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "usc vs south carolina time",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "usc vs south carolina women's",
       "intent": "informational",
       "demand": 82.0,
@@ -244,7 +235,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "usc vs south carolina today",
+      "keyword": "usc vs south carolina game",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -253,7 +244,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "usc vs south carolina time",
+      "keyword": "usc vs south carolina today",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -307,34 +298,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ou vs ole miss tv",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ou vs ole miss prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ou vs ole miss odds",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ou vs ole miss today",
+      "keyword": "ou vs ole miss 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -352,7 +316,43 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ou vs ole miss score",
+      "keyword": "ou vs ole miss prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ou vs ole miss tv",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ou vs ole miss today",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ou vs ole miss channel",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ou vs ole miss update",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -451,7 +451,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "belarus vs albania h2h",
+      "keyword": "belarus vs albania live",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -460,7 +460,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "belarus vs albania live",
+      "keyword": "belarus vs albania h2h",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -514,7 +514,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "raiders vs seahawks time",
+      "keyword": "raiders vs seahawks 2026",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -532,7 +532,7 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "raiders vs seahawks 2026",
+      "keyword": "raiders vs seahawks time",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -595,6 +595,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "tim hill church of god",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "españa vs inglaterra",
       "intent": "informational",
       "demand": 70.0,
@@ -649,15 +658,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "barry sanders 40 time",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "lan larison week 10",
       "intent": "informational",
       "demand": 64.0,
@@ -676,15 +676,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lan larison uc davis",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "tim hill yankees wife",
       "intent": "informational",
       "demand": 64.0,
@@ -692,24 +683,6 @@
       "ranking_probability": 59.8,
       "learning_boost": 0.0,
       "learned_score": 59.8
-    },
-    {
-      "keyword": "tim hill director movies",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "barry sanders college",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
     },
     {
       "keyword": "barry sanders stats",
@@ -721,7 +694,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "barry sanders height",
+      "keyword": "barry sanders age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "barry sanders college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +721,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "barry sanders jersey",
+      "keyword": "barry sanders height",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "barry sanders wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "lan larison college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lan larison contract",
+      "keyword": "lan larison patriots",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -784,15 +784,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tim hill (filmmaker)",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "tim hill stats",
       "intent": "informational",
       "demand": 58.0,
@@ -802,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tim hill director",
+      "keyword": "tim hill contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,7 +802,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tim hill mlb",
+      "keyword": "tim hill (filmmaker)",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "tim hill padres",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,7 +829,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "tim hill contract",
+      "keyword": "tim hill director",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -906,16 +906,16 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "finland vs san marino prediction",
+          "keyword": "finland vs san marino previous matches",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 78.4
         },
         {
-          "keyword": "finland vs san marino highlights",
+          "keyword": "finland vs san marino prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -933,7 +933,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "finland vs san marino score",
+          "keyword": "finland vs san marino highlights",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -942,7 +942,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "finland vs san marino today",
+          "keyword": "finland vs san marino score",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -983,15 +983,6 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "usc vs south carolina prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "usc vs south carolina score",
           "intent": "informational",
           "demand": 82.0,
@@ -1019,6 +1010,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "usc vs south carolina time",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "usc vs south carolina women's",
           "intent": "informational",
           "demand": 82.0,
@@ -1028,7 +1028,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "usc vs south carolina today",
+          "keyword": "usc vs south carolina game",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1037,7 +1037,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "usc vs south carolina time",
+          "keyword": "usc vs south carolina today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1078,7 +1078,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "españa vs inglaterra mundial 2026",
+          "keyword": "españa vs inglaterra nations league",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1087,7 +1087,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "españa vs inglaterra nations league",
+          "keyword": "españa vs inglaterra mundial 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1182,7 +1182,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "belarus vs albania h2h",
+          "keyword": "belarus vs albania live",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1191,7 +1191,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "belarus vs albania live",
+          "keyword": "belarus vs albania h2h",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1295,7 +1295,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "raiders vs seahawks time",
+          "keyword": "raiders vs seahawks 2026",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1313,7 +1313,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "raiders vs seahawks 2026",
+          "keyword": "raiders vs seahawks time",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1354,15 +1354,6 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "ou vs ole miss tv channel",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
           "keyword": "ou vs ole miss tickets",
           "intent": "informational",
           "demand": 82.0,
@@ -1372,34 +1363,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "ou vs ole miss tv",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ou vs ole miss prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ou vs ole miss odds",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ou vs ole miss today",
+          "keyword": "ou vs ole miss 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1417,7 +1381,43 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "ou vs ole miss score",
+          "keyword": "ou vs ole miss prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ou vs ole miss tv",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ou vs ole miss today",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ou vs ole miss channel",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ou vs ole miss update",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1559,13 +1559,13 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lan larison uc davis",
+          "keyword": "lan larison college",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
           "keyword": "lan larison fantasy",
@@ -1586,7 +1586,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lan larison contract",
+          "keyword": "lan larison patriots",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1596,6 +1596,101 @@
         },
         {
           "keyword": "lan larison",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "tim hill church of god",
+      "cluster": [
+        {
+          "keyword": "tim hill church of god",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "tim hill yankees wife",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "tim hill yankees",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill (filmmaker)",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill padres",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill director",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "tim hill",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1636,24 +1731,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "barry sanders 40 time",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "barry sanders college",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "barry sanders stats",
           "intent": "informational",
           "demand": 58.0,
@@ -1663,7 +1740,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "barry sanders height",
+          "keyword": "barry sanders age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barry sanders college",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1681,7 +1767,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "barry sanders jersey",
+          "keyword": "barry sanders height",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barry sanders wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1691,101 +1786,6 @@
         },
         {
           "keyword": "barry sanders",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "tim hill yankees wife",
-      "cluster": [
-        {
-          "keyword": "tim hill yankees wife",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tim hill director movies",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "tim hill yankees",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill (filmmaker)",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill director",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill mlb",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "tim hill",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
