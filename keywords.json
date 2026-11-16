@@ -46,6 +46,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "ap top 25 basketball poll",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "ap top 25 basketball rankings",
       "intent": "informational",
       "demand": 82.0,
@@ -100,15 +109,6 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ap top 25 basketball 2026-27",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -136,7 +136,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "ncaa soccer tournament 2026 selection show",
+      "keyword": "john summit tour bus fatal crash",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -253,6 +253,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "ncaa soccer tournament 2026 predictions",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "john summit tour bus crash",
       "intent": "informational",
       "demand": 70.0,
@@ -280,15 +289,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "college basketball rankings week 3",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "ncaa soccer tournament 2026",
       "intent": "informational",
       "demand": 64.0,
@@ -298,7 +298,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ncaa soccer tournament d2",
+      "keyword": "ncaa soccer tournament schedule",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "ncaa soccer tournament bracket",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -308,15 +317,6 @@
     },
     {
       "keyword": "ncaa soccer tournament selection",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "ncaa soccer tournament draw",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,6 +352,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "college basketball rankings women",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "college basketball rankings today",
       "intent": "informational",
       "demand": 64.0,
@@ -370,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college basketball rankings kenpom",
+      "keyword": "college basketball rankings predictions",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college basketball rankings predictions",
+      "keyword": "college basketball rankings kenpom",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "chase credit card login",
+      "keyword": "w9 form 2026 fillable",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "w9 form 2026 fillable",
+      "keyword": "w9 form 2026 irs",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,6 +460,24 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "chase bank outage",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "chase bank down",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "chase brown stats",
       "intent": "informational",
       "demand": 58.0,
@@ -460,25 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chase bank yakima",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "chase credit card",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "chase bank outage",
+      "keyword": "chase bank login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john summit gorge",
+      "keyword": "john summit atlanta",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +550,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john summit atlanta",
+      "keyword": "john summit miami",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "john summit chicago",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john summit merch",
+      "keyword": "john summit crash",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,16 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john summit concert",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "chase login",
+      "keyword": "chase bank",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -595,7 +604,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "chase bank",
+      "keyword": "chase login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -613,7 +622,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "w9 form",
+      "keyword": "chase outage",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -622,7 +631,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "w900 kenworth",
+      "keyword": "w9 form",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -699,6 +708,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "ap top 25 basketball poll",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "ap top 25 basketball rankings",
           "intent": "informational",
           "demand": 82.0,
@@ -745,15 +763,6 @@
         },
         {
           "keyword": "ap top 25 basketball preseason",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ap top 25 basketball 2026-27",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -865,10 +874,10 @@
       ]
     },
     {
-      "pillar": "ncaa soccer tournament 2026 selection show",
+      "pillar": "john summit tour bus fatal crash",
       "cluster": [
         {
-          "keyword": "ncaa soccer tournament 2026 selection show",
+          "keyword": "john summit tour bus fatal crash",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -877,7 +886,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "ncaa soccer tournament selection show",
+          "keyword": "john summit tour bus crash",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -886,7 +895,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ncaa soccer tournament 2026 schedule",
+          "keyword": "john summit tour bus accident",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -895,25 +904,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "ncaa soccer tournament 2026 women",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ncaa soccer tournament 2026 bracket",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ncaa soccer tournament 2026",
+          "keyword": "john summit tour bus",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -922,40 +913,76 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ncaa soccer tournament d2",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ncaa soccer tournament selection",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ncaa soccer tournament draw",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ncaa soccer tournament",
+          "keyword": "john summit atlanta",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit tour",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit miami",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit chicago",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit tickets",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit crash",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john summit",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1020,10 +1047,10 @@
       ]
     },
     {
-      "pillar": "john summit tour bus crash",
+      "pillar": "ncaa soccer tournament selection show",
       "cluster": [
         {
-          "keyword": "john summit tour bus crash",
+          "keyword": "ncaa soccer tournament selection show",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1032,7 +1059,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "john summit tour bus accident",
+          "keyword": "ncaa soccer tournament 2026 schedule",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1041,7 +1068,34 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "john summit tour bus",
+          "keyword": "ncaa soccer tournament 2026 women",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ncaa soccer tournament 2026 bracket",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ncaa soccer tournament 2026 predictions",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ncaa soccer tournament 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1050,76 +1104,40 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john summit gorge",
+          "keyword": "ncaa soccer tournament schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ncaa soccer tournament bracket",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ncaa soccer tournament selection",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ncaa soccer tournament",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit tour",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit atlanta",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit tickets",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit merch",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit concert",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1138,17 +1156,8 @@
       ]
     },
     {
-      "pillar": "college basketball rankings week 3",
+      "pillar": "college basketball rankings 2026",
       "cluster": [
-        {
-          "keyword": "college basketball rankings week 3",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
         {
           "keyword": "college basketball rankings 2026",
           "intent": "informational",
@@ -1160,6 +1169,15 @@
         },
         {
           "keyword": "college basketball rankings 2027",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "college basketball rankings women",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1186,7 +1204,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college basketball rankings kenpom",
+          "keyword": "college basketball rankings predictions",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1195,7 +1213,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college basketball rankings predictions",
+          "keyword": "college basketball rankings kenpom",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1245,13 +1263,22 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "chase credit card login",
+          "keyword": "chase bank outage",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "chase bank down",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
           "keyword": "chase brown stats",
@@ -1263,40 +1290,13 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chase bank yakima",
+          "keyword": "chase bank login",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "chase credit card",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chase bank outage",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "chase login",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         },
         {
           "keyword": "chase bank",
@@ -1308,7 +1308,25 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "chase login",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "chase brown",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "chase outage",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1332,6 +1350,15 @@
       "cluster": [
         {
           "keyword": "w9 form 2026 fillable",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "w9 form 2026 irs",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1410,20 +1437,6 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "w900 kenworth",
-      "cluster": [
-        {
-          "keyword": "w900 kenworth",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     }
