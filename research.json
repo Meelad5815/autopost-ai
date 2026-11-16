@@ -1,94 +1,106 @@
 {
-  "generated_at": "2026-11-16T08:24:45.790162+00:00",
+  "generated_at": "2026-11-16T18:48:36.410700+00:00",
   "feed_count": 8,
   "item_count": 159,
   "items": [
     {
-      "title": "qwen4",
+      "title": "uscis prior approval deference removal",
       "source": "google_trends_us"
     },
     {
-      "title": "penelope cruz javier bardem movie bunker",
+      "title": "ncaa soccer tournament",
       "source": "google_trends_us"
     },
     {
-      "title": "indigo",
+      "title": "john summit tour bus",
       "source": "google_trends_us"
     },
     {
-      "title": "alexandra daddario",
+      "title": "ap top 25 basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "sharad kapoor",
+      "title": "fema nationwide emergency test date",
       "source": "google_trends_us"
     },
     {
-      "title": "colin farrell",
+      "title": "college basketball rankings",
       "source": "google_trends_us"
     },
     {
-      "title": "gta vi game",
+      "title": "chase",
       "source": "google_trends_us"
     },
     {
-      "title": "karely ruiz",
+      "title": "w9",
       "source": "google_trends_us"
     },
     {
-      "title": "fitness",
+      "title": "john summit",
       "source": "google_trends_us"
     },
     {
-      "title": "alex bolt",
+      "title": "us employment based green card proposal",
       "source": "google_trends_us"
     },
     {
-      "title": "islamabad",
+      "title": "abu dhabi t10 cricket league",
       "source": "google_trends_pk"
     },
     {
-      "title": "ronaldinho ravenna",
+      "title": "grammys 2027 nominations",
       "source": "google_trends_pk"
     },
     {
-      "title": "helen haines",
+      "title": "inflation",
       "source": "google_trends_pk"
     },
     {
-      "title": "gma",
+      "title": "robert pattinson",
       "source": "google_trends_pk"
     },
     {
-      "title": "بھارت",
+      "title": "maryam nawaz",
       "source": "google_trends_pk"
     },
     {
-      "title": "rockstar gta vi",
+      "title": "jay shah",
       "source": "google_trends_pk"
     },
     {
-      "title": "فیصل نصیر",
+      "title": "landfill",
       "source": "google_trends_pk"
     },
     {
-      "title": "bangladesh women&apos;s national cricket team vs netherlands women&apos;s national cricket team match scorecard",
+      "title": "namibia vs cameroon",
       "source": "google_trends_pk"
     },
     {
-      "title": "pakistan vs zimbabwe",
+      "title": "carlos alcaraz",
       "source": "google_trends_pk"
     },
     {
-      "title": "icc men tournament windows 2035",
+      "title": "falkland islands vs costa rica",
       "source": "google_trends_pk"
     },
     {
-      "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
+      "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train–Inference Mismatch",
+      "source": "google_developers"
+    },
+    {
+      "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
+      "source": "google_developers"
+    },
+    {
+      "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
       "source": "google_developers"
     },
     {
       "title": "How Agent Anomaly Detection scores on benchmarks we didn't write",
+      "source": "google_developers"
+    },
+    {
+      "title": "Catch Go bugs that fuzzing misses with Gemini and a constraint solver",
       "source": "google_developers"
     },
     {
@@ -152,19 +164,15 @@
       "source": "google_developers"
     },
     {
-      "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
-      "source": "google_developers"
+      "title": "Agentic AI in finance: Automate outcomes, not tasks - CFO Brew",
+      "source": "google_news_ai"
     },
     {
-      "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
-      "source": "google_developers"
+      "title": "AI is set to change the graduate job market. Here's how universities can respond - Phys.org",
+      "source": "google_news_ai"
     },
     {
-      "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
-      "source": "google_developers"
-    },
-    {
-      "title": "AI uncovers flaws in discontinued devices with no vendor left to patch them - Help Net Security",
+      "title": "Google warns that fully-automated AI attacks are coming soon - BleepingComputer",
       "source": "google_news_ai"
     },
     {
@@ -172,23 +180,15 @@
       "source": "google_news_ai"
     },
     {
-      "title": "Roundtable: AI Starts at the Source: Building a Reliable Supply Chain Data Foundation - Supply Chain Management Review",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Tech Bytes: Virgin Australia deploys AI agents as automation reshapes business operations - Proactive financial news",
-      "source": "google_news_ai"
-    },
-    {
       "title": "Multimodal Claims Intake with Agentic AI: A Practical Architecture - Carrier Management",
       "source": "google_news_ai"
     },
     {
-      "title": "How AI is eating the billable hour at Australia’s top accounting firms - AFR",
+      "title": "Tech Bytes: Virgin Australia deploys AI agents as automation reshapes business operations - Yahoo Finance Australia",
       "source": "google_news_ai"
     },
     {
-      "title": "AI is set to change the graduate job market. Here’s how unis can respond - The Conversation",
+      "title": "Roundtable: AI Starts at the Source: Building a Reliable Supply Chain Data Foundation - Supply Chain Management Review",
       "source": "google_news_ai"
     },
     {
@@ -196,19 +196,23 @@
       "source": "google_news_ai"
     },
     {
+      "title": "How AI is eating the billable hour at Australia’s top accounting firms - AFR",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "From Material Flow to Machine Judgment: How Physical AI Connects Production Logistics to Autonomous Operations - Logistics Viewpoints",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "News: Why Robotics Safety Is Difficult to Value | SecuRESafe (SRES) - A3 Association for Advancing Automation",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "MISUMI Advances Smarter Manufacturing Through AI, Digital Procurement and Automation - The Worldfolio",
+      "source": "google_news_ai"
+    },
+    {
       "title": "SAP and VF Corporation test out AI and automation technology powered S.Fashion physical store - Retail Technology Innovation Hub",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "A Bowdoin degree in the age of AI - The Bowdoin Orient",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The AI Automation Advantage for Mid-market Businesses - CustomerThink",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AMC's AI Theater Programming: Can Automation Boost EBITDA? - Yahoo Finance",
       "source": "google_news_ai"
     },
     {
@@ -216,7 +220,51 @@
       "source": "google_news_ai"
     },
     {
+      "title": "Google Says AI Automated the Jump From Patch to Exploit - The Defiant",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "AI and automation seen as a career threat by 21% of young people in Ukraine - Mezha.net",
+      "source": "google_news_ai"
+    },
+    {
       "title": "Valeria raises €5.5M to accelerate AI-powered payroll and HR automation - Tech.eu",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Availity Extend Securely Opens the Nation’s Largest Health Intelligence Network to Builders, Automation and AI Agents - 01net",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Intergrid announces €23.5m in total funding for industrial energy AI - CASRAI",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Rockwell Automation Integrates NVIDIA Omniverse into Emulate3D to Advance Industrial Simulation and AI-Powered Factory Design - PR Newswire",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "UiPath Launches AI Coding Agent, Integrates Claude Code and Codex to Target Development Automation - BigGo Finance",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Enkaytech Helps Logistics Companies Automate CargoWise Operations with AI-Powered Document Intelligence - Send2Press",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "NeenOpal Launches QuoteDoc AI, an AI-Powered Quotation Automation Platform for B2B Suppliers - The Manila Times",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Siemens combines Industrial AI and additive manufacturing for adap ... - Siemens Press",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Zoho launches Blended AI Agents to automate customer service with human oversight - ANI News",
+      "source": "google_news_ai"
+    },
+    {
+      "title": "Google says likely first fully automated AI attack — Politico Europe - UA.NEWS",
       "source": "google_news_ai"
     },
     {
@@ -224,67 +272,39 @@
       "source": "google_news_ai"
     },
     {
-      "title": "MISUMI Connects Digital Manufacturing, AI and Smarter Procurement - The Worldfolio",
+      "title": "Katalon Launches AI Test Runner to Enable Teams to Grow Testing Capacity Without Growing Headcount - PR Newswire",
       "source": "google_news_ai"
     },
     {
-      "title": "DHL Supply Chain pilots adaptive robotics and AI orchestration in warehouse operations - Robotics &amp; Automation News",
+      "title": "Manufacturers can test factory-scale designs virtually before equipment is deployed. - Stock Titan",
       "source": "google_news_ai"
     },
     {
-      "title": "How will AI automation hit — like a crashing wave or a rising tide? - MIT Sloan",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "GITEX Global to showcase latest humanoid robots and physical AI technologies in Dubai - Robotics &amp; Automation News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Zacua Ventures raises $135 million to invest in robotics, physical AI and industrial technology - Robotics &amp; Automation News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "The AI Death Trap: Why Organisations Need to Think Bigger Than Automation - The European Business Review",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Crew Resource Management — Navigating AI’s Automation Paradox - The New England Journal of Medicine",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "How AI is reshaping workflows and redefining jobs - MIT Sloan",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "NSA Releases Security Design Considerations for AI-Driven Automation Leveraging the Model Context Protocol - National Security Agency (NSA) (.gov)",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "3 AI Stocks Quietly Powering Smarter Warehouses And Data Centers - Yahoo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "3 Enterprise Software Stocks Where AI Automation Could Lift Pricing Power - Simply Wall St",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI-powered building operations - Climate Control News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "TechForce partners DevRev for ANZ support automation - IT Brief New Zealand",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Towards end-to-end automation of AI research - Nature",
+      "title": "100 Million Automations and Counting: Fold Health Launches the AI Operating Layer That Turns Healthcare Insights Into Action - PR Newswire",
       "source": "google_news_ai"
     },
     {
       "title": "Google Explains How To Find Search Traffic In Analytics &amp; Logs - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Why SEO testing matters more as AI makes execution easier - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Spam Update, Image Search Data In GSC – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "SEO National® Highlights Gaps in AI Search and Google Traffic Data - PR Underground",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "2-Week Core Update, 3-Day AI Report Gap: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
@@ -296,35 +316,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "HKGSEO Launches New SEO×GEO Dual-Engine Optimization Monthly Plan - 巴士的報",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Create &amp; capture demand in the AI Search era - Think with Google US - Google Business Profile",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11 - Search Engine Roundtable",
+      "title": "Google Search Analytics API gains new filters and reporting - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "How to Rank Higher (&amp; Get More Visibility) on Google in 2026 - Backlinko",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search - Search Engine Roundtable",
+      "title": "Google November 2026 Core Update Ranking Flux - What We're Seeing - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -332,11 +332,15 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+      "title": "Google Ads clarifies how URL exclusions work in AI Max for Search campaigns - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More - Search Engine Roundtable",
+      "title": "Daily Search Forum Recap: November 16, 2026 - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "ChatGPT citation drops look like unannounced Google core updates - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -344,11 +348,47 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
+      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11 - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Ads introduces new ValueTrack parameter to identify AI Max traffic - Search Engine Land",
+      "title": "Why AI search is bringing SEO and brand marketing together - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "HKGSEO Launches New SEO×GEO Dual-Engine Optimization Monthly Plan - 巴士的報",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "How to Rank Higher (&amp; Get More Visibility) on Google in 2026 - Backlinko",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Video: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads &amp; More - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "AI Is Rewriting the Old Rules of Google Search and SEO - WSJ",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google On How Moving to a CDN Can Accidentally Overwhelm Your Website - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -364,51 +404,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Console: the ultimate guide for 2026 - Semrush",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Local SEO: What is it &amp; how to do it - Semrush",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Launches Core Update Amid I/O AI Search Overhaul – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google publishes guide to optimizing for generative AI search - Semrush",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "How to use Google Trends for SEO in 2026 - Semrush",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "The Top 6 Search Engines Market Share &amp; The AI Search Engines To Watch - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google’s Preferred Sources Is Now A Global SEO Signal - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Life after SEO: How newsrooms are adapting to the AI search shift - reutersinstitute.politics.ox.ac.uk",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "How AI-generated content performs in Google Search: A 16-month experiment - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Cloudflare Details its Migration to \"WordPress Successor\" EmDash - infoq.com",
+      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
-      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In - Search Engine Journal",
+      "title": "Cloudflare Details its Migration to \"WordPress Successor\" EmDash - infoq.com",
       "source": "google_news_wordpress"
     },
     {
@@ -416,7 +416,7 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Top 14 WordPress Development Companies in the USA for Custom Website Solutions in 2026 - WhaTech",
+      "title": "Cloudways Launches AI Website Builder, Enabling Businesses To Create And Launch WordPress Websites In Minutes - AiThority",
       "source": "google_news_wordpress"
     },
     {
@@ -424,11 +424,23 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "EmDash 1.0 Challenges WordPress Freedom With Cloudflare Lock-In - Search Engine Journal",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers - The Hacker News",
+      "title": "Is the U.S. Using Less Gasoline and Diesel? - Energy Institute Blog",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "DigitalOcean's Cloudways Launches AI Website Builder for WordPress, WooCommerce - marketscreener.com",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Why these West Village dwellings built in 1844 were later dubbed the “pie houses” - Ephemeral New York",
       "source": "google_news_wordpress"
     },
     {
@@ -436,19 +448,11 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress Announces Another Security Release: Version 7.1.4 - Search Engine Journal",
+      "title": "You can just make out the golden arches in a faded ad for the oldest McDonald’s in New York City - Ephemeral New York",
       "source": "google_news_wordpress"
     },
     {
-      "title": "What makes Commerce Street NYC special - Ephemeral New York",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Previewing East Grand Forks Volleyball’s First State Tournament Appearance With Kelsey Spilde, Hayden Berg and Lanee Hams - knoxradio",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "Uncanny Automator Launches the Only WordPress MCP Server With a Built-in Automation Engine - StreetInsider",
+      "title": "The Good Daughter sequel teased by Karin Slaughter - The Killing Times",
       "source": "google_news_wordpress"
     },
     {
@@ -456,11 +460,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress - Search Engine Journal",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours - The Hacker News",
+      "title": "Report: Season 8 of Slow Horses to be show’s ‘last’ - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "WordPress Announces Another Security Release: Version 7.1.4 - Search Engine Journal",
       "source": "google_news_wordpress"
     },
     {
@@ -472,21 +480,13 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "Hulu confirms transmission date for Ewan McGregor thriller The Spot - The Killing Times",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "REVIEW: Honey (S1 E1&amp;2/6) - The Killing Times",
-      "source": "google_news_wordpress"
-    },
-    {
-      "title": "The 10 Best Crime Dramas This Week (Monday 16th – Sunday 22nd November) - The Killing Times",
+      "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
       "source": "google_news_wordpress"
     }
   ],
   "improvement_queue": [
-    "Review local-AI prompts and AI-tool topics for freshness.",
     "Review SEO/content rules against current Google Search guidance.",
+    "Review local-AI prompts and AI-tool topics for freshness.",
     "Refresh Shopify topic clusters.",
     "Refresh WordPress topic clusters."
   ],
