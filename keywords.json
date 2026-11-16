@@ -28,7 +28,25 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "current priority date for employment based green card",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
       "keyword": "ap top 25 basketball predictions",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "ap top 25 basketball rankings",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -46,7 +64,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ap top 25 basketball poll",
+      "keyword": "ap top 25 basketball women",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -64,16 +82,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "ap top 25 basketball women",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ap top 25 basketball mens",
+      "keyword": "ap top 25 basketball men",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -128,6 +137,24 @@
     },
     {
       "keyword": "ncaa soccer tournament 2026 selection show",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "us employment based green card proposal",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "what is employment based green card",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,6 +226,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "ncaa soccer tournament 2026 schedule",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "ncaa soccer tournament 2026 women",
       "intent": "informational",
       "demand": 70.0,
@@ -262,15 +298,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ncaa soccer tournament women",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "ncaa soccer tournament d2",
       "intent": "informational",
       "demand": 64.0,
@@ -325,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college basketball rankings kenpom",
+      "keyword": "college basketball rankings today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +361,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college basketball rankings today",
+      "keyword": "college basketball rankings ap",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "college basketball rankings kenpom",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,15 +388,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college basketball rankings 2026-27",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "college basketball rankings updated",
       "intent": "informational",
       "demand": 64.0,
@@ -370,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college basketball rankings preseason",
+      "keyword": "college basketball rankings 2026-27",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,15 +433,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "w9 form 2026 irs",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "ncaa soccer tournament",
       "intent": "informational",
       "demand": 58.0,
@@ -442,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chase customer service",
+      "keyword": "chase bank yakima",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chase bank denver",
+      "keyword": "chase credit card",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "chase bank colorado",
+      "keyword": "chase bank outage",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,15 +505,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "w9 form download",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "w9 form irs",
       "intent": "informational",
       "demand": 58.0,
@@ -505,7 +514,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john summit atlanta",
+      "keyword": "w9 form download",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "john summit gorge",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john summit miami",
+      "keyword": "john summit atlanta",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -533,15 +551,6 @@
     },
     {
       "keyword": "john summit tickets",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john summit chicago",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -569,15 +578,6 @@
     },
     {
       "keyword": "john summit concert",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john summit charlotte",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -614,6 +614,15 @@
     },
     {
       "keyword": "w9 form",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "w900 kenworth",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -690,25 +699,16 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "ap top 25 basketball rankings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "ap top 25 basketball projections",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ap top 25 basketball poll",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "ap top 25 basketball ballot",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -726,7 +726,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "ap top 25 basketball mens",
+          "keyword": "ap top 25 basketball ballot",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "ap top 25 basketball men",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -787,6 +796,20 @@
       ]
     },
     {
+      "pillar": "current priority date for employment based green card",
+      "cluster": [
+        {
+          "keyword": "current priority date for employment based green card",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        }
+      ]
+    },
+    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -797,6 +820,15 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        },
+        {
+          "keyword": "what is employment based green card",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
         }
       ]
     },
@@ -854,6 +886,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "ncaa soccer tournament 2026 schedule",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "ncaa soccer tournament 2026 women",
           "intent": "informational",
           "demand": 70.0,
@@ -873,15 +914,6 @@
         },
         {
           "keyword": "ncaa soccer tournament 2026",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ncaa soccer tournament women",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -924,6 +956,20 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "us employment based green card proposal",
+      "cluster": [
+        {
+          "keyword": "us employment based green card proposal",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
         }
       ]
     },
@@ -1004,7 +1050,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "john summit atlanta",
+          "keyword": "john summit gorge",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1022,7 +1068,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john summit miami",
+          "keyword": "john summit atlanta",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1032,15 +1078,6 @@
         },
         {
           "keyword": "john summit tickets",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit chicago",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1068,15 +1105,6 @@
         },
         {
           "keyword": "john summit concert",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john summit charlotte",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1140,7 +1168,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college basketball rankings kenpom",
+          "keyword": "college basketball rankings today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1149,7 +1177,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college basketball rankings today",
+          "keyword": "college basketball rankings ap",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "college basketball rankings kenpom",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1167,15 +1204,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college basketball rankings 2026-27",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "college basketball rankings updated",
           "intent": "informational",
           "demand": 64.0,
@@ -1185,7 +1213,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college basketball rankings preseason",
+          "keyword": "college basketball rankings 2026-27",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1235,7 +1263,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chase customer service",
+          "keyword": "chase bank yakima",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1244,7 +1272,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chase bank denver",
+          "keyword": "chase credit card",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1253,7 +1281,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "chase bank colorado",
+          "keyword": "chase bank outage",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1312,15 +1340,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "w9 form 2026 irs",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "w9 form 2026",
           "intent": "informational",
           "demand": 58.0,
@@ -1339,7 +1358,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "w9 form download",
+          "keyword": "w9 form irs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1348,7 +1367,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "w9 form irs",
+          "keyword": "w9 form download",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1391,6 +1410,20 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "w900 kenworth",
+      "cluster": [
+        {
+          "keyword": "w900 kenworth",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     }
