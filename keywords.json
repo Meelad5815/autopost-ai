@@ -19,6 +19,15 @@
       "learned_score": 84.4
     },
     {
+      "keyword": "alabama crimson tide football vs vanderbilt football standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
       "keyword": "alabama crimson tide football vs vanderbilt football matches",
       "intent": "informational",
       "demand": 82.0,
@@ -29,6 +38,15 @@
     },
     {
       "keyword": "alabama crimson tide football vs chattanooga mocs football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "alabama crimson tide football vs auburn tigers football",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -118,7 +136,25 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "friendliest states in the us",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "friendliest country in the world",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "school delays and closures today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -146,15 +182,6 @@
     },
     {
       "keyword": "school delays in my area",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "school delays and closings today",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -191,33 +218,6 @@
     },
     {
       "keyword": "alabama crimson tide football schedule",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "alabama crimson tide football score",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "alabama crimson tide football roster",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "market street pizza spokane valley",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +280,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "haitian restaurant near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "ncis new york cast",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "ncis new orleans cast",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,16 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "market street pizza spokane",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "market in the mountains",
+      "keyword": "marketplace des moines iowa",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,15 +424,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "haiti el salvador",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "mets game today",
       "intent": "informational",
       "demand": 58.0,
@@ -442,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ncis new orleans",
+      "keyword": "ncis los angeles",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ncis los angeles",
+      "keyword": "marketplace des moines",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "market street pizza",
+      "keyword": "market to market",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,16 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "marketplace moses lake",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "marketplace ephrata wa",
+      "keyword": "market on 30",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,16 +514,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "friendlies soccer",
+      "keyword": "singapore – brésil",
       "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
       "learning_boost": 0.0,
-      "learned_score": 45.4
+      "learned_score": 52.6
     },
     {
-      "keyword": "friendliest tarantula",
+      "keyword": "friendlies soccer",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -703,15 +694,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "ncis la",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "ncis sydney",
       "intent": "informational",
       "demand": 52.0,
@@ -721,7 +703,34 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "marketplace spokane",
+      "keyword": "ncis la",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "marketplace ames",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "markets today",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "market news",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -843,6 +852,15 @@
           "learned_score": 84.4
         },
         {
+          "keyword": "alabama crimson tide football vs vanderbilt football standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
           "keyword": "alabama crimson tide football vs vanderbilt football matches",
           "intent": "informational",
           "demand": 82.0,
@@ -853,6 +871,15 @@
         },
         {
           "keyword": "alabama crimson tide football vs chattanooga mocs football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "alabama crimson tide football vs auburn tigers football",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -880,24 +907,6 @@
         },
         {
           "keyword": "alabama crimson tide football schedule",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "alabama crimson tide football score",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "alabama crimson tide football roster",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -989,6 +998,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "school delays and closures today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "school delays today near me",
           "intent": "informational",
           "demand": 70.0,
@@ -1008,15 +1026,6 @@
         },
         {
           "keyword": "school delays in my area",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "school delays and closings today",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1093,15 +1102,6 @@
           "learned_score": 61.0
         },
         {
-          "keyword": "haiti el salvador",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "haiti news",
           "intent": "informational",
           "demand": 52.0,
@@ -1131,8 +1131,17 @@
       ]
     },
     {
-      "pillar": "friendliest country in the world",
+      "pillar": "friendliest states in the us",
       "cluster": [
+        {
+          "keyword": "friendliest states in the us",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
         {
           "keyword": "friendliest country in the world",
           "intent": "informational",
@@ -1159,15 +1168,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "friendliest tarantula",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         },
         {
           "keyword": "friendliest sharks",
@@ -1232,56 +1232,6 @@
       ]
     },
     {
-      "pillar": "market street pizza spokane valley",
-      "cluster": [
-        {
-          "keyword": "market street pizza spokane valley",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "market street pizza spokane",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "market in the mountains",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "market street pizza",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "market",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "fuso horário singapura x brasil",
       "cluster": [
         {
@@ -1309,6 +1259,15 @@
       "cluster": [
         {
           "keyword": "haitian food near me",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "haitian restaurant near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1349,6 +1308,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "ncis new orleans cast",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "ncis new york",
           "intent": "informational",
           "demand": 58.0,
@@ -1358,7 +1326,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ncis new orleans",
+          "keyword": "ncis los angeles",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1368,15 +1336,6 @@
         },
         {
           "keyword": "ncis origins cast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ncis los angeles",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1403,7 +1362,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ncis la",
+          "keyword": "ncis sydney",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1412,7 +1371,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "ncis sydney",
+          "keyword": "ncis la",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1451,6 +1410,47 @@
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "marketplace des moines iowa",
+      "cluster": [
+        {
+          "keyword": "marketplace des moines iowa",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "marketplace des moines",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "marketplace ames",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "marketplace",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     },
@@ -1629,10 +1629,10 @@
       ]
     },
     {
-      "pillar": "marketplace moses lake",
+      "pillar": "market to market",
       "cluster": [
         {
-          "keyword": "marketplace moses lake",
+          "keyword": "market to market",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1641,7 +1641,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marketplace ephrata wa",
+          "keyword": "market on 30",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1650,7 +1650,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "marketplace spokane",
+          "keyword": "market news",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1659,7 +1659,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "marketplace",
+          "keyword": "market",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1688,6 +1688,15 @@
       "cluster": [
         {
           "keyword": "singapore x brazil",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "singapore – brésil",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1744,6 +1753,20 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "markets today",
+      "cluster": [
+        {
+          "keyword": "markets today",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
