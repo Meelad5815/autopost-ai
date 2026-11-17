@@ -1,86 +1,86 @@
 {
-  "generated_at": "2026-11-16T18:48:36.410700+00:00",
+  "generated_at": "2026-11-17T02:22:23.804555+00:00",
   "feed_count": 8,
-  "item_count": 159,
+  "item_count": 128,
   "items": [
     {
-      "title": "uscis prior approval deference removal",
+      "title": "sacramento republic fc vs new mexico united",
       "source": "google_trends_us"
     },
     {
-      "title": "ncaa soccer tournament",
+      "title": "elizabeth banks",
       "source": "google_trends_us"
     },
     {
-      "title": "john summit tour bus",
+      "title": "pedro pascal",
       "source": "google_trends_us"
     },
     {
-      "title": "ap top 25 basketball",
+      "title": "jacksonville vs georgia",
       "source": "google_trends_us"
     },
     {
-      "title": "fema nationwide emergency test date",
+      "title": "northwestern basketball",
       "source": "google_trends_us"
     },
     {
-      "title": "college basketball rankings",
+      "title": "rashod bateman",
       "source": "google_trends_us"
     },
     {
-      "title": "chase",
+      "title": "golden state warriors vs new orleans pelicans match player stats",
       "source": "google_trends_us"
     },
     {
-      "title": "w9",
+      "title": "is john boyd leaving fbi",
       "source": "google_trends_us"
     },
     {
-      "title": "john summit",
+      "title": "liv morgan",
       "source": "google_trends_us"
     },
     {
-      "title": "us employment based green card proposal",
+      "title": "canada",
       "source": "google_trends_us"
     },
     {
-      "title": "abu dhabi t10 cricket league",
+      "title": "پٹرولیم",
       "source": "google_trends_pk"
     },
     {
-      "title": "grammys 2027 nominations",
+      "title": "houthis",
       "source": "google_trends_pk"
     },
     {
-      "title": "inflation",
+      "title": "gta 6",
       "source": "google_trends_pk"
     },
     {
-      "title": "robert pattinson",
+      "title": "thanksgiving 2026",
       "source": "google_trends_pk"
     },
     {
-      "title": "maryam nawaz",
+      "title": "1500 prize bond list 16 november 2026",
       "source": "google_trends_pk"
     },
     {
-      "title": "jay shah",
+      "title": "switzerland vs scotland",
       "source": "google_trends_pk"
     },
     {
-      "title": "landfill",
+      "title": "2027 grammys nominations",
       "source": "google_trends_pk"
     },
     {
-      "title": "namibia vs cameroon",
+      "title": "abu dhabi t10 league",
       "source": "google_trends_pk"
     },
     {
-      "title": "carlos alcaraz",
+      "title": "gta 6 release date",
       "source": "google_trends_pk"
     },
     {
-      "title": "falkland islands vs costa rica",
+      "title": "germany vs netherlands",
       "source": "google_trends_pk"
     },
     {
@@ -88,11 +88,15 @@
       "source": "google_developers"
     },
     {
-      "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
+      "title": "TPU Model Design Considerations and Optimization Guide",
       "source": "google_developers"
     },
     {
       "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
+      "source": "google_developers"
+    },
+    {
+      "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
       "source": "google_developers"
     },
     {
@@ -160,139 +164,15 @@
       "source": "google_developers"
     },
     {
-      "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
-      "source": "google_developers"
-    },
-    {
-      "title": "Agentic AI in finance: Automate outcomes, not tasks - CFO Brew",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI is set to change the graduate job market. Here's how universities can respond - Phys.org",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google warns that fully-automated AI attacks are coming soon - BleepingComputer",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Qisda affiliate Ace Pillar deepens semiconductor and AI automation push, expanding into wafer regeneration and SiPh - digitimes",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Multimodal Claims Intake with Agentic AI: A Practical Architecture - Carrier Management",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Tech Bytes: Virgin Australia deploys AI agents as automation reshapes business operations - Yahoo Finance Australia",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Roundtable: AI Starts at the Source: Building a Reliable Supply Chain Data Foundation - Supply Chain Management Review",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Insurtech StitchStudio raises $8 mn to expand AI automation in insurance - Beinsure",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "How AI is eating the billable hour at Australia’s top accounting firms - AFR",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "From Material Flow to Machine Judgment: How Physical AI Connects Production Logistics to Autonomous Operations - Logistics Viewpoints",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "News: Why Robotics Safety Is Difficult to Value | SecuRESafe (SRES) - A3 Association for Advancing Automation",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "MISUMI Advances Smarter Manufacturing Through AI, Digital Procurement and Automation - The Worldfolio",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "SAP and VF Corporation test out AI and automation technology powered S.Fashion physical store - Retail Technology Innovation Hub",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "I used AI to develop the perfect smart home automation routines for my house - How-To Geek",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google Says AI Automated the Jump From Patch to Exploit - The Defiant",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "AI and automation seen as a career threat by 21% of young people in Ukraine - Mezha.net",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Valeria raises €5.5M to accelerate AI-powered payroll and HR automation - Tech.eu",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Availity Extend Securely Opens the Nation’s Largest Health Intelligence Network to Builders, Automation and AI Agents - 01net",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Intergrid announces €23.5m in total funding for industrial energy AI - CASRAI",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Rockwell Automation Integrates NVIDIA Omniverse into Emulate3D to Advance Industrial Simulation and AI-Powered Factory Design - PR Newswire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "UiPath Launches AI Coding Agent, Integrates Claude Code and Codex to Target Development Automation - BigGo Finance",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Enkaytech Helps Logistics Companies Automate CargoWise Operations with AI-Powered Document Intelligence - Send2Press",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "NeenOpal Launches QuoteDoc AI, an AI-Powered Quotation Automation Platform for B2B Suppliers - The Manila Times",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Siemens combines Industrial AI and additive manufacturing for adap ... - Siemens Press",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Zoho launches Blended AI Agents to automate customer service with human oversight - ANI News",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Google says likely first fully automated AI attack — Politico Europe - UA.NEWS",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Job postings show early signs of AI automation impact - Federal Reserve Bank of Dallas",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Katalon Launches AI Test Runner to Enable Teams to Grow Testing Capacity Without Growing Headcount - PR Newswire",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "Manufacturers can test factory-scale designs virtually before equipment is deployed. - Stock Titan",
-      "source": "google_news_ai"
-    },
-    {
-      "title": "100 Million Automations and Counting: Fold Health Launches the AI Operating Layer That Turns Healthcare Insights Into Action - PR Newswire",
-      "source": "google_news_ai"
+      "title": "Why SEO testing matters more as AI makes execution easier - Search Engine Land",
+      "source": "google_news_seo"
     },
     {
       "title": "Google Explains How To Find Search Traffic In Analytics &amp; Logs - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Why SEO testing matters more as AI makes execution easier - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Analytics API Adds Branded Queries, Multimodal &amp; Country/Devices Filters - Search Engine Roundtable",
+      "title": "Google Updates The Search Analytics API To Filter By Branded Queries, Multimodal &amp; Country/Devices - Search Engine Roundtable",
       "source": "google_news_seo"
     },
     {
@@ -300,11 +180,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "SEO National® Highlights Gaps in AI Search and Google Traffic Data - PR Underground",
+      "title": "2-Week Core Update, 3-Day AI Report Gap: DesignRush SEO Roundup - DesignRush",
       "source": "google_news_seo"
     },
     {
-      "title": "2-Week Core Update, 3-Day AI Report Gap: DesignRush SEO Roundup - DesignRush",
+      "title": "Google's Search Console API now splits brand traffic, back to February 21 - PPC Land",
       "source": "google_news_seo"
     },
     {
@@ -312,7 +192,11 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google’s November 2026 Core Update Starts Rolling Out - Search Engine Journal",
+      "title": "Google’s Ask Maps Starts Finding Appointments &amp; Calling Businesses - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Certified SEO Weighs In on Google's Reported AI Mode Omission - PR Underground",
       "source": "google_news_seo"
     },
     {
@@ -324,15 +208,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google November 2026 Core Update Ranking Flux - What We're Seeing - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Ads clarifies how URL exclusions work in AI Max for Search campaigns - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -344,11 +220,7 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Core Update, ChatGPT Business Hub &amp; AI Mode’s New Model – SEO Pulse - Search Engine Journal",
-      "source": "google_news_seo"
-    },
-    {
-      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11 - Search Engine Roundtable",
+      "title": "Google’s November 2026 Core Update Starts Rolling Out - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -356,15 +228,23 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
-      "source": "google_news_seo"
-    },
-    {
       "title": "SEO best practice, passing fad, or timeless tactic? How to tell the difference - Search Engine Land",
       "source": "google_news_seo"
     },
     {
-      "title": "HKGSEO Launches New SEO×GEO Dual-Engine Optimization Monthly Plan - 巴士的報",
+      "title": "Core Update, ChatGPT Business Hub &amp; AI Mode’s New Model – SEO Pulse - Search Engine Journal",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Your SEO share of voice doesn’t tell you if AI recommends your brand - Search Engine Land",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11 - Search Engine Roundtable",
+      "source": "google_news_seo"
+    },
+    {
+      "title": "Dreambeans: Google turns your private life into personalized content - Search Engine Land",
       "source": "google_news_seo"
     },
     {
@@ -384,10 +264,6 @@
       "source": "google_news_seo"
     },
     {
-      "title": "Google On How Moving to a CDN Can Accidentally Overwhelm Your Website - Search Engine Roundtable",
-      "source": "google_news_seo"
-    },
-    {
       "title": "Google’s New AI Search Guide Calls AEO And GEO ‘Still SEO’ - Search Engine Journal",
       "source": "google_news_seo"
     },
@@ -396,11 +272,15 @@
       "source": "google_news_seo"
     },
     {
+      "title": "HKGSEO Launches New SEO×GEO Dual-Engine Optimization Monthly Plan - 巴士的報",
+      "source": "google_news_seo"
+    },
+    {
       "title": "Google Search Redesign, Business Profile Post Views – SEO Pulse - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
-      "title": "Google Explains How To Use HTML Sitemaps For SEO - Search Engine Journal",
+      "title": "Google Search Console Adds Reports For Social Posts - Search Engine Journal",
       "source": "google_news_seo"
     },
     {
@@ -436,7 +316,19 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "When the Admin's Browser Becomes the Attack Path: Lessons from the TRUST#GRAFT WordPress Campaign - Cybersecurity Insiders",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "GoBTC Pay Launches Official WooCommerce Plugin, Bringing Bitcoin Payments to WordPress Stores - Benzinga",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "DigitalOcean's Cloudways Launches AI Website Builder for WordPress, WooCommerce - marketscreener.com",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Listen Up! Temple University Press Podcast, Episode 17: The Jim Crow from the Harbor with John Tilghman - WordPress.com",
       "source": "google_news_wordpress"
     },
     {
@@ -444,15 +336,15 @@
       "source": "google_news_wordpress"
     },
     {
-      "title": "“Better than Murakami T” – Abandoning a Cat by Haruki Murakami - Bookmunch",
-      "source": "google_news_wordpress"
-    },
-    {
       "title": "You can just make out the golden arches in a faded ad for the oldest McDonald’s in New York City - Ephemeral New York",
       "source": "google_news_wordpress"
     },
     {
-      "title": "The Good Daughter sequel teased by Karin Slaughter - The Killing Times",
+      "title": "“Better than Murakami T” – Abandoning a Cat by Haruki Murakami - Bookmunch",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "McDonald’s Broadway and 96th Street NYC - Ephemeral New York",
       "source": "google_news_wordpress"
     },
     {
@@ -464,6 +356,14 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "The Good Daughter sequel teased by Karin Slaughter - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Max Dowman scores last minute winner as England U21s beat France; Ethan Nwaneri provides two assists - Jeorge Bird's Arsenal Youth",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Report: Season 8 of Slow Horses to be show’s ‘last’ - The Killing Times",
       "source": "google_news_wordpress"
     },
@@ -472,21 +372,121 @@
       "source": "google_news_wordpress"
     },
     {
+      "title": "Shape Your City has moved to new online engagement platform: What changed? What is missing? - CityHallWatch",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Shape Your City project index: Snapshots saved on archive.org - CityHallWatch",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Critical PHP Core Vulnerabilities Affect Websites, Including WordPress - Search Engine Journal",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Burnaby Mayor Calls for Review of B.C. Housing Laws - CityHallWatch",
+      "source": "google_news_wordpress"
+    },
+    {
       "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor - The Hacker News",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Celebrating UP Week: A Preview of Forthcoming Initiatives - WordPress.com",
+      "title": "Surrey Police : stay safe from online shopping fraud - WordPress.com",
       "source": "google_news_wordpress"
     },
     {
-      "title": "Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation - GreyNoise",
+      "title": "East Surrey : further senior officer appointment - WordPress.com",
       "source": "google_news_wordpress"
+    },
+    {
+      "title": "SERIES REVIEW: Hunting Alice Bell - The Killing Times",
+      "source": "google_news_wordpress"
+    },
+    {
+      "title": "Releasing Personal Agent Protocol 1.0 - Sierra AI Agents",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Elon Musk, Tom Lee, Shopify CEO Sign ‘Stand With Jensen’ Petition To Reinstate Him As Nvidia CEO - Yahoo Finance",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Printful brings print-on-demand to Shopify Sidekick - The National Law Review",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Shopify Earnings: What Wall Street Missed - The Motley Fool",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Sources: Massu set to join Shopify Rebellion for LCS 2027 - Sheep Esports",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Sierra releases Poppy 1.0 as Shopify and Meta’s Muse sign on - The Next Web",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Sources: Vulcan set to join Shopify Rebellion ahead of the 2027 season - Sheep Esports",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Sources: Gryffinn set to join Shopify Rebellion ahead of 2027 LCS Season - Sheep Esports",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents - TechCrunch",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Kickstarter Brings Crowdfunding Orders Into Shopify With New App - PYMNTS.com",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Shopify, Cohere leaders join call for Jensen Huang to be reinstated as Nvidia CEO - BetaKit",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Shopify urges entrepreneurs to stick with their big idea - Campaign US",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Zipify Study of 123.9M Upsell Offers Finds Pre-Checkout Pop-Ups Convert Best, Yet Half as Many Shopify Stores Use Them - The Arizona Republic",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Website Image Size Guidelines for 2027 - Shopify",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Shopify (SHOP) Stock Could Be 23% Overvalued As Shop.com Bet Draws Focus - Yahoo Finance",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Printful brings print-on-demand to Shopify Sidekick - EIN Presswire",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Mother LA scores for Shopify - More About Advertising",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Chewy vs. Shopify: Which Consumer Stock Is a Better Buy for 2027? - The Motley Fool",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "How Investors May Respond To Shopify (SHOP) Mixed Earnings And AI Push - Yahoo Finance",
+      "source": "google_news_shopify"
+    },
+    {
+      "title": "Exponential: Shopify's Fall '26 Edition - Shopify",
+      "source": "google_news_shopify"
     }
   ],
   "improvement_queue": [
-    "Review SEO/content rules against current Google Search guidance.",
     "Review local-AI prompts and AI-tool topics for freshness.",
+    "Review SEO/content rules against current Google Search guidance.",
     "Refresh Shopify topic clusters.",
     "Refresh WordPress topic clusters."
   ],
