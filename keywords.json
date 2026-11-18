@@ -37,15 +37,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "nice to meet you in spanish",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "how much is an accident lawyer",
       "intent": "informational",
       "demand": 70.0,
@@ -226,15 +217,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "los angeles rams players",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "car accident attorney sacramento",
       "intent": "informational",
       "demand": 64.0,
@@ -334,7 +316,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "coinbase customer service",
+      "keyword": "coinbase phone number",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -452,6 +434,15 @@
     },
     {
       "keyword": "los angeles news",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "los angeles clippers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,6 +658,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "nice meaning",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "los angeles",
       "intent": "informational",
       "demand": 52.0,
@@ -703,7 +703,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "twitchcon 2026",
+      "keyword": "twitch login",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -712,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "twitch login",
+      "keyword": "twitchcon 2026",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -959,92 +959,6 @@
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        }
-      ]
-    },
-    {
-      "pillar": "nice to meet you in spanish",
-      "cluster": [
-        {
-          "keyword": "nice to meet you in spanish",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nice restaurants near me",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nice dijon cannes nyt",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "nice restaurants texas",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nice restaurants california",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nice dijon cannes",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "nice france",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "nice guys",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "nice",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
@@ -1412,10 +1326,10 @@
       ]
     },
     {
-      "pillar": "los angeles rams players",
+      "pillar": "nice restaurants near me",
       "cluster": [
         {
-          "keyword": "los angeles rams players",
+          "keyword": "nice restaurants near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1424,7 +1338,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "los angeles lakers",
+          "keyword": "nice dijon cannes nyt",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "nice restaurants texas",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1433,7 +1356,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "los angeles dodgers",
+          "keyword": "nice restaurants california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1442,7 +1365,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "los angeles weather",
+          "keyword": "nice dijon cannes",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1451,58 +1374,40 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "los angeles rams",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "los angeles chargers",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "los angeles apparel",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "los angeles kings",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "los angeles news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "los angeles",
+          "keyword": "nice france",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        },
+        {
+          "keyword": "nice guys",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "nice meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "nice",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     },
@@ -1519,7 +1424,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "coinbase customer service",
+          "keyword": "coinbase phone number",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1598,6 +1503,101 @@
           "ranking_probability": 38.2,
           "learning_boost": 0.0,
           "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "los angeles lakers",
+      "cluster": [
+        {
+          "keyword": "los angeles lakers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles dodgers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles weather",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles rams",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles chargers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles apparel",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles kings",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles clippers",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "los angeles",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
