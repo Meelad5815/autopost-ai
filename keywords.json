@@ -73,15 +73,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "how big will gta 6 be",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "stanislaus wildlife care center hughson ca",
       "intent": "informational",
       "demand": 70.0,
@@ -101,15 +92,6 @@
     },
     {
       "keyword": "las vegas weather forecast 21 day",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "las vegas weather 30 day forecast",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -172,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "las vegas weather 10 day",
+      "keyword": "las vegas weather 14 day",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -217,6 +199,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "las vegas weather in january",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "john cornyn ted cruz",
       "intent": "informational",
       "demand": 64.0,
@@ -244,6 +235,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "john cornyn political party",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "gta 6 bigfoot encounter",
       "intent": "informational",
       "demand": 64.0,
@@ -262,6 +262,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "gta 6 bigfoot reddit",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "gta 6 bigfoot deer",
       "intent": "informational",
       "demand": 64.0,
@@ -271,7 +280,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "gta 6 bigfoot reddit",
+      "keyword": "gta 6 bigfoot sighting",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +298,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "navajo stirling next fight",
+      "keyword": "housing portal iowa state",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -308,15 +317,6 @@
     },
     {
       "keyword": "joe jonas ex wife",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "joe jonas net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,25 +370,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "john cornyn contact",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "john cornyn office",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "john cornyn age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "john cornyn wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,6 +397,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "trinidad scorpion pepper",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "trinidad chambliss stats",
       "intent": "informational",
       "demand": 58.0,
@@ -415,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trinidad carnival 2027",
+      "keyword": "trinidad chambliss height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "housing authority texas",
+      "keyword": "housing iowa state",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "housing authority california",
+      "keyword": "housing fort dodge",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "housing connect nyc",
+      "keyword": "housing assistance iowa",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +478,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "portos west covina",
+      "keyword": "portosystemic shunt dog",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "portos los angeles",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "portos bakery california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -488,6 +506,24 @@
     },
     {
       "keyword": "navajo stirling record",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "navajo stirling ethnicity",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "navajo stirling ufc",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,25 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "navajo stirling ufc",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "navajo stirling ethnicity",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "joe jonas girlfriend",
+      "keyword": "navajo stirling age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -542,6 +560,15 @@
     },
     {
       "keyword": "joe jonas wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "joe jonas girlfriend",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +613,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "joe jonas songs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "las vegas weather",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "apple crisp recipe",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,24 +667,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trinidad express",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "trinidad colorado",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "trinidad james",
       "intent": "informational",
       "demand": 52.0,
@@ -649,7 +676,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "trinidad california",
+      "keyword": "trinidad scorpion",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -667,7 +694,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "housing connect",
+      "keyword": "housing portal",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -685,7 +712,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "housing portal",
+      "keyword": "housing meaning",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "housing definition",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -703,25 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "housing meaning",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "housing assistance",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "porto's menu",
+      "keyword": "portosystemic shunt",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,6 +757,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "porto's menu",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "portos cakes",
       "intent": "informational",
       "demand": 52.0,
@@ -748,34 +775,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "portos glendale",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "portos downey",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "portos hours",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "portos sandwiches",
+      "keyword": "portos california",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -829,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "apple music",
+      "keyword": "applebees menu",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -838,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "apple stock",
+      "keyword": "apple music",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,16 +856,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "apple outage",
+      "keyword": "trinidad",
       "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
       "learning_boost": 0.0,
-      "learned_score": 45.4
+      "learned_score": 38.2
     },
     {
-      "keyword": "trinidad",
+      "keyword": "trinidadian",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -922,15 +922,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        },
-        {
-          "keyword": "how big will gta 6 be",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
         }
       ]
     },
@@ -974,6 +965,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "john cornyn political party",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "john cornyn trump",
           "intent": "informational",
           "demand": 58.0,
@@ -992,25 +992,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "john cornyn contact",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "john cornyn office",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "john cornyn age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "john cornyn wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1060,16 +1051,25 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "navajo stirling next fight",
+          "keyword": "navajo stirling record",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "navajo stirling record",
+          "keyword": "navajo stirling ethnicity",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "navajo stirling ufc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1096,16 +1096,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "navajo stirling ufc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "navajo stirling ethnicity",
+          "keyword": "navajo stirling age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1242,16 +1233,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "las vegas weather 30 day forecast",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "las vegas weather 10 day",
+          "keyword": "las vegas weather 14 day",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1288,6 +1270,15 @@
         },
         {
           "keyword": "las vegas weather by month",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "las vegas weather in january",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1355,6 +1346,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "gta 6 bigfoot reddit",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "gta 6 bigfoot deer",
           "intent": "informational",
           "demand": 64.0,
@@ -1364,7 +1364,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "gta 6 bigfoot reddit",
+          "keyword": "gta 6 bigfoot sighting",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1407,6 +1407,101 @@
       ]
     },
     {
+      "pillar": "housing portal iowa state",
+      "cluster": [
+        {
+          "keyword": "housing portal iowa state",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "housing iowa state",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing fort dodge",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing assistance iowa",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "housing portal",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "housing authority",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "housing meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "housing definition",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "housing market",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "housing",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
       "pillar": "joe jonas sophie turner",
       "cluster": [
         {
@@ -1428,16 +1523,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "joe jonas net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "joe jonas girlfriend",
+          "keyword": "joe jonas wife",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1446,7 +1532,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "joe jonas wife",
+          "keyword": "joe jonas girlfriend",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1491,6 +1577,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "joe jonas songs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "joe jonas",
           "intent": "informational",
           "demand": 52.0,
@@ -1514,6 +1609,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "trinidad scorpion pepper",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "trinidad chambliss stats",
           "intent": "informational",
           "demand": 58.0,
@@ -1523,7 +1627,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trinidad carnival 2027",
+          "keyword": "trinidad chambliss height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1541,24 +1645,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trinidad express",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "trinidad colorado",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "trinidad james",
           "intent": "informational",
           "demand": 52.0,
@@ -1568,7 +1654,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "trinidad california",
+          "keyword": "trinidad scorpion",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1611,101 +1697,6 @@
       ]
     },
     {
-      "pillar": "housing authority texas",
-      "cluster": [
-        {
-          "keyword": "housing authority texas",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing authority california",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing connect nyc",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "housing connect",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing authority",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing portal",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing market",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing meaning",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing assistance",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "housing",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "portos near me",
       "cluster": [
         {
@@ -1718,7 +1709,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "portos west covina",
+          "keyword": "portos los angeles",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "portos bakery california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1736,34 +1736,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "portos glendale",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "portos downey",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "portos hours",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "portos sandwiches",
+          "keyword": "portos california",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1783,8 +1756,40 @@
       ]
     },
     {
-      "pillar": "apple home view",
+      "pillar": "portosystemic shunt dog",
       "cluster": [
+        {
+          "keyword": "portosystemic shunt dog",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "portosystemic shunt",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "apple crisp recipe",
+      "cluster": [
+        {
+          "keyword": "apple crisp recipe",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "apple home view",
           "intent": "informational",
@@ -1831,24 +1836,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "apple stock",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "apple outage",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "apple",
           "intent": "informational",
           "demand": 46.0,
@@ -1860,17 +1847,8 @@
       ]
     },
     {
-      "pillar": "porto's menu",
+      "pillar": "porto's bakery",
       "cluster": [
-        {
-          "keyword": "porto's menu",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
         {
           "keyword": "porto's bakery",
           "intent": "informational",
@@ -1879,6 +1857,38 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        },
+        {
+          "keyword": "porto's menu",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "applebees menu",
+      "cluster": [
+        {
+          "keyword": "applebees menu",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "applebees",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     },
@@ -1897,10 +1907,10 @@
       ]
     },
     {
-      "pillar": "applebees",
+      "pillar": "trinidadian",
       "cluster": [
         {
-          "keyword": "applebees",
+          "keyword": "trinidadian",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
