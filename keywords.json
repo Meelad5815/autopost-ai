@@ -343,25 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "brett rypien current team",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "brett rypien net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "brett rypien high school",
+      "keyword": "brett rypien career earnings",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -389,6 +371,24 @@
     },
     {
       "keyword": "gme stock price prediction",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "gmea all state band",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "gmea all state orchestra",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -577,7 +577,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "brett rypien news",
+      "keyword": "brett rypien nfl",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "brett rypien college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -587,6 +596,24 @@
     },
     {
       "keyword": "brett rypien contract",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "brett rypien salary",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "brett rypien dad",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,16 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "brett rypien nfl",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "brett rypien salary",
+      "keyword": "brett rypien texans",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -632,15 +650,6 @@
     },
     {
       "keyword": "gme stock price",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "gme stock forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +685,34 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "gme stock forecast",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "gmea all state",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "invincible movie",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "invincible meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -704,15 +740,6 @@
     },
     {
       "keyword": "invincible characters",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "invincible meaning",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,15 +802,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "gme price",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "invincible",
       "intent": "informational",
       "demand": 46.0,
@@ -802,7 +820,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "gmeh",
+      "keyword": "gmea",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -811,7 +829,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "gmetrix",
+      "keyword": "gmeh",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -830,24 +848,6 @@
     },
     {
       "keyword": "meet",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "games",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "gmei",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1111,6 +1111,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "invincible meaning",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "invincible comics",
           "intent": "informational",
           "demand": 52.0,
@@ -1130,15 +1139,6 @@
         },
         {
           "keyword": "invincible characters",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "invincible meaning",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1509,10 +1509,10 @@
       ]
     },
     {
-      "pillar": "brett rypien current team",
+      "pillar": "brett rypien career earnings",
       "cluster": [
         {
-          "keyword": "brett rypien current team",
+          "keyword": "brett rypien career earnings",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1521,25 +1521,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "brett rypien net worth",
+          "keyword": "brett rypien nfl",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
-          "keyword": "brett rypien high school",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "brett rypien news",
+          "keyword": "brett rypien college",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1549,6 +1540,24 @@
         },
         {
           "keyword": "brett rypien contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "brett rypien salary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "brett rypien dad",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1575,16 +1584,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "brett rypien nfl",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "brett rypien salary",
+          "keyword": "brett rypien texans",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1643,15 +1643,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "gme stock forecast",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "gme stock news",
           "intent": "informational",
           "demand": 58.0,
@@ -1679,6 +1670,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "gme stock forecast",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "gme stock",
           "intent": "informational",
           "demand": 52.0,
@@ -1697,16 +1697,48 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "gme price",
+          "keyword": "gme",
           "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
           "learning_boost": 0.0,
-          "learned_score": 45.4
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "gmea all state band",
+      "cluster": [
+        {
+          "keyword": "gmea all state band",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         },
         {
-          "keyword": "gme",
+          "keyword": "gmea all state orchestra",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gmea all state",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "gmea",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1763,20 +1795,6 @@
       ]
     },
     {
-      "pillar": "gmetrix",
-      "cluster": [
-        {
-          "keyword": "gmetrix",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "gemini",
       "cluster": [
         {
@@ -1795,34 +1813,6 @@
       "cluster": [
         {
           "keyword": "meet",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "games",
-      "cluster": [
-        {
-          "keyword": "games",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "gmei",
-      "cluster": [
-        {
-          "keyword": "gmei",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
