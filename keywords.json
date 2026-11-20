@@ -118,7 +118,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "btc price today usd",
+      "keyword": "btc price right now",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -172,7 +172,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ethereum price prediction 2026",
+      "keyword": "ethereum price prediction 2027",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -181,7 +181,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ethereum price prediction 2027",
+      "keyword": "ethereum price prediction 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +307,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy kids cast",
+      "keyword": "spy x family",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -316,7 +316,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "spy x family",
+      "keyword": "spy kids cast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -334,7 +334,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mstr stock forecast",
+      "keyword": "mstr stock reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -343,7 +343,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mstr stock reddit",
+      "keyword": "mstr stock forecast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -388,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bitcoin price prediction",
+      "keyword": "bitcoin price live",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -397,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "bitcoin price live",
+      "keyword": "bitcoin price prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,24 +667,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "spy game",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "spy etf",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "mstr stock",
       "intent": "informational",
       "demand": 52.0,
@@ -730,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "btc stock",
+      "keyword": "btc chart",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +730,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "btc chart",
+      "keyword": "btc stock",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "btc florida",
+      "keyword": "btc tradingview",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -865,7 +847,25 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "spypoint",
+      "keyword": "spyderco",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "spyder",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "spyro",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -883,7 +883,7 @@
       "learned_score": 38.2
     },
     {
-      "keyword": "btci",
+      "keyword": "btcc",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -1210,7 +1210,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mstr stock forecast",
+          "keyword": "mstr stock reddit",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1219,7 +1219,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mstr stock reddit",
+          "keyword": "mstr stock forecast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1296,7 +1296,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bitcoin price prediction",
+          "keyword": "bitcoin price live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1305,7 +1305,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "bitcoin price live",
+          "keyword": "bitcoin price prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1373,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "btc price today usd",
+          "keyword": "btc price right now",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1463,7 +1463,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "btc stock",
+          "keyword": "btc chart",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1481,7 +1481,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "btc chart",
+          "keyword": "btc stock",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1490,7 +1490,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "btc florida",
+          "keyword": "btc tradingview",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1617,7 +1617,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ethereum price prediction 2026",
+          "keyword": "ethereum price prediction 2027",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1626,7 +1626,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ethereum price prediction 2027",
+          "keyword": "ethereum price prediction 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1712,7 +1712,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "spy kids cast",
+          "keyword": "spy x family",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1721,7 +1721,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "spy x family",
+          "keyword": "spy kids cast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1740,24 +1740,6 @@
         },
         {
           "keyword": "spy kids",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy game",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "spy etf",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1887,10 +1869,10 @@
       ]
     },
     {
-      "pillar": "spypoint",
+      "pillar": "spyderco",
       "cluster": [
         {
-          "keyword": "spypoint",
+          "keyword": "spyderco",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
@@ -1901,10 +1883,38 @@
       ]
     },
     {
-      "pillar": "btci",
+      "pillar": "spyder",
       "cluster": [
         {
-          "keyword": "btci",
+          "keyword": "spyder",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "spyro",
+      "cluster": [
+        {
+          "keyword": "spyro",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "btcc",
+      "cluster": [
+        {
+          "keyword": "btcc",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
