@@ -82,7 +82,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham live",
+      "keyword": "man city vs fulham today",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -91,7 +91,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham today",
+      "keyword": "man city vs fulham live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -235,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "stock market crash today reddit",
+      "keyword": "stock market crash this week",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -272,15 +272,6 @@
     },
     {
       "keyword": "philadelphia marathon 2026 street closures",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "philadelphia marathon 2026 track runner",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -443,6 +434,15 @@
     },
     {
       "keyword": "philadelphia marathon 2026 date",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "philadelphia marathon 2026 registration",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -712,7 +712,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "court house",
+      "keyword": "courtland sutton",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -730,7 +730,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "courtland sutton",
+      "keyword": "courtyard marriott",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar texas",
+      "keyword": "radar portland",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +748,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar california",
+      "keyword": "radar seattle",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -933,7 +933,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "man city vs fulham live",
+          "keyword": "man city vs fulham today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -942,7 +942,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "man city vs fulham today",
+          "keyword": "man city vs fulham live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1215,7 +1215,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "stock market crash today reddit",
+          "keyword": "stock market crash this week",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1328,15 +1328,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "philadelphia marathon 2026 track runner",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "philadelphia marathon 2026 route",
           "intent": "informational",
           "demand": 64.0,
@@ -1374,6 +1365,15 @@
         },
         {
           "keyword": "philadelphia marathon 2026 date",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "philadelphia marathon 2026 registration",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1528,7 +1528,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "radar texas",
+          "keyword": "radar portland",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1537,7 +1537,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "radar california",
+          "keyword": "radar seattle",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1732,15 +1732,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "court house",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "court connect",
           "intent": "informational",
           "demand": 52.0,
@@ -1779,6 +1770,20 @@
       "cluster": [
         {
           "keyword": "courtland sutton",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "courtyard marriott",
+      "cluster": [
+        {
+          "keyword": "courtyard marriott",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
