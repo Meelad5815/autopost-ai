@@ -1,7 +1,43 @@
 {
   "keywords": [
     {
-      "keyword": "man city vs fulham where to watch",
+      "keyword": "real madrid vs celta vigo last 5 games",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "indiana state football vs south dakota state jackrabbits football match player stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "indiana state football vs south dakota state jackrabbits football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "indiana state football vs south dakota state jackrabbits football stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "real madrid vs celta vigo last match",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -10,16 +46,70 @@
       "learned_score": 81.4
     },
     {
-      "keyword": "home depot black friday 2026 preview",
-      "intent": "commercial",
+      "keyword": "real madrid vs celta vigo 2 0",
+      "intent": "informational",
       "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
       "learning_boost": 0.0,
-      "learned_score": 78.4
+      "learned_score": 81.4
     },
     {
-      "keyword": "man city vs fulham f.c. standings",
+      "keyword": "jackson state vs alcorn state tickets price",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana tech opt outs",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana tech prediction pickdawgz",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "prairie view a&m vs alabama state prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "alabama state vs prairie view a&m basketball",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "delaware vs new mexico state basketball prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 20.0,
+      "ranking_probability": 81.4,
+      "learning_boost": 0.0,
+      "learned_score": 81.4
+    },
+    {
+      "keyword": "france vs argentina world cup 2022",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -28,7 +118,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "man city vs fulham f.c. timeline",
+      "keyword": "france vs argentina world cup 2018",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -37,7 +127,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "man city vs fulham f.c. matches",
+      "keyword": "real madrid vs celta vigo prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -46,7 +136,241 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "man city vs fulham last match",
+      "keyword": "real madrid vs celta last match",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "real madrid vs celta vigo 7-1",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state 2026",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state basketball",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state channel",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state 2025",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana tech prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana tech score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana tech odds",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view vs alabama state prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view vs alabama state basketball",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view vs alabama state football",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view vs alabama state tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view vs alabama state baseball",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view vs alabama state score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "prairie view a&m vs alabama state",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "delaware vs new mexico state basketball",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "delaware vs new mexico state prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "indiana state vs sd state tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "indiana state vs sd state score",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "indiana state vs sd state prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "indiana state vs sd state live",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "indiana state vs sd state football",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -64,7 +388,16 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "man city vs fulham f.c",
+      "keyword": "bo jackson ohio state related to bo jackson",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "france vs argentina world cup",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -73,7 +406,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham prediction",
+      "keyword": "real madrid vs celta vigo",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -82,7 +415,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham today",
+      "keyword": "real madrid vs celta prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -91,7 +424,97 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham live",
+      "keyword": "real madrid vs celta tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "jackson state vs alcorn state",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana tech",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana basketball",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "coastal carolina vs louisiana prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "louisiana monroe vs coastal carolina",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "prairie view vs alabama state",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "delaware vs nm state prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "delaware vs nm state tickets",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "delaware vs new mexico state",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "indiana state vs sd state",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -109,7 +532,43 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "pammy maye why did she do it",
+      "keyword": "real madrid - celta de vigo hoy",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "real madrid - celta de vigo clasificación",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "real madrid - celta de vigo 2025",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "real madrid celta de vigo donde ver",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "real madrid celta de vigo en vivo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -136,7 +595,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 ad",
+      "keyword": "real madrid - celta de vigo",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -145,7 +604,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 giveaway",
+      "keyword": "real madrid celta de vigo opstellingen",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -154,7 +613,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 milwaukee",
+      "keyword": "real madrid celta de vigo statistieken",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -163,7 +622,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 deals",
+      "keyword": "real madrid celta de vigo fecha",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -172,7 +631,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 appliances",
+      "keyword": "real madrid celta de vigo resumen",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -181,7 +640,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 leak",
+      "keyword": "bo jackson ohio state real name",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +649,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 reddit",
+      "keyword": "bo jackson ohio state running back",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,7 +658,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 flyer",
+      "keyword": "bo jackson ohio state 40 time",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -208,7 +667,97 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "man city vs fulham",
+      "keyword": "delaware taxes compared to other states",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "indiana state versus south dakota state",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "france vs argentina 2018",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "france vs argentina 2022",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "france vs argentina rugby",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "france vs argentina 2026",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "france vs argentina 4-3",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "france vs argentina final",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "real madrid vs celta",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "coastal carolina vs louisiana",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
+    },
+    {
+      "keyword": "delaware vs nm state",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -226,7 +775,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "stock market crash site www.reddit.com",
+      "keyword": "netflix henry cavill v8 nextgen",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -235,7 +784,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "stock market crash this week",
+      "keyword": "ultimate netflix henry cavill mod",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +793,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "home depot black friday 2026",
+      "keyword": "bo jackson ohio state dad",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +802,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "philadelphia marathon 2026 course map",
+      "keyword": "bo jackson ohio state stats",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +811,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "philadelphia marathon 2026 road closures",
+      "keyword": "bo jackson ohio state injury",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,7 +820,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "philadelphia marathon 2026 street closures",
+      "keyword": "bo jackson ohio state parents",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +829,34 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "météore by louis vuitton",
+      "keyword": "bo jackson ohio state age",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "delaware versus new mexico state",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "france vs argentina",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 60.0,
+      "ranking_probability": 61.0,
+      "learning_boost": 0.0,
+      "learned_score": 61.0
+    },
+    {
+      "keyword": "netflix henry cavill movie",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,7 +865,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash today",
+      "keyword": "netflix henry cavill superman",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -298,7 +874,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash reddit",
+      "keyword": "netflix henry cavill apology",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -307,7 +883,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash 2026",
+      "keyword": "netflix henry cavill witcher",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,7 +892,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash 1929",
+      "keyword": "netflix henry cavill documentary",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +901,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash coming",
+      "keyword": "netflix henry cavill series",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +910,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash 2008",
+      "keyword": "netflix henry cavill warhammer",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +919,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash history",
+      "keyword": "bo jackson ohio state",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,525 +928,30 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "pammy maye sentencing video",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pammy maye what happened",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pammy maye plea deal",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "sophie cunningham maxim photos",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "sophie cunningham maxim photoshoot",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 route",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 parking",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 weather",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 expo",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 date",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 registration",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "météo new york",
+      "keyword": "netflix henry cavill",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
       "ranking_probability": 52.6,
       "learning_boost": 0.0,
       "learned_score": 52.6
-    },
-    {
-      "keyword": "météo pour demain",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "stock market crash",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pammy maye darnell",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pammy maye verdict",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pammy maye wiki",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "pammy maye's husband",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "radar near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "philadelphia marathon 2026",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "météo demain",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "météo aujourd'hui",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "météo paris",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "météo france",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "météo boston",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis scores",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis elbow",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis warehouse",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis shoes",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis bracelet",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis record",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis ball",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis racket",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis channel",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "pammy maye",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "courtney clenney",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "court tv",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "courtney love",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "courteney cox",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "courtney stodden",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "courtland sutton",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "court connect",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "courtyard marriott",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar portland",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar seattle",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar weather",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar detector",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar online",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar love",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "météo",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "météore",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "tennis",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "court",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "courtesy",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "radar",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "radarr",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "radaris",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "man city vs fulham where to watch",
+      "pillar": "real madrid vs celta vigo last 5 games",
       "cluster": [
         {
-          "keyword": "man city vs fulham where to watch",
+          "keyword": "real madrid vs celta vigo last 5 games",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "real madrid vs celta vigo last match",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -879,7 +960,16 @@
           "learned_score": 81.4
         },
         {
-          "keyword": "man city vs fulham f.c. standings",
+          "keyword": "real madrid vs celta vigo 2 0",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "real madrid vs celta vigo prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -888,7 +978,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "man city vs fulham f.c. timeline",
+          "keyword": "real madrid vs celta last match",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -897,7 +987,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "man city vs fulham f.c. matches",
+          "keyword": "real madrid vs celta vigo 7-1",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -906,52 +996,124 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "man city vs fulham last match",
+          "keyword": "real madrid vs celta vigo",
           "intent": "informational",
           "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "real madrid vs celta prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "real madrid vs celta tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "real madrid - celta de vigo hoy",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "real madrid - celta de vigo clasificación",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "real madrid - celta de vigo 2025",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "real madrid celta de vigo donde ver",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "real madrid celta de vigo en vivo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "real madrid - celta de vigo",
+          "intent": "informational",
+          "demand": 70.0,
           "competition": 30.0,
-          "ranking_probability": 78.4,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 78.4
+          "learned_score": 70.0
         },
         {
-          "keyword": "man city vs fulham f.c",
+          "keyword": "real madrid celta de vigo opstellingen",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 70.0
         },
         {
-          "keyword": "man city vs fulham prediction",
+          "keyword": "real madrid celta de vigo statistieken",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 70.0
         },
         {
-          "keyword": "man city vs fulham today",
+          "keyword": "real madrid celta de vigo fecha",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 70.0
         },
         {
-          "keyword": "man city vs fulham live",
+          "keyword": "real madrid celta de vigo resumen",
           "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 70.0
         },
         {
-          "keyword": "man city vs fulham",
+          "keyword": "real madrid vs celta",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -962,11 +1124,38 @@
       ]
     },
     {
-      "pillar": "home depot black friday 2026 preview",
+      "pillar": "indiana state football vs south dakota state jackrabbits football match player stats",
       "cluster": [
         {
-          "keyword": "home depot black friday 2026 preview",
-          "intent": "commercial",
+          "keyword": "indiana state football vs south dakota state jackrabbits football match player stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "indiana state football vs south dakota state jackrabbits football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "indiana state football vs south dakota state jackrabbits football stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "indiana state vs sd state tickets",
+          "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
           "ranking_probability": 78.4,
@@ -974,7 +1163,401 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "home depot black friday 2026 ad",
+          "keyword": "indiana state vs sd state score",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "indiana state vs sd state prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "indiana state vs sd state live",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "indiana state vs sd state football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "indiana state vs sd state",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "indiana state versus south dakota state",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        }
+      ]
+    },
+    {
+      "pillar": "jackson state vs alcorn state tickets price",
+      "cluster": [
+        {
+          "keyword": "jackson state vs alcorn state tickets price",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state 2026",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state basketball",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state channel",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state 2025",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state score",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "jackson state vs alcorn state",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        }
+      ]
+    },
+    {
+      "pillar": "coastal carolina vs louisiana tech opt outs",
+      "cluster": [
+        {
+          "keyword": "coastal carolina vs louisiana tech opt outs",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana tech prediction pickdawgz",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana tech prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana tech score",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana tech odds",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana tech",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana basketball",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "coastal carolina vs louisiana",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        }
+      ]
+    },
+    {
+      "pillar": "prairie view a&m vs alabama state prediction",
+      "cluster": [
+        {
+          "keyword": "prairie view a&m vs alabama state prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "prairie view vs alabama state prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view vs alabama state basketball",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view vs alabama state football",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view vs alabama state tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view vs alabama state baseball",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view vs alabama state score",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view a&m vs alabama state",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "prairie view vs alabama state",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        }
+      ]
+    },
+    {
+      "pillar": "alabama state vs prairie view a&m basketball",
+      "cluster": [
+        {
+          "keyword": "alabama state vs prairie view a&m basketball",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        }
+      ]
+    },
+    {
+      "pillar": "delaware vs new mexico state basketball prediction",
+      "cluster": [
+        {
+          "keyword": "delaware vs new mexico state basketball prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 20.0,
+          "ranking_probability": 81.4,
+          "learning_boost": 0.0,
+          "learned_score": 81.4
+        },
+        {
+          "keyword": "delaware vs new mexico state basketball",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "delaware vs new mexico state prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "delaware vs nm state prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "delaware vs nm state tickets",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "delaware vs new mexico state",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "delaware taxes compared to other states",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -983,76 +1566,117 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "home depot black friday 2026 giveaway",
+          "keyword": "delaware vs nm state",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 70.0
+          "learned_score": 68.2
         },
         {
-          "keyword": "home depot black friday 2026 milwaukee",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday 2026 deals",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday 2026 appliances",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday 2026 leak",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday 2026 reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday 2026 flyer",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday 2026",
+          "keyword": "delaware versus new mexico state",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "france vs argentina world cup 2022",
+      "cluster": [
+        {
+          "keyword": "france vs argentina world cup 2022",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "france vs argentina world cup 2018",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "france vs argentina world cup",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "france vs argentina 2018",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "france vs argentina 2022",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "france vs argentina rugby",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "france vs argentina 2026",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "france vs argentina 4-3",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "france vs argentina final",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "france vs argentina",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
         }
       ]
     },
@@ -1071,6 +1695,115 @@
       ]
     },
     {
+      "pillar": "bo jackson ohio state related to bo jackson",
+      "cluster": [
+        {
+          "keyword": "bo jackson ohio state related to bo jackson",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "bo jackson ohio state real name",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "bo jackson ohio state running back",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "bo jackson ohio state 40 time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "bo jackson ohio state dad",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "bo jackson ohio state stats",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "bo jackson ohio state injury",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "bo jackson ohio state parents",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "bo jackson ohio state age",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "bo jackson ohio state",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "louisiana monroe vs coastal carolina",
+      "cluster": [
+        {
+          "keyword": "louisiana monroe vs coastal carolina",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        }
+      ]
+    },
+    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -1081,92 +1814,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "pammy maye why did she do it",
-      "cluster": [
-        {
-          "keyword": "pammy maye why did she do it",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "pammy maye sentencing video",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pammy maye what happened",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pammy maye plea deal",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pammy maye darnell",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pammy maye verdict",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pammy maye wiki",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pammy maye's husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "pammy maye",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1203,10 +1850,10 @@
       ]
     },
     {
-      "pillar": "stock market crash site www.reddit.com",
+      "pillar": "netflix henry cavill v8 nextgen",
       "cluster": [
         {
-          "keyword": "stock market crash site www.reddit.com",
+          "keyword": "netflix henry cavill v8 nextgen",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1215,16 +1862,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "stock market crash this week",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "stock market crash today",
+          "keyword": "netflix henry cavill movie",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1233,7 +1871,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash reddit",
+          "keyword": "netflix henry cavill superman",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1242,7 +1880,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash 2026",
+          "keyword": "netflix henry cavill apology",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1251,7 +1889,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash 1929",
+          "keyword": "netflix henry cavill witcher",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1260,7 +1898,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash coming",
+          "keyword": "netflix henry cavill documentary",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1269,7 +1907,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash 2008",
+          "keyword": "netflix henry cavill series",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1278,7 +1916,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash history",
+          "keyword": "netflix henry cavill warhammer",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1287,7 +1925,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash",
+          "keyword": "netflix henry cavill",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1298,540 +1936,16 @@
       ]
     },
     {
-      "pillar": "philadelphia marathon 2026 course map",
+      "pillar": "ultimate netflix henry cavill mod",
       "cluster": [
         {
-          "keyword": "philadelphia marathon 2026 course map",
+          "keyword": "ultimate netflix henry cavill mod",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
           "ranking_probability": 67.0,
           "learning_boost": 0.0,
           "learned_score": 67.0
-        },
-        {
-          "keyword": "philadelphia marathon 2026 road closures",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "philadelphia marathon 2026 street closures",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "philadelphia marathon 2026 route",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 parking",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 weather",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 expo",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 registration",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "météore by louis vuitton",
-      "cluster": [
-        {
-          "keyword": "météore by louis vuitton",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "météore",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "sophie cunningham maxim photos",
-      "cluster": [
-        {
-          "keyword": "sophie cunningham maxim photos",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "sophie cunningham maxim photoshoot",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "météo new york",
-      "cluster": [
-        {
-          "keyword": "météo new york",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "météo pour demain",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "météo demain",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo aujourd'hui",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo paris",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo france",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo boston",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radar near me",
-      "cluster": [
-        {
-          "keyword": "radar near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "radar portland",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar seattle",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar weather",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar detector",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar online",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar love",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "tennis scores",
-      "cluster": [
-        {
-          "keyword": "tennis scores",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis elbow",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis warehouse",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis shoes",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis bracelet",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis record",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis ball",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis racket",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis channel",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "courtney clenney",
-      "cluster": [
-        {
-          "keyword": "courtney clenney",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "courtney love",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "courtney stodden",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "court tv",
-      "cluster": [
-        {
-          "keyword": "court tv",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "court connect",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "court",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "courteney cox",
-      "cluster": [
-        {
-          "keyword": "courteney cox",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "courtland sutton",
-      "cluster": [
-        {
-          "keyword": "courtland sutton",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "courtyard marriott",
-      "cluster": [
-        {
-          "keyword": "courtyard marriott",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "courtesy",
-      "cluster": [
-        {
-          "keyword": "courtesy",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radarr",
-      "cluster": [
-        {
-          "keyword": "radarr",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radaris",
-      "cluster": [
-        {
-          "keyword": "radaris",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
