@@ -1,7 +1,7 @@
 {
   "keywords": [
     {
-      "keyword": "man city vs fulham last 5 matches",
+      "keyword": "man city vs fulham where to watch",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -10,7 +10,7 @@
       "learned_score": 81.4
     },
     {
-      "keyword": "man city vs fulham predicted line up",
+      "keyword": "man city vs fulham last 5 matches",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -73,7 +73,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "man city vs fulham prediction",
+      "keyword": "man city vs fulham f.c",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -82,7 +82,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham f.c",
+      "keyword": "man city vs fulham prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -244,15 +244,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "stock market crash this week",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "home depot black friday 2026",
       "intent": "informational",
       "demand": 70.0,
@@ -334,6 +325,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "stock market crash coming",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "stock market crash 2008",
       "intent": "informational",
       "demand": 64.0,
@@ -353,6 +353,15 @@
     },
     {
       "keyword": "pammy maye sentencing video",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "pammy maye mental health",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -640,7 +649,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tennis channel",
+      "keyword": "tennis record",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -649,7 +658,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "tennis express",
+      "keyword": "tennis channel",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -867,10 +876,10 @@
   ],
   "clusters": [
     {
-      "pillar": "man city vs fulham last 5 matches",
+      "pillar": "man city vs fulham where to watch",
       "cluster": [
         {
-          "keyword": "man city vs fulham last 5 matches",
+          "keyword": "man city vs fulham where to watch",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -879,7 +888,7 @@
           "learned_score": 81.4
         },
         {
-          "keyword": "man city vs fulham predicted line up",
+          "keyword": "man city vs fulham last 5 matches",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -924,7 +933,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "man city vs fulham prediction",
+          "keyword": "man city vs fulham f.c",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -933,7 +942,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "man city vs fulham f.c",
+          "keyword": "man city vs fulham prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1106,6 +1115,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "pammy maye mental health",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "pammy maye what happened",
           "intent": "informational",
           "demand": 64.0,
@@ -1224,15 +1242,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "stock market crash this week",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "stock market crash today",
           "intent": "informational",
           "demand": 64.0,
@@ -1261,6 +1270,15 @@
         },
         {
           "keyword": "stock market crash 1929",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "stock market crash coming",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1659,7 +1677,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tennis channel",
+          "keyword": "tennis record",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1668,7 +1686,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "tennis express",
+          "keyword": "tennis channel",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
