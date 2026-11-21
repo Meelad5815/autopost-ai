@@ -10,15 +10,6 @@
       "learned_score": 81.4
     },
     {
-      "keyword": "man city vs fulham last 5 matches",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
       "keyword": "home depot black friday 2026 preview",
       "intent": "commercial",
       "demand": 82.0,
@@ -37,7 +28,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "man city vs fulham f.c. matches",
+      "keyword": "man city vs fulham f.c. timeline",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -46,7 +37,7 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "man city vs fulham f.c. timeline",
+      "keyword": "man city vs fulham f.c. matches",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -91,7 +82,16 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "man city vs fulham lineup",
+      "keyword": "man city vs fulham live",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "man city vs fulham today",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -137,6 +137,15 @@
     },
     {
       "keyword": "home depot black friday 2026 ad",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "home depot black friday 2026 giveaway",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,15 +208,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday 2026 spring",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "man city vs fulham",
       "intent": "informational",
       "demand": 76.0,
@@ -253,6 +253,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "philadelphia marathon 2026 course map",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "philadelphia marathon 2026 road closures",
       "intent": "informational",
       "demand": 70.0,
@@ -271,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "philadelphia marathon 2026 course map",
+      "keyword": "philadelphia marathon 2026 track runner",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -343,7 +352,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stock market crash 1987",
+      "keyword": "stock market crash history",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -353,15 +362,6 @@
     },
     {
       "keyword": "pammy maye sentencing video",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "pammy maye mental health",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,6 +424,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "philadelphia marathon 2026 weather",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "philadelphia marathon 2026 expo",
       "intent": "informational",
       "demand": 64.0,
@@ -442,22 +451,13 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "philadelphia marathon 2026 registration",
+      "keyword": "météo new york",
       "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
       "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "philadelphia marathon 2026 medal",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
+      "learned_score": 52.6
     },
     {
       "keyword": "météo pour demain",
@@ -577,15 +577,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "météo chicago",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "tennis scores",
       "intent": "informational",
       "demand": 52.0,
@@ -631,6 +622,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "tennis record",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "tennis ball",
       "intent": "informational",
       "demand": 52.0,
@@ -641,15 +641,6 @@
     },
     {
       "keyword": "tennis racket",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "tennis record",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -888,15 +879,6 @@
           "learned_score": 81.4
         },
         {
-          "keyword": "man city vs fulham last 5 matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
           "keyword": "man city vs fulham f.c. standings",
           "intent": "informational",
           "demand": 82.0,
@@ -906,7 +888,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "man city vs fulham f.c. matches",
+          "keyword": "man city vs fulham f.c. timeline",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -915,7 +897,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "man city vs fulham f.c. timeline",
+          "keyword": "man city vs fulham f.c. matches",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -951,7 +933,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "man city vs fulham lineup",
+          "keyword": "man city vs fulham live",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "man city vs fulham today",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -984,6 +975,15 @@
         },
         {
           "keyword": "home depot black friday 2026 ad",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "home depot black friday 2026 giveaway",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1046,15 +1046,6 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "home depot black friday 2026 spring",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
           "keyword": "home depot black friday 2026",
           "intent": "informational",
           "demand": 70.0,
@@ -1107,15 +1098,6 @@
         },
         {
           "keyword": "pammy maye sentencing video",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "pammy maye mental health",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1296,7 +1278,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stock market crash 1987",
+          "keyword": "stock market crash history",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1316,8 +1298,17 @@
       ]
     },
     {
-      "pillar": "philadelphia marathon 2026 road closures",
+      "pillar": "philadelphia marathon 2026 course map",
       "cluster": [
+        {
+          "keyword": "philadelphia marathon 2026 course map",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
         {
           "keyword": "philadelphia marathon 2026 road closures",
           "intent": "informational",
@@ -1337,7 +1328,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "philadelphia marathon 2026 course map",
+          "keyword": "philadelphia marathon 2026 track runner",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1364,6 +1355,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "philadelphia marathon 2026 weather",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "philadelphia marathon 2026 expo",
           "intent": "informational",
           "demand": 64.0,
@@ -1374,24 +1374,6 @@
         },
         {
           "keyword": "philadelphia marathon 2026 date",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 registration",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "philadelphia marathon 2026 medal",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1457,8 +1439,17 @@
       ]
     },
     {
-      "pillar": "météo pour demain",
+      "pillar": "météo new york",
       "cluster": [
+        {
+          "keyword": "météo new york",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "météo pour demain",
           "intent": "informational",
@@ -1506,15 +1497,6 @@
         },
         {
           "keyword": "météo boston",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "météo chicago",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1659,6 +1641,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "tennis record",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "tennis ball",
           "intent": "informational",
           "demand": 52.0,
@@ -1669,15 +1660,6 @@
         },
         {
           "keyword": "tennis racket",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "tennis record",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
