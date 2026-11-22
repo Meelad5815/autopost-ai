@@ -271,6 +271,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "sassuolo vs genoa cfc lineups",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "sassuolo vs genoa cfc standings",
       "intent": "informational",
       "demand": 82.0,
@@ -290,15 +299,6 @@
     },
     {
       "keyword": "sassuolo vs genoa last match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "sassuolo vs genoa cfc lineups",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -362,6 +362,15 @@
     },
     {
       "keyword": "do the packers play today sunday",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "week 11 fantasy rankings half ppr",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -523,15 +532,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "week 11 fantasy rankings cbs",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "week 11 fantasy rankings te",
       "intent": "informational",
       "demand": 70.0,
@@ -541,7 +541,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "week 11 fantasy rankings rb",
+      "keyword": "week 11 fantasy rankings cbs",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -631,7 +631,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "motogp schedule 2026",
+      "keyword": "motogp results today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp results today",
+      "keyword": "motogp standings 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp standings 2026",
+      "keyword": "motogp schedule 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -910,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "lpga rankings",
+      "keyword": "lpga scoreboard",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1046,6 +1046,15 @@
           "learned_score": 75.4
         },
         {
+          "keyword": "sassuolo vs genoa cfc lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
           "keyword": "sassuolo vs genoa cfc standings",
           "intent": "informational",
           "demand": 82.0,
@@ -1065,15 +1074,6 @@
         },
         {
           "keyword": "sassuolo vs genoa last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "sassuolo vs genoa cfc lineups",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1488,8 +1488,17 @@
       ]
     },
     {
-      "pillar": "week 11 fantasy rankings ppr",
+      "pillar": "week 11 fantasy rankings half ppr",
       "cluster": [
+        {
+          "keyword": "week 11 fantasy rankings half ppr",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
         {
           "keyword": "week 11 fantasy rankings ppr",
           "intent": "informational",
@@ -1545,15 +1554,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "week 11 fantasy rankings cbs",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "week 11 fantasy rankings te",
           "intent": "informational",
           "demand": 70.0,
@@ -1563,7 +1563,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "week 11 fantasy rankings rb",
+          "keyword": "week 11 fantasy rankings cbs",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1773,10 +1773,10 @@
       ]
     },
     {
-      "pillar": "motogp schedule 2026",
+      "pillar": "motogp results today",
       "cluster": [
         {
-          "keyword": "motogp schedule 2026",
+          "keyword": "motogp results today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1794,7 +1794,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp results today",
+          "keyword": "motogp standings 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1803,7 +1803,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp standings 2026",
+          "keyword": "motogp schedule 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1943,7 +1943,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "lpga rankings",
+          "keyword": "lpga scoreboard",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
