@@ -91,15 +91,6 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "south carolina vs providence today",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "south carolina vs providence score",
       "intent": "informational",
       "demand": 82.0,
@@ -109,7 +100,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "south carolina vs providence wbb",
+      "keyword": "south carolina vs providence basketball",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -118,7 +109,16 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "south carolina vs providence basketball",
+      "keyword": "south carolina vs providence youtube",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "south carolina vs providence wbb",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -137,6 +137,15 @@
     },
     {
       "keyword": "providence vs south carolina prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "arsenal vs west ham women",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -182,15 +191,6 @@
     },
     {
       "keyword": "arsenal vs west ham 2026",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "arsenal vs west ham women",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -271,7 +271,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "sassuolo vs genoa cfc matches",
+      "keyword": "sassuolo vs genoa cfc standings",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -280,7 +280,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "sassuolo vs genoa cfc standings",
+      "keyword": "sassuolo vs genoa cfc matches",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -523,6 +523,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "week 11 fantasy rankings cbs",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "week 11 fantasy rankings te",
       "intent": "informational",
       "demand": 70.0,
@@ -533,15 +542,6 @@
     },
     {
       "keyword": "week 11 fantasy rankings rb",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "week 11 fantasy rankings flex",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -631,15 +631,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "motogp no spoiler",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "motogp schedule 2026",
       "intent": "informational",
       "demand": 58.0,
@@ -649,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp standings 2026",
+      "keyword": "motogp no spoiler",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +649,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "motogp sprint results",
+      "keyword": "motogp results today",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "motogp standings 2026",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lpga cme leaderboard",
+      "keyword": "lpga leaderboard today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lpga leaderboard today",
+      "keyword": "lpga cme leaderboard",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -829,15 +829,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp news",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "motogp results",
       "intent": "informational",
       "demand": 52.0,
@@ -847,7 +838,16 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp sprint",
+      "keyword": "motogp news",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "motogp race",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -969,15 +969,6 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "south carolina vs providence today",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
           "keyword": "south carolina vs providence score",
           "intent": "informational",
           "demand": 82.0,
@@ -987,7 +978,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "south carolina vs providence wbb",
+          "keyword": "south carolina vs providence basketball",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -996,7 +987,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "south carolina vs providence basketball",
+          "keyword": "south carolina vs providence youtube",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "south carolina vs providence wbb",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1046,7 +1046,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "sassuolo vs genoa cfc matches",
+          "keyword": "sassuolo vs genoa cfc standings",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1055,7 +1055,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "sassuolo vs genoa cfc standings",
+          "keyword": "sassuolo vs genoa cfc matches",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1252,8 +1252,17 @@
       ]
     },
     {
-      "pillar": "arsenal vs west ham 2022",
+      "pillar": "arsenal vs west ham women",
       "cluster": [
+        {
+          "keyword": "arsenal vs west ham women",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
         {
           "keyword": "arsenal vs west ham 2022",
           "intent": "informational",
@@ -1292,15 +1301,6 @@
         },
         {
           "keyword": "arsenal vs west ham 2026",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "arsenal vs west ham women",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1545,6 +1545,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "week 11 fantasy rankings cbs",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "week 11 fantasy rankings te",
           "intent": "informational",
           "demand": 70.0,
@@ -1555,15 +1564,6 @@
         },
         {
           "keyword": "week 11 fantasy rankings rb",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "week 11 fantasy rankings flex",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1773,17 +1773,8 @@
       ]
     },
     {
-      "pillar": "motogp no spoiler",
+      "pillar": "motogp schedule 2026",
       "cluster": [
-        {
-          "keyword": "motogp no spoiler",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
         {
           "keyword": "motogp schedule 2026",
           "intent": "informational",
@@ -1794,7 +1785,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp standings 2026",
+          "keyword": "motogp no spoiler",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1803,7 +1794,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "motogp sprint results",
+          "keyword": "motogp results today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "motogp standings 2026",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1830,15 +1830,6 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "motogp news",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "motogp results",
           "intent": "informational",
           "demand": 52.0,
@@ -1848,7 +1839,16 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "motogp sprint",
+          "keyword": "motogp news",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "motogp race",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1868,10 +1868,10 @@
       ]
     },
     {
-      "pillar": "lpga cme leaderboard",
+      "pillar": "lpga leaderboard today",
       "cluster": [
         {
-          "keyword": "lpga cme leaderboard",
+          "keyword": "lpga leaderboard today",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1880,7 +1880,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lpga leaderboard today",
+          "keyword": "lpga cme leaderboard",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
