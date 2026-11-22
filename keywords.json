@@ -37,7 +37,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "do the packers play today and what time",
+      "keyword": "do the packers play today and on what channel",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -46,7 +46,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "do the packers play today and on what channel",
+      "keyword": "do the packers play today and what time",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -89,6 +89,15 @@
       "ranking_probability": 76.0,
       "learning_boost": 0.0,
       "learned_score": 76.0
+    },
+    {
+      "keyword": "south carolina vs providence today",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "south carolina vs providence score",
@@ -136,7 +145,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "providence vs south carolina prediction",
+      "keyword": "arsenal vs west ham women",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -145,7 +154,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "arsenal vs west ham women",
+      "keyword": "arsenal vs west ham live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -191,15 +200,6 @@
     },
     {
       "keyword": "arsenal vs west ham 2026",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "arsenal vs west ham live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -362,15 +362,6 @@
     },
     {
       "keyword": "do the packers play today sunday",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "week 11 fantasy rankings half ppr",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -542,6 +533,15 @@
     },
     {
       "keyword": "week 11 fantasy rankings cbs",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "week 11 fantasy rankings rb",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -757,6 +757,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "jay clayton background",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "jay clayton dni",
       "intent": "informational",
       "demand": 58.0,
@@ -802,15 +811,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jay clayton wiki",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "motogp standings",
       "intent": "informational",
       "demand": 52.0,
@@ -847,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "motogp race",
+      "keyword": "motogp champions",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -967,6 +967,15 @@
           "ranking_probability": 78.4,
           "learning_boost": 0.0,
           "learned_score": 78.4
+        },
+        {
+          "keyword": "south carolina vs providence today",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
         },
         {
           "keyword": "south carolina vs providence score",
@@ -1134,10 +1143,10 @@
       ]
     },
     {
-      "pillar": "do the packers play today and what time",
+      "pillar": "do the packers play today and on what channel",
       "cluster": [
         {
-          "keyword": "do the packers play today and what time",
+          "keyword": "do the packers play today and on what channel",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1146,7 +1155,7 @@
           "learned_score": 76.0
         },
         {
-          "keyword": "do the packers play today and on what channel",
+          "keyword": "do the packers play today and what time",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1239,15 +1248,6 @@
           "ranking_probability": 75.4,
           "learning_boost": 0.0,
           "learned_score": 75.4
-        },
-        {
-          "keyword": "providence vs south carolina prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
         }
       ]
     },
@@ -1256,6 +1256,15 @@
       "cluster": [
         {
           "keyword": "arsenal vs west ham women",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "arsenal vs west ham live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1301,15 +1310,6 @@
         },
         {
           "keyword": "arsenal vs west ham 2026",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "arsenal vs west ham live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1488,17 +1488,8 @@
       ]
     },
     {
-      "pillar": "week 11 fantasy rankings half ppr",
+      "pillar": "week 11 fantasy rankings ppr",
       "cluster": [
-        {
-          "keyword": "week 11 fantasy rankings half ppr",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
         {
           "keyword": "week 11 fantasy rankings ppr",
           "intent": "informational",
@@ -1564,6 +1555,15 @@
         },
         {
           "keyword": "week 11 fantasy rankings cbs",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "week 11 fantasy rankings rb",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1708,6 +1708,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "jay clayton background",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "jay clayton dni",
           "intent": "informational",
           "demand": 58.0,
@@ -1745,15 +1754,6 @@
         },
         {
           "keyword": "jay clayton wife",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jay clayton wiki",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1848,7 +1848,7 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "motogp race",
+          "keyword": "motogp champions",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
