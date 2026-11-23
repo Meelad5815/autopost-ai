@@ -1,48 +1,48 @@
 # MRK Earning Opportunities
 
-Generated: 2026-11-22T19:40:02.689176+00:00
+Generated: 2026-11-23T07:38:35.243189+00:00
 
-## 1. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
+## 1. Freelance Platforms Like Fiverr: 8 Alternatives (2025) - Shopify
+- Score: **18**
+- Source: Shopify
+- Published: Mon, 24 Nov 2025 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CY0dnWmFPYzh0VnlxS1QwWDRBUUFpZXdsRkQ1OWtVajNvbkNzOXQ2TUEtdEVLSXVRaFNSemRjZ2hYa2U2S1RWVkxJSFBoMDIzVXN4anB4OU1yMzlV?oc=5
+
+## 2. The Top 10 Websites for Freelance Web Developers to Land Remote Jobs - MakeUseOf
 - Score: **18**
 - Source: MakeUseOf
 - Published: Mon, 03 Apr 2023 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE5HN2RLSEZWQkExb0JVRXpDMGQ5dTF1eDE1VnRtbjl4NGV3ZTZSc0FkdUJFTFhNZnFMMEFvYlhhWmplemVQeVBKRXEtRWZESGxBNmRWLUszaGtrdDMzazRMc3A1ZWROdVhZR1dtYzV2WjVRYWM?oc=5
 
-## 2. Ahmad Awais Interview – WordPress Core Contributor, Front-End Fanatic - Themeisle
+## 3. 10 Best Platforms for Remote Freelance Jobs in 2026, Ranked - Techloy
+- Score: **16**
+- Source: Techloy
+- Published: Tue, 20 Jan 2026 08:00:00 GMT
+- URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFNVdk5MQ1JBb3FDSVY3MVAzZWMwOFRvZHBZRk5kc0VMcU5sLTlCc19EM0Vta21SbEdlTHplR0ZGRGhYZlhvNXBrM0VfQmNTa29ZcktteFh2eERzb2VWN0JMdzVzSVYxS2tla2Q3SHJXTE1LVDlDUWI1QTlCRzRlZWdFcXhvcmVZX2pZ?oc=5
+
+## 4. Ahmad Awais Interview – WordPress Core Contributor, Front-End Fanatic - Themeisle
 - Score: **14**
 - Source: Themeisle
 - Published: Wed, 09 Nov 2016 08:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE13MF9YUkdlcG1VN3hRa2F6ZFdVc0xXVjVhLVM3aFhza3dqdzZlT01CdmI4Rm04ZUM3U3ZNOHBpZ2hacVkxQjVXQjFIZFFWSmg1WlQxZEZLVEpHNm9uV2c?oc=5
 
-## 3. Arduino Brings Modbus TCP Over-The-Air Updates to the Arduino PLC IDE 1.1.0 - Hackster.io
+## 5. Arduino Brings Modbus TCP Over-The-Air Updates to the Arduino PLC IDE 1.1.0 - Hackster.io
 - Score: **14**
 - Source: Hackster.io
 - Published: Wed, 04 Mar 2026 13:24:42 GMT
 - URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUdydUF3YkRoMDYybUdQa1BRM2FnOWl4eDRvbXdzelFUSkJ2bmREVjRtOVBjeHl1YnZkbXZHM29uMlVnQkRFOGdZeE8xcUozcDRsenk3eXExVDFabHFYWEZnVEFIZzhqbWtHZGpWbTZBdnIwQWZoX3FsaS1aQVRLNlpOUXNmVkpRSFRGalpPb1FRQnJoNE9YRzh5dmdlRllXSkVKN3VMMnFSeWV1OXBmdVh3R2FwV0du?oc=5
 
-## 4. Arduino Targets Industrial Automation Education with Its New Opta-Based PLC Starter Kit - Hackster.io
+## 6. Arduino Targets Industrial Automation Education with Its New Opta-Based PLC Starter Kit - Hackster.io
 - Score: **14**
 - Source: Hackster.io
 - Published: Wed, 03 Apr 2024 14:45:32 GMT
 - URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXBqTGRyQ2tWeDRfQkg3VUw3RDBYSmNTcEV1eFd0NUtXQkJZNUJ4dUVvTUluWVlTSWdMbXRmSHltSlA1Vm0zdnZLVkxlTF8zUnFpWXNoMkhyUUpCRHFzSzlsZkV1YmR1OHRzMGg5VjdrS1RLTktlQTFJaHNIenFNenZJSUpfakNtaWxpQ0Z2S3BuTTk3TGJxelQ4blEwX3UtV2hFQXpxWUZ6Qi16dVNqdE1jVHF0VkoyX05Ha0ppVXF0eXliWkNUZA?oc=5
 
-## 5. 25 web developer portfolio examples for your inspiration - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Tue, 25 Aug 2026 07:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE5CaWp5OGNyMjc5dDVSZENyMUlJZnRBMDZibV9zTG1CRElnUmJnZXlyR3Y5RGJ1ZkpPOUtXWmhWb1VjeDhEMDVTLXBhOVdhU05lWjZMbTJvU2pFMFFYaVg0RUdqSGZKVFhrY0ZMcQ?oc=5
-
-## 6. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
+## 7. AI Displaces Freelancers: WordPress and PHP Jobs Drop by Nearly 60% - hi-Tech.ua
 - Score: **14**
 - Source: hi-Tech.ua
 - Published: Tue, 20 Oct 2026 07:00:00 GMT
 - URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2M5NFFhdW9kWEhjdmQwaFBrS2RWejBCd0FybVo0Z2E5S0k0TWtqTTFMSHR0UnJ1U29udEhCd1dpVHBvRFlqcWlfNzV0SzFpZC1seUlfWFgwUG5sUWRwNEFHMmRCYWJyck1yQTJ2OHFsUFlyNUtqOVMyWThCU1c4eUxUd21xcURVRGp0SEpzNlNOZw?oc=5
-
-## 7. 30 best freelance websites to find work in 2026 - Hostinger
-- Score: **14**
-- Source: Hostinger
-- Published: Tue, 10 Nov 2026 08:00:00 GMT
-- URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE03c3kzUEUyU2VFejdVX25DcWgzNEY1RTQ4YzR0OXRFQlZjZVprOU4tbnp6Sl9qY2ZRTENsSkNBTDlCdUdMQWVDVVRkcnVoRTZZSTV6TjlTaHl1YlFMU1hwZ0NPajlTTVVGT2gwcFJteXM?oc=5
 
 ## 8. ADX : Industrial ATtiny1616 board, Arduino IDE Ready - Hackster.io
 - Score: **14**
