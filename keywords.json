@@ -109,6 +109,24 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "claudia sheinbaum speech in china",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "claudia sheinbaum's speech in shenzhen",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "car accident lawyers near me",
       "intent": "informational",
       "demand": 70.0,
@@ -136,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "car accident lawyer phoenix dimopoulos",
+      "keyword": "car accident lawyer san diego",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -145,7 +163,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "car accident lawyer property damage",
+      "keyword": "car accident lawyer las vegas",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -190,15 +208,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "king charles breaking news today",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "stranger things tales from '85",
       "intent": "informational",
       "demand": 70.0,
@@ -217,15 +226,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "molly meldrum prince charles",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "claudia sheinbaum approval rating",
       "intent": "informational",
       "demand": 64.0,
@@ -235,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "car accident lawyer florida",
+      "keyword": "car accident lawyer nyc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "car accident lawyer dallas",
+      "keyword": "car accident lawyer chicago",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "car accident lawyer california",
+      "keyword": "car accident lawyer bakersfield",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -289,6 +289,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "jonathan blow net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "sam houser net worth",
       "intent": "informational",
       "demand": 64.0,
@@ -316,6 +325,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "stranger things diner nyc",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "stranger things season 4",
       "intent": "informational",
       "demand": 64.0,
@@ -334,24 +352,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stranger things season 3",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "stranger things season 2",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "swimming pool near me",
       "intent": "informational",
       "demand": 64.0,
@@ -361,7 +361,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "swimming lakes near me",
+      "keyword": "swimming holes near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +370,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "swimming spots near me",
+      "keyword": "swimming classes near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,16 +388,16 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "molly meldrum dies",
+      "keyword": "swimming lakes near me",
       "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
       "learning_boost": 0.0,
-      "learned_score": 52.6
+      "learned_score": 59.8
     },
     {
-      "keyword": "molly meldrum death",
+      "keyword": "molly meldrum dies",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "molly meldrum madonna",
+      "keyword": "molly meldrum death",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "molly meldrum countdown",
+      "keyword": "molly meldrum madonna",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "claudia sheinbaum news",
+      "keyword": "molly meldrum countdown",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "claudia sheinbaum young",
+      "keyword": "molly meldrum wiki",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -461,15 +461,6 @@
     },
     {
       "keyword": "claudia sheinbaum mexico",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "claudia sheinbaum education",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "claudia sheinbaum joven",
+      "keyword": "claudia sheinbaum pardo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +496,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "claudia sheinbaum israel",
+      "keyword": "claudia sheinbaum young",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "claudia sheinbaum joven",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -560,15 +560,6 @@
     },
     {
       "keyword": "jonathan blow twitter",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jonathan blow age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam houser interview",
+      "keyword": "sam houser cameo",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam houser cameo",
+      "keyword": "sam houser interview",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,6 +694,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "king charles news",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "king charles ii",
       "intent": "informational",
       "demand": 58.0,
@@ -730,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stranger things lego",
+      "keyword": "stranger things broadway",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "swimming pool prosser",
+      "keyword": "stranger things diner",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -749,15 +749,6 @@
     },
     {
       "keyword": "swimming near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "swimming pool yakima",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -811,33 +802,6 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "boss hammer",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "bosses day",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "boss level",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
       "keyword": "bossa nova",
       "intent": "informational",
       "demand": 52.0,
@@ -847,7 +811,25 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "boss hammer",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "bossman dlow",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "boss level",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -892,7 +874,25 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "swimming goggles",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "boss",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "bossip",
       "intent": "informational",
       "demand": 46.0,
       "competition": 80.0,
@@ -984,15 +984,6 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "king charles breaking news today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
           "keyword": "king charles cavalier",
           "intent": "informational",
           "demand": 58.0,
@@ -1030,6 +1021,15 @@
         },
         {
           "keyword": "king charles health",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "king charles news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1129,7 +1129,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "car accident lawyer phoenix dimopoulos",
+          "keyword": "car accident lawyer san diego",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1138,7 +1138,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "car accident lawyer property damage",
+          "keyword": "car accident lawyer las vegas",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1147,7 +1147,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "car accident lawyer florida",
+          "keyword": "car accident lawyer nyc",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1156,7 +1156,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "car accident lawyer dallas",
+          "keyword": "car accident lawyer chicago",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1165,7 +1165,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "car accident lawyer california",
+          "keyword": "car accident lawyer bakersfield",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1247,25 +1247,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "molly meldrum prince charles",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "molly meldrum dies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "molly meldrum death",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1283,7 +1265,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "molly meldrum madonna",
+          "keyword": "molly meldrum death",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1292,7 +1274,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "molly meldrum countdown",
+          "keyword": "molly meldrum madonna",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1310,7 +1292,120 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "molly meldrum countdown",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "molly meldrum wiki",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "molly meldrum",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "claudia sheinbaum speech in china",
+      "cluster": [
+        {
+          "keyword": "claudia sheinbaum speech in china",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "claudia sheinbaum's speech in shenzhen",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "claudia sheinbaum approval rating",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "claudia sheinbaum mexico",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claudia sheinbaum ethnicity",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claudia sheinbaum husband",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claudia sheinbaum pardo",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claudia sheinbaum young",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claudia sheinbaum joven",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "claudia sheinbaum",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1387,7 +1482,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sam houser interview",
+          "keyword": "sam houser cameo",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1396,7 +1491,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sam houser cameo",
+          "keyword": "sam houser interview",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1437,6 +1532,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "stranger things diner nyc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "stranger things season 4",
           "intent": "informational",
           "demand": 64.0,
@@ -1447,24 +1551,6 @@
         },
         {
           "keyword": "stranger things season 1",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stranger things season 3",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "stranger things season 2",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1491,7 +1577,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "stranger things lego",
+          "keyword": "stranger things broadway",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "stranger things diner",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1501,101 +1596,6 @@
         },
         {
           "keyword": "stranger things",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "claudia sheinbaum approval rating",
-      "cluster": [
-        {
-          "keyword": "claudia sheinbaum approval rating",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "claudia sheinbaum news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum young",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum mexico",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum education",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum joven",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum israel",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "claudia sheinbaum",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1628,6 +1628,15 @@
         },
         {
           "keyword": "jonathan blow soulja boy",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "jonathan blow net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1681,15 +1690,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonathan blow age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "jonathan blow",
           "intent": "informational",
           "demand": 52.0,
@@ -1713,7 +1713,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "swimming lakes near me",
+          "keyword": "swimming holes near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1722,7 +1722,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "swimming spots near me",
+          "keyword": "swimming classes near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1740,25 +1740,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "swimming pool prosser",
+          "keyword": "swimming lakes near me",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 59.8
         },
         {
           "keyword": "swimming near me",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "swimming pool yakima",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1777,6 +1768,15 @@
         },
         {
           "keyword": "swimming pool",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "swimming goggles",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1869,20 +1869,6 @@
       ]
     },
     {
-      "pillar": "bosses day",
-      "cluster": [
-        {
-          "keyword": "bosses day",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "bossa nova",
       "cluster": [
         {
@@ -1907,6 +1893,20 @@
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "bossip",
+      "cluster": [
+        {
+          "keyword": "bossip",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     }
