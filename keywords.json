@@ -199,6 +199,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "sam houser net worth 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "king charles ii of spain",
       "intent": "informational",
       "demand": 70.0,
@@ -217,7 +226,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "molly meldrum michael jackson",
+      "keyword": "molly meldrum prince charles",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +334,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stranger things diner nyc",
+      "keyword": "stranger things season 4",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +343,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "stranger things season 4",
+      "keyword": "stranger things diner nyc",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +361,25 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "stranger things season 3",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "swimming pool near me",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "swimming pool san francisco",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -380,15 +407,6 @@
     },
     {
       "keyword": "swimming lessons near me",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "swimming lakes near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "claudia sheinbaum mexico",
+      "keyword": "claudia sheinbaum ethnicity",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "claudia sheinbaum ethnicity",
+      "keyword": "claudia sheinbaum mexico",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,15 +658,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "sam houser interview",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "king charles cavalier",
       "intent": "informational",
       "demand": 58.0,
@@ -685,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "king charles health",
+      "keyword": "king charles news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "king charles news",
+      "keyword": "king charles health",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "stranger things diner",
+      "keyword": "swimming pool sacramento",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -866,15 +875,6 @@
     },
     {
       "keyword": "swimming pool",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "swimming goggles",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1020,7 +1020,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "king charles health",
+          "keyword": "king charles news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1029,7 +1029,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "king charles news",
+          "keyword": "king charles health",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1238,7 +1238,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "molly meldrum michael jackson",
+          "keyword": "molly meldrum prince charles",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1351,7 +1351,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "claudia sheinbaum mexico",
+          "keyword": "claudia sheinbaum ethnicity",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1360,7 +1360,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "claudia sheinbaum ethnicity",
+          "keyword": "claudia sheinbaum mexico",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1420,6 +1420,15 @@
       "cluster": [
         {
           "keyword": "sam houser gta 6 cameo",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "sam houser net worth 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1491,15 +1500,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "sam houser interview",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "sam houser",
           "intent": "informational",
           "demand": 52.0,
@@ -1532,15 +1532,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "stranger things diner nyc",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "stranger things season 4",
           "intent": "informational",
           "demand": 64.0,
@@ -1550,7 +1541,25 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "stranger things diner nyc",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "stranger things season 1",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "stranger things season 3",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1578,15 +1587,6 @@
         },
         {
           "keyword": "stranger things broadway",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "stranger things diner",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1713,6 +1713,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "swimming pool san francisco",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "swimming holes near me",
           "intent": "informational",
           "demand": 64.0,
@@ -1740,13 +1749,13 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "swimming lakes near me",
+          "keyword": "swimming pool sacramento",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
           "keyword": "swimming near me",
@@ -1768,15 +1777,6 @@
         },
         {
           "keyword": "swimming pool",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "swimming goggles",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
