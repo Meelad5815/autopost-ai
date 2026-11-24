@@ -1,25 +1,34 @@
 {
   "keywords": [
     {
-      "keyword": "ind a vs uae today match live",
+      "keyword": "shabab al ahli vs al qadsiah fc standings",
       "intent": "informational",
       "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
       "learning_boost": 0.0,
-      "learned_score": 81.4
+      "learned_score": 84.4
     },
     {
-      "keyword": "ind a vs uae asia cup 2025",
+      "keyword": "pakistan a vs nepal national cricket team standings",
       "intent": "informational",
       "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
       "learning_boost": 0.0,
-      "learned_score": 81.4
+      "learned_score": 84.4
     },
     {
-      "keyword": "ind a vs uae live score",
+      "keyword": "pakistan a women vs nepal women's national cricket team standings",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "shabab al ahli vs al qadisiyah",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -28,7 +37,25 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "ind a vs uae asia cup",
+      "keyword": "shabab alahli vs al qadsiah prediction",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "shabab al ahli vs al qadsiah",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
+      "keyword": "al wehda vs al shabab prediction",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -46,133 +73,7 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "gta 6 chapter 3 mission list in order",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "how many missions will be in gta 6",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "dubious provenance gta 6 give or reject reddit",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "ind a vs uae live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "india vs uae today match",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ind a vs uae highlights",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "ind a vs uae t20",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "peggy flanagan vs angie craig",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
-      "keyword": "peggy flanagan vs michele tafoya",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 40.0,
-      "ranking_probability": 75.4,
-      "learning_boost": 0.0,
-      "learned_score": 75.4
-    },
-    {
       "keyword": "what is the price of website development",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "how many missions are in gta 6",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "dubious provenance gta 6 give or reject",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "dubious provenance gta 6 trust or not",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "dubious provenance gta 6 kill or spare",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "how good will gta 6 graphics be",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -199,7 +100,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "anthony mackie movies and tv shows",
+      "keyword": "s&p 500 index fund price chart",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -208,61 +109,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "gta 6 chapter 3 mission list",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "list of all gta 3 missions",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "3 main characters in gta 5",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "how many missions in gta 3",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "dubious provenance gta 6 choice reddit",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "dubious provenance gta 6 trust halifax",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "india vs uae telecast",
+      "keyword": "pakistan vs nepal football",
       "intent": "informational",
       "demand": 76.0,
       "competition": 50.0,
@@ -280,7 +127,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "anthony mackie movies and shows",
+      "keyword": "ai safety operator tesla pay",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,7 +136,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dubious provenance gta 6 choice",
+      "keyword": "kris bubic starter or reliever",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,7 +145,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "dubious provenance gta 6 reddit",
+      "keyword": "s&p 500 index fund price",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -307,7 +154,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "kraken game where to watch",
+      "keyword": "s&p 500 index fund performance",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -316,16 +163,34 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "india vs uae",
+      "keyword": "jonbenet ramsey who killed her",
       "intent": "informational",
       "demand": 70.0,
-      "competition": 60.0,
-      "ranking_probability": 61.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
       "learning_boost": 0.0,
-      "learned_score": 61.0
+      "learned_score": 67.0
     },
     {
-      "keyword": "anthony mackie son meme",
+      "keyword": "nepal cricket team players salary",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "rudy giuliani net worth 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "ohio basketball team nba",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +199,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "anthony mackie net worth",
+      "keyword": "ai safety operator tesla",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +208,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "anthony mackie captain america",
+      "keyword": "ai safety awareness project",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +217,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "dubious provenance gta 6",
+      "keyword": "ian happ free agency",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +226,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kraken game schedule 2026",
+      "keyword": "s&p 500 index fund",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +235,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "kraken game last night",
+      "keyword": "s&p 500 index today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "peggy flanagan net worth",
+      "keyword": "s&p 500 index futures",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +253,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ace bailey draft pick",
+      "keyword": "s&p 500 index chart",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +262,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "ace bailey high school",
+      "keyword": "s&p 500 index etf",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +271,70 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "anthony mackie meme",
+      "keyword": "s&p 500 index price",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "nepal football team salary",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rudy giuliani net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rudy giuliani hair dye",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rudy giuliani borat 2",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rudy giuliani four seasons",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "rudy giuliani health update",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "ohio basketball prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -415,7 +343,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie movies",
+      "keyword": "ohio basketball team",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -424,7 +352,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie son",
+      "keyword": "ohio basketball roster",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -433,7 +361,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie height",
+      "keyword": "ohio basketball schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -442,7 +370,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette stats",
+      "keyword": "ohio basketball tournaments",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +379,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette wife",
+      "keyword": "ohio basketball nba",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette injury",
+      "keyword": "ohio basketball rankings",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette contract",
+      "keyword": "ohio basketball players",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette accent",
+      "keyword": "ai safety news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +415,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette interview",
+      "keyword": "ai safety glasses",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +424,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette hometown",
+      "keyword": "ai safety jobs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -505,7 +433,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette girlfriend",
+      "keyword": "ai safety concerns",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +442,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "xavier legette college",
+      "keyword": "ai safety operator",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +451,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kraken game today",
+      "keyword": "ai safety research",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +460,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jlo lip balm",
+      "keyword": "freddy peralta stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jlo green dress",
+      "keyword": "freddy peralta age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jlo beso balm",
+      "keyword": "freddy peralta contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jlo net worth",
+      "keyword": "freddy peralta trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +496,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kraken game tonight",
+      "keyword": "freddy peralta orioles",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kraken game schedule",
+      "keyword": "freddy peralta savant",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +514,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kraken game tickets",
+      "keyword": "freddy peralta fangraphs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +523,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kraken games seattle",
+      "keyword": "freddy peralta agent",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +532,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kraken game score",
+      "keyword": "freddy peralta news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +541,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "peggy flanagan polls",
+      "keyword": "kris bubic stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +550,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "peggy flanagan husband",
+      "keyword": "kris bubic savant",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "peggy flanagan senate",
+      "keyword": "kris bubic contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +568,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "peggy flanagan ethnicity",
+      "keyword": "kris bubic injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "peggy flanagan daughter",
+      "keyword": "kris bubic mlb",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "peggy flanagan campaign",
+      "keyword": "kris bubic dodgers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey stats",
+      "keyword": "kris bubic trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey height",
+      "keyword": "kris bubic news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey hockey",
+      "keyword": "ian happ stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey 9/11",
+      "keyword": "ian happ contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey contract",
+      "keyword": "ian happ wife",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey college",
+      "keyword": "ian happ age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ace bailey nhl",
+      "keyword": "ian happ news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +658,142 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "anthony mackie",
+      "keyword": "ian happ savant",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ian happ fangraphs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ian happ cubs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "s&p 500 index",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey update",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey documentary",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey case",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey brother",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey parents",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey movie",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey house",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey killer",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "rudy giuliani borat",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "rudy giuliani health",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "rudy giuliani wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ohio basketball",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +802,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "xavier legette",
+      "keyword": "ai safety",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +811,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kraken game",
+      "keyword": "freddy peralta",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +820,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kraken schedule",
+      "keyword": "kris bubic",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,7 +829,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kraken standings",
+      "keyword": "ian happ",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -775,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kraken nhl",
+      "keyword": "jonbenet ramsey",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -784,147 +847,30 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "kraken movie",
+      "keyword": "rudy giuliani",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "kraken score",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kraken rum",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kraken hockey",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jlo kids",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jlo age",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jlo beauty",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jlo movies",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "jlo show",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "peggy flanagan",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "ace bailey",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "kraken",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "jlo",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "ind a vs uae today match live",
+      "pillar": "shabab al ahli vs al qadsiah fc standings",
       "cluster": [
         {
-          "keyword": "ind a vs uae today match live",
+          "keyword": "shabab al ahli vs al qadsiah fc standings",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
           "learning_boost": 0.0,
-          "learned_score": 81.4
+          "learned_score": 84.4
         },
         {
-          "keyword": "ind a vs uae asia cup 2025",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "ind a vs uae live score",
+          "keyword": "shabab al ahli vs al qadisiyah",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -933,7 +879,7 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "ind a vs uae asia cup",
+          "keyword": "shabab alahli vs al qadsiah prediction",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
@@ -942,31 +888,59 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "ind a vs uae live",
+          "keyword": "shabab al ahli vs al qadsiah",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 78.4
+        }
+      ]
+    },
+    {
+      "pillar": "pakistan a vs nepal national cricket team standings",
+      "cluster": [
+        {
+          "keyword": "pakistan a vs nepal national cricket team standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
         },
         {
-          "keyword": "ind a vs uae highlights",
+          "keyword": "pakistan a women vs nepal women's national cricket team standings",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 84.4
         },
         {
-          "keyword": "ind a vs uae t20",
+          "keyword": "pakistan vs nepal football",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        }
+      ]
+    },
+    {
+      "pillar": "al wehda vs al shabab prediction",
+      "cluster": [
+        {
+          "keyword": "al wehda vs al shabab prediction",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
           "learning_boost": 0.0,
-          "learned_score": 75.4
+          "learned_score": 78.4
         }
       ]
     },
@@ -981,278 +955,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        },
-        {
-          "keyword": "how many missions will be in gta 6",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "how many missions are in gta 6",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "how good will gta 6 graphics be",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "how many missions in gta 3",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "gta 6 chapter 3 mission list in order",
-      "cluster": [
-        {
-          "keyword": "gta 6 chapter 3 mission list in order",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "gta 6 chapter 3 mission list",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "dubious provenance gta 6 give or reject reddit",
-      "cluster": [
-        {
-          "keyword": "dubious provenance gta 6 give or reject reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 give or reject",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 trust or not",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 kill or spare",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 choice reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 trust halifax",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 choice",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "dubious provenance gta 6 reddit",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "dubious provenance gta 6",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "india vs uae today match",
-      "cluster": [
-        {
-          "keyword": "india vs uae today match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "india vs uae telecast",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "india vs uae",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        }
-      ]
-    },
-    {
-      "pillar": "peggy flanagan vs angie craig",
-      "cluster": [
-        {
-          "keyword": "peggy flanagan vs angie craig",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "peggy flanagan vs michele tafoya",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "peggy flanagan net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "peggy flanagan polls",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "peggy flanagan husband",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "peggy flanagan senate",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "peggy flanagan ethnicity",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "peggy flanagan daughter",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "peggy flanagan campaign",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "peggy flanagan",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1303,10 +1005,10 @@
       ]
     },
     {
-      "pillar": "anthony mackie movies and tv shows",
+      "pillar": "s&p 500 index fund price chart",
       "cluster": [
         {
-          "keyword": "anthony mackie movies and tv shows",
+          "keyword": "s&p 500 index fund price chart",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1315,7 +1017,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "anthony mackie movies and shows",
+          "keyword": "s&p 500 index fund price",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1324,112 +1026,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "anthony mackie son meme",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "anthony mackie net worth",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "anthony mackie captain america",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "anthony mackie meme",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony mackie movies",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony mackie son",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony mackie height",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "anthony mackie",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "list of all gta 3 missions",
-      "cluster": [
-        {
-          "keyword": "list of all gta 3 missions",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "3 main characters in gta 5",
-      "cluster": [
-        {
-          "keyword": "3 main characters in gta 5",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "kraken game where to watch",
-      "cluster": [
-        {
-          "keyword": "kraken game where to watch",
+          "keyword": "s&p 500 index fund performance",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1438,7 +1035,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "kraken game schedule 2026",
+          "keyword": "s&p 500 index fund",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1447,7 +1044,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "kraken game last night",
+          "keyword": "s&p 500 index today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1456,147 +1053,66 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "kraken game today",
+          "keyword": "s&p 500 index futures",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "s&p 500 index chart",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "s&p 500 index etf",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "s&p 500 index price",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "s&p 500 index",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        },
-        {
-          "keyword": "kraken game tonight",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kraken game schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kraken game tickets",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kraken games seattle",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kraken game score",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "kraken game",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken schedule",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken standings",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken nhl",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken movie",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken score",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken rum",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken hockey",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "kraken",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     },
     {
-      "pillar": "ace bailey draft pick",
+      "pillar": "ai safety operator tesla pay",
       "cluster": [
         {
-          "keyword": "ace bailey draft pick",
+          "keyword": "ai safety operator tesla pay",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ai safety operator tesla",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1605,7 +1121,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ace bailey high school",
+          "keyword": "ai safety awareness project",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1614,7 +1130,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ace bailey stats",
+          "keyword": "ai safety news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1623,7 +1139,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ace bailey height",
+          "keyword": "ai safety glasses",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1632,7 +1148,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ace bailey hockey",
+          "keyword": "ai safety jobs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1641,7 +1157,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ace bailey 9/11",
+          "keyword": "ai safety concerns",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1650,7 +1166,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ace bailey contract",
+          "keyword": "ai safety operator",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1659,7 +1175,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ace bailey college",
+          "keyword": "ai safety research",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1668,16 +1184,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ace bailey nhl",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ace bailey",
+          "keyword": "ai safety",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1688,10 +1195,19 @@
       ]
     },
     {
-      "pillar": "xavier legette stats",
+      "pillar": "kris bubic starter or reliever",
       "cluster": [
         {
-          "keyword": "xavier legette stats",
+          "keyword": "kris bubic starter or reliever",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "kris bubic stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1700,7 +1216,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette wife",
+          "keyword": "kris bubic savant",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1709,7 +1225,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette injury",
+          "keyword": "kris bubic contract",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1718,7 +1234,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette contract",
+          "keyword": "kris bubic injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1727,7 +1243,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette accent",
+          "keyword": "kris bubic mlb",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1736,7 +1252,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette interview",
+          "keyword": "kris bubic dodgers",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1745,7 +1261,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette hometown",
+          "keyword": "kris bubic trade",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1754,7 +1270,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette girlfriend",
+          "keyword": "kris bubic news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1763,16 +1279,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "xavier legette college",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "xavier legette",
+          "keyword": "kris bubic",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1783,10 +1290,19 @@
       ]
     },
     {
-      "pillar": "jlo lip balm",
+      "pillar": "jonbenet ramsey who killed her",
       "cluster": [
         {
-          "keyword": "jlo lip balm",
+          "keyword": "jonbenet ramsey who killed her",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "jonbenet ramsey update",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1795,7 +1311,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jlo green dress",
+          "keyword": "jonbenet ramsey documentary",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1804,7 +1320,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jlo beso balm",
+          "keyword": "jonbenet ramsey case",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1813,7 +1329,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jlo net worth",
+          "keyword": "jonbenet ramsey brother",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1822,58 +1338,452 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jlo kids",
+          "keyword": "jonbenet ramsey parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey movie",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey house",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey killer",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "nepal cricket team players salary",
+      "cluster": [
+        {
+          "keyword": "nepal cricket team players salary",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
         },
         {
-          "keyword": "jlo age",
+          "keyword": "nepal football team salary",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "rudy giuliani net worth 2026",
+      "cluster": [
+        {
+          "keyword": "rudy giuliani net worth 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "rudy giuliani net worth",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rudy giuliani hair dye",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rudy giuliani borat 2",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rudy giuliani four seasons",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rudy giuliani health update",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "rudy giuliani borat",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rudy giuliani health",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rudy giuliani wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "rudy giuliani",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "ohio basketball team nba",
+      "cluster": [
+        {
+          "keyword": "ohio basketball team nba",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         },
         {
-          "keyword": "jlo beauty",
+          "keyword": "ohio basketball prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball team",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball roster",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball tournaments",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball nba",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball rankings",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball players",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "ian happ free agency",
+      "cluster": [
+        {
+          "keyword": "ian happ free agency",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         },
         {
-          "keyword": "jlo movies",
+          "keyword": "ian happ stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ wife",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ savant",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ fangraphs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ cubs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ian happ",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "freddy peralta stats",
+      "cluster": [
+        {
+          "keyword": "freddy peralta stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         },
         {
-          "keyword": "jlo show",
+          "keyword": "freddy peralta age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta orioles",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta savant",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta fangraphs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta agent",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta news",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "jlo",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
