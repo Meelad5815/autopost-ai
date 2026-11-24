@@ -127,6 +127,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "ohio basketball hall of fame",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "ai safety operator tesla pay",
       "intent": "informational",
       "demand": 70.0,
@@ -163,15 +172,6 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "jonbenet ramsey who killed her",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
       "keyword": "nepal cricket team players salary",
       "intent": "informational",
       "demand": 70.0,
@@ -190,6 +190,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "ohio basketball prediction today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "ohio basketball team nba",
       "intent": "informational",
       "demand": 64.0,
@@ -200,15 +209,6 @@
     },
     {
       "keyword": "ai safety operator tesla",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "ai safety awareness project",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -253,6 +253,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "s&p 500 index price",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "s&p 500 index chart",
       "intent": "informational",
       "demand": 64.0,
@@ -263,15 +272,6 @@
     },
     {
       "keyword": "s&p 500 index etf",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "s&p 500 index price",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -316,6 +316,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "rudy giuliani health update",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "rudy giuliani four seasons",
       "intent": "informational",
       "demand": 64.0,
@@ -325,13 +334,13 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rudy giuliani health update",
+      "keyword": "ohio basketball score",
       "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
       "learning_boost": 0.0,
-      "learned_score": 59.8
+      "learned_score": 52.6
     },
     {
       "keyword": "ohio basketball prediction",
@@ -343,7 +352,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ohio basketball team",
+      "keyword": "ohio basketball teams",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -379,61 +388,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ohio basketball nba",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ohio basketball rankings",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ohio basketball players",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "ai safety news",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ai safety glasses",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ai safety jobs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ai safety concerns",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -451,7 +406,43 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "ai safety jobs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ai safety glasses",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ai safety concerns",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ai safety research",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ai safety fellowships",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -496,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta orioles",
+      "keyword": "freddy peralta fangraphs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +505,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta fangraphs",
+      "keyword": "freddy peralta orioles",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +559,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kris bubic injury",
+      "keyword": "kris bubic dodgers",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +577,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kris bubic dodgers",
+      "keyword": "kris bubic trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +586,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "kris bubic trade",
+      "keyword": "kris bubic injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,6 +649,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "ian happ rumors",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ian happ savant",
       "intent": "informational",
       "demand": 58.0,
@@ -668,15 +668,6 @@
     },
     {
       "keyword": "ian happ fangraphs",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ian happ cubs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,7 +748,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey killer",
+      "keyword": "jonbenet ramsey netflix",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jonbenet ramsey reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1062,6 +1062,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "s&p 500 index price",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "s&p 500 index chart",
           "intent": "informational",
           "demand": 64.0,
@@ -1080,7 +1089,30 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "s&p 500 index price",
+          "keyword": "s&p 500 index",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "ohio basketball hall of fame",
+      "cluster": [
+        {
+          "keyword": "ohio basketball hall of fame",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "ohio basketball prediction today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1089,13 +1121,76 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "s&p 500 index",
+          "keyword": "ohio basketball team nba",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ohio basketball score",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball teams",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball roster",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball tournaments",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1121,43 +1216,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "ai safety awareness project",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "ai safety news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ai safety glasses",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ai safety jobs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ai safety concerns",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1175,7 +1234,43 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ai safety jobs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ai safety glasses",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ai safety concerns",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ai safety research",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ai safety fellowships",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1234,7 +1329,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kris bubic injury",
+          "keyword": "kris bubic dodgers",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1252,7 +1347,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kris bubic dodgers",
+          "keyword": "kris bubic trade",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1261,7 +1356,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kris bubic trade",
+          "keyword": "kris bubic injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1280,101 +1375,6 @@
         },
         {
           "keyword": "kris bubic",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jonbenet ramsey who killed her",
-      "cluster": [
-        {
-          "keyword": "jonbenet ramsey who killed her",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "jonbenet ramsey update",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey documentary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey case",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey brother",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey movie",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey house",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey killer",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1447,7 +1447,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "rudy giuliani four seasons",
+          "keyword": "rudy giuliani health update",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1456,7 +1456,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "rudy giuliani health update",
+          "keyword": "rudy giuliani four seasons",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1493,101 +1493,6 @@
         },
         {
           "keyword": "rudy giuliani",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "ohio basketball team nba",
-      "cluster": [
-        {
-          "keyword": "ohio basketball team nba",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ohio basketball prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball team",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball roster",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball tournaments",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball nba",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball rankings",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball players",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1655,6 +1560,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ian happ rumors",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ian happ savant",
           "intent": "informational",
           "demand": 58.0,
@@ -1665,15 +1579,6 @@
         },
         {
           "keyword": "ian happ fangraphs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ian happ cubs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1732,7 +1637,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "freddy peralta orioles",
+          "keyword": "freddy peralta fangraphs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1750,7 +1655,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "freddy peralta fangraphs",
+          "keyword": "freddy peralta orioles",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1778,6 +1683,101 @@
         },
         {
           "keyword": "freddy peralta",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jonbenet ramsey update",
+      "cluster": [
+        {
+          "keyword": "jonbenet ramsey update",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey documentary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey case",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey movie",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey house",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey netflix",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey reddit",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
