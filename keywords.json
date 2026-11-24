@@ -235,7 +235,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "flood watch emergency resources",
+      "keyword": "flood watch near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -244,7 +244,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "flood watch near me",
+      "keyword": "flood watch jacksonville fl",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -263,15 +263,6 @@
     },
     {
       "keyword": "maria middleton high school",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "maria middleton think hope",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,7 +316,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "cathie wood sells nvda",
+      "keyword": "cathie woods sells nvda",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,15 +424,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "jimmy gomez net worth",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "flood watch texas",
       "intent": "informational",
       "demand": 58.0,
@@ -541,6 +523,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "maria middleton canonization",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "maria middleton story",
       "intent": "informational",
       "demand": 58.0,
@@ -560,6 +551,15 @@
     },
     {
       "keyword": "jacory croskey-merritt fantasy",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jacory croskey-merritt injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,15 +604,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jacory croskey-merritt adp",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "cathie wood nvidia",
       "intent": "informational",
       "demand": 58.0,
@@ -631,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "cathie wood portfolio",
+      "keyword": "cathie wood ark",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -802,6 +793,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "jimmy gomez congress",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "jimmy gomez district",
       "intent": "informational",
       "demand": 58.0,
@@ -811,7 +811,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jimmy gomez congress",
+      "keyword": "jimmy gomez california",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "jimmy gomez investigation",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -857,15 +866,6 @@
     },
     {
       "keyword": "jimmy gomez ethics",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jimmy gomez california",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -1114,7 +1114,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "cathie wood sells nvda",
+          "keyword": "cathie woods sells nvda",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1141,7 +1141,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "cathie wood portfolio",
+          "keyword": "cathie wood ark",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1205,7 +1205,7 @@
           "learned_score": 68.2
         },
         {
-          "keyword": "flood watch emergency resources",
+          "keyword": "flood watch near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1214,7 +1214,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "flood watch near me",
+          "keyword": "flood watch jacksonville fl",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1499,15 +1499,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "maria middleton think hope",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "maria middleton wikipedia",
           "intent": "informational",
           "demand": 58.0,
@@ -1545,6 +1536,15 @@
         },
         {
           "keyword": "maria middleton grave",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "maria middleton canonization",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1612,6 +1612,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "jacory croskey-merritt injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "jacory croskey-merritt college",
           "intent": "informational",
           "demand": 58.0,
@@ -1640,15 +1649,6 @@
         },
         {
           "keyword": "jacory croskey-merritt bill",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jacory croskey-merritt adp",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1858,16 +1858,16 @@
       ]
     },
     {
-      "pillar": "jimmy gomez net worth",
+      "pillar": "jimmy gomez congress",
       "cluster": [
         {
-          "keyword": "jimmy gomez net worth",
+          "keyword": "jimmy gomez congress",
           "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
           "learning_boost": 0.0,
-          "learned_score": 59.8
+          "learned_score": 52.6
         },
         {
           "keyword": "jimmy gomez district",
@@ -1879,7 +1879,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jimmy gomez congress",
+          "keyword": "jimmy gomez california",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jimmy gomez investigation",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1925,15 +1934,6 @@
         },
         {
           "keyword": "jimmy gomez ethics",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jimmy gomez california",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
