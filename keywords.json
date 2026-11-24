@@ -64,6 +64,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "freddy peralta vs trevor rogers",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -110,15 +119,6 @@
     },
     {
       "keyword": "wordpress website price in pakistan",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 40.0,
-      "ranking_probability": 67.0,
-      "learning_boost": 0.0,
-      "learned_score": 67.0
-    },
-    {
-      "keyword": "ohio basketball hall of fame",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -209,6 +209,15 @@
     },
     {
       "keyword": "ai safety operator tesla",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "freddy peralta baltimore orioles",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -325,15 +334,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "rudy giuliani four seasons",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "ohio basketball score",
       "intent": "informational",
       "demand": 58.0,
@@ -352,7 +352,16 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ohio basketball teams",
+      "keyword": "ohio basketball team",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "ohio basketball today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -460,7 +469,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta age",
+      "keyword": "freddy peralta contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -469,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta contract",
+      "keyword": "freddy peralta age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,15 +496,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta trade",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "freddy peralta savant",
       "intent": "informational",
       "demand": 58.0,
@@ -505,25 +505,16 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "freddy peralta trade",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "freddy peralta orioles",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "freddy peralta agent",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "freddy peralta news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,6 +640,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "ian happ cubs",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ian happ rumors",
       "intent": "informational",
       "demand": 58.0,
@@ -659,15 +659,6 @@
     },
     {
       "keyword": "ian happ savant",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "ian happ cubs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey brother",
+      "keyword": "jonbenet ramsey parents",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey parents",
+      "keyword": "jonbenet ramsey brother",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -739,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey house",
+      "keyword": "jonbenet ramsey netflix",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -748,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey netflix",
+      "keyword": "jonbenet ramsey house",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -776,6 +767,15 @@
     },
     {
       "keyword": "rudy giuliani wife",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "rudy giuliani today",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -941,6 +941,101 @@
       ]
     },
     {
+      "pillar": "freddy peralta vs trevor rogers",
+      "cluster": [
+        {
+          "keyword": "freddy peralta vs trevor rogers",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "freddy peralta baltimore orioles",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "freddy peralta stats",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta fangraphs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta savant",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta trade",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta orioles",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "freddy peralta",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -1078,101 +1173,6 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
-        }
-      ]
-    },
-    {
-      "pillar": "ohio basketball hall of fame",
-      "cluster": [
-        {
-          "keyword": "ohio basketball hall of fame",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "ohio basketball prediction today",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ohio basketball team nba",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "ohio basketball score",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball prediction",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball teams",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball roster",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball tournaments",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "ohio basketball",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
         }
       ]
     },
@@ -1406,7 +1406,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonbenet ramsey brother",
+          "keyword": "jonbenet ramsey parents",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1415,7 +1415,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonbenet ramsey parents",
+          "keyword": "jonbenet ramsey brother",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1433,7 +1433,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonbenet ramsey house",
+          "keyword": "jonbenet ramsey netflix",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1442,7 +1442,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "jonbenet ramsey netflix",
+          "keyword": "jonbenet ramsey house",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1533,15 +1533,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "rudy giuliani four seasons",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "rudy giuliani borat",
           "intent": "informational",
           "demand": 58.0,
@@ -1569,7 +1560,111 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "rudy giuliani today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "rudy giuliani",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "ohio basketball prediction today",
+      "cluster": [
+        {
+          "keyword": "ohio basketball prediction today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ohio basketball team nba",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "ohio basketball score",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball prediction",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball team",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball today",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball roster",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball schedule",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball tournaments",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "ohio basketball",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1637,6 +1732,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "ian happ cubs",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "ian happ rumors",
           "intent": "informational",
           "demand": 58.0,
@@ -1655,111 +1759,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ian happ cubs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "ian happ",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "freddy peralta stats",
-      "cluster": [
-        {
-          "keyword": "freddy peralta stats",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta contract",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta fangraphs",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta trade",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta savant",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta orioles",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta agent",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta news",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "freddy peralta",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
