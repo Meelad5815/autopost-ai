@@ -28,25 +28,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "shabab al ahli vs al qadisiyah",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "shabab alahli vs al qadsiah prediction",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
-      "keyword": "shabab al ahli vs al qadsiah",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -71,6 +53,15 @@
       "ranking_probability": 76.0,
       "learning_boost": 0.0,
       "learned_score": 76.0
+    },
+    {
+      "keyword": "shabab alahli vs al qadsiah",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "what is the price of website development",
@@ -164,6 +155,15 @@
     },
     {
       "keyword": "s&p 500 index fund performance",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "jonbenet ramsey who killed her",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -397,7 +397,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ai safety operator",
+      "keyword": "ai safety jobs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -406,7 +406,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ai safety jobs",
+      "keyword": "ai safety operator",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -478,7 +478,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta trade",
+      "keyword": "freddy peralta fangraphs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -487,7 +487,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "freddy peralta fangraphs",
+      "keyword": "freddy peralta trade",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,6 +550,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "kris bubic injury",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "kris bubic contract",
       "intent": "informational",
       "demand": 58.0,
@@ -578,15 +587,6 @@
     },
     {
       "keyword": "kris bubic trade",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "kris bubic injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ian happ age",
+      "keyword": "ian happ news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ian happ news",
+      "keyword": "ian happ age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "ian happ fangraphs",
+      "keyword": "ian happ cubs",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey documentary",
+      "keyword": "jonbenet ramsey case",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "jonbenet ramsey case",
+      "keyword": "jonbenet ramsey documentary",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -749,15 +749,6 @@
     },
     {
       "keyword": "jonbenet ramsey netflix",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "jonbenet ramsey reddit",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -870,15 +861,6 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "shabab al ahli vs al qadisiyah",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
           "keyword": "shabab alahli vs al qadsiah prediction",
           "intent": "informational",
           "demand": 82.0,
@@ -888,13 +870,13 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "shabab al ahli vs al qadsiah",
+          "keyword": "shabab alahli vs al qadsiah",
           "intent": "informational",
           "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 78.4
+          "learned_score": 75.4
         }
       ]
     },
@@ -1225,7 +1207,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ai safety operator",
+          "keyword": "ai safety jobs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1234,7 +1216,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ai safety jobs",
+          "keyword": "ai safety operator",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1320,6 +1302,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "kris bubic injury",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "kris bubic contract",
           "intent": "informational",
           "demand": 58.0,
@@ -1356,15 +1347,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "kris bubic injury",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "kris bubic news",
           "intent": "informational",
           "demand": 58.0,
@@ -1375,6 +1357,101 @@
         },
         {
           "keyword": "kris bubic",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        }
+      ]
+    },
+    {
+      "pillar": "jonbenet ramsey who killed her",
+      "cluster": [
+        {
+          "keyword": "jonbenet ramsey who killed her",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "jonbenet ramsey update",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey case",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey documentary",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey brother",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey parents",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey movie",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey house",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey netflix",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "jonbenet ramsey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1542,7 +1619,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ian happ age",
+          "keyword": "ian happ news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1551,7 +1628,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ian happ news",
+          "keyword": "ian happ age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1578,7 +1655,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "ian happ fangraphs",
+          "keyword": "ian happ cubs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1628,7 +1705,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "freddy peralta trade",
+          "keyword": "freddy peralta fangraphs",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1637,7 +1714,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "freddy peralta fangraphs",
+          "keyword": "freddy peralta trade",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1683,101 +1760,6 @@
         },
         {
           "keyword": "freddy peralta",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
-      "pillar": "jonbenet ramsey update",
-      "cluster": [
-        {
-          "keyword": "jonbenet ramsey update",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey documentary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey case",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey brother",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey parents",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey movie",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey house",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey netflix",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey reddit",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "jonbenet ramsey",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
