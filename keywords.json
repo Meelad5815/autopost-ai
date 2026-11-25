@@ -10,15 +10,6 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "best buy credit card login",
-      "intent": "commercial",
-      "demand": 94.0,
-      "competition": 40.0,
-      "ranking_probability": 83.8,
-      "learning_boost": 0.0,
-      "learned_score": 83.8
-    },
-    {
       "keyword": "criminal profile gta 6 how to lower",
       "intent": "informational",
       "demand": 82.0,
@@ -38,15 +29,6 @@
     },
     {
       "keyword": "best buy black friday",
-      "intent": "commercial",
-      "demand": 88.0,
-      "competition": 50.0,
-      "ranking_probability": 76.6,
-      "learning_boost": 0.0,
-      "learned_score": 76.6
-    },
-    {
-      "keyword": "best buy credit card",
       "intent": "commercial",
       "demand": 88.0,
       "competition": 50.0,
@@ -91,7 +73,34 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "bob seger & the silver bullet band against the wind lyrics",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
       "keyword": "bob seger & the silver bullet band night moves",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "bob seger & the silver bullet band against the wind",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "bob seger & the silver bullet band still the same lyrics",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -110,33 +119,6 @@
     },
     {
       "keyword": "bob seger & the silver bullet band mainstreet",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "bob seger & the silver bullet band still the same",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "bob seger & the silver bullet band night moves lyrics",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
-      "keyword": "bob seger & the silver bullet band night moves (official video)",
       "intent": "informational",
       "demand": 70.0,
       "competition": 10.0,
@@ -224,6 +206,15 @@
       "ranking_probability": 76.0,
       "learning_boost": 0.0,
       "learned_score": 76.0
+    },
+    {
+      "keyword": "best mac and cheese recipe",
+      "intent": "commercial",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
     },
     {
       "keyword": "best potatoes for mashed potatoes",
@@ -379,15 +370,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "the mosquito bowl where to watch",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "the mosquito bowl netflix release date",
       "intent": "informational",
       "demand": 70.0,
@@ -415,22 +397,22 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "best restaurants raleigh nc",
+      "keyword": "best buy yakima",
       "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 82.0,
+      "competition": 60.0,
+      "ranking_probability": 69.4,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 69.4
     },
     {
-      "keyword": "best restaurants durham nc",
+      "keyword": "best buy kennewick",
       "intent": "commercial",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
+      "demand": 82.0,
+      "competition": 60.0,
+      "ranking_probability": 69.4,
       "learning_boost": 0.0,
-      "learned_score": 68.2
+      "learned_score": 69.4
     },
     {
       "keyword": "best black friday deals",
@@ -604,6 +586,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "the mosquito bowl rotten tomatoes",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "best buy",
       "intent": "commercial",
       "demand": 76.0,
@@ -613,8 +604,8 @@
       "learned_score": 62.2
     },
     {
-      "keyword": "hltv top teams",
-      "intent": "informational",
+      "keyword": "best practices selah",
+      "intent": "commercial",
       "demand": 70.0,
       "competition": 60.0,
       "ranking_probability": 61.0,
@@ -685,6 +676,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "the mosquito bowl trailer",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "the mosquito bowl (2026)",
       "intent": "informational",
       "demand": 64.0,
@@ -695,15 +695,6 @@
     },
     {
       "keyword": "the mosquito bowl imdb",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
-      "keyword": "the mosquito bowl trailer",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -757,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "google play games",
+      "keyword": "google play console",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "google play console",
+      "keyword": "google play games",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -793,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "google play refund",
+      "keyword": "google play download",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -847,7 +838,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "hltv major",
+      "keyword": "hltv csgo",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,7 +847,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "hltv csgo",
+      "keyword": "hltv major",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -884,6 +875,15 @@
     },
     {
       "keyword": "hltv pickems",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "hltv gosh",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -931,101 +931,6 @@
           "ranking_probability": 70.0,
           "learning_boost": 0.0,
           "learned_score": 70.0
-        }
-      ]
-    },
-    {
-      "pillar": "best buy credit card login",
-      "cluster": [
-        {
-          "keyword": "best buy credit card login",
-          "intent": "commercial",
-          "demand": 94.0,
-          "competition": 40.0,
-          "ranking_probability": 83.8,
-          "learning_boost": 0.0,
-          "learned_score": 83.8
-        },
-        {
-          "keyword": "best buy near me",
-          "intent": "commercial",
-          "demand": 88.0,
-          "competition": 50.0,
-          "ranking_probability": 76.6,
-          "learning_boost": 0.0,
-          "learned_score": 76.6
-        },
-        {
-          "keyword": "best buy black friday",
-          "intent": "commercial",
-          "demand": 88.0,
-          "competition": 50.0,
-          "ranking_probability": 76.6,
-          "learning_boost": 0.0,
-          "learned_score": 76.6
-        },
-        {
-          "keyword": "best buy credit card",
-          "intent": "commercial",
-          "demand": 88.0,
-          "competition": 50.0,
-          "ranking_probability": 76.6,
-          "learning_boost": 0.0,
-          "learned_score": 76.6
-        },
-        {
-          "keyword": "best potatoes for mashed potatoes",
-          "intent": "commercial",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "best restaurants raleigh nc",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "best restaurants durham nc",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "best black friday deals",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        },
-        {
-          "keyword": "best buy",
-          "intent": "commercial",
-          "demand": 76.0,
-          "competition": 70.0,
-          "ranking_probability": 62.2,
-          "learning_boost": 0.0,
-          "learned_score": 62.2
-        },
-        {
-          "keyword": "best medicine",
-          "intent": "commercial",
-          "demand": 64.0,
-          "competition": 70.0,
-          "ranking_probability": 53.8,
-          "learning_boost": 0.0,
-          "learned_score": 53.8
         }
       ]
     },
@@ -1112,6 +1017,101 @@
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "best buy near me",
+      "cluster": [
+        {
+          "keyword": "best buy near me",
+          "intent": "commercial",
+          "demand": 88.0,
+          "competition": 50.0,
+          "ranking_probability": 76.6,
+          "learning_boost": 0.0,
+          "learned_score": 76.6
+        },
+        {
+          "keyword": "best buy black friday",
+          "intent": "commercial",
+          "demand": 88.0,
+          "competition": 50.0,
+          "ranking_probability": 76.6,
+          "learning_boost": 0.0,
+          "learned_score": 76.6
+        },
+        {
+          "keyword": "best mac and cheese recipe",
+          "intent": "commercial",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "best potatoes for mashed potatoes",
+          "intent": "commercial",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "best buy yakima",
+          "intent": "commercial",
+          "demand": 82.0,
+          "competition": 60.0,
+          "ranking_probability": 69.4,
+          "learning_boost": 0.0,
+          "learned_score": 69.4
+        },
+        {
+          "keyword": "best buy kennewick",
+          "intent": "commercial",
+          "demand": 82.0,
+          "competition": 60.0,
+          "ranking_probability": 69.4,
+          "learning_boost": 0.0,
+          "learned_score": 69.4
+        },
+        {
+          "keyword": "best black friday deals",
+          "intent": "commercial",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        },
+        {
+          "keyword": "best buy",
+          "intent": "commercial",
+          "demand": 76.0,
+          "competition": 70.0,
+          "ranking_probability": 62.2,
+          "learning_boost": 0.0,
+          "learned_score": 62.2
+        },
+        {
+          "keyword": "best practices selah",
+          "intent": "commercial",
+          "demand": 70.0,
+          "competition": 60.0,
+          "ranking_probability": 61.0,
+          "learning_boost": 0.0,
+          "learned_score": 61.0
+        },
+        {
+          "keyword": "best medicine",
+          "intent": "commercial",
+          "demand": 64.0,
+          "competition": 70.0,
+          "ranking_probability": 53.8,
+          "learning_boost": 0.0,
+          "learned_score": 53.8
         }
       ]
     },
@@ -1286,7 +1286,34 @@
           "learned_score": 76.0
         },
         {
+          "keyword": "bob seger & the silver bullet band against the wind lyrics",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
           "keyword": "bob seger & the silver bullet band night moves",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "bob seger & the silver bullet band against the wind",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "bob seger & the silver bullet band still the same lyrics",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1305,33 +1332,6 @@
         },
         {
           "keyword": "bob seger & the silver bullet band mainstreet",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "bob seger & the silver bullet band still the same",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "bob seger & the silver bullet band night moves lyrics",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "bob seger & the silver bullet band night moves (official video)",
           "intent": "informational",
           "demand": 70.0,
           "competition": 10.0,
@@ -1404,7 +1404,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "google play games",
+          "keyword": "google play console",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1413,7 +1413,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "google play console",
+          "keyword": "google play games",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1440,7 +1440,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "google play refund",
+          "keyword": "google play download",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1587,17 +1587,8 @@
       ]
     },
     {
-      "pillar": "the mosquito bowl where to watch",
+      "pillar": "the mosquito bowl netflix release date",
       "cluster": [
-        {
-          "keyword": "the mosquito bowl where to watch",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
         {
           "keyword": "the mosquito bowl netflix release date",
           "intent": "informational",
@@ -1635,7 +1626,25 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "the mosquito bowl rotten tomatoes",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "the mosquito bowl cast",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "the mosquito bowl trailer",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1654,15 +1663,6 @@
         },
         {
           "keyword": "the mosquito bowl imdb",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "the mosquito bowl trailer",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1756,101 +1756,6 @@
       ]
     },
     {
-      "pillar": "hltv top teams",
-      "cluster": [
-        {
-          "keyword": "hltv top teams",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 60.0,
-          "ranking_probability": 61.0,
-          "learning_boost": 0.0,
-          "learned_score": 61.0
-        },
-        {
-          "keyword": "hltv singapore major",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hltv bc game",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "hltv org",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "hltv major",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "hltv csgo",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "hltv rating",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "hltv rankings",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "hltv pickems",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "hltv",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
       "pillar": "floods in florida today",
       "cluster": [
         {
@@ -1889,6 +1794,101 @@
           "ranking_probability": 52.6,
           "learning_boost": 0.0,
           "learned_score": 52.6
+        }
+      ]
+    },
+    {
+      "pillar": "hltv singapore major",
+      "cluster": [
+        {
+          "keyword": "hltv singapore major",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hltv bc game",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "hltv org",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv csgo",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv major",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv rating",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv rankings",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv pickems",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv gosh",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "hltv",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
         }
       ]
     }
