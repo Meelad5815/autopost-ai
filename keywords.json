@@ -1,16 +1,7 @@
 {
   "keywords": [
     {
-      "keyword": "sporting vs man utd head to head",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "club brugge vs liverpool head to head",
+      "keyword": "sporting vs man utd where to watch",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -55,15 +46,6 @@
       "learned_score": 78.4
     },
     {
-      "keyword": "sporting vs man utd 2003 results",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 30.0,
-      "ranking_probability": 78.4,
-      "learning_boost": 0.0,
-      "learned_score": 78.4
-    },
-    {
       "keyword": "club brugge vs liverpool f.c. lineups",
       "intent": "informational",
       "demand": 82.0,
@@ -100,6 +82,15 @@
       "learned_score": 78.4
     },
     {
+      "keyword": "club brugge vs liverpool f.c. timeline",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
+      "learning_boost": 0.0,
+      "learned_score": 78.4
+    },
+    {
       "keyword": "club brugge vs liverpool f.c. prediction",
       "intent": "informational",
       "demand": 82.0,
@@ -127,15 +118,6 @@
       "learned_score": 76.0
     },
     {
-      "keyword": "nj state of emergency what does it mean",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 10.0,
-      "ranking_probability": 76.0,
-      "learning_boost": 0.0,
-      "learned_score": 76.0
-    },
-    {
       "keyword": "psg vs as roma lineups",
       "intent": "informational",
       "demand": 82.0,
@@ -146,6 +128,15 @@
     },
     {
       "keyword": "psg vs as roma stats",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
+      "keyword": "psg vs as roma matches",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -190,6 +181,15 @@
       "learned_score": 75.4
     },
     {
+      "keyword": "sporting vs man utd channel",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "sporting vs man utd 2003",
       "intent": "informational",
       "demand": 82.0,
@@ -208,7 +208,7 @@
       "learned_score": 75.4
     },
     {
-      "keyword": "sporting vs man utd friendly",
+      "keyword": "sporting vs man utd results",
       "intent": "informational",
       "demand": 82.0,
       "competition": 40.0,
@@ -298,15 +298,6 @@
       "learned_score": 68.2
     },
     {
-      "keyword": "psg vs real madrid",
-      "intent": "informational",
-      "demand": 76.0,
-      "competition": 50.0,
-      "ranking_probability": 68.2,
-      "learning_boost": 0.0,
-      "learned_score": 68.2
-    },
-    {
       "keyword": "inter vs stuttgart tickets",
       "intent": "informational",
       "demand": 76.0,
@@ -388,6 +379,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "nj state of emergency today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "nj state of emergency thanksgiving",
       "intent": "informational",
       "demand": 70.0,
@@ -397,7 +397,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "nj state of emergency today",
+      "keyword": "nj state of emergency tomorrow",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -469,7 +469,7 @@
       "learned_score": 61.0
     },
     {
-      "keyword": "lsu basketball rj luis",
+      "keyword": "lsu basketball game today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lsu basketball game today",
+      "keyword": "lsu basketball rj luis",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -506,6 +506,15 @@
     },
     {
       "keyword": "todd boehly net worth",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "todd boehly mark walter",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -649,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lsu basketball prediction",
+      "keyword": "lsu basketball women",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "lsu basketball women",
+      "keyword": "lsu basketball prediction",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "todd boehly chelsea",
+      "keyword": "todd boehly trump",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -731,6 +740,15 @@
     },
     {
       "keyword": "todd boehly lukoil",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "todd boehly chelsea",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -757,25 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "todd boehly trump",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "todd boehly eldridge",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "todd boehly guggenheim",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -892,6 +892,15 @@
       "learned_score": 45.4
     },
     {
+      "keyword": "fotmob app",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
       "keyword": "fotmob barcelona",
       "intent": "informational",
       "demand": 52.0,
@@ -911,15 +920,6 @@
     },
     {
       "keyword": "fotmob predict",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "fotmob soccer",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -948,10 +948,10 @@
   ],
   "clusters": [
     {
-      "pillar": "sporting vs man utd head to head",
+      "pillar": "sporting vs man utd where to watch",
       "cluster": [
         {
-          "keyword": "sporting vs man utd head to head",
+          "keyword": "sporting vs man utd where to watch",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -978,15 +978,6 @@
           "learned_score": 78.4
         },
         {
-          "keyword": "sporting vs man utd 2003 results",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
           "keyword": "sporting vs man utd prediction",
           "intent": "informational",
           "demand": 82.0,
@@ -997,6 +988,15 @@
         },
         {
           "keyword": "sporting vs man utd odds",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "sporting vs man utd channel",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1023,7 +1023,7 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "sporting vs man utd friendly",
+          "keyword": "sporting vs man utd results",
           "intent": "informational",
           "demand": 82.0,
           "competition": 40.0,
@@ -1033,101 +1033,6 @@
         },
         {
           "keyword": "sporting vs man utd",
-          "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
-          "learning_boost": 0.0,
-          "learned_score": 68.2
-        }
-      ]
-    },
-    {
-      "pillar": "club brugge vs liverpool head to head",
-      "cluster": [
-        {
-          "keyword": "club brugge vs liverpool head to head",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "club brugge vs liverpool f.c. lineups",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "club brugge vs liverpool f.c. stats",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "club brugge vs liverpool f.c. standings",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "club brugge vs liverpool f.c. matches",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "club brugge vs liverpool f.c. prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "club brugge vs liverpool last match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 30.0,
-          "ranking_probability": 78.4,
-          "learning_boost": 0.0,
-          "learned_score": 78.4
-        },
-        {
-          "keyword": "club brugge vs liverpool prediction",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "club brugge vs liverpool f.c",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 40.0,
-          "ranking_probability": 75.4,
-          "learning_boost": 0.0,
-          "learned_score": 75.4
-        },
-        {
-          "keyword": "club brugge vs liverpool",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1233,6 +1138,101 @@
       ]
     },
     {
+      "pillar": "club brugge vs liverpool f.c. lineups",
+      "cluster": [
+        {
+          "keyword": "club brugge vs liverpool f.c. lineups",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool f.c. stats",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool f.c. standings",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool f.c. matches",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool f.c. timeline",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool f.c. prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool last match",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "club brugge vs liverpool prediction",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "club brugge vs liverpool f.c",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "club brugge vs liverpool",
+          "intent": "informational",
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
+          "learning_boost": 0.0,
+          "learned_score": 68.2
+        }
+      ]
+    },
+    {
       "pillar": "how much does it cost to build a wordpress website",
       "cluster": [
         {
@@ -1243,101 +1243,6 @@
           "ranking_probability": 76.0,
           "learning_boost": 0.0,
           "learned_score": 76.0
-        }
-      ]
-    },
-    {
-      "pillar": "nj state of emergency what does it mean",
-      "cluster": [
-        {
-          "keyword": "nj state of emergency what does it mean",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 10.0,
-          "ranking_probability": 76.0,
-          "learning_boost": 0.0,
-          "learned_score": 76.0
-        },
-        {
-          "keyword": "nj state of emergency today update live",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "nj state of emergency end time",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "nj state of emergency thanksgiving",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "nj state of emergency today",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "nj state of emergency counties",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "nj state of emergency monday",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "nj state of emergency rules",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "nj state of emergency update",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "nj state of emergency",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
         }
       ]
     },
@@ -1363,16 +1268,16 @@
           "learned_score": 75.4
         },
         {
-          "keyword": "psg vs roma prediction",
+          "keyword": "psg vs as roma matches",
           "intent": "informational",
-          "demand": 76.0,
-          "competition": 50.0,
-          "ranking_probability": 68.2,
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
           "learning_boost": 0.0,
-          "learned_score": 68.2
+          "learned_score": 75.4
         },
         {
-          "keyword": "psg vs real madrid",
+          "keyword": "psg vs roma prediction",
           "intent": "informational",
           "demand": 76.0,
           "competition": 50.0,
@@ -1447,6 +1352,101 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
+        }
+      ]
+    },
+    {
+      "pillar": "nj state of emergency today update live",
+      "cluster": [
+        {
+          "keyword": "nj state of emergency today update live",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "nj state of emergency end time",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "nj state of emergency today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency thanksgiving",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency tomorrow",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency counties",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency monday",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency rules",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency update",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "nj state of emergency",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
         }
       ]
     },
@@ -1655,10 +1655,10 @@
       ]
     },
     {
-      "pillar": "lsu basketball rj luis",
+      "pillar": "lsu basketball game today",
       "cluster": [
         {
-          "keyword": "lsu basketball rj luis",
+          "keyword": "lsu basketball game today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1667,7 +1667,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "lsu basketball game today",
+          "keyword": "lsu basketball rj luis",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1721,7 +1721,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lsu basketball prediction",
+          "keyword": "lsu basketball women",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1730,7 +1730,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "lsu basketball women",
+          "keyword": "lsu basketball prediction",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1762,7 +1762,16 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "todd boehly chelsea",
+          "keyword": "todd boehly mark walter",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "todd boehly trump",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1772,6 +1781,15 @@
         },
         {
           "keyword": "todd boehly lukoil",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "todd boehly chelsea",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1798,25 +1816,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "todd boehly trump",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "todd boehly eldridge",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "todd boehly guggenheim",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1921,6 +1921,15 @@
           "learned_score": 45.4
         },
         {
+          "keyword": "fotmob app",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
           "keyword": "fotmob barcelona",
           "intent": "informational",
           "demand": 52.0,
@@ -1940,15 +1949,6 @@
         },
         {
           "keyword": "fotmob predict",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "fotmob soccer",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
