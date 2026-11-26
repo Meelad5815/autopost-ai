@@ -28,7 +28,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "india a vs sri lanka a today match time",
+      "keyword": "india a vs sri lanka a live score",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -37,7 +37,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "india a vs sri lanka a score today match scorecard",
+      "keyword": "india a vs sri lanka asia cup 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -46,7 +46,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "india a vs sri lanka a upcoming match 2026",
+      "keyword": "india a vs sri lanka a today match live streaming",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -64,7 +64,7 @@
       "learned_score": 81.4
     },
     {
-      "keyword": "india a vs sri lanka a cricket",
+      "keyword": "india a vs sri lanka a scorecard",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -73,7 +73,7 @@
       "learned_score": 81.4
     },
     {
-      "keyword": "india a vs sri lanka a test",
+      "keyword": "india a vs sri lanka a cricket",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -118,7 +118,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "home depot black friday ad 2026 usa",
+      "keyword": "home depot black friday ad 2026 pdf",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -128,15 +128,6 @@
     },
     {
       "keyword": "home depot black friday ad scan 2026",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 20.0,
-      "ranking_probability": 73.0,
-      "learning_boost": 0.0,
-      "learned_score": 73.0
-    },
-    {
-      "keyword": "home depot black friday ad 2026 pdf",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -199,6 +190,15 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "home depot black friday ad scan",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "home depot black friday ad leaked",
       "intent": "informational",
       "demand": 70.0,
@@ -208,7 +208,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad scan",
+      "keyword": "home depot black friday ad flyer",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -289,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 deals",
+      "keyword": "lowes black friday 2026 sale",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -335,6 +335,15 @@
     },
     {
       "keyword": "manuel neuer neue freundin",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "manuel neuer brazilian girlfriend",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,6 +496,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "modot road conditions today",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "manuel neuer wife",
       "intent": "informational",
       "demand": 58.0,
@@ -533,15 +551,6 @@
     },
     {
       "keyword": "manuel neuer gf",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "manuel neuer divorce",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -713,15 +722,6 @@
     },
     {
       "keyword": "modot road map",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "modot road closures",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -906,7 +906,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "india a vs sri lanka a today match time",
+          "keyword": "india a vs sri lanka a live score",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -915,7 +915,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "india a vs sri lanka a score today match scorecard",
+          "keyword": "india a vs sri lanka asia cup 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -924,7 +924,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "india a vs sri lanka a upcoming match 2026",
+          "keyword": "india a vs sri lanka a today match live streaming",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -942,7 +942,7 @@
           "learned_score": 81.4
         },
         {
-          "keyword": "india a vs sri lanka a cricket",
+          "keyword": "india a vs sri lanka a scorecard",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -951,7 +951,7 @@
           "learned_score": 81.4
         },
         {
-          "keyword": "india a vs sri lanka a test",
+          "keyword": "india a vs sri lanka a cricket",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -1011,7 +1011,7 @@
           "learned_score": 73.0
         },
         {
-          "keyword": "home depot black friday ad 2026 usa",
+          "keyword": "home depot black friday ad 2026 pdf",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1021,15 +1021,6 @@
         },
         {
           "keyword": "home depot black friday ad scan 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "home depot black friday ad 2026 pdf",
           "intent": "informational",
           "demand": 70.0,
           "competition": 20.0,
@@ -1056,6 +1047,15 @@
           "learned_score": 70.0
         },
         {
+          "keyword": "home depot black friday ad scan",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
           "keyword": "home depot black friday ad leaked",
           "intent": "informational",
           "demand": 70.0,
@@ -1065,7 +1065,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "home depot black friday ad scan",
+          "keyword": "home depot black friday ad flyer",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1201,7 +1201,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 deals",
+          "keyword": "lowes black friday 2026 sale",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1432,6 +1432,15 @@
           "learned_score": 59.8
         },
         {
+          "keyword": "manuel neuer brazilian girlfriend",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
           "keyword": "manuel neuer wife",
           "intent": "informational",
           "demand": 58.0,
@@ -1478,15 +1487,6 @@
         },
         {
           "keyword": "manuel neuer gf",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "manuel neuer divorce",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1624,6 +1624,101 @@
       ]
     },
     {
+      "pillar": "modot road conditions today",
+      "cluster": [
+        {
+          "keyword": "modot road conditions today",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "modot road conditions",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "modot traveler map",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "modot traffic cameras",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "modot cameras live",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "modot road map",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "modot cameras",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "modot map",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "modot roads",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
+        },
+        {
+          "keyword": "modot",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
       "pillar": "radar near me",
       "cluster": [
         {
@@ -1700,101 +1795,6 @@
         },
         {
           "keyword": "radar",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "modot road conditions",
-      "cluster": [
-        {
-          "keyword": "modot road conditions",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot traveler map",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot traffic cameras",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot cameras live",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot road map",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot road closures",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot cameras",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "modot map",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "modot roads",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "modot",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
