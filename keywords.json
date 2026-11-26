@@ -19,7 +19,16 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "india a vs sri lanka a today match live",
+      "keyword": "india a vs sri lanka a live streaming",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 10.0,
+      "ranking_probability": 84.4,
+      "learning_boost": 0.0,
+      "learned_score": 84.4
+    },
+    {
+      "keyword": "india a vs sri lanka a today match live streaming",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -37,7 +46,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "india a vs sri lanka asia cup 2026",
+      "keyword": "india a vs sri lanka a today match live",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -46,7 +55,7 @@
       "learned_score": 84.4
     },
     {
-      "keyword": "india a vs sri lanka a today match live streaming",
+      "keyword": "india a vs sri lanka asia cup 2026",
       "intent": "informational",
       "demand": 82.0,
       "competition": 10.0,
@@ -65,15 +74,6 @@
     },
     {
       "keyword": "india a vs sri lanka a scorecard",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "india a vs sri lanka a cricket",
       "intent": "informational",
       "demand": 82.0,
       "competition": 20.0,
@@ -154,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lowes black friday 2026 open time",
+      "keyword": "lowes black friday 2026 bucket giveaway",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -163,7 +163,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lowes black friday 2026 bucket giveaway",
+      "keyword": "lowes black friday 2026 r=h www.reddit.com",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,6 +190,24 @@
       "learned_score": 70.0
     },
     {
+      "keyword": "home depot black friday ad poinsettias",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "home depot black friday ad flyer",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
       "keyword": "home depot black friday ad scan",
       "intent": "informational",
       "demand": 70.0,
@@ -208,16 +226,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad flyer",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "home depot black friday ad 2025",
+      "keyword": "alabama power customer service phone number",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -496,6 +505,24 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "modot road conditions map",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "modot winter road conditions",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "modot road conditions today",
       "intent": "informational",
       "demand": 64.0,
@@ -532,15 +559,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer age",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "manuel neuer brazil",
       "intent": "informational",
       "demand": 58.0,
@@ -550,7 +568,25 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer gf",
+      "keyword": "manuel neuer age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "manuel neuer kids",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "radar san jose",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -560,15 +596,6 @@
     },
     {
       "keyword": "radar near me",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "radar st louis",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,15 +631,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit schedule",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "trump-xi summit photos",
       "intent": "informational",
       "demand": 58.0,
@@ -623,6 +641,15 @@
     },
     {
       "keyword": "trump-xi summit agenda",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "trump-xi summit schedule",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,15 +676,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power login",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "alabama power outage",
       "intent": "informational",
       "demand": 58.0,
@@ -667,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power company",
+      "keyword": "alabama power login",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power number",
+      "keyword": "alabama power company",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,24 +721,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "modot traffic cameras",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "modot cameras live",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "modot road map",
       "intent": "informational",
       "demand": 58.0,
@@ -739,16 +739,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar texas",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar california",
+      "keyword": "radar oakland",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -776,15 +767,6 @@
     },
     {
       "keyword": "radar online",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar love",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -856,6 +838,24 @@
       "learned_score": 38.2
     },
     {
+      "keyword": "radaris",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
+      "keyword": "radar24",
+      "intent": "informational",
+      "demand": 46.0,
+      "competition": 80.0,
+      "ranking_probability": 38.2,
+      "learning_boost": 0.0,
+      "learned_score": 38.2
+    },
+    {
       "keyword": "radarr",
       "intent": "informational",
       "demand": 46.0,
@@ -897,7 +897,16 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "india a vs sri lanka a today match live",
+          "keyword": "india a vs sri lanka a live streaming",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 10.0,
+          "ranking_probability": 84.4,
+          "learning_boost": 0.0,
+          "learned_score": 84.4
+        },
+        {
+          "keyword": "india a vs sri lanka a today match live streaming",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -915,7 +924,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "india a vs sri lanka asia cup 2026",
+          "keyword": "india a vs sri lanka a today match live",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -924,7 +933,7 @@
           "learned_score": 84.4
         },
         {
-          "keyword": "india a vs sri lanka a today match live streaming",
+          "keyword": "india a vs sri lanka asia cup 2026",
           "intent": "informational",
           "demand": 82.0,
           "competition": 10.0,
@@ -943,15 +952,6 @@
         },
         {
           "keyword": "india a vs sri lanka a scorecard",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "india a vs sri lanka a cricket",
           "intent": "informational",
           "demand": 82.0,
           "competition": 20.0,
@@ -1047,16 +1047,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "home depot black friday ad scan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad leaked",
+          "keyword": "home depot black friday ad poinsettias",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1074,7 +1065,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "home depot black friday ad 2025",
+          "keyword": "home depot black friday ad scan",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "home depot black friday ad leaked",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1126,10 +1126,10 @@
       ]
     },
     {
-      "pillar": "lowes black friday 2026 open time",
+      "pillar": "lowes black friday 2026 bucket giveaway",
       "cluster": [
         {
-          "keyword": "lowes black friday 2026 open time",
+          "keyword": "lowes black friday 2026 bucket giveaway",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1138,7 +1138,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "lowes black friday 2026 bucket giveaway",
+          "keyword": "lowes black friday 2026 r=h www.reddit.com",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1217,6 +1217,101 @@
           "ranking_probability": 59.8,
           "learning_boost": 0.0,
           "learned_score": 59.8
+        }
+      ]
+    },
+    {
+      "pillar": "alabama power customer service phone number",
+      "cluster": [
+        {
+          "keyword": "alabama power customer service phone number",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "alabama power pay my bill",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "alabama power customer service",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alabama power phone number",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alabama power bill pay",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alabama power outage map",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "alabama power outage",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alabama power login",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alabama power company",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "alabama power",
+          "intent": "informational",
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
+          "learning_boost": 0.0,
+          "learned_score": 45.4
         }
       ]
     },
@@ -1316,101 +1411,6 @@
       ]
     },
     {
-      "pillar": "alabama power pay my bill",
-      "cluster": [
-        {
-          "keyword": "alabama power pay my bill",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "alabama power customer service",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alabama power phone number",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alabama power bill pay",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alabama power outage map",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alabama power login",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alabama power outage",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alabama power company",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alabama power number",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "alabama power",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        }
-      ]
-    },
-    {
       "pillar": "manuel neuer new girlfriend",
       "cluster": [
         {
@@ -1468,15 +1468,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer age",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "manuel neuer brazil",
           "intent": "informational",
           "demand": 58.0,
@@ -1486,7 +1477,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer gf",
+          "keyword": "manuel neuer age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "manuel neuer kids",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,15 +1568,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit schedule",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "trump-xi summit photos",
           "intent": "informational",
           "demand": 58.0,
@@ -1587,6 +1578,15 @@
         },
         {
           "keyword": "trump-xi summit agenda",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "trump-xi summit schedule",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1624,8 +1624,26 @@
       ]
     },
     {
-      "pillar": "modot road conditions today",
+      "pillar": "modot road conditions map",
       "cluster": [
+        {
+          "keyword": "modot road conditions map",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "modot winter road conditions",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
         {
           "keyword": "modot road conditions today",
           "intent": "informational",
@@ -1646,24 +1664,6 @@
         },
         {
           "keyword": "modot traveler map",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot traffic cameras",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "modot cameras live",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1719,8 +1719,17 @@
       ]
     },
     {
-      "pillar": "radar near me",
+      "pillar": "radar san jose",
       "cluster": [
+        {
+          "keyword": "radar san jose",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
         {
           "keyword": "radar near me",
           "intent": "informational",
@@ -1731,25 +1740,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "radar st louis",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "radar texas",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar california",
+          "keyword": "radar oakland",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1785,16 +1776,35 @@
           "learned_score": 45.4
         },
         {
-          "keyword": "radar love",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
           "keyword": "radar",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "radaris",
+      "cluster": [
+        {
+          "keyword": "radaris",
+          "intent": "informational",
+          "demand": 46.0,
+          "competition": 80.0,
+          "ranking_probability": 38.2,
+          "learning_boost": 0.0,
+          "learned_score": 38.2
+        }
+      ]
+    },
+    {
+      "pillar": "radar24",
+      "cluster": [
+        {
+          "keyword": "radar24",
           "intent": "informational",
           "demand": 46.0,
           "competition": 80.0,
