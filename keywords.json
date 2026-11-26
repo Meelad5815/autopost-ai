@@ -1,88 +1,16 @@
 {
   "keywords": [
     {
-      "keyword": "india a vs sri lanka a today match",
+      "keyword": "gen z years range vs millennials",
       "intent": "informational",
       "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
+      "competition": 30.0,
+      "ranking_probability": 78.4,
       "learning_boost": 0.0,
-      "learned_score": 84.4
+      "learned_score": 78.4
     },
     {
-      "keyword": "india a vs sri lanka a score today match odi",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "india a vs sri lanka a today match live streaming",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "india a vs sri lanka a live score",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "india a vs sri lanka a today match live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "india a vs sri lanka a live streaming",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "india a vs sri lanka a asia cup rising stars",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 10.0,
-      "ranking_probability": 84.4,
-      "learning_boost": 0.0,
-      "learned_score": 84.4
-    },
-    {
-      "keyword": "india a vs sri lanka a live",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "india a vs sri lanka a scorecard",
-      "intent": "informational",
-      "demand": 82.0,
-      "competition": 20.0,
-      "ranking_probability": 81.4,
-      "learning_boost": 0.0,
-      "learned_score": 81.4
-    },
-    {
-      "keyword": "india a vs sri lanka a",
+      "keyword": "gen z years vs gen alpha",
       "intent": "informational",
       "demand": 82.0,
       "competition": 30.0,
@@ -100,6 +28,96 @@
       "learned_score": 76.0
     },
     {
+      "keyword": "when does doomsday come out in the uk",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does doomsday come out in the us",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out in theaters",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out on disney plus",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out in japan",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out on streaming",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out on disney",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out in mexico",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out in theatres",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 10.0,
+      "ranking_probability": 76.0,
+      "learning_boost": 0.0,
+      "learned_score": 76.0
+    },
+    {
+      "keyword": "iowa state basketball vs tennessee",
+      "intent": "informational",
+      "demand": 82.0,
+      "competition": 40.0,
+      "ranking_probability": 75.4,
+      "learning_boost": 0.0,
+      "learned_score": 75.4
+    },
+    {
       "keyword": "what is the price of website development",
       "intent": "informational",
       "demand": 70.0,
@@ -109,7 +127,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "home depot black friday ad 2026 doorbusters",
+      "keyword": "when does doomsday come out in theaters",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -118,7 +136,7 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "home depot black friday ad 2026 pdf",
+      "keyword": "when does doomsday come out in mexico",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -127,7 +145,25 @@
       "learned_score": 73.0
     },
     {
-      "keyword": "home depot black friday ad scan 2026",
+      "keyword": "when does doomsday come out in theatres",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out uk",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 20.0,
+      "ranking_probability": 73.0,
+      "learning_boost": 0.0,
+      "learned_score": 73.0
+    },
+    {
+      "keyword": "when does avengers doomsday come out tickets",
       "intent": "informational",
       "demand": 70.0,
       "competition": 20.0,
@@ -154,7 +190,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lowes black friday 2026 bucket giveaway",
+      "keyword": "ford le mans hypercar engine sound",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -163,7 +199,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "lowes black friday 2026 r=h www.reddit.com",
+      "keyword": "ford le mans hypercar silverstone testing",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -172,7 +208,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad 2026",
+      "keyword": "when does doomsday come out marvel",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -181,7 +217,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad doorbusters",
+      "keyword": "when does doomsday come out day",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -190,7 +226,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad poinsettias",
+      "keyword": "when does doomsday come out tickets",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -199,7 +235,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad flyer",
+      "keyword": "when does doomsday come out avengers",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -208,7 +244,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad scan",
+      "keyword": "gen z years and gen alpha",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -217,13 +253,22 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "home depot black friday ad leaked",
+      "keyword": "when does avengers doomsday come out",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
       "ranking_probability": 70.0,
       "learning_boost": 0.0,
       "learned_score": 70.0
+    },
+    {
+      "keyword": "sdsu basketball vs maryland",
+      "intent": "informational",
+      "demand": 76.0,
+      "competition": 50.0,
+      "ranking_probability": 68.2,
+      "learning_boost": 0.0,
+      "learned_score": 68.2
     },
     {
       "keyword": "wordpress website price in pakistan",
@@ -235,7 +280,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 ad",
+      "keyword": "ford le mans hypercar engine",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -244,7 +289,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 bucket",
+      "keyword": "ford le mans hypercar sound",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -253,7 +298,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 flyer",
+      "keyword": "ford le mans hypercar testing",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -262,7 +307,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 hours",
+      "keyword": "ford le mans hypercar 2027",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -271,7 +316,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 doorbusters",
+      "keyword": "ford le mans hypercar 2026",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -280,7 +325,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 giveaway",
+      "keyword": "ford le mans hypercar start",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -289,7 +334,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "lowes black friday 2026 deals",
+      "keyword": "ford le mans hypercar simulator",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -298,7 +343,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "عيد الشكر في امريكا ٢٠٢٦",
+      "keyword": "when does doomsday come out",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -307,7 +352,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "home depot black friday ad",
+      "keyword": "gen z years age range",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -316,7 +361,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "alabama power pay my bill",
+      "keyword": "gen z years of birth",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -325,7 +370,16 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "manuel neuer new girlfriend",
+      "keyword": "iowa state basketball game today",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
+      "keyword": "barry sanders rookie card",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -334,7 +388,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "manuel neuer neue freundin",
+      "keyword": "barry sanders net worth",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -343,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "manuel neuer brazilian girlfriend",
+      "keyword": "barry sanders college stats",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -352,7 +406,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "lowes black friday 2026",
+      "keyword": "ford le mans hypercar",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -361,7 +415,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر في امريكا",
+      "keyword": "gen z years born",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -370,7 +424,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر في الإسلام",
+      "keyword": "gen z years range",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -379,7 +433,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر في كندا",
+      "keyword": "gen z years characteristics",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -388,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر عند المسيحيين",
+      "keyword": "gen z years age",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر في العراق",
+      "keyword": "sdsu basketball south dakota",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -406,7 +460,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر في لبنان",
+      "keyword": "sdsu basketball schedule 2026",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -415,7 +469,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "عيد الشكر في مصر",
+      "keyword": "sdsu basketball game today",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -424,7 +478,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sophie cunningham maxim photos",
+      "keyword": "avengers doomsday release date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -433,7 +487,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "sophie cunningham maxim photoshoot",
+      "keyword": "avengers doomsday final trailer",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +496,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump-xi summit in washington",
+      "keyword": "doomsday tickets release date",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +505,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "trump-xi summit september 2026",
+      "keyword": "doomsday tickets near me",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -460,7 +514,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alabama power customer service",
+      "keyword": "doomsday tickets on sale",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -469,7 +523,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alabama power phone number",
+      "keyword": "iowa state basketball schedule",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -478,7 +532,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alabama power bill pay",
+      "keyword": "iowa state basketball roster",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -487,7 +541,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "alabama power outage map",
+      "keyword": "iowa state basketball coach",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -496,7 +550,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "modot road conditions map",
+      "keyword": "iowa state basketball tickets",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -505,7 +559,34 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "manuel neuer wife",
+      "keyword": "iowa state basketball prediction",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "iowa state basketball women",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "iowa state basketball recruiting",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
+      "keyword": "barry sanders stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -514,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer physiotherapist",
+      "keyword": "barry sanders highlights",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -523,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer girlfriend",
+      "keyword": "barry sanders height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -532,7 +613,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer age",
+      "keyword": "barry sanders jersey",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -541,7 +622,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer brazil",
+      "keyword": "barry sanders college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -550,7 +631,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer cheater",
+      "keyword": "barry sanders career",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -559,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "radar near me",
+      "keyword": "parker washington injury",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -568,7 +649,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "radar st louis",
+      "keyword": "parker washington stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -577,7 +658,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "عيد الشكر بالانجليزي",
+      "keyword": "parker washington questionable",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -586,7 +667,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit 2026",
+      "keyword": "parker washington catch",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -595,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit date",
+      "keyword": "parker washington fantasy",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit schedule",
+      "keyword": "parker washington college",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -613,7 +694,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit photos",
+      "keyword": "parker washington news",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -622,7 +703,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit agenda",
+      "keyword": "parker washington td",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -631,7 +712,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit live",
+      "keyword": "parker washington contract",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +721,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "trump-xi summit summary",
+      "keyword": "gen z years",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -649,7 +730,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power outage",
+      "keyword": "sdsu basketball roster",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -658,7 +739,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power login",
+      "keyword": "sdsu basketball tickets",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -667,7 +748,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power company",
+      "keyword": "sdsu basketball score",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,7 +757,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "alabama power number",
+      "keyword": "sdsu basketball games",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -685,7 +766,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "modot road conditions",
+      "keyword": "sdsu basketball coach",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -694,7 +775,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "modot traveler map",
+      "keyword": "avengers doomsday cast",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +784,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "modot traffic cameras",
+      "keyword": "avengers doomsday showtimes",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -712,7 +793,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "modot cameras live",
+      "keyword": "avengers doomsday trailer",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +802,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "modot road map",
+      "keyword": "avengers doomsday tickets",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -730,7 +811,97 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "manuel neuer",
+      "keyword": "avengers doomsday poster",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "avengers doomsday runtime",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "avengers doomsday budget",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "doomsday tickets amc",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "doomsday tickets imax",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "doomsday tickets price",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "doomsday tickets cinemark",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "doomsday tickets regal",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "doomsday tickets cinepolis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "iowa state basketball",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
+      "keyword": "barry sanders",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -739,7 +910,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar weather",
+      "keyword": "parker washington",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -748,7 +919,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar detector",
+      "keyword": "sdsu basketball",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -757,7 +928,7 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar online",
+      "keyword": "avengers doomsday",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -766,207 +937,108 @@
       "learned_score": 45.4
     },
     {
-      "keyword": "radar love",
+      "keyword": "doomsday tickets",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
       "ranking_probability": 45.4,
       "learning_boost": 0.0,
       "learned_score": 45.4
-    },
-    {
-      "keyword": "عيد الشكر",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "trump-xi summit",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "alabama power",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "modot cameras",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "modot map",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "modot roads",
-      "intent": "informational",
-      "demand": 52.0,
-      "competition": 70.0,
-      "ranking_probability": 45.4,
-      "learning_boost": 0.0,
-      "learned_score": 45.4
-    },
-    {
-      "keyword": "radar",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "radarr",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "radaris",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "radar24",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
-    },
-    {
-      "keyword": "modot",
-      "intent": "informational",
-      "demand": 46.0,
-      "competition": 80.0,
-      "ranking_probability": 38.2,
-      "learning_boost": 0.0,
-      "learned_score": 38.2
     }
   ],
   "clusters": [
     {
-      "pillar": "india a vs sri lanka a today match",
+      "pillar": "gen z years range vs millennials",
       "cluster": [
         {
-          "keyword": "india a vs sri lanka a today match",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a score today match odi",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a today match live streaming",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a live score",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a today match live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a live streaming",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a asia cup rising stars",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 10.0,
-          "ranking_probability": 84.4,
-          "learning_boost": 0.0,
-          "learned_score": 84.4
-        },
-        {
-          "keyword": "india a vs sri lanka a live",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "india a vs sri lanka a scorecard",
-          "intent": "informational",
-          "demand": 82.0,
-          "competition": 20.0,
-          "ranking_probability": 81.4,
-          "learning_boost": 0.0,
-          "learned_score": 81.4
-        },
-        {
-          "keyword": "india a vs sri lanka a",
+          "keyword": "gen z years range vs millennials",
           "intent": "informational",
           "demand": 82.0,
           "competition": 30.0,
           "ranking_probability": 78.4,
           "learning_boost": 0.0,
           "learned_score": 78.4
+        },
+        {
+          "keyword": "gen z years vs gen alpha",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 30.0,
+          "ranking_probability": 78.4,
+          "learning_boost": 0.0,
+          "learned_score": 78.4
+        },
+        {
+          "keyword": "gen z years and gen alpha",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "gen z years age range",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "gen z years of birth",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "gen z years born",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gen z years range",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gen z years characteristics",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gen z years age",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "gen z years",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
         }
       ]
     },
@@ -985,6 +1057,286 @@
       ]
     },
     {
+      "pillar": "when does doomsday come out in the uk",
+      "cluster": [
+        {
+          "keyword": "when does doomsday come out in the uk",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does doomsday come out in the us",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out in theaters",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out on disney plus",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out in japan",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out on streaming",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out on disney",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out in mexico",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out in theatres",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 10.0,
+          "ranking_probability": 76.0,
+          "learning_boost": 0.0,
+          "learned_score": 76.0
+        },
+        {
+          "keyword": "when does doomsday come out in theaters",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when does doomsday come out in mexico",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when does doomsday come out in theatres",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out uk",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out tickets",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 20.0,
+          "ranking_probability": 73.0,
+          "learning_boost": 0.0,
+          "learned_score": 73.0
+        },
+        {
+          "keyword": "when does doomsday come out marvel",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when does doomsday come out day",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when does doomsday come out tickets",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when does doomsday come out avengers",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when does avengers doomsday come out",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "when does doomsday come out",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        }
+      ]
+    },
+    {
+      "pillar": "iowa state basketball vs tennessee",
+      "cluster": [
+        {
+          "keyword": "iowa state basketball vs tennessee",
+          "intent": "informational",
+          "demand": 82.0,
+          "competition": 40.0,
+          "ranking_probability": 75.4,
+          "learning_boost": 0.0,
+          "learned_score": 75.4
+        },
+        {
+          "keyword": "iowa state basketball game today",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
+          "keyword": "iowa state basketball schedule",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball roster",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball coach",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball tickets",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball prediction",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball women",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball recruiting",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "iowa state basketball",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        }
+      ]
+    },
+    {
       "pillar": "what is the price of website development",
       "cluster": [
         {
@@ -995,101 +1347,6 @@
           "ranking_probability": 73.0,
           "learning_boost": 0.0,
           "learned_score": 73.0
-        }
-      ]
-    },
-    {
-      "pillar": "home depot black friday ad 2026 doorbusters",
-      "cluster": [
-        {
-          "keyword": "home depot black friday ad 2026 doorbusters",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "home depot black friday ad 2026 pdf",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "home depot black friday ad scan 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 20.0,
-          "ranking_probability": 73.0,
-          "learning_boost": 0.0,
-          "learned_score": 73.0
-        },
-        {
-          "keyword": "home depot black friday ad 2026",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad doorbusters",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad poinsettias",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad flyer",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad scan",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad leaked",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "home depot black friday ad",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
         }
       ]
     },
@@ -1126,10 +1383,10 @@
       ]
     },
     {
-      "pillar": "lowes black friday 2026 bucket giveaway",
+      "pillar": "ford le mans hypercar engine sound",
       "cluster": [
         {
-          "keyword": "lowes black friday 2026 bucket giveaway",
+          "keyword": "ford le mans hypercar engine sound",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1138,7 +1395,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "lowes black friday 2026 r=h www.reddit.com",
+          "keyword": "ford le mans hypercar silverstone testing",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1147,7 +1404,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "lowes black friday 2026 ad",
+          "keyword": "ford le mans hypercar engine",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1156,7 +1413,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 bucket",
+          "keyword": "ford le mans hypercar sound",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1165,7 +1422,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 flyer",
+          "keyword": "ford le mans hypercar testing",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1174,7 +1431,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 hours",
+          "keyword": "ford le mans hypercar 2027",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1183,7 +1440,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 doorbusters",
+          "keyword": "ford le mans hypercar 2026",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1192,7 +1449,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 giveaway",
+          "keyword": "ford le mans hypercar start",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1201,7 +1458,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026 deals",
+          "keyword": "ford le mans hypercar simulator",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1210,7 +1467,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "lowes black friday 2026",
+          "keyword": "ford le mans hypercar",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1221,19 +1478,19 @@
       ]
     },
     {
-      "pillar": "عيد الشكر في امريكا ٢٠٢٦",
+      "pillar": "sdsu basketball vs maryland",
       "cluster": [
         {
-          "keyword": "عيد الشكر في امريكا ٢٠٢٦",
+          "keyword": "sdsu basketball vs maryland",
           "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
+          "demand": 76.0,
+          "competition": 50.0,
+          "ranking_probability": 68.2,
           "learning_boost": 0.0,
-          "learned_score": 67.0
+          "learned_score": 68.2
         },
         {
-          "keyword": "عيد الشكر في امريكا",
+          "keyword": "sdsu basketball south dakota",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1242,7 +1499,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "عيد الشكر في الإسلام",
+          "keyword": "sdsu basketball schedule 2026",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1251,7 +1508,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "عيد الشكر في كندا",
+          "keyword": "sdsu basketball game today",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1260,43 +1517,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "عيد الشكر عند المسيحيين",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "عيد الشكر في العراق",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "عيد الشكر في لبنان",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "عيد الشكر في مصر",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "عيد الشكر بالانجليزي",
+          "keyword": "sdsu basketball roster",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1305,7 +1526,43 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "عيد الشكر",
+          "keyword": "sdsu basketball tickets",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sdsu basketball score",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sdsu basketball games",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sdsu basketball coach",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "sdsu basketball",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1316,19 +1573,10 @@
       ]
     },
     {
-      "pillar": "alabama power pay my bill",
+      "pillar": "barry sanders rookie card",
       "cluster": [
         {
-          "keyword": "alabama power pay my bill",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 40.0,
-          "ranking_probability": 67.0,
-          "learning_boost": 0.0,
-          "learned_score": 67.0
-        },
-        {
-          "keyword": "alabama power customer service",
+          "keyword": "barry sanders rookie card",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1337,7 +1585,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alabama power phone number",
+          "keyword": "barry sanders net worth",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1346,7 +1594,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alabama power bill pay",
+          "keyword": "barry sanders college stats",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1355,16 +1603,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "alabama power outage map",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "alabama power outage",
+          "keyword": "barry sanders stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1373,7 +1612,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alabama power login",
+          "keyword": "barry sanders highlights",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1382,7 +1621,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alabama power company",
+          "keyword": "barry sanders height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1391,7 +1630,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alabama power number",
+          "keyword": "barry sanders jersey",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1400,7 +1639,25 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "alabama power",
+          "keyword": "barry sanders college",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barry sanders career",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "barry sanders",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1411,10 +1668,10 @@
       ]
     },
     {
-      "pillar": "manuel neuer new girlfriend",
+      "pillar": "avengers doomsday release date",
       "cluster": [
         {
-          "keyword": "manuel neuer new girlfriend",
+          "keyword": "avengers doomsday release date",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1423,7 +1680,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "manuel neuer neue freundin",
+          "keyword": "avengers doomsday final trailer",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1432,16 +1689,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "manuel neuer brazilian girlfriend",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "manuel neuer wife",
+          "keyword": "avengers doomsday cast",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1450,7 +1698,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer physiotherapist",
+          "keyword": "avengers doomsday showtimes",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1459,7 +1707,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer girlfriend",
+          "keyword": "avengers doomsday trailer",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1468,7 +1716,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer age",
+          "keyword": "avengers doomsday tickets",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1477,7 +1725,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer brazil",
+          "keyword": "avengers doomsday poster",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1486,7 +1734,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer cheater",
+          "keyword": "avengers doomsday runtime",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1495,7 +1743,16 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "manuel neuer",
+          "keyword": "avengers doomsday budget",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "avengers doomsday",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1506,10 +1763,10 @@
       ]
     },
     {
-      "pillar": "sophie cunningham maxim photos",
+      "pillar": "doomsday tickets release date",
       "cluster": [
         {
-          "keyword": "sophie cunningham maxim photos",
+          "keyword": "doomsday tickets release date",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1518,21 +1775,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "sophie cunningham maxim photoshoot",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        }
-      ]
-    },
-    {
-      "pillar": "trump-xi summit in washington",
-      "cluster": [
-        {
-          "keyword": "trump-xi summit in washington",
+          "keyword": "doomsday tickets near me",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1541,7 +1784,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "trump-xi summit september 2026",
+          "keyword": "doomsday tickets on sale",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1550,7 +1793,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "trump-xi summit 2026",
+          "keyword": "doomsday tickets amc",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1559,7 +1802,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit date",
+          "keyword": "doomsday tickets imax",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1568,7 +1811,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit schedule",
+          "keyword": "doomsday tickets price",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1577,7 +1820,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit photos",
+          "keyword": "doomsday tickets cinemark",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1586,7 +1829,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit agenda",
+          "keyword": "doomsday tickets regal",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1595,7 +1838,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit live",
+          "keyword": "doomsday tickets cinepolis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1604,16 +1847,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "trump-xi summit summary",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "trump-xi summit",
+          "keyword": "doomsday tickets",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
@@ -1624,19 +1858,10 @@
       ]
     },
     {
-      "pillar": "modot road conditions map",
+      "pillar": "parker washington injury",
       "cluster": [
         {
-          "keyword": "modot road conditions map",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
-          "keyword": "modot road conditions",
+          "keyword": "parker washington injury",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1645,7 +1870,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "modot traveler map",
+          "keyword": "parker washington stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1654,7 +1879,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "modot traffic cameras",
+          "keyword": "parker washington questionable",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1663,7 +1888,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "modot cameras live",
+          "keyword": "parker washington catch",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1672,7 +1897,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "modot road map",
+          "keyword": "parker washington fantasy",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1681,48 +1906,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "modot cameras",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "modot map",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "modot roads",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "modot",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radar near me",
-      "cluster": [
-        {
-          "keyword": "radar near me",
+          "keyword": "parker washington college",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1731,7 +1915,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "radar st louis",
+          "keyword": "parker washington news",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1740,91 +1924,31 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "radar weather",
+          "keyword": "parker washington td",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "parker washington contract",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "parker washington",
           "intent": "informational",
           "demand": 52.0,
           "competition": 70.0,
           "ranking_probability": 45.4,
           "learning_boost": 0.0,
           "learned_score": 45.4
-        },
-        {
-          "keyword": "radar detector",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar online",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar love",
-          "intent": "informational",
-          "demand": 52.0,
-          "competition": 70.0,
-          "ranking_probability": 45.4,
-          "learning_boost": 0.0,
-          "learned_score": 45.4
-        },
-        {
-          "keyword": "radar",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radarr",
-      "cluster": [
-        {
-          "keyword": "radarr",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radaris",
-      "cluster": [
-        {
-          "keyword": "radaris",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
-        }
-      ]
-    },
-    {
-      "pillar": "radar24",
-      "cluster": [
-        {
-          "keyword": "radar24",
-          "intent": "informational",
-          "demand": 46.0,
-          "competition": 80.0,
-          "ranking_probability": 38.2,
-          "learning_boost": 0.0,
-          "learned_score": 38.2
         }
       ]
     }
