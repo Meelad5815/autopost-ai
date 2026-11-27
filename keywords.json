@@ -145,15 +145,6 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "macbook neo black friday deals costco",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
       "keyword": "macbook neo black friday deals 2026",
       "intent": "informational",
       "demand": 70.0,
@@ -163,7 +154,7 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "macbook neo black friday deals amazon",
+      "keyword": "macbook neo black friday deals target",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -172,7 +163,16 @@
       "learned_score": 70.0
     },
     {
-      "keyword": "macbook neo black friday deals target",
+      "keyword": "macbook neo black friday deals apple",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 30.0,
+      "ranking_probability": 70.0,
+      "learning_boost": 0.0,
+      "learned_score": 70.0
+    },
+    {
+      "keyword": "macbook neo black friday deals costco",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -227,15 +227,6 @@
     },
     {
       "keyword": "apple stock price history without split",
-      "intent": "informational",
-      "demand": 70.0,
-      "competition": 30.0,
-      "ranking_probability": 70.0,
-      "learning_boost": 0.0,
-      "learned_score": 70.0
-    },
-    {
-      "keyword": "apple stock price today per share",
       "intent": "informational",
       "demand": 70.0,
       "competition": 30.0,
@@ -361,7 +352,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "apple tv 4k 4th generation",
+      "keyword": "apple tv 4k 3rd generation",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -370,7 +361,7 @@
       "learned_score": 67.0
     },
     {
-      "keyword": "apple tv 4k 3rd generation",
+      "keyword": "apple tv 4k 4th generation",
       "intent": "informational",
       "demand": 70.0,
       "competition": 40.0,
@@ -559,6 +550,15 @@
       "learned_score": 59.8
     },
     {
+      "keyword": "apple stock price now",
+      "intent": "informational",
+      "demand": 64.0,
+      "competition": 50.0,
+      "ranking_probability": 59.8,
+      "learning_boost": 0.0,
+      "learned_score": 59.8
+    },
+    {
       "keyword": "apple stock price prediction",
       "intent": "informational",
       "demand": 64.0,
@@ -595,7 +595,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erling haaland height",
+      "keyword": "erling haaland stats",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -604,7 +604,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erling haaland stats",
+      "keyword": "erling haaland height",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -640,7 +640,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "erling haaland transfer",
+      "keyword": "erling haaland raccoon",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -766,6 +766,15 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "courtney cronin age",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "courtney cronin kids",
       "intent": "informational",
       "demand": 58.0,
@@ -776,15 +785,6 @@
     },
     {
       "keyword": "courtney cronin photos",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "courtney cronin age",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -993,16 +993,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "apple stock price today per share",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
-        {
-          "keyword": "apple tv 4k 4th generation",
+          "keyword": "apple tv 4k 3rd generation",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1011,7 +1002,7 @@
           "learned_score": 67.0
         },
         {
-          "keyword": "apple tv 4k 3rd generation",
+          "keyword": "apple tv 4k 4th generation",
           "intent": "informational",
           "demand": 70.0,
           "competition": 40.0,
@@ -1111,6 +1102,15 @@
         },
         {
           "keyword": "apple stock price chart",
+          "intent": "informational",
+          "demand": 64.0,
+          "competition": 50.0,
+          "ranking_probability": 59.8,
+          "learning_boost": 0.0,
+          "learned_score": 59.8
+        },
+        {
+          "keyword": "apple stock price now",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1289,17 +1289,8 @@
       ]
     },
     {
-      "pillar": "macbook neo black friday deals costco",
+      "pillar": "macbook neo black friday deals 2026",
       "cluster": [
-        {
-          "keyword": "macbook neo black friday deals costco",
-          "intent": "informational",
-          "demand": 70.0,
-          "competition": 30.0,
-          "ranking_probability": 70.0,
-          "learning_boost": 0.0,
-          "learned_score": 70.0
-        },
         {
           "keyword": "macbook neo black friday deals 2026",
           "intent": "informational",
@@ -1310,7 +1301,7 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "macbook neo black friday deals amazon",
+          "keyword": "macbook neo black friday deals target",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1319,7 +1310,16 @@
           "learned_score": 70.0
         },
         {
-          "keyword": "macbook neo black friday deals target",
+          "keyword": "macbook neo black friday deals apple",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 30.0,
+          "ranking_probability": 70.0,
+          "learning_boost": 0.0,
+          "learned_score": 70.0
+        },
+        {
+          "keyword": "macbook neo black friday deals costco",
           "intent": "informational",
           "demand": 70.0,
           "competition": 30.0,
@@ -1537,7 +1537,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "erling haaland height",
+          "keyword": "erling haaland stats",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1546,7 +1546,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "erling haaland stats",
+          "keyword": "erling haaland height",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1582,7 +1582,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "erling haaland transfer",
+          "keyword": "erling haaland raccoon",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1682,6 +1682,15 @@
           "learned_score": 52.6
         },
         {
+          "keyword": "courtney cronin age",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
           "keyword": "courtney cronin kids",
           "intent": "informational",
           "demand": 58.0,
@@ -1692,15 +1701,6 @@
         },
         {
           "keyword": "courtney cronin photos",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
-          "keyword": "courtney cronin age",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
