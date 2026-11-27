@@ -3598,3 +3598,19 @@
 2026-11-27T14:48:57.140060 | Update-only attempt=2
 2026-11-27T14:49:02.074026 | Update-only attempt=3
 2026-11-27T14:49:07.395260 | update_result ok=False
+2026-11-27T17:11:40.347175 | Run post attempt=1 language=en topic=AI tools that can run locally without paid APIs
+2026-11-27T17:11:46.906596 | Run post attempt=2 language=en topic=AI tools that can run locally without paid APIs
+2026-11-27T17:11:50.861488 | Run post attempt=3 language=en topic=AI tools that can run locally without paid APIs
+2026-11-27T17:11:54.507385 | post_result ok=False language=en topic=AI tools that can run locally without paid APIs
+2026-11-27T17:11:54.508879 | Run post attempt=1 language=ur topic=Website SEO and Google-friendly content practices
+2026-11-27T17:11:58.223131 | Run post attempt=2 language=ur topic=Website SEO and Google-friendly content practices
+2026-11-27T17:12:01.862542 | Run post attempt=3 language=ur topic=Website SEO and Google-friendly content practices
+2026-11-27T17:12:05.957493 | post_result ok=False language=ur topic=Website SEO and Google-friendly content practices
+2026-11-27T17:12:05.959006 | Run post attempt=1 language=roman topic=Computer services and online business solutions in Pakistan
+2026-11-27T17:12:09.801504 | Run post attempt=2 language=roman topic=Computer services and online business solutions in Pakistan
+2026-11-27T17:12:13.525412 | Run post attempt=3 language=roman topic=Computer services and online business solutions in Pakistan
+2026-11-27T17:12:17.289398 | post_result ok=False language=roman topic=Computer services and online business solutions in Pakistan
+2026-11-27T17:12:17.290728 | Update-only attempt=1
+2026-11-27T17:12:20.981121 | Update-only attempt=2
+2026-11-27T17:12:24.841458 | Update-only attempt=3
+2026-11-27T17:12:28.485726 | update_result ok=False
