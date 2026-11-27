@@ -3582,3 +3582,19 @@
 2026-11-26T22:01:34.996682 | Update-only attempt=2
 2026-11-26T22:01:38.839125 | Update-only attempt=3
 2026-11-26T22:01:42.615404 | update_result ok=False
+2026-11-27T14:48:02.620457 | Run post attempt=1 language=en topic=Freelancing and online client acquisition in Pakistan
+2026-11-27T14:48:11.444655 | Run post attempt=2 language=en topic=Freelancing and online client acquisition in Pakistan
+2026-11-27T14:48:16.566617 | Run post attempt=3 language=en topic=Freelancing and online client acquisition in Pakistan
+2026-11-27T14:48:21.804144 | post_result ok=False language=en topic=Freelancing and online client acquisition in Pakistan
+2026-11-27T14:48:21.805610 | Run post attempt=1 language=ur topic=PLC and Arduino automation projects for small businesses
+2026-11-27T14:48:26.927992 | Run post attempt=2 language=ur topic=PLC and Arduino automation projects for small businesses
+2026-11-27T14:48:32.269459 | Run post attempt=3 language=ur topic=PLC and Arduino automation projects for small businesses
+2026-11-27T14:48:37.242909 | post_result ok=False language=ur topic=PLC and Arduino automation projects for small businesses
+2026-11-27T14:48:37.244478 | Run post attempt=1 language=roman topic=Mobile and laptop software troubleshooting
+2026-11-27T14:48:42.168967 | Run post attempt=2 language=roman topic=Mobile and laptop software troubleshooting
+2026-11-27T14:48:47.267006 | Run post attempt=3 language=roman topic=Mobile and laptop software troubleshooting
+2026-11-27T14:48:52.247819 | post_result ok=False language=roman topic=Mobile and laptop software troubleshooting
+2026-11-27T14:48:52.249124 | Update-only attempt=1
+2026-11-27T14:48:57.140060 | Update-only attempt=2
+2026-11-27T14:49:02.074026 | Update-only attempt=3
+2026-11-27T14:49:07.395260 | update_result ok=False
