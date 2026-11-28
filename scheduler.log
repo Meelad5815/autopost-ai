@@ -3662,3 +3662,19 @@
 2026-11-27T21:45:15.726510 | Update-only attempt=2
 2026-11-27T21:45:19.698622 | Update-only attempt=3
 2026-11-27T21:45:23.526522 | update_result ok=False
+2026-11-28T13:57:54.667861 | Run post attempt=1 language=en topic=Shopify store development and practical setup
+2026-11-28T13:58:01.286218 | Run post attempt=2 language=en topic=Shopify store development and practical setup
+2026-11-28T13:58:04.992557 | Run post attempt=3 language=en topic=Shopify store development and practical setup
+2026-11-28T13:58:08.880103 | post_result ok=False language=en topic=Shopify store development and practical setup
+2026-11-28T13:58:08.881508 | Run post attempt=1 language=ur topic=Freelancing and online client acquisition in Pakistan
+2026-11-28T13:58:12.552299 | Run post attempt=2 language=ur topic=Freelancing and online client acquisition in Pakistan
+2026-11-28T13:58:16.168164 | Run post attempt=3 language=ur topic=Freelancing and online client acquisition in Pakistan
+2026-11-28T13:58:19.932746 | post_result ok=False language=ur topic=Freelancing and online client acquisition in Pakistan
+2026-11-28T13:58:19.934170 | Run post attempt=1 language=roman topic=PLC and Arduino automation projects for small businesses
+2026-11-28T13:58:23.489981 | Run post attempt=2 language=roman topic=PLC and Arduino automation projects for small businesses
+2026-11-28T13:58:27.086379 | Run post attempt=3 language=roman topic=PLC and Arduino automation projects for small businesses
+2026-11-28T13:58:30.745684 | post_result ok=False language=roman topic=PLC and Arduino automation projects for small businesses
+2026-11-28T13:58:30.749475 | Update-only attempt=1
+2026-11-28T13:58:34.348775 | Update-only attempt=2
+2026-11-28T13:58:37.988560 | Update-only attempt=3
+2026-11-28T13:58:41.622369 | update_result ok=False
