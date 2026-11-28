@@ -307,6 +307,15 @@
       "learned_score": 67.0
     },
     {
+      "keyword": "college football playoff schedule 2026",
+      "intent": "informational",
+      "demand": 70.0,
+      "competition": 40.0,
+      "ranking_probability": 67.0,
+      "learning_boost": 0.0,
+      "learned_score": 67.0
+    },
+    {
       "keyword": "jerry jones brian schottenheimer cowboys",
       "intent": "informational",
       "demand": 70.0,
@@ -361,15 +370,6 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college football playoff picture",
-      "intent": "informational",
-      "demand": 64.0,
-      "competition": 50.0,
-      "ranking_probability": 59.8,
-      "learning_boost": 0.0,
-      "learned_score": 59.8
-    },
-    {
       "keyword": "college football playoffs 2026",
       "intent": "informational",
       "demand": 64.0,
@@ -379,7 +379,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college football playoff predictor",
+      "keyword": "college football playoff picture",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -397,7 +397,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "college football playoff projections",
+      "keyword": "college football playoff standings",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -442,7 +442,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mega millions drawing tonight",
+      "keyword": "mega millions jackpot analysis",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -451,7 +451,7 @@
       "learned_score": 59.8
     },
     {
-      "keyword": "mega millions jackpot analysis",
+      "keyword": "mega millions drawing tonight",
       "intent": "informational",
       "demand": 64.0,
       "competition": 50.0,
@@ -542,15 +542,6 @@
     },
     {
       "keyword": "usaid data dump",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
-      "keyword": "usaid budget 2024",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -676,15 +667,6 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mega millions drawing",
-      "intent": "informational",
-      "demand": 58.0,
-      "competition": 60.0,
-      "ranking_probability": 52.6,
-      "learning_boost": 0.0,
-      "learned_score": 52.6
-    },
-    {
       "keyword": "mega millions jackpot",
       "intent": "informational",
       "demand": 58.0,
@@ -694,7 +676,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mega millions iowa",
+      "keyword": "mega millions drawing",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -703,7 +685,7 @@
       "learned_score": 52.6
     },
     {
-      "keyword": "mega millions calculator",
+      "keyword": "mega millions illinois",
       "intent": "informational",
       "demand": 58.0,
       "competition": 60.0,
@@ -721,7 +703,25 @@
       "learned_score": 52.6
     },
     {
+      "keyword": "mega millions analysis",
+      "intent": "informational",
+      "demand": 58.0,
+      "competition": 60.0,
+      "ranking_probability": 52.6,
+      "learning_boost": 0.0,
+      "learned_score": 52.6
+    },
+    {
       "keyword": "ai encryption",
+      "intent": "informational",
+      "demand": 52.0,
+      "competition": 70.0,
+      "ranking_probability": 45.4,
+      "learning_boost": 0.0,
+      "learned_score": 45.4
+    },
+    {
+      "keyword": "usaid files",
       "intent": "informational",
       "demand": 52.0,
       "competition": 70.0,
@@ -1230,6 +1230,15 @@
           "learned_score": 67.0
         },
         {
+          "keyword": "college football playoff schedule 2026",
+          "intent": "informational",
+          "demand": 70.0,
+          "competition": 40.0,
+          "ranking_probability": 67.0,
+          "learning_boost": 0.0,
+          "learned_score": 67.0
+        },
+        {
           "keyword": "college football playoff rankings",
           "intent": "informational",
           "demand": 64.0,
@@ -1257,15 +1266,6 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college football playoff picture",
-          "intent": "informational",
-          "demand": 64.0,
-          "competition": 50.0,
-          "ranking_probability": 59.8,
-          "learning_boost": 0.0,
-          "learned_score": 59.8
-        },
-        {
           "keyword": "college football playoffs 2026",
           "intent": "informational",
           "demand": 64.0,
@@ -1275,7 +1275,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college football playoff predictor",
+          "keyword": "college football playoff picture",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1293,7 +1293,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "college football playoff projections",
+          "keyword": "college football playoff standings",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1443,13 +1443,13 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "usaid budget 2024",
+          "keyword": "usaid files",
           "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
+          "demand": 52.0,
+          "competition": 70.0,
+          "ranking_probability": 45.4,
           "learning_boost": 0.0,
-          "learned_score": 52.6
+          "learned_score": 45.4
         },
         {
           "keyword": "usaid website",
@@ -1624,7 +1624,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "mega millions drawing tonight",
+          "keyword": "mega millions jackpot analysis",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1633,7 +1633,7 @@
           "learned_score": 59.8
         },
         {
-          "keyword": "mega millions jackpot analysis",
+          "keyword": "mega millions drawing tonight",
           "intent": "informational",
           "demand": 64.0,
           "competition": 50.0,
@@ -1651,15 +1651,6 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mega millions drawing",
-          "intent": "informational",
-          "demand": 58.0,
-          "competition": 60.0,
-          "ranking_probability": 52.6,
-          "learning_boost": 0.0,
-          "learned_score": 52.6
-        },
-        {
           "keyword": "mega millions jackpot",
           "intent": "informational",
           "demand": 58.0,
@@ -1669,7 +1660,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mega millions iowa",
+          "keyword": "mega millions drawing",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1678,7 +1669,7 @@
           "learned_score": 52.6
         },
         {
-          "keyword": "mega millions calculator",
+          "keyword": "mega millions illinois",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
@@ -1688,6 +1679,15 @@
         },
         {
           "keyword": "mega millions payout",
+          "intent": "informational",
+          "demand": 58.0,
+          "competition": 60.0,
+          "ranking_probability": 52.6,
+          "learning_boost": 0.0,
+          "learned_score": 52.6
+        },
+        {
+          "keyword": "mega millions analysis",
           "intent": "informational",
           "demand": 58.0,
           "competition": 60.0,
